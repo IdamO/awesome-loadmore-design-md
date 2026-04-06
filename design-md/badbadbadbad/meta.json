@@ -1,0 +1,970 @@
+{
+  "slug": "badbadbadbad",
+  "title": "Badbadbadbad",
+  "liveUrl": "https://badbadbadbad.com/",
+  "domain": "badbadbadbad.com",
+  "loadmoreUrl": "https://loadmo.re/posts/badbadbadbad",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/badbadbadbad",
+  "description": "Bráulio Amado's website starts with a big",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/badbadbadbad/7a26080611-1606938918/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/badbadbadbad/5dd14509a5-1604597442/badbadbadbad-v03.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:03:14.936Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Bráulio Amado",
+        "url": "https://badbadbadbad.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "14.5px",
+          "lineHeight": "23.925px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bráulio Amado (B.A.D. Studio) is a Portuguese graphic designer and illustrator currently living in NYC.\n\nE-mail: amadobr",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk Variable\"",
+          "fontSize": "45.1584px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.677376px",
+          "lineHeight": "49.6742px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "html {\n\t--mobile-scale: 1;\n\t--mobile-padding-offset: 0.75;\n}\n\nbody {\n\t--swatch-1: rgba(0, 0, 0, 0.85);\n\t--swatch-2: rgba",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "14.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.925px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Stolen Books",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk Variable\"",
+          "fontSize": "45.1584px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.677376px",
+          "lineHeight": "49.6742px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "italic",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "html {\n\t--mobile-scale: 1;\n\t--mobile-padding-offset: 0.75;\n}\n\nbody {\n\t--swatch-1: rgba(0, 0, 0, 0.85);\n\t--swatch-2: rgba",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.925px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Bráulio Amado (B.A.D. Studio) is a Portuguese graphic designer and illustrator currently living in NYC.\n\nE-mail: amadobr",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk Variable\"",
+            "fontSize": "45.1584px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.677376px",
+            "lineHeight": "49.6742px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Stolen Books",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk Variable\"",
+            "fontSize": "45.1584px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.677376px",
+            "lineHeight": "49.6742px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "HERE",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, \"Courier New\", monospace, Courier",
+            "fontSize": "22.5792px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27.095px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 18236
+          },
+          {
+            "hex": "#55575e",
+            "count": 3720
+          },
+          {
+            "hex": "#0a0a0c",
+            "count": 2462
+          },
+          {
+            "hex": "#9e9e9d",
+            "count": 836
+          },
+          {
+            "hex": "#314b5b",
+            "count": 119
+          },
+          {
+            "hex": "#333943",
+            "count": 94
+          },
+          {
+            "hex": "#4a3b48",
+            "count": 86
+          },
+          {
+            "hex": "#707a83",
+            "count": 47
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 18236
+          },
+          {
+            "hex": "#55575e",
+            "count": 3720
+          },
+          {
+            "hex": "#0a0a0c",
+            "count": 2462
+          },
+          {
+            "hex": "#9e9e9d",
+            "count": 836
+          },
+          {
+            "hex": "#314b5b",
+            "count": 119
+          },
+          {
+            "hex": "#333943",
+            "count": 94
+          },
+          {
+            "hex": "#4a3b48",
+            "count": 86
+          },
+          {
+            "hex": "#707a83",
+            "count": 47
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Bráulio Amado",
+        "url": "https://badbadbadbad.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bráulio Amado (B.A.D. Studio) is a Portuguese graphic designer and illustrator currently living in NYC.\n\nE-mail: amadobr",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk Variable\"",
+          "fontSize": "24.4594px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.366891px",
+          "lineHeight": "26.9054px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "html {\n\t--mobile-scale: 1;\n\t--mobile-padding-offset: 0.75;\n}\n\nbody {\n\t--swatch-1: rgba(0, 0, 0, 0.85);\n\t--swatch-2: rgba",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Stolen Books",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk Variable\"",
+          "fontSize": "24.4594px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.366891px",
+          "lineHeight": "26.9054px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "normal",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Monument Grotesk Mono Variable",
+            "style": "italic",
+            "weight": "200 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "html {\n\t--mobile-scale: 1;\n\t--mobile-padding-offset: 0.75;\n}\n\nbody {\n\t--swatch-1: rgba(0, 0, 0, 0.85);\n\t--swatch-2: rgba",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Bráulio Amado (B.A.D. Studio) is a Portuguese graphic designer and illustrator currently living in NYC.\n\nE-mail: amadobr",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk Variable\"",
+            "fontSize": "24.4594px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.366891px",
+            "lineHeight": "26.9054px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Stolen Books",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk Variable\"",
+            "fontSize": "24.4594px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.366891px",
+            "lineHeight": "26.9054px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "HERE",
+            "color": "rgba(0, 0, 0, 0.85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, \"Courier New\", monospace, Courier",
+            "fontSize": "20.1073px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.1288px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fafafa",
+            "count": 13495
+          },
+          {
+            "hex": "#0a0c0c",
+            "count": 5915
+          },
+          {
+            "hex": "#54575f",
+            "count": 3858
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 1777
+          },
+          {
+            "hex": "#2f4b63",
+            "count": 226
+          },
+          {
+            "hex": "#313946",
+            "count": 162
+          },
+          {
+            "hex": "#483c48",
+            "count": 98
+          },
+          {
+            "hex": "#6c7684",
+            "count": 69
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fafafa",
+            "count": 13495
+          },
+          {
+            "hex": "#0a0c0c",
+            "count": 5915
+          },
+          {
+            "hex": "#54575f",
+            "count": 3858
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 1777
+          },
+          {
+            "hex": "#2f4b63",
+            "count": 226
+          },
+          {
+            "hex": "#313946",
+            "count": 162
+          },
+          {
+            "hex": "#483c48",
+            "count": 98
+          },
+          {
+            "hex": "#6c7684",
+            "count": 69
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

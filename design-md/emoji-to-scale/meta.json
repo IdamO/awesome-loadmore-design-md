@@ -1,0 +1,611 @@
+{
+  "slug": "emoji-to-scale",
+  "title": "Emoji To Scale",
+  "liveUrl": "https://javier.xyz/emoji-to-scale/",
+  "domain": "javier.xyz",
+  "loadmoreUrl": "https://loadmo.re/posts/emoji-to-scale",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/emoji-to-scale",
+  "description": "A guy just decided he would create a website to classify emojis based on the actual scale of represented objects.",
+  "credits": "Javier Bórquez",
+  "added": "",
+  "tags": [
+    "playful",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/emoji-to-scale/7df3dd2a4a-1644582053/0299-emoji-to-scale-post-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/emoji-to-scale/a2c3e48b03-1644582048/0299-emoji-to-scale-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:09:04.204Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Emoji to Scale",
+        "url": "https://javier.xyz/emoji-to-scale",
+        "body": {
+          "backgroundColor": "rgb(238, 238, 238)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "20px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Emoji to Scale",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "25px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1px",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Emoji to ScaleSource Code YouTube Video Pokémon Versionby javier.xyz x.com/javierbyteScroll ↓🦟3mmMosquito🐜3.7mmAnt🪰6m",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(238, 238, 238)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Source Code",
+          "color": "rgb(35, 120, 176)",
+          "backgroundColor": "rgba(213, 223, 231, 0.5)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Brutalita",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Emoji to ScaleSource Code YouTube Video Pokémon Versionby javier.xyz x.com/javierbyteScroll ↓🦟3mmMosquito🐜3.7mmAnt🪰6m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(238, 238, 238)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Emoji to ScaleSource Code YouTube Video Pokémon Version",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "Emoji to Scale",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Source Code",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "YouTube Video",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Pokémon Version",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "by javier.xyz x.com/javierbyte",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "by javier.xyz",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "x.com/javierbyte",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Scroll ↓",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ededed",
+            "count": 23569
+          },
+          {
+            "hex": "#261e1a",
+            "count": 456
+          },
+          {
+            "hex": "#d6a56e",
+            "count": 438
+          },
+          {
+            "hex": "#a6a09c",
+            "count": 379
+          },
+          {
+            "hex": "#665953",
+            "count": 266
+          },
+          {
+            "hex": "#523526",
+            "count": 185
+          },
+          {
+            "hex": "#ae8960",
+            "count": 175
+          },
+          {
+            "hex": "#945929",
+            "count": 132
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ededed",
+            "count": 23569
+          },
+          {
+            "hex": "#261e1a",
+            "count": 456
+          },
+          {
+            "hex": "#d6a56e",
+            "count": 438
+          },
+          {
+            "hex": "#a6a09c",
+            "count": 379
+          },
+          {
+            "hex": "#665953",
+            "count": 266
+          },
+          {
+            "hex": "#523526",
+            "count": 185
+          },
+          {
+            "hex": "#ae8960",
+            "count": 175
+          },
+          {
+            "hex": "#945929",
+            "count": 132
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Emoji to Scale",
+        "url": "https://javier.xyz/emoji-to-scale",
+        "body": {
+          "backgroundColor": "rgb(238, 238, 238)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Emoji to Scale",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1px",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Emoji to ScaleSource Code YouTube Video Pokémon Versionby javier.xyz x.com/javierbyteScroll ↓🦟3mmMosquito🐜3.7mmAntAllA",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(238, 238, 238)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Source Code",
+          "color": "rgb(35, 120, 176)",
+          "backgroundColor": "rgba(213, 223, 231, 0.5)",
+          "fontFamily": "Brutalita, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Brutalita",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Emoji to ScaleSource Code YouTube Video Pokémon Versionby javier.xyz x.com/javierbyteScroll ↓🦟3mmMosquito🐜3.7mmAntAllA",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(238, 238, 238)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Emoji to ScaleSource Code YouTube Video Pokémon Version",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "Emoji to Scale",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Source Code",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "YouTube Video",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Pokémon Version",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "by javier.xyz x.com/javierbyte",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "by javier.xyz",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "x.com/javierbyte",
+            "color": "rgb(35, 120, 176)",
+            "backgroundColor": "rgba(213, 223, 231, 0.5)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(35, 120, 176) 0px -1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Scroll ↓",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Brutalita, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ebecec",
+            "count": 23352
+          },
+          {
+            "hex": "#29211c",
+            "count": 555
+          },
+          {
+            "hex": "#6b5c53",
+            "count": 467
+          },
+          {
+            "hex": "#a49e9a",
+            "count": 379
+          },
+          {
+            "hex": "#b1cbdb",
+            "count": 247
+          },
+          {
+            "hex": "#dbcdb5",
+            "count": 209
+          },
+          {
+            "hex": "#58463a",
+            "count": 199
+          },
+          {
+            "hex": "#483830",
+            "count": 192
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ebecec",
+            "count": 23352
+          },
+          {
+            "hex": "#29211c",
+            "count": 555
+          },
+          {
+            "hex": "#6b5c53",
+            "count": 467
+          },
+          {
+            "hex": "#a49e9a",
+            "count": 379
+          },
+          {
+            "hex": "#b1cbdb",
+            "count": 247
+          },
+          {
+            "hex": "#dbcdb5",
+            "count": 209
+          },
+          {
+            "hex": "#58463a",
+            "count": 199
+          },
+          {
+            "hex": "#483830",
+            "count": 192
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

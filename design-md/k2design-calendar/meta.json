@@ -1,0 +1,196 @@
+{
+  "slug": "k2design-calendar",
+  "title": "K2design Calendar",
+  "liveUrl": "https://calendar.k2design.gr/",
+  "domain": "calendar.k2design.gr",
+  "loadmoreUrl": "https://loadmo.re/posts/k2design-calendar",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/k2design-calendar",
+  "description": "Dragging a typographical circle will change the HSB of colours in this 3D Digital Shop for k2design's 2023 Calendar.",
+  "credits": "k2design",
+  "added": "",
+  "tags": [
+    "e-commerce",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/k2design-calendar/889bbee596-1677593935/k2design-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/k2design-calendar/0737adbb97-1677593948/k2design-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:15:23.505Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://calendar.k2design.gr/\nCall log:\n\u001b[2m  - navigating to \"https://calendar.k2design.gr/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#926f6a",
+            "count": 9193
+          },
+          {
+            "hex": "#ac9992",
+            "count": 5483
+          },
+          {
+            "hex": "#25282f",
+            "count": 2991
+          },
+          {
+            "hex": "#625c5b",
+            "count": 2411
+          },
+          {
+            "hex": "#cc129c",
+            "count": 2308
+          },
+          {
+            "hex": "#9b837a",
+            "count": 1532
+          },
+          {
+            "hex": "#c6b1ae",
+            "count": 999
+          },
+          {
+            "hex": "#38474c",
+            "count": 683
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#926f6a",
+            "count": 9193
+          },
+          {
+            "hex": "#ac9992",
+            "count": 5483
+          },
+          {
+            "hex": "#25282f",
+            "count": 2991
+          },
+          {
+            "hex": "#625c5b",
+            "count": 2411
+          },
+          {
+            "hex": "#cc129c",
+            "count": 2308
+          },
+          {
+            "hex": "#9b837a",
+            "count": 1532
+          },
+          {
+            "hex": "#c6b1ae",
+            "count": 999
+          },
+          {
+            "hex": "#38474c",
+            "count": 683
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/k2design-calendar/889bbee596-1677593935/k2design-cover-hp.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://calendar.k2design.gr/\nCall log:\n\u001b[2m  - navigating to \"https://calendar.k2design.gr/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#926f6a",
+            "count": 9193
+          },
+          {
+            "hex": "#ac9992",
+            "count": 5483
+          },
+          {
+            "hex": "#25282f",
+            "count": 2991
+          },
+          {
+            "hex": "#625c5b",
+            "count": 2411
+          },
+          {
+            "hex": "#cc129c",
+            "count": 2308
+          },
+          {
+            "hex": "#9b837a",
+            "count": 1532
+          },
+          {
+            "hex": "#c6b1ae",
+            "count": 999
+          },
+          {
+            "hex": "#38474c",
+            "count": 683
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#926f6a",
+            "count": 9193
+          },
+          {
+            "hex": "#ac9992",
+            "count": 5483
+          },
+          {
+            "hex": "#25282f",
+            "count": 2991
+          },
+          {
+            "hex": "#625c5b",
+            "count": 2411
+          },
+          {
+            "hex": "#cc129c",
+            "count": 2308
+          },
+          {
+            "hex": "#9b837a",
+            "count": 1532
+          },
+          {
+            "hex": "#c6b1ae",
+            "count": 999
+          },
+          {
+            "hex": "#38474c",
+            "count": 683
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/k2design-calendar/889bbee596-1677593935/k2design-cover-hp.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:38.189Z"
+  }
+}

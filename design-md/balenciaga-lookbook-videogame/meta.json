@@ -1,0 +1,545 @@
+{
+  "slug": "balenciaga-lookbook-videogame",
+  "title": "Balenciaga Lookbook Videogame",
+  "liveUrl": "https://videogame.balenciaga.com/",
+  "domain": "videogame.balenciaga.com",
+  "loadmoreUrl": "https://loadmo.re/posts/balenciaga-lookbook-videogame",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/balenciaga-lookbook-videogame",
+  "description": "A collection shot using 360 views of each look. Campaign video also worth a watch (a recording of the collection's online video game that unfortunately went offline).",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "fashion",
+    "3d"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/balenciaga-lookbook-videogame/29a6b8b9ce-1765550742/videogamebalenciaga-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/balenciaga-lookbook-videogame/65112de64e-1765550754/videogamebalenciaga-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:03:15.407Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Balenciaga | Fall 21",
+        "url": "https://videogame.balenciaga.com/en/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5V9VFBF\" height=0 width=0 style=display:none;visibility:hid",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Watch video",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "8px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.4px",
+          "display": "inline-flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "UniversLTCYR-55Roman",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "UniversLTCYR-67BoldCond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "MYingHeiPRC-W4",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "MYingHeiPRC-W7",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TazuganeGothicStdN-Regular",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TazuganeGothicStdN-Bold",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "YDGothic520",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "YDGothic550",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5V9VFBF\" height=0 width=0 style=display:none;visibility:hid",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "BalenciagaWatch videoLookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "header",
+            "text": "Balenciaga",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Watch videoLookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Watch video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Lookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "inline-flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#070313",
+            "count": 25009
+          },
+          {
+            "hex": "#5a5761",
+            "count": 163
+          },
+          {
+            "hex": "#efefef",
+            "count": 161
+          },
+          {
+            "hex": "#a09fa3",
+            "count": 133
+          },
+          {
+            "hex": "#312845",
+            "count": 95
+          },
+          {
+            "hex": "#423c4e",
+            "count": 23
+          },
+          {
+            "hex": "#bebdc1",
+            "count": 9
+          },
+          {
+            "hex": "#7b7883",
+            "count": 7
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#070313",
+            "count": 25009
+          },
+          {
+            "hex": "#5a5761",
+            "count": 163
+          },
+          {
+            "hex": "#efefef",
+            "count": 161
+          },
+          {
+            "hex": "#a09fa3",
+            "count": 133
+          },
+          {
+            "hex": "#312845",
+            "count": 95
+          },
+          {
+            "hex": "#423c4e",
+            "count": 23
+          },
+          {
+            "hex": "#bebdc1",
+            "count": 9
+          },
+          {
+            "hex": "#7b7883",
+            "count": 7
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Balenciaga | Fall 21",
+        "url": "https://videogame.balenciaga.com/en/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5V9VFBF\" height=0 width=0 style=display:none;visibility:hid",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Watch video",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "8px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.4px",
+          "display": "inline-flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "UniversLTCYR-55Roman",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "UniversLTCYR-67BoldCond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "MYingHeiPRC-W4",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "MYingHeiPRC-W7",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TazuganeGothicStdN-Regular",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TazuganeGothicStdN-Bold",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "YDGothic520",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "YDGothic550",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5V9VFBF\" height=0 width=0 style=display:none;visibility:hid",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "BalenciagaWatch videoLookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "header",
+            "text": "Balenciaga",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Watch videoLookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Watch video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Lookbook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "UniversLTCYR-55Roman, Arial, Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "inline-flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#080313",
+            "count": 24340
+          },
+          {
+            "hex": "#efefef",
+            "count": 537
+          },
+          {
+            "hex": "#5d5a63",
+            "count": 288
+          },
+          {
+            "hex": "#383245",
+            "count": 189
+          },
+          {
+            "hex": "#a19fa3",
+            "count": 183
+          },
+          {
+            "hex": "#423b4e",
+            "count": 32
+          },
+          {
+            "hex": "#7b7782",
+            "count": 23
+          },
+          {
+            "hex": "#817e86",
+            "count": 8
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#080313",
+            "count": 24340
+          },
+          {
+            "hex": "#efefef",
+            "count": 537
+          },
+          {
+            "hex": "#5d5a63",
+            "count": 288
+          },
+          {
+            "hex": "#383245",
+            "count": 189
+          },
+          {
+            "hex": "#a19fa3",
+            "count": 183
+          },
+          {
+            "hex": "#423b4e",
+            "count": 32
+          },
+          {
+            "hex": "#7b7782",
+            "count": 23
+          },
+          {
+            "hex": "#817e86",
+            "count": 8
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

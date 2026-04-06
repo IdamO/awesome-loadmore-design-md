@@ -1,0 +1,266 @@
+{
+  "slug": "vlucendo-garden",
+  "title": "Vlucendo Garden",
+  "liveUrl": "https://2021.vlucendo.com/garden/",
+  "domain": "2021.vlucendo.com",
+  "loadmoreUrl": "https://loadmo.re/posts/vlucendo-garden",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/vlucendo-garden",
+  "description": "Enter a snow-covered ravine and drag your finger to plant succulents that bloom and fade.",
+  "credits": "Vincent Lucendo",
+  "added": "",
+  "tags": [
+    "3d-space"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/vlucendo-garden/54357b47ee-1740999888/vlucendo2021-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/vlucendo-garden/f58265b443-1741000262/vlucendogarden-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:32:14.631Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "multiplayer garden",
+        "url": "https://2021.vlucendo.com/garden/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25564
+          },
+          {
+            "hex": "#e9eaea",
+            "count": 15
+          },
+          {
+            "hex": "#dadcdd",
+            "count": 14
+          },
+          {
+            "hex": "#95a6ae",
+            "count": 2
+          },
+          {
+            "hex": "#5e7889",
+            "count": 2
+          },
+          {
+            "hex": "#b3c1c8",
+            "count": 1
+          },
+          {
+            "hex": "#6f8694",
+            "count": 1
+          },
+          {
+            "hex": "#b1bcc3",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25564
+          },
+          {
+            "hex": "#e9eaea",
+            "count": 15
+          },
+          {
+            "hex": "#dadcdd",
+            "count": 14
+          },
+          {
+            "hex": "#95a6ae",
+            "count": 2
+          },
+          {
+            "hex": "#5e7889",
+            "count": 2
+          },
+          {
+            "hex": "#b3c1c8",
+            "count": 1
+          },
+          {
+            "hex": "#6f8694",
+            "count": 1
+          },
+          {
+            "hex": "#b1bcc3",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "multiplayer garden",
+        "url": "https://2021.vlucendo.com/garden/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25475
+          },
+          {
+            "hex": "#d5d6d6",
+            "count": 96
+          },
+          {
+            "hex": "#2d5067",
+            "count": 15
+          },
+          {
+            "hex": "#96a6af",
+            "count": 7
+          },
+          {
+            "hex": "#708897",
+            "count": 3
+          },
+          {
+            "hex": "#405f73",
+            "count": 2
+          },
+          {
+            "hex": "#bfc9d0",
+            "count": 1
+          },
+          {
+            "hex": "#687c8b",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25475
+          },
+          {
+            "hex": "#d5d6d6",
+            "count": 96
+          },
+          {
+            "hex": "#2d5067",
+            "count": 15
+          },
+          {
+            "hex": "#96a6af",
+            "count": 7
+          },
+          {
+            "hex": "#708897",
+            "count": 3
+          },
+          {
+            "hex": "#405f73",
+            "count": 2
+          },
+          {
+            "hex": "#bfc9d0",
+            "count": 1
+          },
+          {
+            "hex": "#687c8b",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "slug": "wilderness-land",
+  "title": "Wilderness Land",
+  "liveUrl": "https://wilderness.land/",
+  "domain": "wilderness.land",
+  "loadmoreUrl": "https://loadmo.re/posts/wilderness-land",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/wilderness-land",
+  "description": "Kristoffer offers us a map designed with a hijacked google sheet. Wander on the page to discover hidden links. 'The Internet is all around us, you live right in it.'",
+  "credits": "Kristoffer Tjalve",
+  "added": "",
+  "tags": [
+    "net.art",
+    "digital-exhibition",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/wilderness-land/45456cc421-1641385491/0284-wildernessland-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/wilderness-land/c2cc9fb1dc-1641385507/0284-wildernessland-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:32:46.795Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Wilderness Land",
+        "url": "https://wilderness.land/",
+        "body": {
+          "backgroundColor": "rgb(237, 237, 237)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "24px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "(function() {var on = addEventListener,off = removeEventListener,$ = function(q) { return document.querySelector(q) },$$",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(237, 237, 237)",
+          "fontFamily": "Times",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "(function() {var on = addEventListener,off = removeEventListener,$ = function(q) { return document.querySelector(q) },$$",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(237, 237, 237)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#6c9de9",
+            "count": 16371
+          },
+          {
+            "hex": "#b2d4a6",
+            "count": 4160
+          },
+          {
+            "hex": "#e5ebe8",
+            "count": 2108
+          },
+          {
+            "hex": "#92c27d",
+            "count": 1614
+          },
+          {
+            "hex": "#e7e0ac",
+            "count": 419
+          },
+          {
+            "hex": "#a8b0ab",
+            "count": 394
+          },
+          {
+            "hex": "#8cb1dd",
+            "count": 357
+          },
+          {
+            "hex": "#8ab272",
+            "count": 177
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#6c9de9",
+            "count": 16371
+          },
+          {
+            "hex": "#b2d4a6",
+            "count": 4160
+          },
+          {
+            "hex": "#e5ebe8",
+            "count": 2108
+          },
+          {
+            "hex": "#92c27d",
+            "count": 1614
+          },
+          {
+            "hex": "#e7e0ac",
+            "count": 419
+          },
+          {
+            "hex": "#a8b0ab",
+            "count": 394
+          },
+          {
+            "hex": "#8cb1dd",
+            "count": 357
+          },
+          {
+            "hex": "#8ab272",
+            "count": 177
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Wilderness Land",
+        "url": "https://wilderness.land/",
+        "body": {
+          "backgroundColor": "rgb(237, 237, 237)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "20px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "(function() {var on = addEventListener,off = removeEventListener,$ = function(q) { return document.querySelector(q) },$$",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(237, 237, 237)",
+          "fontFamily": "Times",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "(function() {var on = addEventListener,off = removeEventListener,$ = function(q) { return document.querySelector(q) },$$",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(237, 237, 237)",
+            "fontFamily": "Times",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#b3d4a6",
+            "count": 10427
+          },
+          {
+            "hex": "#91c27c",
+            "count": 5495
+          },
+          {
+            "hex": "#6c9de9",
+            "count": 4706
+          },
+          {
+            "hex": "#f4f4f4",
+            "count": 2129
+          },
+          {
+            "hex": "#f0e3af",
+            "count": 1418
+          },
+          {
+            "hex": "#8ebb7a",
+            "count": 574
+          },
+          {
+            "hex": "#9d9f9d",
+            "count": 503
+          },
+          {
+            "hex": "#8eb1de",
+            "count": 348
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#b3d4a6",
+            "count": 10427
+          },
+          {
+            "hex": "#91c27c",
+            "count": 5495
+          },
+          {
+            "hex": "#6c9de9",
+            "count": 4706
+          },
+          {
+            "hex": "#f4f4f4",
+            "count": 2129
+          },
+          {
+            "hex": "#f0e3af",
+            "count": 1418
+          },
+          {
+            "hex": "#8ebb7a",
+            "count": 574
+          },
+          {
+            "hex": "#9d9f9d",
+            "count": 503
+          },
+          {
+            "hex": "#8eb1de",
+            "count": 348
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "slug": "a-proposal-for-immersive-video-on-the-web",
+  "title": "A proposal for immersive video on the web",
+  "liveUrl": "http://video.gabeferreira.com/",
+  "domain": "video.gabeferreira.com",
+  "loadmoreUrl": "https://loadmo.re/posts/a-proposal-for-immersive-video-on-the-web",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/a-proposal-for-immersive-video-on-the-web",
+  "description": "Interesting use of an interface to make a case and show in situ how to improve video players on the web, making them more interactive.",
+  "credits": "Gabe Ferreira",
+  "added": "",
+  "tags": [
+    "video"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/a-proposal-for-immersive-video-on-the-web/fa9780319e-1736957333/gabeferreira-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/a-proposal-for-immersive-video-on-the-web/ea874fb3b4-1736957344/gabeferreira-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:00:34.259Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Immersive Video",
+        "url": "http://video.gabeferreira.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "marr-sans, helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "A project by Gabe Ferreira\n\t\tView this project on Github\n\t\n\n\tCaptions\n\t\n\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tA proposal for immersive",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "marr-sans, helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "A project by Gabe Ferreira",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(235, 235, 235)",
+          "fontFamily": "courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "marr-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "A project by Gabe Ferreira\n\t\tView this project on Github\n\t\n\n\tCaptions\n\t\n\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tA proposal for immersive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "marr-sans, helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "A project by Gabe Ferreira",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(235, 235, 235)",
+            "fontFamily": "courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "View this project on Github",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(235, 235, 235)",
+            "fontFamily": "courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Share this on Twitter",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 180, 255)",
+            "fontFamily": "courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 18937
+          },
+          {
+            "hex": "#0c0c0c",
+            "count": 2275
+          },
+          {
+            "hex": "#a09e9d",
+            "count": 1039
+          },
+          {
+            "hex": "#9cdaa8",
+            "count": 1029
+          },
+          {
+            "hex": "#5ca56a",
+            "count": 952
+          },
+          {
+            "hex": "#5f5e5e",
+            "count": 774
+          },
+          {
+            "hex": "#b5f2c6",
+            "count": 369
+          },
+          {
+            "hex": "#03fe83",
+            "count": 225
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 18937
+          },
+          {
+            "hex": "#0c0c0c",
+            "count": 2275
+          },
+          {
+            "hex": "#a09e9d",
+            "count": 1039
+          },
+          {
+            "hex": "#9cdaa8",
+            "count": 1029
+          },
+          {
+            "hex": "#5ca56a",
+            "count": 952
+          },
+          {
+            "hex": "#5f5e5e",
+            "count": 774
+          },
+          {
+            "hex": "#b5f2c6",
+            "count": 369
+          },
+          {
+            "hex": "#03fe83",
+            "count": 225
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Immersive Video",
+        "url": "http://video.gabeferreira.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "marr-sans, helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "A project by Gabe Ferreira\n\t\tView this project on Github\n\t\n\n\tCaptions\n\t\n\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tA proposal for immersive",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "marr-sans, helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "A project by Gabe Ferreira",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(235, 235, 235)",
+          "fontFamily": "courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "marr-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "A project by Gabe Ferreira\n\t\tView this project on Github\n\t\n\n\tCaptions\n\t\n\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tA proposal for immersive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "marr-sans, helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "A project by Gabe Ferreira",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(235, 235, 235)",
+            "fontFamily": "courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 20435
+          },
+          {
+            "hex": "#0d0d0d",
+            "count": 1498
+          },
+          {
+            "hex": "#9ad8a6",
+            "count": 915
+          },
+          {
+            "hex": "#5ca56a",
+            "count": 869
+          },
+          {
+            "hex": "#a19e9e",
+            "count": 830
+          },
+          {
+            "hex": "#605f5f",
+            "count": 466
+          },
+          {
+            "hex": "#b8f2c7",
+            "count": 385
+          },
+          {
+            "hex": "#77ba84",
+            "count": 202
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 20435
+          },
+          {
+            "hex": "#0d0d0d",
+            "count": 1498
+          },
+          {
+            "hex": "#9ad8a6",
+            "count": 915
+          },
+          {
+            "hex": "#5ca56a",
+            "count": 869
+          },
+          {
+            "hex": "#a19e9e",
+            "count": 830
+          },
+          {
+            "hex": "#605f5f",
+            "count": 466
+          },
+          {
+            "hex": "#b8f2c7",
+            "count": 385
+          },
+          {
+            "hex": "#77ba84",
+            "count": 202
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

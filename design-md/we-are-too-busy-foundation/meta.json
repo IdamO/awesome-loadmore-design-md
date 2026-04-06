@@ -1,0 +1,917 @@
+{
+  "slug": "we-are-too-busy-foundation",
+  "title": "Too Busy Foundation",
+  "liveUrl": "https://weare.toobusy.foundation/",
+  "domain": "weare.toobusy.foundation",
+  "loadmoreUrl": "https://loadmo.re/posts/we-are-too-busy-foundation",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/we-are-too-busy-foundation",
+  "description": "Image archive shedding light on the hidden epidemic of human trafficking through embedded facts and statistics.",
+  "credits": "Your Majesty",
+  "added": "",
+  "tags": [
+    "educational",
+    "photography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/we-are-too-busy-foundation/2fb46ccf22-1768238300/wearetoobusy-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/we-are-too-busy-foundation/c927375c58-1768238313/wearetoobusy-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:30:35.227Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "TOO BUSY",
+        "url": "https://weare.toobusy.foundation/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Too Busy",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "30px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Every image is evidence",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "36px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Enter the archiveEnter the archive",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "999px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "grid",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "__ppmono_6b0fd0",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__ppmono_Fallback_6b0fd0",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__realgar_1d9602",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__realgar_Fallback_1d9602",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Too BusyEvery image is evidenceWhat you’re about to enter is not a gallery. It’s an archive of fragments, stories hidden",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Too Busy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Every image is evidence",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What you’re about to enter is not a gallery. It’s an archive of fragments, stories hidden in plain sight. Each frame car",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__realgar_1d9602, __realgar_Fallback_1d9602",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Enter the archiveEnter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Too busy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "__realgar_1d9602, __realgar_Fallback_1d9602",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Join us",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(53, 53, 53)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px 20px 20px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "CloseClose",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "div",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Close",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "Source:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "Source:",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#050506",
+            "count": 23943
+          },
+          {
+            "hex": "#565952",
+            "count": 599
+          },
+          {
+            "hex": "#531212",
+            "count": 432
+          },
+          {
+            "hex": "#ebedeb",
+            "count": 234
+          },
+          {
+            "hex": "#a2a99f",
+            "count": 130
+          },
+          {
+            "hex": "#354a4b",
+            "count": 99
+          },
+          {
+            "hex": "#112e4c",
+            "count": 87
+          },
+          {
+            "hex": "#4d4b36",
+            "count": 76
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#050506",
+            "count": 23943
+          },
+          {
+            "hex": "#565952",
+            "count": 599
+          },
+          {
+            "hex": "#531212",
+            "count": 432
+          },
+          {
+            "hex": "#ebedeb",
+            "count": 234
+          },
+          {
+            "hex": "#a2a99f",
+            "count": 130
+          },
+          {
+            "hex": "#354a4b",
+            "count": 99
+          },
+          {
+            "hex": "#112e4c",
+            "count": 87
+          },
+          {
+            "hex": "#4d4b36",
+            "count": 76
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "TOO BUSY",
+        "url": "https://weare.toobusy.foundation/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Too Busy",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Every image is evidence",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "28.8px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Enter the archiveEnter the archive",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "999px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "grid",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "__ppmono_6b0fd0",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__ppmono_Fallback_6b0fd0",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__realgar_1d9602",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__realgar_Fallback_1d9602",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Too BusyEvery image is evidenceWhat you’re about to enter is not a gallery. It’s an archive of fragments, stories hidden",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Too Busy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Every image is evidence",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What you’re about to enter is not a gallery. It’s an archive of fragments, stories hidden in plain sight. Each frame car",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__realgar_1d9602, __realgar_Fallback_1d9602",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Enter the archiveEnter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Enter the archive",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Too busy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "__realgar_1d9602, __realgar_Fallback_1d9602",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Join us",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(53, 53, 53)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px 20px 20px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "CloseClose",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "div",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "Close",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.79008px",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "Source:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "Source:",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__ppmono_6b0fd0, __ppmono_Fallback_6b0fd0",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 22268
+          },
+          {
+            "hex": "#646464",
+            "count": 905
+          },
+          {
+            "hex": "#161616",
+            "count": 516
+          },
+          {
+            "hex": "#262626",
+            "count": 499
+          },
+          {
+            "hex": "#959595",
+            "count": 486
+          },
+          {
+            "hex": "#383838",
+            "count": 440
+          },
+          {
+            "hex": "#474747",
+            "count": 433
+          },
+          {
+            "hex": "#d0d0d0",
+            "count": 53
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 22268
+          },
+          {
+            "hex": "#646464",
+            "count": 905
+          },
+          {
+            "hex": "#161616",
+            "count": 516
+          },
+          {
+            "hex": "#262626",
+            "count": 499
+          },
+          {
+            "hex": "#959595",
+            "count": 486
+          },
+          {
+            "hex": "#383838",
+            "count": 440
+          },
+          {
+            "hex": "#474747",
+            "count": 433
+          },
+          {
+            "hex": "#d0d0d0",
+            "count": 53
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

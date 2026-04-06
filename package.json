@@ -1,0 +1,21 @@
+{
+  "name": "awesome-loadmore-design-md",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Curated collection of DESIGN.md files extracted from websites featured on loadmo.re",
+  "type": "module",
+  "scripts": {
+    "crawl": "node scripts/crawl-loadmore.mjs",
+    "capture": "node scripts/capture-sites.mjs",
+    "fallback": "node scripts/fill-fallback-captures.mjs",
+    "generate": "node scripts/generate-site-files.mjs",
+    "index": "node scripts/build-agent-index.mjs",
+    "validate": "node scripts/validate-repo.mjs",
+    "build": "node scripts/build-all.mjs",
+    "build:fast": "node scripts/capture-sites.mjs --concurrency=4 --limit=12 && node scripts/fill-fallback-captures.mjs && node scripts/generate-site-files.mjs && node scripts/build-agent-index.mjs && node scripts/validate-repo.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "playwright": "^1.58.2"
+  }
+}

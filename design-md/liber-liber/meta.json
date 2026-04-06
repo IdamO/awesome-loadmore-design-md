@@ -1,0 +1,195 @@
+{
+  "slug": "liber-liber",
+  "title": "A Scroll of One's Own",
+  "liveUrl": "http://liberliber.net/",
+  "domain": "liberliber.net",
+  "loadmoreUrl": "https://loadmo.re/posts/liber-liber",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/liber-liber",
+  "description": "Poetry on/with/through a website. Net.art on a smartphone.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "net.art"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/liber-liber/a6e13b964b-1736955961/liberliber-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/liber-liber/0033f164f5-1736955977/liberliber-post-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:00:14.061Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at http://liberliber.net/\nCall log:\n\u001b[2m  - navigating to \"http://liberliber.net/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#24000a",
+            "count": 23708
+          },
+          {
+            "hex": "#9d050c",
+            "count": 501
+          },
+          {
+            "hex": "#e1050b",
+            "count": 422
+          },
+          {
+            "hex": "#50030c",
+            "count": 309
+          },
+          {
+            "hex": "#35010c",
+            "count": 279
+          },
+          {
+            "hex": "#77040c",
+            "count": 184
+          },
+          {
+            "hex": "#67030c",
+            "count": 159
+          },
+          {
+            "hex": "#1d0008",
+            "count": 38
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#24000a",
+            "count": 23708
+          },
+          {
+            "hex": "#9d050c",
+            "count": 501
+          },
+          {
+            "hex": "#e1050b",
+            "count": 422
+          },
+          {
+            "hex": "#50030c",
+            "count": 309
+          },
+          {
+            "hex": "#35010c",
+            "count": 279
+          },
+          {
+            "hex": "#77040c",
+            "count": 184
+          },
+          {
+            "hex": "#67030c",
+            "count": 159
+          },
+          {
+            "hex": "#1d0008",
+            "count": 38
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/liber-liber/a6e13b964b-1736955961/liberliber-cover-hp-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at http://liberliber.net/\nCall log:\n\u001b[2m  - navigating to \"http://liberliber.net/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#24000a",
+            "count": 23708
+          },
+          {
+            "hex": "#9d050c",
+            "count": 501
+          },
+          {
+            "hex": "#e1050b",
+            "count": 422
+          },
+          {
+            "hex": "#50030c",
+            "count": 309
+          },
+          {
+            "hex": "#35010c",
+            "count": 279
+          },
+          {
+            "hex": "#77040c",
+            "count": 184
+          },
+          {
+            "hex": "#67030c",
+            "count": 159
+          },
+          {
+            "hex": "#1d0008",
+            "count": 38
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#24000a",
+            "count": 23708
+          },
+          {
+            "hex": "#9d050c",
+            "count": 501
+          },
+          {
+            "hex": "#e1050b",
+            "count": 422
+          },
+          {
+            "hex": "#50030c",
+            "count": 309
+          },
+          {
+            "hex": "#35010c",
+            "count": 279
+          },
+          {
+            "hex": "#77040c",
+            "count": 184
+          },
+          {
+            "hex": "#67030c",
+            "count": 159
+          },
+          {
+            "hex": "#1d0008",
+            "count": 38
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/liber-liber/a6e13b964b-1736955961/liberliber-cover-hp-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:39.039Z"
+  }
+}

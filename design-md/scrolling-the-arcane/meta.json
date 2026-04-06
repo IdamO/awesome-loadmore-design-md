@@ -1,0 +1,196 @@
+{
+  "slug": "scrolling-the-arcane",
+  "title": "Scrolling the Arcane",
+  "liveUrl": "https://scrollingthearcane.com/",
+  "domain": "scrollingthearcane.com",
+  "loadmoreUrl": "https://loadmo.re/posts/scrolling-the-arcane",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/scrolling-the-arcane",
+  "description": "Enter into introspection by using your phone's motion and camera sensors to pan round an otherworldly dome.",
+  "credits": "Max Ryan",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/scrolling-the-arcane/810fde58ba-1677587615/scrollingthearcane-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/scrolling-the-arcane/8ce7a08c42-1677588311/scrollingthearcane-post-min-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:26:01.782Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://scrollingthearcane.com/\nCall log:\n\u001b[2m  - navigating to \"https://scrollingthearcane.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#0f1016",
+            "count": 18873
+          },
+          {
+            "hex": "#172b55",
+            "count": 1711
+          },
+          {
+            "hex": "#aa88b0",
+            "count": 1512
+          },
+          {
+            "hex": "#5a63aa",
+            "count": 1345
+          },
+          {
+            "hex": "#a67693",
+            "count": 791
+          },
+          {
+            "hex": "#8f6577",
+            "count": 513
+          },
+          {
+            "hex": "#37488a",
+            "count": 476
+          },
+          {
+            "hex": "#6d5764",
+            "count": 379
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0f1016",
+            "count": 18873
+          },
+          {
+            "hex": "#172b55",
+            "count": 1711
+          },
+          {
+            "hex": "#aa88b0",
+            "count": 1512
+          },
+          {
+            "hex": "#5a63aa",
+            "count": 1345
+          },
+          {
+            "hex": "#a67693",
+            "count": 791
+          },
+          {
+            "hex": "#8f6577",
+            "count": 513
+          },
+          {
+            "hex": "#37488a",
+            "count": 476
+          },
+          {
+            "hex": "#6d5764",
+            "count": 379
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/scrolling-the-arcane/810fde58ba-1677587615/scrollingthearcane-cover-hp.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://scrollingthearcane.com/\nCall log:\n\u001b[2m  - navigating to \"https://scrollingthearcane.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#0f1016",
+            "count": 18873
+          },
+          {
+            "hex": "#172b55",
+            "count": 1711
+          },
+          {
+            "hex": "#aa88b0",
+            "count": 1512
+          },
+          {
+            "hex": "#5a63aa",
+            "count": 1345
+          },
+          {
+            "hex": "#a67693",
+            "count": 791
+          },
+          {
+            "hex": "#8f6577",
+            "count": 513
+          },
+          {
+            "hex": "#37488a",
+            "count": 476
+          },
+          {
+            "hex": "#6d5764",
+            "count": 379
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0f1016",
+            "count": 18873
+          },
+          {
+            "hex": "#172b55",
+            "count": 1711
+          },
+          {
+            "hex": "#aa88b0",
+            "count": 1512
+          },
+          {
+            "hex": "#5a63aa",
+            "count": 1345
+          },
+          {
+            "hex": "#a67693",
+            "count": 791
+          },
+          {
+            "hex": "#8f6577",
+            "count": 513
+          },
+          {
+            "hex": "#37488a",
+            "count": 476
+          },
+          {
+            "hex": "#6d5764",
+            "count": 379
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/scrolling-the-arcane/810fde58ba-1677587615/scrollingthearcane-cover-hp.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:44.192Z"
+  }
+}

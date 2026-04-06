@@ -1,0 +1,428 @@
+{
+  "slug": "haiku-haiku",
+  "title": "Haiku Haiku",
+  "liveUrl": "https://haiku-haiku.netlify.app/",
+  "domain": "haiku-haiku.netlify.app",
+  "loadmoreUrl": "https://loadmo.re/posts/haiku-haiku",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/haiku-haiku",
+  "description": "Poetic and colorful website which offers collaborative haiku writing – either start a new haiku or complete another author's.",
+  "credits": "Ezekiel Aquino",
+  "added": "",
+  "tags": [
+    "participative",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/haiku-haiku/5ff066eee7-1625577243/0188-haiku-haiku-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/haiku-haiku/75e1579a29-1625577258/0188-haiku-haiku-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:12:30.751Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Haiku-Haiku",
+        "url": "https://haiku-haiku.netlify.app/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(204, 204, 204)",
+          "fontFamily": "Arial",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "New Haiku",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(204, 204, 204, 0.7)",
+          "fontFamily": "Arial",
+          "fontSize": "36px",
+          "fontWeight": "400",
+          "borderRadius": "50px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "New Haiku",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(204, 204, 204, 0.7)",
+          "fontFamily": "Arial",
+          "fontSize": "36px",
+          "fontWeight": "400",
+          "borderRadius": "50px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "mabry-medium",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "XANO-mincho",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "New Haiku",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(204, 204, 204, 0.7)",
+            "fontFamily": "Arial",
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "About",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(204, 204, 204, 0.7)",
+            "fontFamily": "Arial",
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "← Add a line to currently unfinished Haikus0 Completed Haikus↓",
+            "color": "rgb(204, 204, 204)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "footer",
+            "text": "0 Completed Haikus↓",
+            "color": "rgb(204, 204, 204)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.6px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#c71818",
+            "count": 21630
+          },
+          {
+            "hex": "#be1716",
+            "count": 1126
+          },
+          {
+            "hex": "#cb9d9d",
+            "count": 1014
+          },
+          {
+            "hex": "#cdcfcf",
+            "count": 938
+          },
+          {
+            "hex": "#c85d5d",
+            "count": 858
+          },
+          {
+            "hex": "#c8807e",
+            "count": 14
+          },
+          {
+            "hex": "#c8403e",
+            "count": 11
+          },
+          {
+            "hex": "#c73e40",
+            "count": 9
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#c71818",
+            "count": 21630
+          },
+          {
+            "hex": "#be1716",
+            "count": 1126
+          },
+          {
+            "hex": "#cb9d9d",
+            "count": 1014
+          },
+          {
+            "hex": "#cdcfcf",
+            "count": 938
+          },
+          {
+            "hex": "#c85d5d",
+            "count": 858
+          },
+          {
+            "hex": "#c8807e",
+            "count": 14
+          },
+          {
+            "hex": "#c8403e",
+            "count": 11
+          },
+          {
+            "hex": "#c73e40",
+            "count": 9
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Haiku-Haiku",
+        "url": "https://haiku-haiku.netlify.app/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(230, 230, 230)",
+          "fontFamily": "Arial",
+          "fontSize": "12px",
+          "lineHeight": "12px"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "New Haiku",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(230, 230, 230, 0.7)",
+          "fontFamily": "Arial",
+          "fontSize": "15.6px",
+          "fontWeight": "400",
+          "borderRadius": "50px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "New Haiku",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(230, 230, 230, 0.7)",
+          "fontFamily": "Arial",
+          "fontSize": "15.6px",
+          "fontWeight": "400",
+          "borderRadius": "50px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "mabry-medium",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "XANO-mincho",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "New Haiku",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(230, 230, 230, 0.7)",
+            "fontFamily": "Arial",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "About",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(230, 230, 230, 0.7)",
+            "fontFamily": "Arial",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "← Add a line to currently unfinished Haikus0 Completed Haikus↓",
+            "color": "rgb(230, 230, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "footer",
+            "text": "0 Completed Haikus↓",
+            "color": "rgb(230, 230, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.16px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#caa499",
+            "count": 13780
+          },
+          {
+            "hex": "#ca635c",
+            "count": 7295
+          },
+          {
+            "hex": "#ca847b",
+            "count": 1396
+          },
+          {
+            "hex": "#ca3431",
+            "count": 1301
+          },
+          {
+            "hex": "#e4e0df",
+            "count": 1270
+          },
+          {
+            "hex": "#c9413d",
+            "count": 426
+          },
+          {
+            "hex": "#d5c2bb",
+            "count": 131
+          },
+          {
+            "hex": "#e3bfc0",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#caa499",
+            "count": 13780
+          },
+          {
+            "hex": "#ca635c",
+            "count": 7295
+          },
+          {
+            "hex": "#ca847b",
+            "count": 1396
+          },
+          {
+            "hex": "#ca3431",
+            "count": 1301
+          },
+          {
+            "hex": "#e4e0df",
+            "count": 1270
+          },
+          {
+            "hex": "#c9413d",
+            "count": 426
+          },
+          {
+            "hex": "#d5c2bb",
+            "count": 131
+          },
+          {
+            "hex": "#e3bfc0",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

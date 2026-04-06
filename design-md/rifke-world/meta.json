@@ -1,0 +1,492 @@
+{
+  "slug": "rifke-world",
+  "title": "Rifke World",
+  "liveUrl": "https://rifke.world/",
+  "domain": "rifke.world",
+  "loadmoreUrl": "https://loadmo.re/posts/rifke-world",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/rifke-world",
+  "description": "We love Rifke's simple website. You land there, it feels like there's nothing and eventually, your action reveals the content.",
+  "credits": "Rifke Sadleir",
+  "added": "",
+  "tags": [
+    "tactile",
+    "portfolio",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/rifke-world/698767faaa-1625575690/0166-rifke-world-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/rifke-world/7cc41adc96-1625575706/0166-rifke-world-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:24:41.080Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Rifke",
+        "url": "https://rifke.world/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "I’m Rifke and this is my website.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "a server that lives with me in my flat",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "ComicMono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "I’m Rifke and this is my website.\n    It’s running from a server that lives with me in my flat.\n    If you’re looking fo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "I’m Rifke and this is my website.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "It’s running from a server that lives with me in my flat.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "a server that lives with me in my flat",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If you’re looking for my other website, go to rif.ke!",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "rif.ke",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "1",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 24368
+          },
+          {
+            "hex": "#262326",
+            "count": 753
+          },
+          {
+            "hex": "#555555",
+            "count": 372
+          },
+          {
+            "hex": "#550e55",
+            "count": 55
+          },
+          {
+            "hex": "#8c8c8c",
+            "count": 44
+          },
+          {
+            "hex": "#8a1089",
+            "count": 4
+          },
+          {
+            "hex": "#400a3f",
+            "count": 3
+          },
+          {
+            "hex": "#80117f",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 24368
+          },
+          {
+            "hex": "#262326",
+            "count": 753
+          },
+          {
+            "hex": "#555555",
+            "count": 372
+          },
+          {
+            "hex": "#550e55",
+            "count": 55
+          },
+          {
+            "hex": "#8c8c8c",
+            "count": 44
+          },
+          {
+            "hex": "#8a1089",
+            "count": 4
+          },
+          {
+            "hex": "#400a3f",
+            "count": 3
+          },
+          {
+            "hex": "#80117f",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Rifke",
+        "url": "https://rifke.world/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "12.675px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "I’m Rifke and this is my website.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "12.675px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "a server that lives with me in my flat",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ComicMono, monospace",
+          "fontSize": "12.675px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "ComicMono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "I’m Rifke and this is my website.\n    It’s running from a server that lives with me in my flat.\n    If you’re looking fo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "I’m Rifke and this is my website.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "It’s running from a server that lives with me in my flat.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "a server that lives with me in my flat",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If you’re looking for my other website, go to rif.ke!",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "rif.ke",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "1",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ComicMono, monospace",
+            "fontSize": "12.675px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#020202",
+            "count": 23999
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 1045
+          },
+          {
+            "hex": "#929292",
+            "count": 353
+          },
+          {
+            "hex": "#600760",
+            "count": 122
+          },
+          {
+            "hex": "#900990",
+            "count": 58
+          },
+          {
+            "hex": "#cdcdcd",
+            "count": 17
+          },
+          {
+            "hex": "#40063f",
+            "count": 4
+          },
+          {
+            "hex": "#3f0440",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#020202",
+            "count": 23999
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 1045
+          },
+          {
+            "hex": "#929292",
+            "count": 353
+          },
+          {
+            "hex": "#600760",
+            "count": 122
+          },
+          {
+            "hex": "#900990",
+            "count": 58
+          },
+          {
+            "hex": "#cdcdcd",
+            "count": 17
+          },
+          {
+            "hex": "#40063f",
+            "count": 4
+          },
+          {
+            "hex": "#3f0440",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

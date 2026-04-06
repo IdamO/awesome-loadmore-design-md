@@ -1,0 +1,912 @@
+{
+  "slug": "chimes",
+  "title": "Hudson Mohawke - CHIMES RMX",
+  "liveUrl": "https://chimes.intmagic.com/",
+  "domain": "chimes.intmagic.com",
+  "loadmoreUrl": "https://loadmo.re/posts/chimes",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/chimes",
+  "description": "Drag'ndropping Hudson Mohawke's face through the galaxy, while listening to his new soundtrack. Sound like a plan.",
+  "credits": "International Magic, Warp Records, Hudson Mohawke",
+  "added": "",
+  "tags": [
+    "music",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/chimes/65d0c52cd7-1606940266/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/chimes/d8eb676162-1601976540/044-chimes_v01.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:14:18.073Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "intmagic.com | 522: Connection timed out",
+        "url": "https://chimes.intmagic.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(64, 64, 64)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Connection timed out\n                Error code 522",
+          "color": "rgb(64, 64, 64)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "60px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "75px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can n",
+          "color": "rgb(64, 64, 64)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Click to reveal",
+          "color": "rgb(0, 81, 195)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "cloudflare.com",
+          "color": "rgb(47, 123, 191)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Connection timed out\n                Error code 522\n            \n            \n                Visit cloudflare.com for m",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Connection timed out\n                Error code 522\n            \n            \n                Visit cloudflare.com for m",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Connection timed out\n                Error code 522",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "60px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "75px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cloudflare.com",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Browser",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Cloudflare",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cloudflare",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Host",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "What happened?",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can n",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "What can I do?",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "If you're a visitor of this website:",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please try again in a few minutes.",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "If you're the owner of this website:",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the ",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Additional troubleshooting information here.",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Cloudflare Ray ID: 9e8373d01a904b6f\n      •\n      \n        Your IP:\n        Click to reveal\n        50.145.58.66\n       ",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Click to reveal",
+            "color": "rgb(0, 81, 195)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cloudflare",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f5f5f5",
+            "count": 24625
+          },
+          {
+            "hex": "#ababab",
+            "count": 777
+          },
+          {
+            "hex": "#b3ccdc",
+            "count": 66
+          },
+          {
+            "hex": "#cedfad",
+            "count": 48
+          },
+          {
+            "hex": "#a5cd52",
+            "count": 28
+          },
+          {
+            "hex": "#99c939",
+            "count": 21
+          },
+          {
+            "hex": "#d7adae",
+            "count": 19
+          },
+          {
+            "hex": "#bb2324",
+            "count": 16
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f5f5f5",
+            "count": 24625
+          },
+          {
+            "hex": "#ababab",
+            "count": 777
+          },
+          {
+            "hex": "#b3ccdc",
+            "count": 66
+          },
+          {
+            "hex": "#cedfad",
+            "count": 48
+          },
+          {
+            "hex": "#a5cd52",
+            "count": 28
+          },
+          {
+            "hex": "#99c939",
+            "count": 21
+          },
+          {
+            "hex": "#d7adae",
+            "count": 19
+          },
+          {
+            "hex": "#bb2324",
+            "count": 16
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "intmagic.com | 522: Connection timed out",
+        "url": "https://chimes.intmagic.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(64, 64, 64)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Connection timed out\n                Error code 522",
+          "color": "rgb(64, 64, 64)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "36px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "45px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can n",
+          "color": "rgb(64, 64, 64)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Click to reveal",
+          "color": "rgb(0, 81, 195)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "cloudflare.com",
+          "color": "rgb(47, 123, 191)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Connection timed out\n                Error code 522\n            \n            \n                Visit cloudflare.com for m",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Connection timed out\n                Error code 522\n            \n            \n                Visit cloudflare.com for m",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Connection timed out\n                Error code 522",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "36px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cloudflare.com",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Browser",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Cloudflare",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cloudflare",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Host",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "What happened?",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can n",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "What can I do?",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "If you're a visitor of this website:",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please try again in a few minutes.",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "If you're the owner of this website:",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the ",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Additional troubleshooting information here.",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Cloudflare Ray ID: 9e837489fe991692\n      •\n      \n        Your IP:\n        Click to reveal\n        50.145.58.66\n       ",
+            "color": "rgb(64, 64, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Click to reveal",
+            "color": "rgb(0, 81, 195)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cloudflare",
+            "color": "rgb(47, 123, 191)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f3f3f3",
+            "count": 24199
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 574
+          },
+          {
+            "hex": "#9ac93c",
+            "count": 235
+          },
+          {
+            "hex": "#cbdea6",
+            "count": 151
+          },
+          {
+            "hex": "#bc2324",
+            "count": 128
+          },
+          {
+            "hex": "#abd061",
+            "count": 107
+          },
+          {
+            "hex": "#656565",
+            "count": 105
+          },
+          {
+            "hex": "#b3cbdf",
+            "count": 101
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f3f3f3",
+            "count": 24199
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 574
+          },
+          {
+            "hex": "#9ac93c",
+            "count": 235
+          },
+          {
+            "hex": "#cbdea6",
+            "count": 151
+          },
+          {
+            "hex": "#bc2324",
+            "count": 128
+          },
+          {
+            "hex": "#abd061",
+            "count": 107
+          },
+          {
+            "hex": "#656565",
+            "count": 105
+          },
+          {
+            "hex": "#b3cbdf",
+            "count": 101
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

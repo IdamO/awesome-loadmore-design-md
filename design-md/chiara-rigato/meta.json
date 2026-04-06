@@ -1,0 +1,832 @@
+{
+  "slug": "chiara-rigato",
+  "title": "Chiara Rigato",
+  "liveUrl": "http://www.chiararigato.com/",
+  "domain": "www.chiararigato.com",
+  "loadmoreUrl": "https://loadmo.re/posts/chiara-rigato",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/chiara-rigato",
+  "description": "Colorful portfolio with bold types scrolling horizontally. And a floating smiley face.",
+  "credits": "Marco Dalle Fratte",
+  "added": "",
+  "tags": [
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/chiara-rigato/07a6f6a55c-1606938951/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/chiara-rigato/0c14ae73ad-1604597568/073-chiararigato.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:05:56.430Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Chiara Rigato",
+        "url": "http://www.chiararigato.com/",
+        "body": {
+          "backgroundColor": "rgb(240, 136, 182)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "42px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(240, 136, 182)",
+          "fontFamily": "Times",
+          "fontSize": "42px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "sticky"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(255, 78, 27)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Ginto Nord Ultra\"",
+          "fontSize": "156.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "196px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(255, 78, 27)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Ginto Nord Ultra\"",
+          "fontSize": "156.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "196px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Ginto Nord Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Ginto Nord Ultra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "header",
+            "text": "Chiara RigatoChiara Rigato\n\t\t\tCiao, I am a multimedia creative based between Milan and Padua, working as a photographer ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "CommissionsCommissions\n\n\tChic Nic x Vintage Festival 2019\n\tZonin Prosecco\n\tPalazzina Grassi\n\tBballroom Milano\n\tHilton Mu",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "CommissionsCommissions",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "CommissionsCommissions",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "CommissionsCommissions",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "EditorialsEditorials",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "EditorialsEditorials",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EditorialsEditorials",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "156.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ee88b5",
+            "count": 12327
+          },
+          {
+            "hex": "#fe4d1a",
+            "count": 6947
+          },
+          {
+            "hex": "#f66964",
+            "count": 2032
+          },
+          {
+            "hex": "#f088b6",
+            "count": 1422
+          },
+          {
+            "hex": "#f182a4",
+            "count": 1080
+          },
+          {
+            "hex": "#fb542f",
+            "count": 917
+          },
+          {
+            "hex": "#f3798d",
+            "count": 857
+          },
+          {
+            "hex": "#ee8cc1",
+            "count": 18
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ee88b5",
+            "count": 12327
+          },
+          {
+            "hex": "#fe4d1a",
+            "count": 6947
+          },
+          {
+            "hex": "#f66964",
+            "count": 2032
+          },
+          {
+            "hex": "#f088b6",
+            "count": 1422
+          },
+          {
+            "hex": "#f182a4",
+            "count": 1080
+          },
+          {
+            "hex": "#fb542f",
+            "count": 917
+          },
+          {
+            "hex": "#f3798d",
+            "count": 857
+          },
+          {
+            "hex": "#ee8cc1",
+            "count": 18
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Chiara Rigato",
+        "url": "http://www.chiararigato.com/",
+        "body": {
+          "backgroundColor": "rgb(240, 136, 182)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "24px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(240, 136, 182)",
+          "fontFamily": "Times",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "sticky"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(255, 78, 27)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Ginto Nord Ultra\"",
+          "fontSize": "106.24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "132.8px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Chiara RigatoChiara Rigato",
+          "color": "rgb(255, 78, 27)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Ginto Nord Ultra\"",
+          "fontSize": "106.24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "132.8px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Ginto Nord Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Ginto Nord Ultra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "header",
+            "text": "Chiara RigatoChiara Rigato\n\t\t\tCiao, I am a multimedia creative based between Milan and Padua, working as a photographer ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Chiara RigatoChiara Rigato",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "CommissionsCommissions\n\n\tChic Nic x Vintage Festival 2019\n\tZonin Prosecco\n\tPalazzina Grassi\n\tBballroom Milano\n\tHilton Mu",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "CommissionsCommissions",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "CommissionsCommissions",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "CommissionsCommissions",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "EditorialsEditorials",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "EditorialsEditorials",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EditorialsEditorials",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Personal ProjectsPersonal Projects",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(240, 136, 182)",
+            "fontFamily": "Times",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Info & ContactsInfo & Contacts",
+            "color": "rgb(255, 78, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Ginto Nord Ultra\"",
+            "fontSize": "106.24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "132.8px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ee88b5",
+            "count": 15703
+          },
+          {
+            "hex": "#fe4d1a",
+            "count": 5950
+          },
+          {
+            "hex": "#f66964",
+            "count": 1412
+          },
+          {
+            "hex": "#f2798f",
+            "count": 890
+          },
+          {
+            "hex": "#f083a8",
+            "count": 671
+          },
+          {
+            "hex": "#fb542e",
+            "count": 660
+          },
+          {
+            "hex": "#f087b2",
+            "count": 299
+          },
+          {
+            "hex": "#ee8cc0",
+            "count": 15
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ee88b5",
+            "count": 15703
+          },
+          {
+            "hex": "#fe4d1a",
+            "count": 5950
+          },
+          {
+            "hex": "#f66964",
+            "count": 1412
+          },
+          {
+            "hex": "#f2798f",
+            "count": 890
+          },
+          {
+            "hex": "#f083a8",
+            "count": 671
+          },
+          {
+            "hex": "#fb542e",
+            "count": 660
+          },
+          {
+            "hex": "#f087b2",
+            "count": 299
+          },
+          {
+            "hex": "#ee8cc0",
+            "count": 15
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

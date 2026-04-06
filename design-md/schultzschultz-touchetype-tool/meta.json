@@ -1,0 +1,648 @@
+{
+  "slug": "schultzschultz-touchetype-tool",
+  "title": "Schultzschultz - ToucheType Tool",
+  "liveUrl": "https://schultzschultz.com/touchtype",
+  "domain": "schultzschultz.com",
+  "loadmoreUrl": "https://loadmo.re/posts/schultzschultz-touchetype-tool",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/schultzschultz-touchetype-tool",
+  "description": "Multi-touch interface for digital hand-lettering.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "typography",
+    "tactile",
+    "participative"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/schultzschultz-touchetype-tool/97bc825c72-1654263632/0323_schultzschultz-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/schultzschultz-touchetype-tool/ebadeb884a-1654263643/0323_schultzschultz-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:26:16.005Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Schultzschultz - Login - Schultzschultz",
+        "url": "https://schultzschultz.com/login/?redirect_to=https%3A%2F%2Fschultzschultz.com%2Ftouchtype",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(51, 51, 51)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "34px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Only fill in if you are not human\n\t\t\n\t\n\t\n\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t Keep me signed in\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "26px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "34px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Forgot your password?",
+          "color": "rgb(136, 136, 136)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "strokeWeight VAR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "strokeWeight VAR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "raty",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ionicons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Only fill in if you are not human\n\t\t\n\t\n\t\n\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t Keep me signed in\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "26px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "34px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "160px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "160px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "160px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "160px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "1.4px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Forgot your password?",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Sign up here",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "26px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "34px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sign up here",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25210
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 100
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 80
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 63
+          },
+          {
+            "hex": "#ababab",
+            "count": 51
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 47
+          },
+          {
+            "hex": "#939393",
+            "count": 35
+          },
+          {
+            "hex": "#717171",
+            "count": 14
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25210
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 100
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 80
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 63
+          },
+          {
+            "hex": "#ababab",
+            "count": 51
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 47
+          },
+          {
+            "hex": "#939393",
+            "count": 35
+          },
+          {
+            "hex": "#717171",
+            "count": 14
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Schultzschultz - Login - Schultzschultz",
+        "url": "https://schultzschultz.com/login/?redirect_to=https%3A%2F%2Fschultzschultz.com%2Ftouchtype",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(51, 51, 51)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Only fill in if you are not human\n\t\t\n\t\n\t\n\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t Keep me signed in\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Forgot your password?",
+          "color": "rgb(136, 136, 136)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"strokeWeight VAR\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "strokeWeight VAR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "strokeWeight VAR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "raty",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ionicons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Only fill in if you are not human\n\t\t\n\t\n\t\n\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t Keep me signed in\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "105px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "105px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "105px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "105px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "50px",
+            "boxShadow": "none",
+            "letterSpacing": "1.4px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Forgot your password?",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Sign up here",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sign up here",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"strokeWeight VAR\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24131
+          },
+          {
+            "hex": "#b9b9b9",
+            "count": 446
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 255
+          },
+          {
+            "hex": "#989898",
+            "count": 220
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 211
+          },
+          {
+            "hex": "#626262",
+            "count": 165
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 154
+          },
+          {
+            "hex": "#383838",
+            "count": 18
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24131
+          },
+          {
+            "hex": "#b9b9b9",
+            "count": 446
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 255
+          },
+          {
+            "hex": "#989898",
+            "count": 220
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 211
+          },
+          {
+            "hex": "#626262",
+            "count": 165
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 154
+          },
+          {
+            "hex": "#383838",
+            "count": 18
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

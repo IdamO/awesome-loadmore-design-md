@@ -1,0 +1,433 @@
+{
+  "slug": "haha-services",
+  "title": "HAHA Services",
+  "liveUrl": "https://haha.services/",
+  "domain": "haha.services",
+  "loadmoreUrl": "https://loadmo.re/posts/haha-services",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/haha-services",
+  "description": "Playful touch interaction.",
+  "credits": "John Provencher",
+  "added": "",
+  "tags": [
+    "tactile",
+    "typography",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/haha-services/8b678c6b41-1657198996/0345_hahaservices-home-min-0-00-04-22-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/haha-services/95b115fe2f-1657199010/0345_hahaservices-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:12:28.575Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "haahhahahahha",
+        "url": "https://haha.services/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "( drag to move )",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "helvetica",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "980px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "follow\n    ( drag to move )\n    email\n        ( drag to move )\n        ( drag to move )",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "follow",
+          "color": "rgb(1, 1, 1)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "56px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "2px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "follow\n    ( drag to move )\n    email\n        ( drag to move )\n        ( drag to move )",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "follow",
+            "color": "rgb(1, 1, 1)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "56px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "( drag to move )",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "email",
+            "color": "rgb(127, 127, 127)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "56px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "( drag to move )",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "helvetica",
+            "fontSize": "25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "980px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 22780
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 817
+          },
+          {
+            "hex": "#606060",
+            "count": 596
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 374
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 309
+          },
+          {
+            "hex": "#676767",
+            "count": 299
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 236
+          },
+          {
+            "hex": "#323232",
+            "count": 189
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 22780
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 817
+          },
+          {
+            "hex": "#606060",
+            "count": 596
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 374
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 309
+          },
+          {
+            "hex": "#676767",
+            "count": 299
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 236
+          },
+          {
+            "hex": "#323232",
+            "count": 189
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "haahhahahahha",
+        "url": "https://haha.services/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "( drag to move )",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "helvetica",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "650.72px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "follow\n    ( drag to move )\n    email\n        ( drag to move )\n        ( drag to move )",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "follow",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "29px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "2px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "follow\n    ( drag to move )\n    email\n        ( drag to move )\n        ( drag to move )",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "follow",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "29px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "email",
+            "color": "rgb(128, 128, 128)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "29px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "( drag to move )",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "helvetica",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "650.72px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 21934
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 1003
+          },
+          {
+            "hex": "#1f1f1f",
+            "count": 688
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 641
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 437
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 343
+          },
+          {
+            "hex": "#676767",
+            "count": 301
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 253
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 21934
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 1003
+          },
+          {
+            "hex": "#1f1f1f",
+            "count": 688
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 641
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 437
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 343
+          },
+          {
+            "hex": "#676767",
+            "count": 301
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 253
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

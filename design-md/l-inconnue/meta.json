@@ -1,0 +1,387 @@
+{
+  "slug": "l-inconnue",
+  "title": "L'inconnue",
+  "liveUrl": "http://linconnue.biz",
+  "domain": "linconnue.biz",
+  "loadmoreUrl": "https://loadmo.re/posts/l-inconnue",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/l-inconnue",
+  "description": "Poetic and minimalist website for this contemporary art Gallery with anamorphic homepage.",
+  "credits": "Erin Knutson, Tim Ripper",
+  "added": "",
+  "tags": [
+    "tactile",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/l-inconnue/17d9c2aedf-1606936645/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/l-inconnue/81d2b8fba1-1598788730/016-linconnue_v03.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:16:34.426Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Access Denied",
+        "url": "https://www.searchhounds.com/articles/din-tai-fung-legendary-dumplings-from-taiwan.html?psystem=PW&domain=linconnue.biz&oref=http%3A%2F%2Flinconnue.biz%2F&trafficTarget=gd",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Access Denied",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Reference #18.ecf12417.1775506574.dd6885e2",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Access Denied\n \nYou don't have permission to access \"http://www.searchhounds.com/articles/din-tai-fung-legendary-dumplin",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Access Denied",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Reference #18.ecf12417.1775506574.dd6885e2",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "https://errors.edgesuite.net/18.ecf12417.1775506574.dd6885e2",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25035
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 185
+          },
+          {
+            "hex": "#aeaeae",
+            "count": 117
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 82
+          },
+          {
+            "hex": "#979797",
+            "count": 82
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 69
+          },
+          {
+            "hex": "#6e6e6e",
+            "count": 29
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25035
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 185
+          },
+          {
+            "hex": "#aeaeae",
+            "count": 117
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 82
+          },
+          {
+            "hex": "#979797",
+            "count": 82
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 69
+          },
+          {
+            "hex": "#6e6e6e",
+            "count": 29
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Access Denied",
+        "url": "https://www.searchhounds.com/articles/din-tai-fung-legendary-dumplings-from-taiwan.html?psystem=PW&domain=linconnue.biz&oref=http%3A%2F%2Flinconnue.biz%2F&trafficTarget=gd",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Access Denied",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Reference #18.ecf12417.1775506585.dd6ae9b5",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Access Denied\n \nYou don't have permission to access \"http://www.searchhounds.com/articles/din-tai-fung-legendary-dumplin",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Access Denied",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Reference #18.ecf12417.1775506585.dd6ae9b5",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "https://errors.edgesuite.net/18.ecf12417.1775506585.dd6ae9b5",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25108
+          },
+          {
+            "hex": "#e9e9e9",
+            "count": 136
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 130
+          },
+          {
+            "hex": "#c5c5c5",
+            "count": 88
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 69
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 53
+          },
+          {
+            "hex": "#6e6e6e",
+            "count": 13
+          },
+          {
+            "hex": "#343434",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25108
+          },
+          {
+            "hex": "#e9e9e9",
+            "count": 136
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 130
+          },
+          {
+            "hex": "#c5c5c5",
+            "count": 88
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 69
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 53
+          },
+          {
+            "hex": "#6e6e6e",
+            "count": 13
+          },
+          {
+            "hex": "#343434",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

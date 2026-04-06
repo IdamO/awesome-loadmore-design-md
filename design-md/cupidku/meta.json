@@ -1,0 +1,197 @@
+{
+  "slug": "cupidku",
+  "title": "Cupidku",
+  "liveUrl": "https://cupidku.com/upload",
+  "domain": "cupidku.com",
+  "loadmoreUrl": "https://loadmo.re/posts/cupidku",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/cupidku",
+  "description": "Upload a picture of someone you cherish and Cupidku will generate a haiku love poem based on the image.",
+  "credits": "Lex Fefegha",
+  "added": "",
+  "tags": [
+    "participative",
+    "playful",
+    "ai&generative"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/cupidku/0e5859271d-1719043793/0003-cupidku-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/cupidku/d94cddfb95-1719043826/0003-cupidku-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:07:10.721Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://cupidku.com/upload\nCall log:\n\u001b[2m  - navigating to \"https://cupidku.com/upload\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#ef7689",
+            "count": 12457
+          },
+          {
+            "hex": "#f1fdc7",
+            "count": 9864
+          },
+          {
+            "hex": "#e7d9b3",
+            "count": 1228
+          },
+          {
+            "hex": "#eb9b98",
+            "count": 1115
+          },
+          {
+            "hex": "#0b0c09",
+            "count": 298
+          },
+          {
+            "hex": "#878e74",
+            "count": 243
+          },
+          {
+            "hex": "#a9b28c",
+            "count": 231
+          },
+          {
+            "hex": "#5f3137",
+            "count": 164
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ef7689",
+            "count": 12457
+          },
+          {
+            "hex": "#f1fdc7",
+            "count": 9864
+          },
+          {
+            "hex": "#e7d9b3",
+            "count": 1228
+          },
+          {
+            "hex": "#eb9b98",
+            "count": 1115
+          },
+          {
+            "hex": "#0b0c09",
+            "count": 298
+          },
+          {
+            "hex": "#878e74",
+            "count": 243
+          },
+          {
+            "hex": "#a9b28c",
+            "count": 231
+          },
+          {
+            "hex": "#5f3137",
+            "count": 164
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/cupidku/0e5859271d-1719043793/0003-cupidku-cover-hp-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://cupidku.com/upload\nCall log:\n\u001b[2m  - navigating to \"https://cupidku.com/upload\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#ef7689",
+            "count": 12457
+          },
+          {
+            "hex": "#f1fdc7",
+            "count": 9864
+          },
+          {
+            "hex": "#e7d9b3",
+            "count": 1228
+          },
+          {
+            "hex": "#eb9b98",
+            "count": 1115
+          },
+          {
+            "hex": "#0b0c09",
+            "count": 298
+          },
+          {
+            "hex": "#878e74",
+            "count": 243
+          },
+          {
+            "hex": "#a9b28c",
+            "count": 231
+          },
+          {
+            "hex": "#5f3137",
+            "count": 164
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ef7689",
+            "count": 12457
+          },
+          {
+            "hex": "#f1fdc7",
+            "count": 9864
+          },
+          {
+            "hex": "#e7d9b3",
+            "count": 1228
+          },
+          {
+            "hex": "#eb9b98",
+            "count": 1115
+          },
+          {
+            "hex": "#0b0c09",
+            "count": 298
+          },
+          {
+            "hex": "#878e74",
+            "count": 243
+          },
+          {
+            "hex": "#a9b28c",
+            "count": 231
+          },
+          {
+            "hex": "#5f3137",
+            "count": 164
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/cupidku/0e5859271d-1719043793/0003-cupidku-cover-hp-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:33.137Z"
+  }
+}

@@ -1,0 +1,4728 @@
+{
+  "slug": "cormio",
+  "title": "Cormio",
+  "liveUrl": "https://cormio.com/",
+  "domain": "cormio.com",
+  "loadmoreUrl": "https://loadmo.re/posts/cormio",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/cormio",
+  "description": "Minimalist yet unconventional e-shop: just a grid of products and product page with big buttons, and a fullscreen pic in the background.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "minimal",
+    "e-commerce",
+    "fashion"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/cormio/5f7f7cfe39-1740801832/cormio-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/cormio/6ae6527d16-1740801895/cormio-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:07:18.715Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "CORMIO",
+        "url": "https://cormio.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "18px",
+          "lineHeight": "27px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "25px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(105, 114, 123)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(61, 66, 70)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "27px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "DeVinne",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "450",
+            "status": "loaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Abril Fatface",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Abril Fatface",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Allerta",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Amaranth",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Arvo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Berkshire Swash",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Berkshire Swash",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ceviche One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ceviche One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Chewy",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Domine",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Domine",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Frijole",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Josefin Slab",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Kaushan Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Kaushan Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Knewave",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Knewave",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lato",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lato",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Libre Baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Libre Baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oleo Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oleo Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Passion One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Passion One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Permanent Marker",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poly",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poly",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Radley",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Radley",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Righteous",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Righteous",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Titillium Web",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Titillium Web",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');\n\n\n\n\n\n\n\n\n\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "×\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\n\n    \n      \n        \n          \n            \n  \n  \n  \n\n\n          \n        \n      \n\n      \n      \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Log in",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "0",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "35px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Login",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "I forgot",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "REGISTER",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "privacy policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "legal T&C",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(105, 114, 123)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "35px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(61, 66, 70)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "main",
+            "text": "{\n    \"productId\": null\n    , \"collectionId\": null\n    , \"secureToken\": null\n  }\n  \n   \n\t\t\n\t\t\t\n\t\t\t\tSS23\n\t\t\t\n\t\t\n\t\t\n\t\n\n\n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "BROOKE DRESS\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cla",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "BROOKE DRESS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "BROOKE DRESS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Fairy Godmother T-shirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Fairy Godmother T-shirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Fairy Godmother T-shirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Jade Jumpsuit\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cl",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Jade Jumpsuit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Jade Jumpsuit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Damagoj Linen Sweater\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n   ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Damagoj Linen Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Damagoj Linen Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Heidi Top\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img class=",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Heidi Top",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Heidi Top",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Chiara Cotton Skirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Chiara Cotton Skirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Chiara Cotton Skirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Mali Pinocchietto Jeans\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Mali Pinocchietto Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Mali Pinocchietto Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Josefine Corset T-shirt Dress\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Josefine Corset T-shirt Dress",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Josefine Corset T-shirt Dress",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Amanda Jeans\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cla",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Amanda Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Amanda Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Oma Cotton Sweater\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <i",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Oma Cotton Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Oma Cotton Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Michelle Sweathshirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Michelle Sweathshirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#faf8f8",
+            "count": 15523
+          },
+          {
+            "hex": "#282521",
+            "count": 2843
+          },
+          {
+            "hex": "#696357",
+            "count": 2761
+          },
+          {
+            "hex": "#a69f9a",
+            "count": 1774
+          },
+          {
+            "hex": "#979670",
+            "count": 1231
+          },
+          {
+            "hex": "#d4abaf",
+            "count": 743
+          },
+          {
+            "hex": "#857768",
+            "count": 370
+          },
+          {
+            "hex": "#4b4839",
+            "count": 355
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#faf8f8",
+            "count": 15523
+          },
+          {
+            "hex": "#282521",
+            "count": 2843
+          },
+          {
+            "hex": "#696357",
+            "count": 2761
+          },
+          {
+            "hex": "#a69f9a",
+            "count": 1774
+          },
+          {
+            "hex": "#979670",
+            "count": 1231
+          },
+          {
+            "hex": "#d4abaf",
+            "count": 743
+          },
+          {
+            "hex": "#857768",
+            "count": 370
+          },
+          {
+            "hex": "#4b4839",
+            "count": 355
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "CORMIO",
+        "url": "https://cormio.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "13px",
+          "lineHeight": "19.5px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "25px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(105, 114, 123)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(61, 66, 70)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "DeVinne",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.5px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "DeVinne",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Abril Fatface",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Abril Fatface",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Allerta",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Amaranth",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Anton",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Arvo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Berkshire Swash",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Berkshire Swash",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bitter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Caveat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ceviche One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ceviche One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Chewy",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Comfortaa",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Crimson Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Domine",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Domine",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Dosis",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Frijole",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Heebo",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Josefin Slab",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Kaushan Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Kaushan Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Knewave",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Knewave",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lato",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lato",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Libre Baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Libre Baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Lobster",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Old Standard TT",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oleo Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oleo Script",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Open Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PT Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pacifico",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Passion One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Passion One",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Permanent Marker",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Playfair Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poly",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poly",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Quicksand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Radley",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Radley",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Raleway",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Righteous",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Righteous",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Shrikhand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Titillium Web",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Titillium Web",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ubuntu",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Vollkorn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');\n\n\n\n\n\n\n\n\n\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "×\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\n\n    \n      \n        \n          \n            \n  \n  \n  \n\n\n          \n        \n      \n\n      \n      \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Log in",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "0",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "14px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "35px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Login",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "I forgot",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "REGISTER",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "privacy policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "legal T&C",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(105, 114, 123)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "35px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(61, 66, 70)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "main",
+            "text": "{\n    \"productId\": null\n    , \"collectionId\": null\n    , \"secureToken\": null\n  }\n  \n   \n\t\t\n\t\t\t\n\t\t\t\tSS23\n\t\t\t\n\t\t\n\t\t\n\t\n\n\n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "BROOKE DRESS\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cla",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "BROOKE DRESS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "BROOKE DRESS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Fairy Godmother T-shirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Fairy Godmother T-shirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Fairy Godmother T-shirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Jade Jumpsuit\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cl",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Jade Jumpsuit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Jade Jumpsuit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Damagoj Linen Sweater\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n   ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Damagoj Linen Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Damagoj Linen Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Heidi Top\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img class=",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Heidi Top",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Heidi Top",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Chiara Cotton Skirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Chiara Cotton Skirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Chiara Cotton Skirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Mali Pinocchietto Jeans\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Mali Pinocchietto Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Mali Pinocchietto Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Josefine Corset T-shirt Dress\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Josefine Corset T-shirt Dress",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Josefine Corset T-shirt Dress",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Amanda Jeans\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <img cla",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Amanda Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Amanda Jeans",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Oma Cotton Sweater\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    <i",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Oma Cotton Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Oma Cotton Sweater",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Michelle Sweathshirt\n  \n\n  \n\n    \n\n      \n\n      \n      \n\n        \n\n      \n\n\n      \n\n      \n\n    \n    \n  \n\n  \n    \n\n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Michelle Sweathshirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "DeVinne",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Michelle Sweathshirt",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "DeVinne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfb",
+            "count": 18610
+          },
+          {
+            "hex": "#a19e9c",
+            "count": 2017
+          },
+          {
+            "hex": "#69645b",
+            "count": 1904
+          },
+          {
+            "hex": "#23211f",
+            "count": 1759
+          },
+          {
+            "hex": "#968c72",
+            "count": 628
+          },
+          {
+            "hex": "#867868",
+            "count": 333
+          },
+          {
+            "hex": "#dbadae",
+            "count": 223
+          },
+          {
+            "hex": "#4a453a",
+            "count": 126
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfb",
+            "count": 18610
+          },
+          {
+            "hex": "#a19e9c",
+            "count": 2017
+          },
+          {
+            "hex": "#69645b",
+            "count": 1904
+          },
+          {
+            "hex": "#23211f",
+            "count": 1759
+          },
+          {
+            "hex": "#968c72",
+            "count": 628
+          },
+          {
+            "hex": "#867868",
+            "count": 333
+          },
+          {
+            "hex": "#dbadae",
+            "count": 223
+          },
+          {
+            "hex": "#4a453a",
+            "count": 126
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "slug": "noko-studio",
+  "title": "Noko Studio",
+  "liveUrl": "https://noko.st/",
+  "domain": "noko.st",
+  "loadmoreUrl": "https://loadmo.re/posts/noko-studio",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/noko-studio",
+  "description": "Ultra lightweight, super simple studio landing page featuring a silly interactive logo experiment.",
+  "credits": "Noko Studio",
+  "added": "",
+  "tags": [
+    "playful",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/noko-studio/5065ba0d52-1723186921/00020_noko-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/noko-studio/5c8766f3c1-1723186958/00020_noko-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:49.963Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "noko • computational design studio",
+        "url": "https://noko.st/",
+        "body": {
+          "backgroundColor": "color(display-p3 1 1 1)",
+          "color": "color(display-p3 0 0 0)",
+          "fontFamily": "Tex",
+          "fontSize": "33.6px",
+          "lineHeight": "35.28px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "noko",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "33.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "35.28px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "noko  ( en ) Work  Studio  Say hi     noko  noko is a value-driven computational design studio.\n      based in amsterdam",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "color(display-p3 1 1 1)",
+          "fontFamily": "Tex",
+          "fontSize": "33.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "35.28px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "( en )",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "33.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "30.24px",
+          "display": "inline-flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "noko",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "33.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "35.28px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Tex",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Tex",
+            "style": "italic",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "noko  ( en ) Work  Studio  Say hi     noko  noko is a value-driven computational design studio.\n      based in amsterdam",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "color(display-p3 1 1 1)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "noko  ( en ) Work  Studio  Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "noko",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "noko",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( en )",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30.24px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Work  Studio  Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Work",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Studio",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "noko",
+            "color": "color(display-p3 1 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "360px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-12.6px",
+            "lineHeight": "360px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "noko is a value-driven computational design studio.\n      based in amsterdam, with norwegian roots. small, but versatile",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "noko is a value-driven computational design studio.\n      based in amsterdam, with norwegian roots. small, but versatile",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "(?)",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "33.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24743
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 418
+          },
+          {
+            "hex": "#6b6b6b",
+            "count": 330
+          },
+          {
+            "hex": "#9ef99e",
+            "count": 66
+          },
+          {
+            "hex": "#69f869",
+            "count": 36
+          },
+          {
+            "hex": "#31f831",
+            "count": 4
+          },
+          {
+            "hex": "#3e3e3e",
+            "count": 2
+          },
+          {
+            "hex": "#80f87f",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24743
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 418
+          },
+          {
+            "hex": "#6b6b6b",
+            "count": 330
+          },
+          {
+            "hex": "#9ef99e",
+            "count": 66
+          },
+          {
+            "hex": "#69f869",
+            "count": 36
+          },
+          {
+            "hex": "#31f831",
+            "count": 4
+          },
+          {
+            "hex": "#3e3e3e",
+            "count": 2
+          },
+          {
+            "hex": "#80f87f",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "noko • computational design studio",
+        "url": "https://noko.st/",
+        "body": {
+          "backgroundColor": "color(display-p3 1 1 1)",
+          "color": "color(display-p3 0 0 0)",
+          "fontFamily": "Tex",
+          "fontSize": "21.45px",
+          "lineHeight": "22.5225px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "noko",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "21.45px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5225px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "noko  ( en ) Work  Studio  Say hi     noko  noko is a value-driven computational design studio.\n      based in amsterdam",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "color(display-p3 1 1 1)",
+          "fontFamily": "Tex",
+          "fontSize": "21.45px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5225px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "( en )",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "21.45px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.305px",
+          "display": "inline-flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "noko",
+          "color": "color(display-p3 0 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Tex",
+          "fontSize": "21.45px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5225px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Tex",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Tex",
+            "style": "italic",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "noko  ( en ) Work  Studio  Say hi     noko  noko is a value-driven computational design studio.\n      based in amsterdam",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "color(display-p3 1 1 1)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "noko  ( en ) Work  Studio  Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "color(display-p3 1 1 1 / 0.925)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "noko",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "noko",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( en )",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.305px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Work  Studio  Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Work",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Studio",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Say hi",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "color(display-p3 0 1 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "noko",
+            "color": "color(display-p3 0 0 1)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "97.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-3.4125px",
+            "lineHeight": "97.5px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "noko is a value-driven computational design studio.\n      based in amsterdam, with norwegian roots. small, but versatile",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "noko is a value-driven computational design studio.\n      based in amsterdam, with norwegian roots. small, but versatile",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "(?)",
+            "color": "color(display-p3 0 0 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Tex",
+            "fontSize": "21.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5225px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24868
+          },
+          {
+            "hex": "#e7ebe7",
+            "count": 487
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 112
+          },
+          {
+            "hex": "#606060",
+            "count": 72
+          },
+          {
+            "hex": "#2e2e2e",
+            "count": 49
+          },
+          {
+            "hex": "#98f998",
+            "count": 7
+          },
+          {
+            "hex": "#4cf94e",
+            "count": 3
+          },
+          {
+            "hex": "#26f927",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24868
+          },
+          {
+            "hex": "#e7ebe7",
+            "count": 487
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 112
+          },
+          {
+            "hex": "#606060",
+            "count": 72
+          },
+          {
+            "hex": "#2e2e2e",
+            "count": 49
+          },
+          {
+            "hex": "#98f998",
+            "count": 7
+          },
+          {
+            "hex": "#4cf94e",
+            "count": 3
+          },
+          {
+            "hex": "#26f927",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

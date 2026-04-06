@@ -1,0 +1,526 @@
+{
+  "slug": "new-dawn",
+  "title": "New Dawn",
+  "liveUrl": "https://newdawn.digital/",
+  "domain": "newdawn.digital",
+  "loadmoreUrl": "https://loadmo.re/posts/new-dawn",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/new-dawn",
+  "description": "Virtual exhibition with a cool digital identity.",
+  "credits": "Hongwei Tang Steffen Hotel",
+  "added": "",
+  "tags": [
+    "event"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/new-dawn/ea1e681fad-1744804832/newdawn-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/new-dawn/70c1d4f09d-1744804855/newdawn-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:07.260Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "New Dawn | Tools to Touch in Times Ahead",
+        "url": "https://newdawn.digital/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(254, 254, 254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+          "color": "rgb(254, 254, 254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "<img src=\"/assets/static/DAWN.427abe7.248e0737f438788274d5734fe1e65ade.png\" class=\"g-image g-image--loaded\" width=\"1332\"",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Enter Virtual Space",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgb(132, 109, 239)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "20.8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "72px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#dddbdc",
+            "count": 19010
+          },
+          {
+            "hex": "#a9aaab",
+            "count": 3670
+          },
+          {
+            "hex": "#846dee",
+            "count": 942
+          },
+          {
+            "hex": "#aea8da",
+            "count": 889
+          },
+          {
+            "hex": "#cbc4bb",
+            "count": 330
+          },
+          {
+            "hex": "#bac3c9",
+            "count": 276
+          },
+          {
+            "hex": "#c5b9b4",
+            "count": 257
+          },
+          {
+            "hex": "#686261",
+            "count": 226
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#dddbdc",
+            "count": 19010
+          },
+          {
+            "hex": "#a9aaab",
+            "count": 3670
+          },
+          {
+            "hex": "#846dee",
+            "count": 942
+          },
+          {
+            "hex": "#aea8da",
+            "count": 889
+          },
+          {
+            "hex": "#cbc4bb",
+            "count": 330
+          },
+          {
+            "hex": "#bac3c9",
+            "count": 276
+          },
+          {
+            "hex": "#c5b9b4",
+            "count": 257
+          },
+          {
+            "hex": "#686261",
+            "count": 226
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "New Dawn | Tools to Touch in Times Ahead",
+        "url": "https://newdawn.digital/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(254, 254, 254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+          "color": "rgb(254, 254, 254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Monument Grotesk\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Monument Grotesk",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "<img src=\"/assets/static/NEW.427abe7.b1f556108cd58c629d94d9d6e1c46e0a.png\" class=\"g-image g-image--loaded\" width=\"1332\">",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "<img src=\"/assets/static/DAWN.427abe7.248e0737f438788274d5734fe1e65ade.png\" class=\"g-image g-image--loaded\" width=\"1332\"",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Enter Virtual Space",
+            "color": "rgb(254, 254, 254)",
+            "backgroundColor": "rgb(132, 109, 239)",
+            "fontFamily": "\"Monument Grotesk\", sans-serif",
+            "fontSize": "25.495px",
+            "fontWeight": "400",
+            "borderRadius": "20.8px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "38.2425px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e1e0e1",
+            "count": 21311
+          },
+          {
+            "hex": "#836cee",
+            "count": 1575
+          },
+          {
+            "hex": "#acadaf",
+            "count": 1264
+          },
+          {
+            "hex": "#ada5e0",
+            "count": 829
+          },
+          {
+            "hex": "#c3c2bd",
+            "count": 207
+          },
+          {
+            "hex": "#7e66ee",
+            "count": 192
+          },
+          {
+            "hex": "#b9c3cb",
+            "count": 130
+          },
+          {
+            "hex": "#c3bdd3",
+            "count": 92
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e1e0e1",
+            "count": 21311
+          },
+          {
+            "hex": "#836cee",
+            "count": 1575
+          },
+          {
+            "hex": "#acadaf",
+            "count": 1264
+          },
+          {
+            "hex": "#ada5e0",
+            "count": 829
+          },
+          {
+            "hex": "#c3c2bd",
+            "count": 207
+          },
+          {
+            "hex": "#7e66ee",
+            "count": 192
+          },
+          {
+            "hex": "#b9c3cb",
+            "count": 130
+          },
+          {
+            "hex": "#c3bdd3",
+            "count": 92
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "slug": "lucy-hard-castle",
+  "title": "Lucy Hard Castle",
+  "liveUrl": "https://lucyhardcastle.com/",
+  "domain": "lucyhardcastle.com",
+  "loadmoreUrl": "https://loadmo.re/posts/lucy-hard-castle",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/lucy-hard-castle",
+  "description": "A poetic portfolio that welcomes you with a virtual/abstract 3D landscape.",
+  "credits": "Lucy Hardcastle Studio, DxR Zone, Haxiomic / George Corney, Jess Mae, Oli Easte",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "3d-space"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/lucy-hard-castle/ef703772bc-1607343605/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/lucy-hard-castle/46f3b01c63-1607343646/lucy-hardcastle-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:17:46.843Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Lucy Hardcastle Studio",
+        "url": "https://lucyhardcastle.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "kormelink, times, sans-serif",
+          "fontSize": "18.6667px",
+          "lineHeight": "29.8667px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "kormelink, times, sans-serif",
+          "fontSize": "18.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.8667px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "kormelink, helvetica, sans-serif",
+          "fontSize": "18.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.8667px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "kormelink, helvetica, sans-serif",
+          "fontSize": "18.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.8667px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "kormelink",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "kormelink",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "gt-america",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "lhs-headline-extended",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "LHSHeadlineExtended",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "WT_Kormelink_Roman",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "WT_Kormelink_Italic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-America-Standard-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "kormelink, times, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Enter Site",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Lab",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Approach",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Reel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Team",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.8667px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25518
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 26
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 21
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 11
+          },
+          {
+            "hex": "#d6d6d6",
+            "count": 11
+          },
+          {
+            "hex": "#b4b4b4",
+            "count": 9
+          },
+          {
+            "hex": "#9a9a9a",
+            "count": 3
+          },
+          {
+            "hex": "#8f8f8f",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25518
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 26
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 21
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 11
+          },
+          {
+            "hex": "#d6d6d6",
+            "count": 11
+          },
+          {
+            "hex": "#b4b4b4",
+            "count": 9
+          },
+          {
+            "hex": "#9a9a9a",
+            "count": 3
+          },
+          {
+            "hex": "#8f8f8f",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Lucy Hardcastle Studio",
+        "url": "https://lucyhardcastle.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "kormelink, times, sans-serif",
+          "fontSize": "14.6667px",
+          "lineHeight": "16.8667px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "kormelink, times, sans-serif",
+          "fontSize": "14.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.8667px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "kormelink, helvetica, sans-serif",
+          "fontSize": "14.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.8667px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "kormelink, helvetica, sans-serif",
+          "fontSize": "14.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.8667px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "kormelink",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "kormelink",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "gt-america",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "lhs-headline-extended",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "LHSHeadlineExtended",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "WT_Kormelink_Roman",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "WT_Kormelink_Italic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-America-Standard-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "kormelink, times, sans-serif",
+            "fontSize": "14.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": ".logo__frame {\n\t\tdisplay: none;\n\t}\n\n\t.logo__frame--active {\n\t\tdisplay: block;\n\t}\n\n\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n\n\t\n\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "14.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8667px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Enter Site",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "18.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.0833px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "14.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8667px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "kormelink, helvetica, sans-serif",
+            "fontSize": "14.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8667px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Lab",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Approach",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Reel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Team",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt-america, helvetica, sans-serif",
+            "fontSize": "23.4667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5467px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfcfc",
+            "count": 25332
+          },
+          {
+            "hex": "#a5a5a6",
+            "count": 68
+          },
+          {
+            "hex": "#d8d8d9",
+            "count": 54
+          },
+          {
+            "hex": "#d1d1d2",
+            "count": 44
+          },
+          {
+            "hex": "#626364",
+            "count": 43
+          },
+          {
+            "hex": "#e6e6e7",
+            "count": 41
+          },
+          {
+            "hex": "#343534",
+            "count": 14
+          },
+          {
+            "hex": "#bebec0",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfcfc",
+            "count": 25332
+          },
+          {
+            "hex": "#a5a5a6",
+            "count": 68
+          },
+          {
+            "hex": "#d8d8d9",
+            "count": 54
+          },
+          {
+            "hex": "#d1d1d2",
+            "count": 44
+          },
+          {
+            "hex": "#626364",
+            "count": 43
+          },
+          {
+            "hex": "#e6e6e7",
+            "count": 41
+          },
+          {
+            "hex": "#343534",
+            "count": 14
+          },
+          {
+            "hex": "#bebec0",
+            "count": 4
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

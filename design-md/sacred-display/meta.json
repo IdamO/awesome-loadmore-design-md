@@ -1,0 +1,708 @@
+{
+  "slug": "sacred-display",
+  "title": "Sacred Display",
+  "liveUrl": "https://sacred.display.cz/",
+  "domain": "sacred.display.cz",
+  "loadmoreUrl": "https://loadmo.re/posts/sacred-display",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/sacred-display",
+  "description": "This 3D gallery is called",
+  "credits": "The Rodina",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "arts&culture",
+    "digital-exhibition"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/sacred-display/c039b2788f-1606939715/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/sacred-display/e0936cd872-1606731767/sacred-display.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:25:23.570Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Technologies of the Sacred",
+        "url": "https://sacred.display.cz/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+          "fontSize": "19px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Modernita je pokračování sakrálních tendencí jiným způsobem",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "pyramidstitle",
+          "fontSize": "72px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "60.48px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "display association for research and collective practiceInfoen/csModernita je pokračování sakrálních tendencí jiným způs",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+          "fontSize": "19px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "display association for research and collective practice",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "youth",
+          "fontSize": "29.45px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1.4725px",
+          "lineHeight": "28.272px",
+          "display": "inline",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "life",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "life",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "youth",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "pyramidstitle",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "display association for research and collective practiceInfoen/csModernita je pokračování sakrálních tendencí jiným způs",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "display association for research and collective practice",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "29.45px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.4725px",
+            "lineHeight": "28.272px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "en",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "28.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cs",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "28.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Modernita je pokračování sakrálních tendencí jiným způsobemÚvod do Technologií posvátnaLukáš Likavčan & Hana JanečkováNá",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Modernita je pokračování sakrálních tendencí jiným způsobem",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "72px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "60.48px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Technologie posvátnaOnline výstavaAndrás Cséfalvay, Alice dos Reis, Halima Haruna, Holly Childs Danae Io, Adéla Součková",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Technologie posvátna",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "72px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "60.48px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Co když je technologie modlitba?Interview s K Allado-McDowellDanae IoK Allado-McDowell je jednou z vůdčích osob programu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Co když je technologie modlitba?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "72px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "60.48px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Technika a Magie: ÚvodFederico CampagnaTato kniha je určena těm, kteří byli poraženi dějinami i přítomností. Nemá být ma",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Technika a Magie: Úvod",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "72px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "60.48px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 19278
+          },
+          {
+            "hex": "#636363",
+            "count": 1616
+          },
+          {
+            "hex": "#171717",
+            "count": 1043
+          },
+          {
+            "hex": "#373737",
+            "count": 851
+          },
+          {
+            "hex": "#272727",
+            "count": 829
+          },
+          {
+            "hex": "#474747",
+            "count": 817
+          },
+          {
+            "hex": "#999999",
+            "count": 796
+          },
+          {
+            "hex": "#dbdbdb",
+            "count": 370
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 19278
+          },
+          {
+            "hex": "#636363",
+            "count": 1616
+          },
+          {
+            "hex": "#171717",
+            "count": 1043
+          },
+          {
+            "hex": "#373737",
+            "count": 851
+          },
+          {
+            "hex": "#272727",
+            "count": 829
+          },
+          {
+            "hex": "#474747",
+            "count": 817
+          },
+          {
+            "hex": "#999999",
+            "count": 796
+          },
+          {
+            "hex": "#dbdbdb",
+            "count": 370
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Technologies of the Sacred",
+        "url": "https://sacred.display.cz/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Modernita je pokračování sakrálních tendencí jiným způsobem",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "pyramidstitle",
+          "fontSize": "42px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "35.28px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "display association for research and collective practiceInfoen/csModernita je pokračování sakrálních tendencí jiným způs",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "display association for research and collective practice",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "youth",
+          "fontSize": "21.7px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1.085px",
+          "lineHeight": "20.832px",
+          "display": "inline",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "life",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "life",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "youth",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "pyramidstitle",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "display association for research and collective practiceInfoen/csModernita je pokračování sakrálních tendencí jiným způs",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "display association for research and collective practice",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "21.7px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.085px",
+            "lineHeight": "20.832px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "en",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cs",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "youth",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Modernita je pokračování sakrálních tendencí jiným způsobemÚvod do Technologií posvátnaLukáš Likavčan & Hana JanečkováNá",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Modernita je pokračování sakrálních tendencí jiným způsobem",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Technologie posvátnaOnline výstavaAndrás Cséfalvay, Alice dos Reis, Halima Haruna, Holly Childs Danae Io, Adéla Součková",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Technologie posvátna",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Co když je technologie modlitba?Interview s K Allado-McDowellDanae IoK Allado-McDowell je jednou z vůdčích osob programu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Co když je technologie modlitba?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Technika a Magie: ÚvodFederico CampagnaTato kniha je určena těm, kteří byli poraženi dějinami i přítomností. Nemá být ma",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Life, -apple-system, \"Helvetica Neue\", arial, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Technika a Magie: Úvod",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "pyramidstitle",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.28px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 19067
+          },
+          {
+            "hex": "#656565",
+            "count": 1377
+          },
+          {
+            "hex": "#989898",
+            "count": 1280
+          },
+          {
+            "hex": "#161616",
+            "count": 1026
+          },
+          {
+            "hex": "#373737",
+            "count": 910
+          },
+          {
+            "hex": "#282828",
+            "count": 891
+          },
+          {
+            "hex": "#474747",
+            "count": 771
+          },
+          {
+            "hex": "#d3d3d3",
+            "count": 278
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 19067
+          },
+          {
+            "hex": "#656565",
+            "count": 1377
+          },
+          {
+            "hex": "#989898",
+            "count": 1280
+          },
+          {
+            "hex": "#161616",
+            "count": 1026
+          },
+          {
+            "hex": "#373737",
+            "count": 910
+          },
+          {
+            "hex": "#282828",
+            "count": 891
+          },
+          {
+            "hex": "#474747",
+            "count": 771
+          },
+          {
+            "hex": "#d3d3d3",
+            "count": 278
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

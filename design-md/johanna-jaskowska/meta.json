@@ -1,0 +1,206 @@
+{
+  "slug": "johanna-jaskowska",
+  "title": "Johanna Jaskowska",
+  "liveUrl": "https://johwska.com/",
+  "domain": "johwska.com",
+  "loadmoreUrl": "https://loadmo.re/posts/johanna-jaskowska",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/johanna-jaskowska",
+  "description": "Johwska is a 3D artist who mainly creates AR filters. This website introduces her approach.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "3d"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/johanna-jaskowska/794ea8cff0-1641386333/0308-johanna-jaskowska-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/johanna-jaskowska/8e8ada1fbb-1641386347/0308-johanna-jaskowska-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:16:30.071Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Johanna Jaskowska",
+        "url": "https://johwska.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": null,
+        "sticky": false,
+        "fonts": [],
+        "sample": [],
+        "colors": [
+          {
+            "hex": "#b8a6a2",
+            "count": 25516
+          },
+          {
+            "hex": "#c8bab8",
+            "count": 28
+          },
+          {
+            "hex": "#938b89",
+            "count": 24
+          },
+          {
+            "hex": "#cec0be",
+            "count": 23
+          },
+          {
+            "hex": "#857e7b",
+            "count": 5
+          },
+          {
+            "hex": "#88817e",
+            "count": 2
+          },
+          {
+            "hex": "#cfc2c0",
+            "count": 1
+          },
+          {
+            "hex": "#7b7572",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#b8a6a2",
+            "count": 25516
+          },
+          {
+            "hex": "#c8bab8",
+            "count": 28
+          },
+          {
+            "hex": "#938b89",
+            "count": 24
+          },
+          {
+            "hex": "#cec0be",
+            "count": 23
+          },
+          {
+            "hex": "#857e7b",
+            "count": 5
+          },
+          {
+            "hex": "#88817e",
+            "count": 2
+          },
+          {
+            "hex": "#cfc2c0",
+            "count": 1
+          },
+          {
+            "hex": "#7b7572",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Johanna Jaskowska",
+        "url": "https://johwska.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": null,
+        "sticky": false,
+        "fonts": [],
+        "sample": [],
+        "colors": [
+          {
+            "hex": "#b7a5a1",
+            "count": 25209
+          },
+          {
+            "hex": "#c7b9b6",
+            "count": 144
+          },
+          {
+            "hex": "#d7ccc9",
+            "count": 141
+          },
+          {
+            "hex": "#a19896",
+            "count": 47
+          },
+          {
+            "hex": "#716c6a",
+            "count": 41
+          },
+          {
+            "hex": "#827b7a",
+            "count": 14
+          },
+          {
+            "hex": "#cdc2bf",
+            "count": 2
+          },
+          {
+            "hex": "#88807e",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#b7a5a1",
+            "count": 25209
+          },
+          {
+            "hex": "#c7b9b6",
+            "count": 144
+          },
+          {
+            "hex": "#d7ccc9",
+            "count": 141
+          },
+          {
+            "hex": "#a19896",
+            "count": 47
+          },
+          {
+            "hex": "#716c6a",
+            "count": 41
+          },
+          {
+            "hex": "#827b7a",
+            "count": 14
+          },
+          {
+            "hex": "#cdc2bf",
+            "count": 2
+          },
+          {
+            "hex": "#88807e",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

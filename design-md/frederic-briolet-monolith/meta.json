@@ -1,0 +1,537 @@
+{
+  "slug": "frederic-briolet-monolith",
+  "title": "Frederic Briolet Monolith",
+  "liveUrl": "https://fredericbriolet.github.io/",
+  "domain": "fredericbriolet.github.io",
+  "loadmoreUrl": "https://loadmo.re/posts/frederic-briolet-monolith",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/frederic-briolet-monolith",
+  "description": "Beautiful WebGL experiment by Frederic Briolet, including an interactive 3D scene reacting with sound.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "sound-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/frederic-briolet-monolith/81c0490ac9-1648669184/0217_fredericbrioletmonolith-home-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/frederic-briolet-monolith/de03c6c5fe-1648669204/0217_fredericbrioletmonolith-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:10:39.885Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "🦕 Monolith 🦖",
+        "url": "https://fredericbriolet.github.io/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "let me hear that",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "let me hear that",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "⊕",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "⊖",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Close Controls",
+            "color": "rgb(238, 238, 238)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Lucida Grande\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9ead5",
+            "count": 25164
+          },
+          {
+            "hex": "#e8dbc8",
+            "count": 165
+          },
+          {
+            "hex": "#d8cbba",
+            "count": 79
+          },
+          {
+            "hex": "#eee0cd",
+            "count": 50
+          },
+          {
+            "hex": "#b6aa9b",
+            "count": 46
+          },
+          {
+            "hex": "#f3e5d1",
+            "count": 38
+          },
+          {
+            "hex": "#c4b8a8",
+            "count": 37
+          },
+          {
+            "hex": "#d2c6b5",
+            "count": 21
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9ead5",
+            "count": 25164
+          },
+          {
+            "hex": "#e8dbc8",
+            "count": 165
+          },
+          {
+            "hex": "#d8cbba",
+            "count": 79
+          },
+          {
+            "hex": "#eee0cd",
+            "count": 50
+          },
+          {
+            "hex": "#b6aa9b",
+            "count": 46
+          },
+          {
+            "hex": "#f3e5d1",
+            "count": 38
+          },
+          {
+            "hex": "#c4b8a8",
+            "count": 37
+          },
+          {
+            "hex": "#d2c6b5",
+            "count": 21
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "🦕 Monolith 🦖",
+        "url": "https://fredericbriolet.github.io/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "let me hear that",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hello, this page creates music using experimental technology.It may be quite agressive, or very sweet, depends on your m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "let me hear that",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "⊕",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "⊖",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Courier, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(47, 161, 214)",
+            "backgroundColor": "rgb(48, 48, 48)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Close Controls",
+            "color": "rgb(238, 238, 238)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Lucida Grande\", sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#faebd6",
+            "count": 23905
+          },
+          {
+            "hex": "#d5c9b8",
+            "count": 571
+          },
+          {
+            "hex": "#ecdecb",
+            "count": 555
+          },
+          {
+            "hex": "#aca295",
+            "count": 381
+          },
+          {
+            "hex": "#c5b9aa",
+            "count": 145
+          },
+          {
+            "hex": "#8c847a",
+            "count": 23
+          },
+          {
+            "hex": "#837b72",
+            "count": 14
+          },
+          {
+            "hex": "#7c746c",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#faebd6",
+            "count": 23905
+          },
+          {
+            "hex": "#d5c9b8",
+            "count": 571
+          },
+          {
+            "hex": "#ecdecb",
+            "count": 555
+          },
+          {
+            "hex": "#aca295",
+            "count": 381
+          },
+          {
+            "hex": "#c5b9aa",
+            "count": 145
+          },
+          {
+            "hex": "#8c847a",
+            "count": 23
+          },
+          {
+            "hex": "#837b72",
+            "count": 14
+          },
+          {
+            "hex": "#7c746c",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

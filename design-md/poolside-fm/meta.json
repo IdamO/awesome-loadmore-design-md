@@ -1,0 +1,834 @@
+{
+  "slug": "poolside-fm",
+  "title": "PoolSide FM",
+  "liveUrl": "https://poolside.fm",
+  "domain": "poolside.fm",
+  "loadmoreUrl": "https://loadmo.re/posts/poolside-fm",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/poolside-fm",
+  "description": "Travel trough this happy place with nostalgic graphics and retro sounds.",
+  "credits": "Niek Dekker, Aziz Firat, Pascal Pixel",
+  "added": "",
+  "tags": [
+    "music",
+    "retro",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/poolside-fm/d62e456478-1606936885/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/poolside-fm/44b372649e-1599570964/018-poolside-fm_v03.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:23:30.227Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Poolsuite ☼",
+        "url": "https://poolsuite.net/",
+        "body": {
+          "backgroundColor": "rgb(246, 213, 213)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<strong>We're sorry but Poolsuite doesn't work properly without JavaScript enabled. Please enable it to continue.</stron",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(246, 213, 213)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Pixolde",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Pixolde",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Perfect DOS VGA 437",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelated Times New Roman",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond Std",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond Std",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ChiKareGo2",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Ishmeria",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Everyday",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Unkown16PixelSer",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<strong>We're sorry but Poolsuite doesn't work properly without JavaScript enabled. Please enable it to continue.</stron",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(246, 213, 213)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Become a member / Log inMon 6 Apr 1997 13:23",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Become a member / Log in",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(249, 240, 233)",
+            "fontFamily": "Pixolde",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px 0px 4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.92px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "PoolsuiteFronzena Harris - Lovetime Guarantee (WOOZ EDIT)WOOZ EDITS...Channel:  Poolsuite FM (Default)Submit a track Sou",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Player",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Newsroom",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Mixtapes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Members",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Events",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Instagram",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Vacation",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Guestbook",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Settings",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.2) 0px -11px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f3d2d1",
+            "count": 25323
+          },
+          {
+            "hex": "#cebcb9",
+            "count": 114
+          },
+          {
+            "hex": "#aba8a2",
+            "count": 91
+          },
+          {
+            "hex": "#cfc0bd",
+            "count": 35
+          },
+          {
+            "hex": "#0b0b0c",
+            "count": 14
+          },
+          {
+            "hex": "#a2cdaa",
+            "count": 9
+          },
+          {
+            "hex": "#696664",
+            "count": 9
+          },
+          {
+            "hex": "#a08f79",
+            "count": 5
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f3d2d1",
+            "count": 25323
+          },
+          {
+            "hex": "#cebcb9",
+            "count": 114
+          },
+          {
+            "hex": "#aba8a2",
+            "count": 91
+          },
+          {
+            "hex": "#cfc0bd",
+            "count": 35
+          },
+          {
+            "hex": "#0b0b0c",
+            "count": 14
+          },
+          {
+            "hex": "#a2cdaa",
+            "count": 9
+          },
+          {
+            "hex": "#696664",
+            "count": 9
+          },
+          {
+            "hex": "#a08f79",
+            "count": 5
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Poolsuite ☼",
+        "url": "https://poolsuite.net/",
+        "body": {
+          "backgroundColor": "rgb(246, 213, 213)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<strong>We're sorry but Poolsuite doesn't work properly without JavaScript enabled. Please enable it to continue.</stron",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(246, 213, 213)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "4px 0px 0px 4px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Get the app",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(246, 213, 213)",
+          "fontFamily": "ChiKareGo2",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "4px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(123, 107, 107) -1px -1px 0px 0px inset, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgb(0, 0, 0) 0px 0px 0px 1px",
+          "letterSpacing": "-1px",
+          "lineHeight": "16px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Pixolde",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Pixolde",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Perfect DOS VGA 437",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelated Times New Roman",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond Std",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Garamond Std",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ChiKareGo2",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Ishmeria",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Everyday",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Unkown16PixelSer",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<strong>We're sorry but Poolsuite doesn't work properly without JavaScript enabled. Please enable it to continue.</stron",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(246, 213, 213)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Become a member / Log inGet the app13:23",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "4px 0px 0px 4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Become a member / Log in",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(249, 240, 233)",
+            "fontFamily": "Pixolde",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px 4px 4px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.92px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Get the app",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(246, 213, 213)",
+            "fontFamily": "ChiKareGo2",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(123, 107, 107) -1px -1px 0px 0px inset, rgb(255, 255, 255) 1px 1px 0px 0px inset, rgb(0, 0, 0) 0px 0px 0px 1px",
+            "letterSpacing": "-1px",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "PoolsuiteGarden PartyRoman Fluegel...Channel:  Poolsuite FM (Default)Submit a track SoundCloud links only please. Submit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(246, 213, 213)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(255, 255, 255) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Player",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Newsroom",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Mixtapes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Members",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Events",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(246, 213, 213)",
+            "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(255, 255, 255) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4d4d3",
+            "count": 23989
+          },
+          {
+            "hex": "#ada3a0",
+            "count": 855
+          },
+          {
+            "hex": "#d0bbb8",
+            "count": 528
+          },
+          {
+            "hex": "#0c0b0b",
+            "count": 80
+          },
+          {
+            "hex": "#64615f",
+            "count": 71
+          },
+          {
+            "hex": "#cdc3b9",
+            "count": 33
+          },
+          {
+            "hex": "#867876",
+            "count": 24
+          },
+          {
+            "hex": "#a8cfae",
+            "count": 20
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f4d4d3",
+            "count": 23989
+          },
+          {
+            "hex": "#ada3a0",
+            "count": 855
+          },
+          {
+            "hex": "#d0bbb8",
+            "count": 528
+          },
+          {
+            "hex": "#0c0b0b",
+            "count": 80
+          },
+          {
+            "hex": "#64615f",
+            "count": 71
+          },
+          {
+            "hex": "#cdc3b9",
+            "count": 33
+          },
+          {
+            "hex": "#867876",
+            "count": 24
+          },
+          {
+            "hex": "#a8cfae",
+            "count": 20
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

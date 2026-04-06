@@ -1,0 +1,804 @@
+{
+  "slug": "diffusion-cam",
+  "title": "Diffusion Cam",
+  "liveUrl": "https://www.diffusion.cam/",
+  "domain": "www.diffusion.cam",
+  "loadmoreUrl": "https://loadmo.re/posts/diffusion-cam",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/diffusion-cam",
+  "description": "diffusion.cam, the first artificial social network where real humans share synthetic media. Use the camera to transform your photograph into text, which gets turned back into an image using an AI diffusion model.",
+  "credits": "Matthias Pitscher",
+  "added": "",
+  "tags": [
+    "ai&generative",
+    "photography",
+    "participative"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/diffusion-cam/8dc677b615-1730273758/diffusioncam-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/diffusion-cam/c8167b0399-1730273821/diffusioncam-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:08:22.111Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "diffusion.cam",
+        "url": "https://www.diffusion.cam/",
+        "body": {
+          "backgroundColor": "rgb(216, 224, 194)",
+          "color": "rgb(58, 74, 32)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "diffusion.cam",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "28px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. Use the camer",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "29.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "24px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "diffusion.cam",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Kode Mono",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "loaded"
+          },
+          {
+            "family": "Bytesized",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "diffusion.camHi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. ",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgb(216, 224, 194)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "diffusion.camHi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. ",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. Use the camer",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "29.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "To get a bit more technical: I use Moondream 3 for image captioning and then Flux 2 [dev] to generate the image. Previou",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Moondream 3",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Flux 2 [dev]",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "e-mail",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "pitscher.net",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "start",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Camera",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Feed",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#d7e0c1",
+            "count": 22889
+          },
+          {
+            "hex": "#cdd7b8",
+            "count": 791
+          },
+          {
+            "hex": "#a9b493",
+            "count": 698
+          },
+          {
+            "hex": "#cad4b6",
+            "count": 542
+          },
+          {
+            "hex": "#bac4a6",
+            "count": 395
+          },
+          {
+            "hex": "#d7dfc4",
+            "count": 216
+          },
+          {
+            "hex": "#929e79",
+            "count": 68
+          },
+          {
+            "hex": "#7f8b67",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d7e0c1",
+            "count": 22889
+          },
+          {
+            "hex": "#cdd7b8",
+            "count": 791
+          },
+          {
+            "hex": "#a9b493",
+            "count": 698
+          },
+          {
+            "hex": "#cad4b6",
+            "count": 542
+          },
+          {
+            "hex": "#bac4a6",
+            "count": 395
+          },
+          {
+            "hex": "#d7dfc4",
+            "count": 216
+          },
+          {
+            "hex": "#929e79",
+            "count": 68
+          },
+          {
+            "hex": "#7f8b67",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "diffusion.cam",
+        "url": "https://www.diffusion.cam/",
+        "body": {
+          "backgroundColor": "rgb(216, 224, 194)",
+          "color": "rgb(58, 74, 32)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "diffusion.cam",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "28px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. Use the camer",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "29.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "24px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "diffusion.cam",
+          "color": "rgb(58, 74, 32)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Kode Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Kode Mono",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "loaded"
+          },
+          {
+            "family": "Bytesized",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "diffusion.camHi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. ",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgb(216, 224, 194)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "diffusion.camHi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. ",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "diffusion.cam",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hi, Welcome to diffusion.cam, the first artificial social network where real humans share synthetic media. Use the camer",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "29.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "To get a bit more technical: I use Moondream 3 for image captioning and then Flux 2 [dev] to generate the image. Previou",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Moondream 3",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Flux 2 [dev]",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "e-mail",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "pitscher.net",
+            "color": "rgb(107, 128, 52)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Bytesized, monospace",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "16.25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "start",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Camera",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Feed",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(58, 74, 32)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Kode Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "24px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#d7e0c1",
+            "count": 18844
+          },
+          {
+            "hex": "#cbd5b5",
+            "count": 2488
+          },
+          {
+            "hex": "#a6b191",
+            "count": 1847
+          },
+          {
+            "hex": "#8c9874",
+            "count": 1017
+          },
+          {
+            "hex": "#bac4a4",
+            "count": 750
+          },
+          {
+            "hex": "#798661",
+            "count": 412
+          },
+          {
+            "hex": "#6a7852",
+            "count": 233
+          },
+          {
+            "hex": "#53623b",
+            "count": 9
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d7e0c1",
+            "count": 18844
+          },
+          {
+            "hex": "#cbd5b5",
+            "count": 2488
+          },
+          {
+            "hex": "#a6b191",
+            "count": 1847
+          },
+          {
+            "hex": "#8c9874",
+            "count": 1017
+          },
+          {
+            "hex": "#bac4a4",
+            "count": 750
+          },
+          {
+            "hex": "#798661",
+            "count": 412
+          },
+          {
+            "hex": "#6a7852",
+            "count": 233
+          },
+          {
+            "hex": "#53623b",
+            "count": 9
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

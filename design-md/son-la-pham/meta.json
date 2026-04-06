@@ -1,0 +1,447 @@
+{
+  "slug": "son-la-pham",
+  "title": "Son La Pham",
+  "liveUrl": "https://www.son-la.co/",
+  "domain": "www.son-la.co",
+  "loadmoreUrl": "https://loadmo.re/posts/son-la-pham",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/son-la-pham",
+  "description": "Son La's website is like a living ecosystem. Draw pixels and they'll start having a little digital life of their own, moving, growing, changing.",
+  "credits": "Son La Pham",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "colorful",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/son-la-pham/765499e7f0-1618841219/0220-son-la-pham-cover-hp.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/son-la-pham/3bbb0358f2-1618841245/0220-son-la-pham-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:27:27.180Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Son La Pham",
+        "url": "https://www.son-la.co/",
+        "body": {
+          "backgroundColor": "rgb(204, 204, 204)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Son La Pham",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.48px",
+          "lineHeight": "57.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "h1",
+          "text": "Son La Pham",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.48px",
+          "lineHeight": "57.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "hello@son-la.co",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.48px",
+          "lineHeight": "57.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "neuzeit",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "h1",
+            "text": "Son La Pham",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "57.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Graphic Design & Technology, Berlin",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "57.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "hello@son-la.co",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "57.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "hello@son-la.co",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "57.6px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#cccccc",
+            "count": 24607
+          },
+          {
+            "hex": "#a0dca1",
+            "count": 282
+          },
+          {
+            "hex": "#20ef23",
+            "count": 240
+          },
+          {
+            "hex": "#5ee662",
+            "count": 122
+          },
+          {
+            "hex": "#a1a3dc",
+            "count": 110
+          },
+          {
+            "hex": "#26a769",
+            "count": 98
+          },
+          {
+            "hex": "#25908e",
+            "count": 78
+          },
+          {
+            "hex": "#26d14d",
+            "count": 63
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#cccccc",
+            "count": 24607
+          },
+          {
+            "hex": "#a0dca1",
+            "count": 282
+          },
+          {
+            "hex": "#20ef23",
+            "count": 240
+          },
+          {
+            "hex": "#5ee662",
+            "count": 122
+          },
+          {
+            "hex": "#a1a3dc",
+            "count": 110
+          },
+          {
+            "hex": "#26a769",
+            "count": 98
+          },
+          {
+            "hex": "#25908e",
+            "count": 78
+          },
+          {
+            "hex": "#26d14d",
+            "count": 63
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Son La Pham",
+        "url": "https://www.son-la.co/",
+        "body": {
+          "backgroundColor": "rgb(204, 204, 204)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Son La Pham",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "42px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.42px",
+          "lineHeight": "50.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Son La Pham Graphic Design & Technology, Berlin hello@son-la.co Gen.:152 Alive:38 window.__NUXT__=function(t){return{sta",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(204, 204, 204)",
+          "fontFamily": "Times",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "hello@son-la.co",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "42px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.42px",
+          "lineHeight": "50.4px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "neuzeit",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Son La Pham Graphic Design & Technology, Berlin hello@son-la.co Gen.:152 Alive:38 window.__NUXT__=function(t){return{sta",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(204, 204, 204)",
+            "fontFamily": "Times",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "Son La Pham",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.42px",
+            "lineHeight": "50.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Graphic Design & Technology, Berlin",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.42px",
+            "lineHeight": "50.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "hello@son-la.co",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.42px",
+            "lineHeight": "50.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "hello@son-la.co",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "neuzeit, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "42px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.42px",
+            "lineHeight": "50.4px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#cecece",
+            "count": 25414
+          },
+          {
+            "hex": "#a1e5a1",
+            "count": 77
+          },
+          {
+            "hex": "#1ffa1f",
+            "count": 50
+          },
+          {
+            "hex": "#65f163",
+            "count": 22
+          },
+          {
+            "hex": "#eba298",
+            "count": 12
+          },
+          {
+            "hex": "#5758ef",
+            "count": 11
+          },
+          {
+            "hex": "#262bf4",
+            "count": 8
+          },
+          {
+            "hex": "#a5a5e9",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#cecece",
+            "count": 25414
+          },
+          {
+            "hex": "#a1e5a1",
+            "count": 77
+          },
+          {
+            "hex": "#1ffa1f",
+            "count": 50
+          },
+          {
+            "hex": "#65f163",
+            "count": 22
+          },
+          {
+            "hex": "#eba298",
+            "count": 12
+          },
+          {
+            "hex": "#5758ef",
+            "count": 11
+          },
+          {
+            "hex": "#262bf4",
+            "count": 8
+          },
+          {
+            "hex": "#a5a5e9",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

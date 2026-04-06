@@ -1,0 +1,207 @@
+{
+  "slug": "audiodrag",
+  "title": "Audiodrag",
+  "liveUrl": "http://audiodrag.ws/",
+  "domain": "audiodrag.ws",
+  "loadmoreUrl": "https://loadmo.re/posts/audiodrag",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/audiodrag",
+  "description": "This is a portfolio for an audio production studio. So, it just features audio players and that's it.",
+  "credits": "Jugoceania",
+  "added": "",
+  "tags": [
+    "music",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/audiodrag/7c328843d4-1635517014/0153_audiodrag-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/audiodrag/4955cc105e-1635517035/0153-audiodrag-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:02:52.977Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "WEBSITE.WS - Your Internet Address For Life™",
+        "url": "http://audiodrag.ws/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": null,
+        "sticky": false,
+        "fonts": [],
+        "sample": [],
+        "colors": [
+          {
+            "hex": "#e9eae9",
+            "count": 15559
+          },
+          {
+            "hex": "#a2a1a2",
+            "count": 8905
+          },
+          {
+            "hex": "#d4b2cc",
+            "count": 360
+          },
+          {
+            "hex": "#6f706f",
+            "count": 245
+          },
+          {
+            "hex": "#cea4b6",
+            "count": 209
+          },
+          {
+            "hex": "#aacd9a",
+            "count": 186
+          },
+          {
+            "hex": "#b0b1c6",
+            "count": 68
+          },
+          {
+            "hex": "#6fa35e",
+            "count": 68
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e9eae9",
+            "count": 15559
+          },
+          {
+            "hex": "#a2a1a2",
+            "count": 8905
+          },
+          {
+            "hex": "#d4b2cc",
+            "count": 360
+          },
+          {
+            "hex": "#6f706f",
+            "count": 245
+          },
+          {
+            "hex": "#cea4b6",
+            "count": 209
+          },
+          {
+            "hex": "#aacd9a",
+            "count": 186
+          },
+          {
+            "hex": "#b0b1c6",
+            "count": 68
+          },
+          {
+            "hex": "#6fa35e",
+            "count": 68
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "WEBSITE.WS - Your Internet Address For Life™",
+        "url": "http://audiodrag.ws/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": null,
+        "sticky": false,
+        "fonts": [],
+        "sample": [],
+        "colors": [
+          {
+            "hex": "#ececeb",
+            "count": 22583
+          },
+          {
+            "hex": "#a6a5a5",
+            "count": 1641
+          },
+          {
+            "hex": "#cebbcd",
+            "count": 475
+          },
+          {
+            "hex": "#626261",
+            "count": 329
+          },
+          {
+            "hex": "#afcba0",
+            "count": 250
+          },
+          {
+            "hex": "#b1b7c6",
+            "count": 116
+          },
+          {
+            "hex": "#749f5e",
+            "count": 106
+          },
+          {
+            "hex": "#c4d5b9",
+            "count": 100
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ececeb",
+            "count": 22583
+          },
+          {
+            "hex": "#a6a5a5",
+            "count": 1641
+          },
+          {
+            "hex": "#cebbcd",
+            "count": 475
+          },
+          {
+            "hex": "#626261",
+            "count": 329
+          },
+          {
+            "hex": "#afcba0",
+            "count": 250
+          },
+          {
+            "hex": "#b1b7c6",
+            "count": 116
+          },
+          {
+            "hex": "#749f5e",
+            "count": 106
+          },
+          {
+            "hex": "#c4d5b9",
+            "count": 100
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

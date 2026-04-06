@@ -1,0 +1,933 @@
+{
+  "slug": "special-offer",
+  "title": "Special Offer",
+  "liveUrl": "https://www.special-offer.studio/",
+  "domain": "www.special-offer.studio",
+  "loadmoreUrl": "https://loadmo.re/posts/special-offer",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/special-offer",
+  "description": "That's a bold statement: an image-less landing page for a portfolio. Yes, because the page's design says it all. Sharp.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "colorful",
+    "graphic-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/special-offer/306fdf71d7-1621860212/0151-special-offer-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/special-offer/ecaee006de-1621860228/0151-special-offer-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:27:48.649Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "SPECIAL OFFER, Inc.",
+        "url": "https://www.special-offer.studio/",
+        "body": {
+          "backgroundColor": "rgb(222, 0, 0)",
+          "color": "rgb(255, 0, 255)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Skip to content\n       \n                    Award–Winning\n                    Creative Tech Company\n                 \n  ",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgb(222, 0, 0)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.48px",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Helvetica Neue LT Std",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Cn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Cn",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Neue LT Hv",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Neue LT Md",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Franklin Gothic Std",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-gothic-condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to content\n       \n                    Award–Winning\n                    Creative Tech Company\n                 \n  ",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgb(222, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "main",
+            "text": "Award–Winning\n                    Creative Tech Company\n                 \n                        Award–Winning \n       ",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "141px",
+            "fontWeight": "400",
+            "borderRadius": "999999px",
+            "boxShadow": "none",
+            "letterSpacing": "-4.23px",
+            "lineHeight": "126.9px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "141px",
+            "fontWeight": "400",
+            "borderRadius": "12px",
+            "boxShadow": "none",
+            "letterSpacing": "-4.23px",
+            "lineHeight": "126.9px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Request a portfolio",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "64px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.92px",
+            "lineHeight": "57.6px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Follow us on Instagram !!",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "64px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.92px",
+            "lineHeight": "57.6px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#de0001",
+            "count": 13765
+          },
+          {
+            "hex": "#261e19",
+            "count": 5711
+          },
+          {
+            "hex": "#51302b",
+            "count": 2887
+          },
+          {
+            "hex": "#fb01ee",
+            "count": 1084
+          },
+          {
+            "hex": "#60524f",
+            "count": 1022
+          },
+          {
+            "hex": "#ac9e90",
+            "count": 456
+          },
+          {
+            "hex": "#f1019f",
+            "count": 342
+          },
+          {
+            "hex": "#e8015b",
+            "count": 333
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#de0001",
+            "count": 13765
+          },
+          {
+            "hex": "#261e19",
+            "count": 5711
+          },
+          {
+            "hex": "#51302b",
+            "count": 2887
+          },
+          {
+            "hex": "#fb01ee",
+            "count": 1084
+          },
+          {
+            "hex": "#60524f",
+            "count": 1022
+          },
+          {
+            "hex": "#ac9e90",
+            "count": 456
+          },
+          {
+            "hex": "#f1019f",
+            "count": 342
+          },
+          {
+            "hex": "#e8015b",
+            "count": 333
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "SPECIAL OFFER, Inc.",
+        "url": "https://www.special-offer.studio/",
+        "body": {
+          "backgroundColor": "rgb(222, 0, 0)",
+          "color": "rgb(255, 0, 255)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Skip to content\n       \n                    Award–Winning\n                    Creative Tech Company\n                 \n  ",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgb(222, 0, 0)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(255, 0, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.48px",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Helvetica Neue LT Std",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Cn",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Cn",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Neue LT Hv",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Neue LT Md",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ITC Franklin Gothic Std",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-gothic-condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to content\n       \n                    Award–Winning\n                    Creative Tech Company\n                 \n  ",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgb(222, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "main",
+            "text": "Award–Winning\n                    Creative Tech Company\n                 \n                        Award–Winning \n       ",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Info\n                             Contact  \n                                Request a portfolio\n                        ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.44px",
+            "lineHeight": "43.2px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "1e+07px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.72px",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.72px",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Request a portfolio",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.72px",
+            "lineHeight": "21.6px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Instagram !!",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.44px",
+            "lineHeight": "43.2px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram !!",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ITC Franklin Gothic Std\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.72px",
+            "lineHeight": "21.6px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Terms & Conditions",
+            "color": "rgb(255, 0, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Noto Sans\", sans-serif, \"system-ui\", Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.48px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#dd0002",
+            "count": 13372
+          },
+          {
+            "hex": "#261e19",
+            "count": 4754
+          },
+          {
+            "hex": "#54322d",
+            "count": 3086
+          },
+          {
+            "hex": "#fc01ee",
+            "count": 1357
+          },
+          {
+            "hex": "#62514f",
+            "count": 1271
+          },
+          {
+            "hex": "#f0029e",
+            "count": 624
+          },
+          {
+            "hex": "#9c665d",
+            "count": 577
+          },
+          {
+            "hex": "#e8015e",
+            "count": 559
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#dd0002",
+            "count": 13372
+          },
+          {
+            "hex": "#261e19",
+            "count": 4754
+          },
+          {
+            "hex": "#54322d",
+            "count": 3086
+          },
+          {
+            "hex": "#fc01ee",
+            "count": 1357
+          },
+          {
+            "hex": "#62514f",
+            "count": 1271
+          },
+          {
+            "hex": "#f0029e",
+            "count": 624
+          },
+          {
+            "hex": "#9c665d",
+            "count": 577
+          },
+          {
+            "hex": "#e8015e",
+            "count": 559
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,1125 @@
+{
+  "slug": "new-legibility",
+  "title": "New Legibility",
+  "liveUrl": "https://thehtml.review/04/new-legibility/",
+  "domain": "thehtml.review",
+  "loadmoreUrl": "https://loadmo.re/posts/new-legibility",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/new-legibility",
+  "description": "Click through this interactive essay to uncover the full narrative.",
+  "credits": "Theo Ellin Ballew",
+  "added": "",
+  "tags": [
+    "playful",
+    "educational",
+    "game"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/new-legibility/eb7121accf-1744807710/thehtmlreview-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/new-legibility/d040116638-1744807730/thehtmlreview-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:10.409Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "A New Legibility: Theo Ellin Ballew",
+        "url": "https://thehtml.review/04/new-legibility/",
+        "body": {
+          "backgroundColor": "rgb(255, 108, 22)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "18px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Mobile text is more legible to contemporary readers than static text. \n        x",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 108, 22)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "30%",
+          "boxShadow": "rgb(248, 214, 105) 6px 6px 120px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Mobile text",
+          "color": "rgb(101, 1, 43)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "Mobile text is more legible to contemporary readers than static text. \n        x",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 108, 22)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "30%",
+            "boxShadow": "rgb(248, 214, 105) 6px 6px 120px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Mobile text",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "more legible",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "contemporary readers",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "static text",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "x",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "30%",
+            "boxShadow": "rgb(248, 214, 105) 6px 6px 30px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "\"A New Legibility\" was written and built by Theo Ellin Ballew⇗. You can toggle on/off everything you've yet to see, or m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 108, 22)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Theo Ellin Ballew⇗",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "toggle on/off",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "extra small",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Thanks",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fe6c16",
+            "count": 22866
+          },
+          {
+            "hex": "#fe731b",
+            "count": 922
+          },
+          {
+            "hex": "#e55e1e",
+            "count": 601
+          },
+          {
+            "hex": "#fd862a",
+            "count": 479
+          },
+          {
+            "hex": "#fe7b22",
+            "count": 415
+          },
+          {
+            "hex": "#fc9235",
+            "count": 250
+          },
+          {
+            "hex": "#b04c1d",
+            "count": 54
+          },
+          {
+            "hex": "#f99541",
+            "count": 13
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fe6c16",
+            "count": 22866
+          },
+          {
+            "hex": "#fe731b",
+            "count": 922
+          },
+          {
+            "hex": "#e55e1e",
+            "count": 601
+          },
+          {
+            "hex": "#fd862a",
+            "count": 479
+          },
+          {
+            "hex": "#fe7b22",
+            "count": 415
+          },
+          {
+            "hex": "#fc9235",
+            "count": 250
+          },
+          {
+            "hex": "#b04c1d",
+            "count": 54
+          },
+          {
+            "hex": "#f99541",
+            "count": 13
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "A New Legibility: Theo Ellin Ballew",
+        "url": "https://thehtml.review/04/new-legibility/",
+        "body": {
+          "backgroundColor": "rgb(255, 108, 22)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "12.9px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Mobile text is more legible to contemporary readers than static text. \n        x",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 108, 22)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "12.9px",
+          "fontWeight": "600",
+          "borderRadius": "30%",
+          "boxShadow": "rgb(248, 214, 105) 6px 6px 120px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Mobile text",
+          "color": "rgb(101, 1, 43)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Cormorant Garamond\", serif",
+          "fontSize": "12.9px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Cormorant Garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "Mobile text is more legible to contemporary readers than static text. \n        x",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 108, 22)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "30%",
+            "boxShadow": "rgb(248, 214, 105) 6px 6px 120px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Mobile text",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "more legible",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "contemporary readers",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "static text",
+            "color": "rgb(101, 1, 43)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "x",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Cormorant Garamond\", serif",
+            "fontSize": "12.9px",
+            "fontWeight": "600",
+            "borderRadius": "30%",
+            "boxShadow": "rgb(248, 214, 105) 6px 6px 30px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fe6c16",
+            "count": 20242
+          },
+          {
+            "hex": "#fe721b",
+            "count": 2493
+          },
+          {
+            "hex": "#f67122",
+            "count": 1410
+          },
+          {
+            "hex": "#fd882c",
+            "count": 1314
+          },
+          {
+            "hex": "#b53a1f",
+            "count": 56
+          },
+          {
+            "hex": "#b2451d",
+            "count": 37
+          },
+          {
+            "hex": "#f96e43",
+            "count": 37
+          },
+          {
+            "hex": "#fa8847",
+            "count": 11
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fe6c16",
+            "count": 20242
+          },
+          {
+            "hex": "#fe721b",
+            "count": 2493
+          },
+          {
+            "hex": "#f67122",
+            "count": 1410
+          },
+          {
+            "hex": "#fd882c",
+            "count": 1314
+          },
+          {
+            "hex": "#b53a1f",
+            "count": 56
+          },
+          {
+            "hex": "#b2451d",
+            "count": 37
+          },
+          {
+            "hex": "#f96e43",
+            "count": 37
+          },
+          {
+            "hex": "#fa8847",
+            "count": 11
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

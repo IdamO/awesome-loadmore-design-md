@@ -1,0 +1,867 @@
+{
+  "slug": "unveil",
+  "title": "UNVEIL",
+  "liveUrl": "https://unveil.fr/",
+  "domain": "unveil.fr",
+  "loadmoreUrl": "https://loadmo.re/posts/unveil",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/unveil",
+  "description": "Elegant portfolio where scrolling through projects feels like flipping through a stack of records.",
+  "credits": "UNVEIL team Arvin Leeuwis",
+  "added": "",
+  "tags": [
+    "tactile",
+    "minimal",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/unveil/95dfadd18c-1723186220/00017_unveilfr-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/unveil/a8c3c33c78-1723186250/00017_unveilfr-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:31:05.880Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "UNVEIL®",
+        "url": "https://unveil.fr/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "UNVEIL®ProjectsResearchStudio Contact         Overview Index  contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Pari",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Contact",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "6px",
+          "boxShadow": "none",
+          "letterSpacing": "0.1575px",
+          "lineHeight": "11.025px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "UNVEIL®Projects",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "6px",
+          "boxShadow": "none",
+          "letterSpacing": "0.1575px",
+          "lineHeight": "11.025px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nb_international_proregular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "UNVEIL®ProjectsResearchStudio Contact         Overview Index  contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Pari",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "UNVEIL®ProjectsResearchStudio Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "UNVEIL®ProjectsResearchStudio Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "UNVEIL®Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Research",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Studio",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Overview Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Overview",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Paris Legal NoticePrivacy PolicyCookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Paris",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "contact@unveil.fr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "3.35544e+07px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "25 Rue Henry Monnier, 75009 Paris",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "3.35544e+07px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "Legal NoticePrivacy PolicyCookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Legal Notice",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f6f5f4",
+            "count": 16131
+          },
+          {
+            "hex": "#181819",
+            "count": 3405
+          },
+          {
+            "hex": "#a4a39d",
+            "count": 2452
+          },
+          {
+            "hex": "#5d5f5f",
+            "count": 1631
+          },
+          {
+            "hex": "#c9c9b5",
+            "count": 704
+          },
+          {
+            "hex": "#d09e9c",
+            "count": 542
+          },
+          {
+            "hex": "#a6625f",
+            "count": 382
+          },
+          {
+            "hex": "#8f9077",
+            "count": 353
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f6f5f4",
+            "count": 16131
+          },
+          {
+            "hex": "#181819",
+            "count": 3405
+          },
+          {
+            "hex": "#a4a39d",
+            "count": 2452
+          },
+          {
+            "hex": "#5d5f5f",
+            "count": 1631
+          },
+          {
+            "hex": "#c9c9b5",
+            "count": 704
+          },
+          {
+            "hex": "#d09e9c",
+            "count": 542
+          },
+          {
+            "hex": "#a6625f",
+            "count": 382
+          },
+          {
+            "hex": "#8f9077",
+            "count": 353
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "UNVEIL®",
+        "url": "https://unveil.fr/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "UNVEIL®ProjectsResearchStudio Contact         Overview Index  contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Pari",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Contact",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "6px",
+          "boxShadow": "none",
+          "letterSpacing": "0.1575px",
+          "lineHeight": "11.025px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "UNVEIL®Projects",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nb_international_proregular",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "6px",
+          "boxShadow": "none",
+          "letterSpacing": "0.1575px",
+          "lineHeight": "11.025px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nb_international_proregular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "UNVEIL®ProjectsResearchStudio Contact         Overview Index  contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Pari",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "UNVEIL®ProjectsResearchStudio Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "UNVEIL®ProjectsResearchStudio Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "UNVEIL®Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Research",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Studio",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Overview Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Overview",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Paris Legal NoticePrivacy PolicyCookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "contact@unveil.frInstagram25 Rue Henry Monnier, 75009 Paris",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "contact@unveil.fr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "3.35544e+07px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "11.025px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "Legal NoticePrivacy PolicyCookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Legal Notice",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cookie Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nb_international_proregular",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1575px",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1f1f1",
+            "count": 16954
+          },
+          {
+            "hex": "#5e5f5d",
+            "count": 4060
+          },
+          {
+            "hex": "#1b1f19",
+            "count": 1980
+          },
+          {
+            "hex": "#a0a29e",
+            "count": 1453
+          },
+          {
+            "hex": "#9d916a",
+            "count": 358
+          },
+          {
+            "hex": "#4d5032",
+            "count": 306
+          },
+          {
+            "hex": "#c6c9b6",
+            "count": 258
+          },
+          {
+            "hex": "#927060",
+            "count": 231
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f1f1",
+            "count": 16954
+          },
+          {
+            "hex": "#5e5f5d",
+            "count": 4060
+          },
+          {
+            "hex": "#1b1f19",
+            "count": 1980
+          },
+          {
+            "hex": "#a0a29e",
+            "count": 1453
+          },
+          {
+            "hex": "#9d916a",
+            "count": 358
+          },
+          {
+            "hex": "#4d5032",
+            "count": 306
+          },
+          {
+            "hex": "#c6c9b6",
+            "count": 258
+          },
+          {
+            "hex": "#927060",
+            "count": 231
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

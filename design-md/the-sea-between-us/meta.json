@@ -1,0 +1,500 @@
+{
+  "slug": "the-sea-between-us",
+  "title": "The Sea Between Us",
+  "liveUrl": "https://www.theseabetween.us/",
+  "domain": "www.theseabetween.us",
+  "loadmoreUrl": "https://loadmo.re/posts/the-sea-between-us",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/the-sea-between-us",
+  "description": "Wander a pixel-art shoreline and find bottles carrying messages from others.",
+  "credits": "Joseph Pleass",
+  "added": "",
+  "tags": [
+    "net.art",
+    "retro"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/the-sea-between-us/ef3e2d1e3f-1747760490/theseabetweenus-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/the-sea-between-us/4ef30b506a-1747760525/theseabetweenus-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:29:36.126Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "The Sea Between - A game by Joseph Pleass",
+        "url": "https://www.theseabetween.us/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "a",
+          "text": "Joseph Pleass",
+          "color": "rgb(253, 245, 230)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "SmallPixel, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Click to continue",
+          "color": "rgb(253, 245, 230)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Pixel\", sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "48px",
+          "display": "inline-block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Joseph Pleass",
+          "color": "rgb(253, 245, 230)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "SmallPixel, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Material Symbols Outlined",
+            "style": "normal",
+            "weight": "100 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Pixel",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "SmallPixel",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "a",
+            "text": "Joseph Pleass",
+            "color": "rgb(253, 245, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "SmallPixel, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@jmpleass",
+            "color": "rgb(253, 245, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "SmallPixel, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Click to continue",
+            "color": "rgb(253, 245, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Pixel\", sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e9ca95",
+            "count": 9628
+          },
+          {
+            "hex": "#675362",
+            "count": 7948
+          },
+          {
+            "hex": "#8d6d61",
+            "count": 5585
+          },
+          {
+            "hex": "#f6eedd",
+            "count": 670
+          },
+          {
+            "hex": "#d5b68c",
+            "count": 500
+          },
+          {
+            "hex": "#a2866c",
+            "count": 492
+          },
+          {
+            "hex": "#fe3800",
+            "count": 434
+          },
+          {
+            "hex": "#1c1b4d",
+            "count": 343
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e9ca95",
+            "count": 9628
+          },
+          {
+            "hex": "#675362",
+            "count": 7948
+          },
+          {
+            "hex": "#8d6d61",
+            "count": 5585
+          },
+          {
+            "hex": "#f6eedd",
+            "count": 670
+          },
+          {
+            "hex": "#d5b68c",
+            "count": 500
+          },
+          {
+            "hex": "#a2866c",
+            "count": 492
+          },
+          {
+            "hex": "#fe3800",
+            "count": 434
+          },
+          {
+            "hex": "#1c1b4d",
+            "count": 343
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "The Sea Between - A game by Joseph Pleass",
+        "url": "https://www.theseabetween.us/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "Click to continue",
+          "color": "rgb(253, 245, 230)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Pixel\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "32px",
+          "display": "inline-block",
+          "position": "relative"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Click to continue",
+          "color": "rgb(253, 245, 230)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Pixel\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "32px",
+          "display": "inline-block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Grape Nuts",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Micro 5",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Material Symbols Outlined",
+            "style": "normal",
+            "weight": "100 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pixelify Sans",
+            "style": "normal",
+            "weight": "400 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Pixel",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "SmallPixel",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "Click to continue",
+            "color": "rgb(253, 245, 230)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Pixel\", sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#9492b4",
+            "count": 7534
+          },
+          {
+            "hex": "#6e7aa4",
+            "count": 5780
+          },
+          {
+            "hex": "#7983ac",
+            "count": 2813
+          },
+          {
+            "hex": "#f4eee0",
+            "count": 2444
+          },
+          {
+            "hex": "#e9cd9c",
+            "count": 2224
+          },
+          {
+            "hex": "#f09f06",
+            "count": 2207
+          },
+          {
+            "hex": "#e3c375",
+            "count": 1516
+          },
+          {
+            "hex": "#a7a4c2",
+            "count": 1082
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#9492b4",
+            "count": 7534
+          },
+          {
+            "hex": "#6e7aa4",
+            "count": 5780
+          },
+          {
+            "hex": "#7983ac",
+            "count": 2813
+          },
+          {
+            "hex": "#f4eee0",
+            "count": 2444
+          },
+          {
+            "hex": "#e9cd9c",
+            "count": 2224
+          },
+          {
+            "hex": "#f09f06",
+            "count": 2207
+          },
+          {
+            "hex": "#e3c375",
+            "count": 1516
+          },
+          {
+            "hex": "#a7a4c2",
+            "count": 1082
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

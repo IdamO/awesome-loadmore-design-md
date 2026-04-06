@@ -1,0 +1,1174 @@
+{
+  "slug": "cyanbanister",
+  "title": "Cyan Banister",
+  "liveUrl": "https://cyanbanister.com/",
+  "domain": "cyanbanister.com",
+  "loadmoreUrl": "https://cyanbanister.com/",
+  "sourceLabel": "manual curation",
+  "sourceUrl": "https://cyanbanister.com/",
+  "description": "Personal site with internet-native attitude, asymmetrical pacing, and a strong anti-template energy that feels more like a live artifact than a portfolio shell.",
+  "credits": "Cyan Banister",
+  "added": "Manual seed",
+  "tags": [
+    "portfolio",
+    "typography",
+    "playful"
+  ],
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T19:56:56.998Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Cyan Banister | Ugly Duckling",
+        "url": "https://cyanbanister.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(136, 136, 136)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Cyan Banister",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "chicago, \"chicago Fallback\"",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.26px",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Cyan Banister",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "chicago, \"chicago Fallback\"",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.234px",
+          "lineHeight": "36px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Check them out here!",
+          "color": "lab(8.11897 0.811279 -12.254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "chicago",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "chicago Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Cyan BanisterI had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes ",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Cyan Banister",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "chicago, \"chicago Fallback\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.234px",
+            "lineHeight": "36px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Cyan Banister",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "chicago, \"chicago Fallback\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.26px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "I had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes it just revea",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(86, 86, 233)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(80, 136, 186)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "I had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes it just revea",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Check them out here!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Check them out here!",
+            "color": "lab(8.11897 0.811279 -12.254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(235, 38, 130)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "The moment I cease running experiments on my life is when the true experiment begins. What if all my searching was merel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Substack",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Investments",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Contact Me",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Read",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Watch",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Listen",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Shop",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Your Bag",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#5657e8",
+            "count": 21633
+          },
+          {
+            "hex": "#e965a5",
+            "count": 1105
+          },
+          {
+            "hex": "#fdfdfd",
+            "count": 1091
+          },
+          {
+            "hex": "#6ca1e4",
+            "count": 501
+          },
+          {
+            "hex": "#505ea4",
+            "count": 500
+          },
+          {
+            "hex": "#9e4f6c",
+            "count": 308
+          },
+          {
+            "hex": "#9896a8",
+            "count": 274
+          },
+          {
+            "hex": "#625868",
+            "count": 188
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#5657e8",
+            "count": 21633
+          },
+          {
+            "hex": "#e965a5",
+            "count": 1105
+          },
+          {
+            "hex": "#fdfdfd",
+            "count": 1091
+          },
+          {
+            "hex": "#6ca1e4",
+            "count": 501
+          },
+          {
+            "hex": "#505ea4",
+            "count": 500
+          },
+          {
+            "hex": "#9e4f6c",
+            "count": 308
+          },
+          {
+            "hex": "#9896a8",
+            "count": 274
+          },
+          {
+            "hex": "#625868",
+            "count": 188
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Cyan Banister | Ugly Duckling",
+        "url": "https://cyanbanister.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(136, 136, 136)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Cyan Banister",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "chicago, \"chicago Fallback\"",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.26px",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Cyan Banister",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "chicago, \"chicago Fallback\"",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.234px",
+          "lineHeight": "36px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Check them out here!",
+          "color": "lab(8.11897 0.811279 -12.254)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "appleGaramond Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "chicago",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "chicago Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono",
+            "style": "normal",
+            "weight": "100 800",
+            "status": "unloaded"
+          },
+          {
+            "family": "JetBrains Mono Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Cyan BanisterI had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes ",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Cyan Banister",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "chicago, \"chicago Fallback\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.234px",
+            "lineHeight": "36px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Cyan Banister",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "chicago, \"chicago Fallback\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.26px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(86, 86, 233)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "I had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes it just revea",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(86, 86, 233)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(80, 136, 186)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "I had dice carrying necklaces made for me by a jeweler. Sometimes a roll makes the decision, and sometimes it just revea",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Check them out here!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Check them out here!",
+            "color": "lab(8.11897 0.811279 -12.254)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgb(235, 38, 130)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "The moment I cease running experiments on my life is when the true experiment begins. What if all my searching was merel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Substack",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Investments",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Contact Me",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Read",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Watch",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Listen",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Shop",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Your Bag",
+            "color": "rgb(136, 136, 136)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#5659e8",
+            "count": 12244
+          },
+          {
+            "hex": "#75b6ee",
+            "count": 7822
+          },
+          {
+            "hex": "#f8f8f8",
+            "count": 1701
+          },
+          {
+            "hex": "#48619e",
+            "count": 1508
+          },
+          {
+            "hex": "#355372",
+            "count": 733
+          },
+          {
+            "hex": "#ec66a7",
+            "count": 723
+          },
+          {
+            "hex": "#5586b2",
+            "count": 480
+          },
+          {
+            "hex": "#eed3b0",
+            "count": 389
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#5659e8",
+            "count": 12244
+          },
+          {
+            "hex": "#75b6ee",
+            "count": 7822
+          },
+          {
+            "hex": "#f8f8f8",
+            "count": 1701
+          },
+          {
+            "hex": "#48619e",
+            "count": 1508
+          },
+          {
+            "hex": "#355372",
+            "count": 733
+          },
+          {
+            "hex": "#ec66a7",
+            "count": 723
+          },
+          {
+            "hex": "#5586b2",
+            "count": 480
+          },
+          {
+            "hex": "#eed3b0",
+            "count": 389
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

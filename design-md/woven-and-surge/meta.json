@@ -1,0 +1,267 @@
+{
+  "slug": "woven-and-surge",
+  "title": "Woven sound",
+  "liveUrl": "https://woven-sound.surge.sh/",
+  "domain": "woven-sound.surge.sh",
+  "loadmoreUrl": "https://loadmo.re/posts/woven-and-surge",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/woven-and-surge",
+  "description": "Use your touch to create your own musical and visual masterpiece.",
+  "credits": "Woven Sound",
+  "added": "",
+  "tags": [
+    "playful",
+    "music"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/woven-and-surge/a14711eba4-1601499545/011-woven-sound-surge_1.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/woven-and-surge/af9dbf94d7-1599469337/011-woven-sound.mov",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:33:12.810Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "woven sound",
+        "url": "https://woven-sound.surge.sh/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Click to start, then move your mouse to play music.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Click to start, then move your mouse to play music.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#21211b",
+            "count": 25546
+          },
+          {
+            "hex": "#5d605e",
+            "count": 29
+          },
+          {
+            "hex": "#878987",
+            "count": 6
+          },
+          {
+            "hex": "#42443a",
+            "count": 5
+          },
+          {
+            "hex": "#83847c",
+            "count": 5
+          },
+          {
+            "hex": "#393e41",
+            "count": 4
+          },
+          {
+            "hex": "#3f4136",
+            "count": 3
+          },
+          {
+            "hex": "#7f8079",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#21211b",
+            "count": 25546
+          },
+          {
+            "hex": "#5d605e",
+            "count": 29
+          },
+          {
+            "hex": "#878987",
+            "count": 6
+          },
+          {
+            "hex": "#42443a",
+            "count": 5
+          },
+          {
+            "hex": "#83847c",
+            "count": 5
+          },
+          {
+            "hex": "#393e41",
+            "count": 4
+          },
+          {
+            "hex": "#3f4136",
+            "count": 3
+          },
+          {
+            "hex": "#7f8079",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "woven sound",
+        "url": "https://woven-sound.surge.sh/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Tap to start, then drag to play music.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Tap to start, then drag to play music.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#20211b",
+            "count": 25406
+          },
+          {
+            "hex": "#5a5c58",
+            "count": 120
+          },
+          {
+            "hex": "#999a98",
+            "count": 53
+          },
+          {
+            "hex": "#42433a",
+            "count": 10
+          },
+          {
+            "hex": "#393e40",
+            "count": 4
+          },
+          {
+            "hex": "#3e4038",
+            "count": 3
+          },
+          {
+            "hex": "#3c4143",
+            "count": 2
+          },
+          {
+            "hex": "#84857e",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#20211b",
+            "count": 25406
+          },
+          {
+            "hex": "#5a5c58",
+            "count": 120
+          },
+          {
+            "hex": "#999a98",
+            "count": 53
+          },
+          {
+            "hex": "#42433a",
+            "count": 10
+          },
+          {
+            "hex": "#393e40",
+            "count": 4
+          },
+          {
+            "hex": "#3e4038",
+            "count": 3
+          },
+          {
+            "hex": "#3c4143",
+            "count": 2
+          },
+          {
+            "hex": "#84857e",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "slug": "greg-roque",
+  "title": "Greg Roque",
+  "liveUrl": "http://gregroque.com/",
+  "domain": "gregroque.com",
+  "loadmoreUrl": "https://loadmo.re/posts/greg-roque",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/greg-roque",
+  "description": "Nothing conventional here. Greg Roque welcomes you on his webpage with a fullscreen video of himself yawning.",
+  "credits": "http://www.gabeferreira.com/#!/home",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/greg-roque/70f0bf1357-1736955506/gregroque-cover-hp-min-1.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/greg-roque/26a85b70bb-1736955518/gregroque-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:11:54.009Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Greg Roque",
+        "url": "http://gregroque.com/#/home",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Media",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#986c52",
+            "count": 11553
+          },
+          {
+            "hex": "#704e32",
+            "count": 2850
+          },
+          {
+            "hex": "#ac8e62",
+            "count": 2403
+          },
+          {
+            "hex": "#8c5f39",
+            "count": 2098
+          },
+          {
+            "hex": "#cb9475",
+            "count": 2063
+          },
+          {
+            "hex": "#dfa18a",
+            "count": 2005
+          },
+          {
+            "hex": "#f2eeda",
+            "count": 1438
+          },
+          {
+            "hex": "#e2d3a4",
+            "count": 1190
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#986c52",
+            "count": 11553
+          },
+          {
+            "hex": "#704e32",
+            "count": 2850
+          },
+          {
+            "hex": "#ac8e62",
+            "count": 2403
+          },
+          {
+            "hex": "#8c5f39",
+            "count": 2098
+          },
+          {
+            "hex": "#cb9475",
+            "count": 2063
+          },
+          {
+            "hex": "#dfa18a",
+            "count": 2005
+          },
+          {
+            "hex": "#f2eeda",
+            "count": 1438
+          },
+          {
+            "hex": "#e2d3a4",
+            "count": 1190
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Greg Roque",
+        "url": "http://gregroque.com/#/home",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nhg",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nhg",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Media",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nhg",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#9e6a5d",
+            "count": 11873
+          },
+          {
+            "hex": "#e39d8b",
+            "count": 3429
+          },
+          {
+            "hex": "#cc8a78",
+            "count": 3211
+          },
+          {
+            "hex": "#231610",
+            "count": 1762
+          },
+          {
+            "hex": "#f1ece2",
+            "count": 1583
+          },
+          {
+            "hex": "#503227",
+            "count": 1402
+          },
+          {
+            "hex": "#9e2e27",
+            "count": 1202
+          },
+          {
+            "hex": "#b0876f",
+            "count": 1138
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#9e6a5d",
+            "count": 11873
+          },
+          {
+            "hex": "#e39d8b",
+            "count": 3429
+          },
+          {
+            "hex": "#cc8a78",
+            "count": 3211
+          },
+          {
+            "hex": "#231610",
+            "count": 1762
+          },
+          {
+            "hex": "#f1ece2",
+            "count": 1583
+          },
+          {
+            "hex": "#503227",
+            "count": 1402
+          },
+          {
+            "hex": "#9e2e27",
+            "count": 1202
+          },
+          {
+            "hex": "#b0876f",
+            "count": 1138
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

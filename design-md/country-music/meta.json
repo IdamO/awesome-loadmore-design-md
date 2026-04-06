@@ -1,0 +1,267 @@
+{
+  "slug": "country-music",
+  "title": "Country Music",
+  "liveUrl": "https://www.country-music.co/",
+  "domain": "www.country-music.co",
+  "loadmoreUrl": "https://loadmo.re/posts/country-music",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/country-music",
+  "description": "A feed of music playlists with strong graphics illustrating each track.",
+  "credits": "Per Tornberg, Anna Sagstrom",
+  "added": "",
+  "tags": [
+    "music",
+    "graphic-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/country-music/c30a30381e-1606938126/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/country-music/11fda275aa-1602076696/042-country-music_v01.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:07:22.632Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "",
+        "url": "http://quickresultsonline.com/?dn=country-music.co&sksubid=529059&_slsen=1",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "!function(){\"use strict\";var d,i={\"id\":\"_ol_one_1775506024688670340\",\"l2u\":\"https://resultsfastfind.com/sr/754870121/SAF",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "!function(){\"use strict\";var d,i={\"id\":\"_ol_one_1775506024688670340\",\"l2u\":\"https://resultsfastfind.com/sr/754870121/SAF",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#10162c",
+            "count": 15855
+          },
+          {
+            "hex": "#202848",
+            "count": 5543
+          },
+          {
+            "hex": "#50576e",
+            "count": 2319
+          },
+          {
+            "hex": "#3a4361",
+            "count": 1393
+          },
+          {
+            "hex": "#9a9da6",
+            "count": 360
+          },
+          {
+            "hex": "#707386",
+            "count": 75
+          },
+          {
+            "hex": "#c9cacd",
+            "count": 32
+          },
+          {
+            "hex": "#7d818d",
+            "count": 23
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#10162c",
+            "count": 15855
+          },
+          {
+            "hex": "#202848",
+            "count": 5543
+          },
+          {
+            "hex": "#50576e",
+            "count": 2319
+          },
+          {
+            "hex": "#3a4361",
+            "count": 1393
+          },
+          {
+            "hex": "#9a9da6",
+            "count": 360
+          },
+          {
+            "hex": "#707386",
+            "count": 75
+          },
+          {
+            "hex": "#c9cacd",
+            "count": 32
+          },
+          {
+            "hex": "#7d818d",
+            "count": 23
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "",
+        "url": "http://quickresultsonline.com/?dn=country-music.co&sksubid=529059&_slsen=1",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "!function(){\"use strict\";var d,i={\"id\":\"_ol_one_1775506034254048993\",\"l2u\":\"https://resultsfastfind.com/sr/754870121/SAF",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "!function(){\"use strict\";var d,i={\"id\":\"_ol_one_1775506034254048993\",\"l2u\":\"https://resultsfastfind.com/sr/754870121/SAF",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#152249",
+            "count": 13503
+          },
+          {
+            "hex": "#fafafa",
+            "count": 5504
+          },
+          {
+            "hex": "#0f162c",
+            "count": 3979
+          },
+          {
+            "hex": "#4e5772",
+            "count": 970
+          },
+          {
+            "hex": "#979dab",
+            "count": 713
+          },
+          {
+            "hex": "#6c728c",
+            "count": 503
+          },
+          {
+            "hex": "#3a4564",
+            "count": 267
+          },
+          {
+            "hex": "#b5b9c4",
+            "count": 161
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#152249",
+            "count": 13503
+          },
+          {
+            "hex": "#fafafa",
+            "count": 5504
+          },
+          {
+            "hex": "#0f162c",
+            "count": 3979
+          },
+          {
+            "hex": "#4e5772",
+            "count": 970
+          },
+          {
+            "hex": "#979dab",
+            "count": 713
+          },
+          {
+            "hex": "#6c728c",
+            "count": 503
+          },
+          {
+            "hex": "#3a4564",
+            "count": 267
+          },
+          {
+            "hex": "#b5b9c4",
+            "count": 161
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

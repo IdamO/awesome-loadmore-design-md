@@ -1,0 +1,356 @@
+{
+  "slug": "stand-in-school-for-graphic-design",
+  "title": "Stand in School for Graphic Design",
+  "liveUrl": "https://estende.eka-gd-ma.ee/",
+  "domain": "estende.eka-gd-ma.ee",
+  "loadmoreUrl": "https://loadmo.re/posts/stand-in-school-for-graphic-design",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/stand-in-school-for-graphic-design",
+  "description": "Website for the Stand in School for Graphic Design with playful gravity interactions.",
+  "credits": "Agathe Mathel Seppe-Hazel Laeremans",
+  "added": "",
+  "tags": [
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/stand-in-school-for-graphic-design/f83a2c52df-1765550413/school-for-graphic-design-lisbon-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/stand-in-school-for-graphic-design/638a522619-1765550426/school-for-graphic-design-lisbon-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:28:01.639Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Escola Estende para Design Gráfico",
+        "url": "https://estende.eka-gd-ma.ee/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "21.6px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "monday tuesday wednesday thursday friday outset info",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Georgia",
+          "fontSize": "21.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "21.6px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "monday tuesday wednesday thursday friday outset info \n        Stand-in School for Graphic Design in Lisbon from 24 to 28",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "monday tuesday wednesday thursday friday outset info",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "21.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "Stand-in School for Graphic Design in Lisbon from 24 to 28 of March 2025 Escola Estende para Design Gráfico de 24 a 28 d",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "21.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "radio",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "21.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 21586
+          },
+          {
+            "hex": "#625e5b",
+            "count": 1088
+          },
+          {
+            "hex": "#a49d9c",
+            "count": 1069
+          },
+          {
+            "hex": "#1e1c1a",
+            "count": 587
+          },
+          {
+            "hex": "#dfdbab",
+            "count": 415
+          },
+          {
+            "hex": "#c9afa3",
+            "count": 334
+          },
+          {
+            "hex": "#93d42e",
+            "count": 267
+          },
+          {
+            "hex": "#97685d",
+            "count": 254
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 21586
+          },
+          {
+            "hex": "#625e5b",
+            "count": 1088
+          },
+          {
+            "hex": "#a49d9c",
+            "count": 1069
+          },
+          {
+            "hex": "#1e1c1a",
+            "count": 587
+          },
+          {
+            "hex": "#dfdbab",
+            "count": 415
+          },
+          {
+            "hex": "#c9afa3",
+            "count": 334
+          },
+          {
+            "hex": "#93d42e",
+            "count": 267
+          },
+          {
+            "hex": "#97685d",
+            "count": 254
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Escola Estende para Design Gráfico",
+        "url": "https://estende.eka-gd-ma.ee/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.5px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "monday tuesday wednesday thursday friday outset info",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Georgia",
+          "fontSize": "16.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.6px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "monday tuesday wednesday thursday friday outset info \n        Stand-in School for Graphic Design in Lisbon from 24 to 28",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "monday tuesday wednesday thursday friday outset info",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "16.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.6px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "Stand-in School for Graphic Design in Lisbon from 24 to 28 of March 2025 Escola Estende para Design Gráfico de 24 a 28 d",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "radio",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Georgia",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfa",
+            "count": 18810
+          },
+          {
+            "hex": "#a39d9b",
+            "count": 1642
+          },
+          {
+            "hex": "#605e5b",
+            "count": 1533
+          },
+          {
+            "hex": "#22201d",
+            "count": 1021
+          },
+          {
+            "hex": "#9fe52f",
+            "count": 823
+          },
+          {
+            "hex": "#e4dbac",
+            "count": 648
+          },
+          {
+            "hex": "#996c63",
+            "count": 604
+          },
+          {
+            "hex": "#caada4",
+            "count": 519
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfa",
+            "count": 18810
+          },
+          {
+            "hex": "#a39d9b",
+            "count": 1642
+          },
+          {
+            "hex": "#605e5b",
+            "count": 1533
+          },
+          {
+            "hex": "#22201d",
+            "count": 1021
+          },
+          {
+            "hex": "#9fe52f",
+            "count": 823
+          },
+          {
+            "hex": "#e4dbac",
+            "count": 648
+          },
+          {
+            "hex": "#996c63",
+            "count": 604
+          },
+          {
+            "hex": "#caada4",
+            "count": 519
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

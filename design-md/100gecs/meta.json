@@ -1,0 +1,1156 @@
+{
+  "slug": "100gecs",
+  "title": "100 Gecs",
+  "liveUrl": "https://100gecs.com/",
+  "domain": "100gecs.com",
+  "loadmoreUrl": "https://loadmo.re/posts/100gecs",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/100gecs",
+  "description": "So... what's that? I honestly don't know. But I just love when music bands get themselves crazy websites.",
+  "credits": "Ezra Miller, A Lot of Moving Parts",
+  "added": "",
+  "tags": [
+    "music"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/100gecs/209f457c12-1606940156/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/100gecs/2a8e57826e-1606391267/1000gecs.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T19:57:49.412Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "100 gecs | Official Website",
+        "url": "https://www.100gecs.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "14px",
+          "lineHeight": "14px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Skip to main content\n    \n    \n      \n    \n  \n    \n      \n        \n          \n    \n  \n    \n      \n      \n            \n  ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Music",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "icons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "tex_gyre_herosregular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex_gyre_herosregular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to main content\n    \n    \n      \n    \n  \n    \n      \n        \n          \n    \n  \n    \n      \n      \n            \n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "100 Gecs\n            \n        \n        \n            \n                Music\n                \n                Videos\n     ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "100 Gecs\n            \n        \n        \n            \n                Music\n                \n                Videos\n     ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Music",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Videos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Merch",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "WATCH NOW",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "BUY/LISTEN",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "22.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "©\n                        document.write(new Date().getFullYear())2026 Atlantic Records and 100 Gecs  \n                 ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "icons",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "icons",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "11.07px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "11.07px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Terms of Use",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "11.07px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "11.07px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cookies Policy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "11.07px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "11.07px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Do Not Sell or Share My Personal Information",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "11.07px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "11.07px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#050404",
+            "count": 19919
+          },
+          {
+            "hex": "#5b5a58",
+            "count": 1580
+          },
+          {
+            "hex": "#a99fa0",
+            "count": 1380
+          },
+          {
+            "hex": "#e5dcd8",
+            "count": 1134
+          },
+          {
+            "hex": "#4a3225",
+            "count": 512
+          },
+          {
+            "hex": "#cbb1a9",
+            "count": 478
+          },
+          {
+            "hex": "#584a34",
+            "count": 337
+          },
+          {
+            "hex": "#0754a8",
+            "count": 260
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#050404",
+            "count": 19919
+          },
+          {
+            "hex": "#5b5a58",
+            "count": 1580
+          },
+          {
+            "hex": "#a99fa0",
+            "count": 1380
+          },
+          {
+            "hex": "#e5dcd8",
+            "count": 1134
+          },
+          {
+            "hex": "#4a3225",
+            "count": 512
+          },
+          {
+            "hex": "#cbb1a9",
+            "count": 478
+          },
+          {
+            "hex": "#584a34",
+            "count": 337
+          },
+          {
+            "hex": "#0754a8",
+            "count": 260
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "100 gecs | Official Website",
+        "url": "https://www.100gecs.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "14px",
+          "lineHeight": "14px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Skip to main content\n    \n    \n      \n    \n  \n    \n      \n        \n          \n    \n  \n    \n      \n      \n            \n  ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Music",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times NR MT W01 Regular\"",
+          "fontSize": "15.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "brandon-grotesque",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 6 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "icons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "tex_gyre_herosregular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex_gyre_herosregular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to main content\n    \n    \n      \n    \n  \n    \n      \n        \n          \n    \n  \n    \n      \n      \n            \n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Music\n                \n                Videos\n                Merch\n                \n            \n        \n            \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Music\n                \n                Videos\n                Merch\n                \n            \n        \n            \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Music",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Videos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Merch",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "15.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "icons",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "icons",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "BUY/LISTEN",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "WATCH NOW",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "©\n                        document.write(new Date().getFullYear())2026 Atlantic Records and 100 Gecs  \n                 ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "13.65px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Terms of Use",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "13.65px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cookies Policy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "13.65px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Do Not Sell or Share My Personal Information",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR MT W01 Regular\"",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1px",
+            "lineHeight": "13.65px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#0a0a09",
+            "count": 14302
+          },
+          {
+            "hex": "#e7dfdc",
+            "count": 3067
+          },
+          {
+            "hex": "#a89fa1",
+            "count": 3023
+          },
+          {
+            "hex": "#5a5b5b",
+            "count": 2854
+          },
+          {
+            "hex": "#cbb1a9",
+            "count": 1108
+          },
+          {
+            "hex": "#0456ae",
+            "count": 517
+          },
+          {
+            "hex": "#b6b9c3",
+            "count": 443
+          },
+          {
+            "hex": "#e3c6b9",
+            "count": 286
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0a0a09",
+            "count": 14302
+          },
+          {
+            "hex": "#e7dfdc",
+            "count": 3067
+          },
+          {
+            "hex": "#a89fa1",
+            "count": 3023
+          },
+          {
+            "hex": "#5a5b5b",
+            "count": 2854
+          },
+          {
+            "hex": "#cbb1a9",
+            "count": 1108
+          },
+          {
+            "hex": "#0456ae",
+            "count": 517
+          },
+          {
+            "hex": "#b6b9c3",
+            "count": 443
+          },
+          {
+            "hex": "#e3c6b9",
+            "count": 286
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

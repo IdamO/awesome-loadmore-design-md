@@ -1,0 +1,551 @@
+{
+  "slug": "glitch-mcconnell",
+  "title": "Glitch Mcconnell",
+  "liveUrl": "https://glitchmcconnell.netlify.app/",
+  "domain": "glitchmcconnell.netlify.app",
+  "loadmoreUrl": "https://loadmo.re/posts/glitch-mcconnell",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/glitch-mcconnell",
+  "description": "Create cursed glitch art with Mitch McConnell",
+  "credits": "Anton Plauche",
+  "added": "",
+  "tags": [
+    "glitches",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/glitch-mcconnell/a5921259cb-1767802040/glitchmcconnell-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/glitch-mcconnell/39625115df-1767802050/glitchmcconnell-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:11:23.806Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "",
+        "url": "https://glitchmcconnell.netlify.app/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Glitch Mcconnell",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Click and drag to draw",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "12.8px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Right click or touch and hold on mobile to download\n            \n        \n      \n        \n            Glitch Mcconnell\n ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Glitch Mcconnell\n            Click and drag to draw",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "Glitch Mcconnell",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Click and drag to draw",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "12.8px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Clear Canvas",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Switch Mitch",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Create JPEG",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 25187
+          },
+          {
+            "hex": "#454545",
+            "count": 95
+          },
+          {
+            "hex": "#191919",
+            "count": 88
+          },
+          {
+            "hex": "#535353",
+            "count": 78
+          },
+          {
+            "hex": "#313131",
+            "count": 75
+          },
+          {
+            "hex": "#6d6d6d",
+            "count": 46
+          },
+          {
+            "hex": "#939393",
+            "count": 30
+          },
+          {
+            "hex": "#dadada",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 25187
+          },
+          {
+            "hex": "#454545",
+            "count": 95
+          },
+          {
+            "hex": "#191919",
+            "count": 88
+          },
+          {
+            "hex": "#535353",
+            "count": 78
+          },
+          {
+            "hex": "#313131",
+            "count": 75
+          },
+          {
+            "hex": "#6d6d6d",
+            "count": 46
+          },
+          {
+            "hex": "#939393",
+            "count": 30
+          },
+          {
+            "hex": "#dadada",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "",
+        "url": "https://glitchmcconnell.netlify.app/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Glitch Mcconnell",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Click and drag to draw",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Roboto Mono\"",
+          "fontSize": "12.8px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Right click or touch and hold on mobile to download\n            \n        \n      \n        \n            Glitch Mcconnell\n ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Glitch Mcconnell\n            Click and drag to draw",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "Glitch Mcconnell",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Click and drag to draw",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "12.8px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Clear Canvas",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Switch Mitch",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Create JPEG",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Roboto Mono\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 24959
+          },
+          {
+            "hex": "#585858",
+            "count": 136
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 124
+          },
+          {
+            "hex": "#272727",
+            "count": 95
+          },
+          {
+            "hex": "#171717",
+            "count": 93
+          },
+          {
+            "hex": "#d9d9d9",
+            "count": 70
+          },
+          {
+            "hex": "#363636",
+            "count": 66
+          },
+          {
+            "hex": "#fcfcfc",
+            "count": 57
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 24959
+          },
+          {
+            "hex": "#585858",
+            "count": 136
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 124
+          },
+          {
+            "hex": "#272727",
+            "count": 95
+          },
+          {
+            "hex": "#171717",
+            "count": 93
+          },
+          {
+            "hex": "#d9d9d9",
+            "count": 70
+          },
+          {
+            "hex": "#363636",
+            "count": 66
+          },
+          {
+            "hex": "#fcfcfc",
+            "count": 57
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

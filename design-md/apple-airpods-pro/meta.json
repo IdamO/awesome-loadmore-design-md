@@ -1,0 +1,3772 @@
+{
+  "slug": "apple-airpods-pro",
+  "title": "Apple Airpods Pro",
+  "liveUrl": "https://www.apple.com/airpods-pro/",
+  "domain": "www.apple.com",
+  "loadmoreUrl": "https://loadmo.re/posts/apple-airpods-pro",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/apple-airpods-pro",
+  "description": "Is this Elon Musk's new spaceship? Ha, no. Bluetooth headphones. Without doubt, Apple's web-designers are watching space movies for inspiration.",
+  "credits": "Apple",
+  "added": "",
+  "tags": [
+    "e-commerce"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/apple-airpods-pro/8a52a360f6-1606938781/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/apple-airpods-pro/5d7285d5fb-1605016097/065-apple-airpods-pro-v04.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:02:28.977Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "AirPods Pro 3 - Apple",
+        "url": "https://www.apple.com/airpods-pro/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(29, 29, 31)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "lineHeight": "25px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Shop",
+          "color": "rgb(110, 110, 115)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.12px",
+          "lineHeight": "16.0005px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "html",
+          "text": "AirPods Pro 3 - Apple\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\t\n\t\n\t\n\n\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(29, 29, 31)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25px",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Apple",
+          "color": "rgba(0, 0, 0, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.374px",
+          "lineHeight": "21.0012px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Icons 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "html",
+            "text": "AirPods Pro 3 - Apple\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\t\n\t\n\t\n\n\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "body",
+            "text": "AppleStoreShopShop the LatestMaciPadiPhoneApple WatchApple Vision ProAirPodsAccessoriesQuick LinksFind a StoreOrder Stat",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "AppleStoreShopShop the LatestMaciPadiPhoneApple WatchApple Vision ProAirPodsAccessoriesQuick LinksFind a StoreOrder Stat",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Apple",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Store",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "12px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shop the Latest",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPhone",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Watch",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Vision Pro",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "AirPods",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Accessories",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Quick Links",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Find a Store",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Order Status",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Trade In",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Financing",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Personal Setup",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Special Stores",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Certified Refurbished",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Education",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Business",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Veterans and Military",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Government",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "12px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Explore Mac",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore All Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "MacBook Neo",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "MacBook Air",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "MacBook Pro",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iMac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac mini",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac Studio",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Displays",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Compare Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Switch from PC to Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Mac",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shop Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Help Me Choose",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac Accessories",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Trade In",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Financing",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Personal Setup",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "More from Mac",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac Support",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "AppleCare",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "macOS Tahoe",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Intelligence",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apps by Apple",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Creator Studio",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Better with iPhone",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iCloud+",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mac for Business",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Education",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "12px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Explore iPad",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore All iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad Pro",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad Air",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad mini",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Pencil",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Keyboards",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.216px",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Compare iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop iPad",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shop iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad Accessories",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Trade In",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Financing",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Personal Setup",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "More from iPad",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "iPad Support",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ededee",
+            "count": 17823
+          },
+          {
+            "hex": "#161617",
+            "count": 5111
+          },
+          {
+            "hex": "#5c5d5f",
+            "count": 1312
+          },
+          {
+            "hex": "#9e9fa1",
+            "count": 1137
+          },
+          {
+            "hex": "#b7bac6",
+            "count": 71
+          },
+          {
+            "hex": "#3d4142",
+            "count": 61
+          },
+          {
+            "hex": "#3b3d41",
+            "count": 44
+          },
+          {
+            "hex": "#787886",
+            "count": 41
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ededee",
+            "count": 17823
+          },
+          {
+            "hex": "#161617",
+            "count": 5111
+          },
+          {
+            "hex": "#5c5d5f",
+            "count": 1312
+          },
+          {
+            "hex": "#9e9fa1",
+            "count": 1137
+          },
+          {
+            "hex": "#b7bac6",
+            "count": 71
+          },
+          {
+            "hex": "#3d4142",
+            "count": 61
+          },
+          {
+            "hex": "#3b3d41",
+            "count": 44
+          },
+          {
+            "hex": "#787886",
+            "count": 41
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "AirPods Pro 3 - Apple",
+        "url": "https://www.apple.com/airpods-pro/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(29, 29, 31)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "lineHeight": "25px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Quick Links",
+          "color": "rgb(110, 110, 115)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.374px",
+          "lineHeight": "21.0012px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Up to 2x more than AirPods Pro 2.1",
+          "color": "rgb(29, 29, 31)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.12px",
+          "lineHeight": "16.0005px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(51, 51, 54)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "17px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Apple",
+          "color": "rgba(0, 0, 0, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "19px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.228px",
+          "lineHeight": "23px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Legacy Chevron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Apple Icons 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 100",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 200",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 300",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 500",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "SF Pro Icons 600",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 700",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 800",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons 900",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "SF Pro Icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "html",
+            "text": "AirPods Pro 3 - Apple\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\t\n\t\n\t\n\n\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "body",
+            "text": "AppleStoreShopShop the LatestMaciPadiPhoneApple WatchApple Vision ProAirPodsAccessoriesQuick LinksFind a StoreOrder Stat",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "AppleStoreShopShop the LatestMaciPadiPhoneApple WatchApple Vision ProAirPodsAccessoriesQuick LinksFind a StoreOrder Stat",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.228px",
+            "lineHeight": "23px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Store",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Mac",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "iPad",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "iPhone",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Watch",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Vision",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "AirPods",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "TV & Home",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Entertainment",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Accessories",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Support",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Quick Links",
+            "color": "rgb(110, 110, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Find a Store",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "26px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Vision Pro",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "26px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "AirPods",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "26px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Intelligence",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "26px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Apple Trade In",
+            "color": "rgb(51, 51, 54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "26px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "0+",
+            "color": "rgba(0, 0, 0, 0.8)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "28px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "AirPods Pro 3\n\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLocal Nav Menu\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLocal Nav Menu\n\t\t\t\t\t\t\t\t\t\t\n\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "AirPods Pro 3",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.228px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Local Nav Menu",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Hearing Health",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "18.2px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Tech Specs",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "18.2px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Compare",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "18.2px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Buy AirPods Pro 3",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Buy AirPods Pro 3",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 113, 227)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "980px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "AirPods Pro 3\n\t\t\t\t\t\tThe world’s best in‑ear Active Noise Cancellation.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUp to 2x more than AirPods Pro 2.1\n",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "AirPods Pro 3\n\t\t\t\t\t\tThe world’s best in‑ear Active Noise Cancellation.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUp to 2x more than AirPods Pro 2.1\n",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(245, 245, 247)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flow-root",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "AirPods Pro 3",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.231px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "The world’s best in‑ear Active Noise Cancellation.",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.128px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Up to 2x more than AirPods Pro 2.1",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "1",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.12px",
+            "lineHeight": "16.0005px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "$249",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.224px",
+            "lineHeight": "18.0008px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Buy",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 113, 227)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "980px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.224px",
+            "lineHeight": "18.0008px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(210, 210, 215, 0.64)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Get the highlights.\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWatch the film\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "header",
+            "text": "Get the highlights.\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWatch the film",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Get the highlights.",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Display\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.196px",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Watch the film",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.224px",
+            "lineHeight": "20.0003px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "High definition spacial listening\n\t\t\t\t                                              \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "High definition spacial listening\n\t\t\t\t                                              \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "sticky"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "28px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "32px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "High definition spacial listening\n\t\t\t\t                                              \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "28px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "High definition spacial listening",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "High definition spacial listening",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "All-new heart rate sensing",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "All-new heart rate sensing",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "Better acoustic performance",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Better acoustic performance",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "Live translation",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Live translation",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "Hearing Aid capability",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Hearing Aid capability",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "li",
+            "text": "8 hours of listening",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "list-item",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "8 hours of listening",
+            "color": "rgb(0, 102, 204)",
+            "backgroundColor": "rgba(29, 29, 31, 0.6)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "10px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "0px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "ul",
+            "text": "An exceptional spatial listening experience, with high-definition, three-dimensional audio.2\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "li",
+            "text": "An exceptional spatial listening experience, with high-definition, three-dimensional audio.2\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "An exceptional spatial listening experience, with high-definition, three-dimensional audio.2\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(245, 245, 247)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "28px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "An exceptional spatial listening experience, with high-definition, three-dimensional audio.2",
+            "color": "rgba(0, 0, 0, 0.88)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "2",
+            "color": "rgba(0, 0, 0, 0.88)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "li",
+            "text": "All-new heart rate sensing. Now you can track your heart rate and calories burned during workouts.3\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "All-new heart rate sensing. Now you can track your heart rate and calories burned during workouts.3\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(245, 245, 247)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "28px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "All-new heart rate sensing. Now you can track your heart rate and calories burned during workouts.3",
+            "color": "rgba(0, 0, 0, 0.88)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "3",
+            "color": "rgba(0, 0, 0, 0.88)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "li",
+            "text": "Redesigned from the inside out for a more secure fit and better acoustic performance.4\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Redesigned from the inside out for a more secure fit and better acoustic performance.4\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t",
+            "color": "rgb(29, 29, 31)",
+            "backgroundColor": "rgb(245, 245, 247)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "borderRadius": "28px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Redesigned from the inside out for a more secure fit and better acoustic performance.4",
+            "color": "rgba(0, 0, 0, 0.88)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.374px",
+            "lineHeight": "21.0012px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f2f2f4",
+            "count": 24765
+          },
+          {
+            "hex": "#aeaeaf",
+            "count": 609
+          },
+          {
+            "hex": "#bcbec2",
+            "count": 80
+          },
+          {
+            "hex": "#0370e1",
+            "count": 59
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 46
+          },
+          {
+            "hex": "#559fe6",
+            "count": 27
+          },
+          {
+            "hex": "#2f89e2",
+            "count": 9
+          },
+          {
+            "hex": "#a8cef1",
+            "count": 5
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f2f2f4",
+            "count": 24765
+          },
+          {
+            "hex": "#aeaeaf",
+            "count": 609
+          },
+          {
+            "hex": "#bcbec2",
+            "count": 80
+          },
+          {
+            "hex": "#0370e1",
+            "count": 59
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 46
+          },
+          {
+            "hex": "#559fe6",
+            "count": 27
+          },
+          {
+            "hex": "#2f89e2",
+            "count": 9
+          },
+          {
+            "hex": "#a8cef1",
+            "count": 5
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,838 @@
+{
+  "slug": "tienda-design-store",
+  "title": "Tienda - Design Store",
+  "liveUrl": "https://tienda.nyc/",
+  "domain": "tienda.nyc",
+  "loadmoreUrl": "https://loadmo.re/posts/tienda-design-store",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/tienda-design-store",
+  "description": "Rounded glowy buttons, colorful gradients and cute pictograms. A marketplace designed with a smart and playful mobile-friendly interface.",
+  "credits": "Sight",
+  "added": "",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/tienda-design-store/9b7f95b922-1631784560/0251-tienda-store-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/tienda-design-store/238177f32f-1631784575/0251-tienda-store-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:29:44.862Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Sight — Designing Reality",
+        "url": "https://sight.nyc/",
+        "body": {
+          "backgroundColor": "rgb(17, 17, 17)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.32px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Designing Reality",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.24px",
+          "lineHeight": "14.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "We are an online organization building a better, happier world. We create technology, art, design and music.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.48px",
+          "lineHeight": "16.32px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Email",
+          "color": "oklch(0.918 0.093533 172.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.48px",
+          "lineHeight": "16.32px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Designing Reality\n        \n        \n          \n            \n              \n                Sight\n                An inte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Designing Reality",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Sight",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "13.5px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "16.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "An internet organization",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "13.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "16.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are an online organization building a better, happier world. We create technology, art, design and music.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are designing a future with equality, equity and sustainability in mind.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We believe visual content is the most powerful way to communicate ideas and emotions.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are a diverse team of designers, developers, artists and musicians.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Read our blog to learn more about our work, our team, and our thoughts.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We seek to support innovative artists in creating unique projects.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "An online place to purchase unique, limited edition items from Sight and our friends.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "55.7° F•Cloudy•04:29 PM",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "11.9° C•Cloudy•22:29",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hibernation",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Email\n            •\n            Instagram\n            •\n            X",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Email",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "X",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#161617",
+            "count": 24010
+          },
+          {
+            "hex": "#605955",
+            "count": 791
+          },
+          {
+            "hex": "#4f3337",
+            "count": 275
+          },
+          {
+            "hex": "#8e6757",
+            "count": 247
+          },
+          {
+            "hex": "#989493",
+            "count": 123
+          },
+          {
+            "hex": "#3a433a",
+            "count": 79
+          },
+          {
+            "hex": "#453a43",
+            "count": 39
+          },
+          {
+            "hex": "#e2ddd1",
+            "count": 36
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#161617",
+            "count": 24010
+          },
+          {
+            "hex": "#605955",
+            "count": 791
+          },
+          {
+            "hex": "#4f3337",
+            "count": 275
+          },
+          {
+            "hex": "#8e6757",
+            "count": 247
+          },
+          {
+            "hex": "#989493",
+            "count": 123
+          },
+          {
+            "hex": "#3a433a",
+            "count": 79
+          },
+          {
+            "hex": "#453a43",
+            "count": 39
+          },
+          {
+            "hex": "#e2ddd1",
+            "count": 36
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Sight — Designing Reality",
+        "url": "https://sight.nyc/",
+        "body": {
+          "backgroundColor": "rgb(17, 17, 17)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.32px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Designing Reality",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.24px",
+          "lineHeight": "14.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "We are an online organization building a better, happier world. We create technology, art, design and music.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.48px",
+          "lineHeight": "16.32px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Email",
+          "color": "oklch(0.918 0.093533 172.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.48px",
+          "lineHeight": "16.32px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Designing Reality\n        \n        \n          \n            \n              \n                Sight\n                An inte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Designing Reality",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Sight",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "13.5px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "16.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "An internet organization",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "13.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.24px",
+            "lineHeight": "16.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are an online organization building a better, happier world. We create technology, art, design and music.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are designing a future with equality, equity and sustainability in mind.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We believe visual content is the most powerful way to communicate ideas and emotions.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We are a diverse team of designers, developers, artists and musicians.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Read our blog to learn more about our work, our team, and our thoughts.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We seek to support innovative artists in creating unique projects.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "An online place to purchase unique, limited edition items from Sight and our friends.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "55.7° F•Cloudy•04:29 PM",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "11.9° C•Cloudy•22:29",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hibernation",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Email\n            •\n            Instagram\n            •\n            X",
+            "color": "rgba(0, 0, 0, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Email",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "X",
+            "color": "oklch(0.918 0.093533 172.6)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.48px",
+            "lineHeight": "16.32px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1c1a1e",
+            "count": 19365
+          },
+          {
+            "hex": "#61554c",
+            "count": 2440
+          },
+          {
+            "hex": "#946c5b",
+            "count": 1430
+          },
+          {
+            "hex": "#503339",
+            "count": 1353
+          },
+          {
+            "hex": "#3a433a",
+            "count": 326
+          },
+          {
+            "hex": "#a29897",
+            "count": 260
+          },
+          {
+            "hex": "#453b44",
+            "count": 220
+          },
+          {
+            "hex": "#e7e5d9",
+            "count": 206
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1c1a1e",
+            "count": 19365
+          },
+          {
+            "hex": "#61554c",
+            "count": 2440
+          },
+          {
+            "hex": "#946c5b",
+            "count": 1430
+          },
+          {
+            "hex": "#503339",
+            "count": 1353
+          },
+          {
+            "hex": "#3a433a",
+            "count": 326
+          },
+          {
+            "hex": "#a29897",
+            "count": 260
+          },
+          {
+            "hex": "#453b44",
+            "count": 220
+          },
+          {
+            "hex": "#e7e5d9",
+            "count": 206
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

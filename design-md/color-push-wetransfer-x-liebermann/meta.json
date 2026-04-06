@@ -1,0 +1,978 @@
+{
+  "slug": "color-push-wetransfer-x-liebermann",
+  "title": "Color Push : Wetransfer x Liebermann",
+  "liveUrl": "https://colorpush.wetransfer.com/",
+  "domain": "colorpush.wetransfer.com",
+  "loadmoreUrl": "https://loadmo.re/posts/color-push-wetransfer-x-liebermann",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/color-push-wetransfer-x-liebermann",
+  "description": "Impressive drawing tool to create a collaborative artwork for WeTransfer. You can either paint with your finger or enable camera to paint with your head.",
+  "credits": "Zach Liebermann",
+  "added": "",
+  "tags": [
+    "colorful",
+    "participative",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/color-push-wetransfer-x-liebermann/a4479dbe31-1606938243/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/color-push-wetransfer-x-liebermann/ed192a8e8e-1603375590/071-wetransfer-x-liebermann.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:06:40.623Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Color Push: A collaborative experiment by WeTransfer and Zach Lieberman",
+        "url": "https://colorpush.wetransfer.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "15.84px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "This is Color Push",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Super, serif",
+          "fontSize": "31.68px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "31.68px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "A collaborative experiment by WeTransfer and Zach Lieberman",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "19.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "@WeTransfer if you share your Color Push artwork.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "19.8px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.7px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "GT-Super",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-Super",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Actief",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Actief",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "This is Color Push\n        \n          A collaborative experiment by WeTransfer and Zach Lieberman\n          People aroun",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "15.84px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "15.84px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "This is Color Push",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Super, serif",
+            "fontSize": "31.68px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.68px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A collaborative experiment by WeTransfer and Zach Lieberman",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "People around the world are creating these artworks. Tap  to make your own.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "Click aroundTouch  and drag your cursor",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "21.0672px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You have 90 seconds to do your thing",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You can also turn on your camera\n      for hands-free color pushing",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You won't see your own face and neither will we, it just follows your movements and won't record video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "D’oh! We couldn’t access your camera",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "21.0672px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Turn it on in your browser settings, or just use your mouse or trackpadtouch around instead.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Get moving",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "21.0672px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Make slow movements with your head and hands.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "It's beautiful!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Super, serif",
+            "fontSize": "35.64px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please tag us @WeTransfer if you share your Color Push artwork.\n    We’d love to see it! #colorpush",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@WeTransfer if you share your Color Push artwork.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#colorpush",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You can try again any time at colorpush.wetransfer.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "colorpush.wetransfer.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Read more about Color Push →",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Read more about Color Push →",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "19.8px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.7px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20253
+          },
+          {
+            "hex": "#a59b9f",
+            "count": 1154
+          },
+          {
+            "hex": "#d69e9d",
+            "count": 895
+          },
+          {
+            "hex": "#040404",
+            "count": 859
+          },
+          {
+            "hex": "#dd9c5e",
+            "count": 666
+          },
+          {
+            "hex": "#60648c",
+            "count": 624
+          },
+          {
+            "hex": "#a8a168",
+            "count": 579
+          },
+          {
+            "hex": "#539093",
+            "count": 570
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20253
+          },
+          {
+            "hex": "#a59b9f",
+            "count": 1154
+          },
+          {
+            "hex": "#d69e9d",
+            "count": 895
+          },
+          {
+            "hex": "#040404",
+            "count": 859
+          },
+          {
+            "hex": "#dd9c5e",
+            "count": 666
+          },
+          {
+            "hex": "#60648c",
+            "count": 624
+          },
+          {
+            "hex": "#a8a168",
+            "count": 579
+          },
+          {
+            "hex": "#539093",
+            "count": 570
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Color Push: A collaborative experiment by WeTransfer and Zach Lieberman",
+        "url": "https://colorpush.wetransfer.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "11px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "This is Color Push",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Super, serif",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "A collaborative experiment by WeTransfer and Zach Lieberman",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "13.75px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "@WeTransfer if you share your Color Push artwork.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "13.75px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20.625px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "GT-Super",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-Super",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Actief",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Actief",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "This is Color Push\n        \n          A collaborative experiment by WeTransfer and Zach Lieberman\n          People aroun",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h1",
+            "text": "This is Color Push",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Super, serif",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A collaborative experiment by WeTransfer and Zach Lieberman",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "People around the world are creating these artworks. Tap  to make your own.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "Click aroundTouch  and drag your cursor",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "14.63px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You have 90 seconds to do your thing",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You can also turn on your camera\n      for hands-free color pushing",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You won't see your own face and neither will we, it just follows your movements and won't record video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "D’oh! We couldn’t access your camera",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "14.63px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Turn it on in your browser settings, or just use your mouse or trackpadtouch around instead.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Get moving",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "14.63px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Make slow movements with your head and hands.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "It's beautiful!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Super, serif",
+            "fontSize": "24.75px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please tag us @WeTransfer if you share your Color Push artwork.\n    We’d love to see it! #colorpush",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@WeTransfer if you share your Color Push artwork.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#colorpush",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "You can try again any time at colorpush.wetransfer.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "colorpush.wetransfer.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Read more about Color Push →",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Read more about Color Push →",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Actief, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "13.75px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.625px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16570
+          },
+          {
+            "hex": "#030303",
+            "count": 2057
+          },
+          {
+            "hex": "#d89c97",
+            "count": 1644
+          },
+          {
+            "hex": "#a89899",
+            "count": 1627
+          },
+          {
+            "hex": "#e2a158",
+            "count": 1089
+          },
+          {
+            "hex": "#aca766",
+            "count": 945
+          },
+          {
+            "hex": "#39919c",
+            "count": 878
+          },
+          {
+            "hex": "#539396",
+            "count": 790
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16570
+          },
+          {
+            "hex": "#030303",
+            "count": 2057
+          },
+          {
+            "hex": "#d89c97",
+            "count": 1644
+          },
+          {
+            "hex": "#a89899",
+            "count": 1627
+          },
+          {
+            "hex": "#e2a158",
+            "count": 1089
+          },
+          {
+            "hex": "#aca766",
+            "count": 945
+          },
+          {
+            "hex": "#39919c",
+            "count": 878
+          },
+          {
+            "hex": "#539396",
+            "count": 790
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

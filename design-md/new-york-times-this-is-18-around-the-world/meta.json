@@ -1,0 +1,4013 @@
+{
+  "slug": "new-york-times-this-is-18-around-the-world",
+  "title": "New York Times - This is 18 around the world",
+  "liveUrl": "https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html",
+  "domain": "www.nytimes.com",
+  "loadmoreUrl": "https://loadmo.re/posts/new-york-times-this-is-18-around-the-world",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/new-york-times-this-is-18-around-the-world",
+  "description": "Another example of NY Times's brilliant take on digital content. They certainly know how to immerse the reader in a story.",
+  "credits": "Bureau Borsche",
+  "added": "",
+  "tags": [
+    "online-magazine",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/new-york-times-this-is-18-around-the-world/1567923ee3-1606938375/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/new-york-times-this-is-18-around-the-world/9947849e89-1602080702/070-nyt-18-girls.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:28.641Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "This is 18 Around the World — Through Girls’ Eyes - The New York Times",
+        "url": "https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(51, 51, 51)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "#ThisIs18",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "144px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "129.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "What does life look like for girls turning 18 in 2018? We gave young women photographers around the world an assignment:",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "32px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "41.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Our editors explain",
+          "color": "rgb(21, 124, 210)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "24px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "28.8px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nyt-stymie",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-stymie",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "200",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "italic",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham-extra-cn-bd",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-serif-headline",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-karnak-display-130124",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-slab",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-tmag-serif",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-200",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-200",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-scaps-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-wide-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-wide-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-xcond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-600",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-900",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-900",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-cword-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-small-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-small-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-cond-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-xcond-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-600",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-small-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "magsans-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "magsans-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "magserif-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "magslab-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-s-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-s-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-100",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-200",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-900",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-small-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-small-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "fact-display-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "fact-deck-normal-400",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "vhs",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".lt-ie10 .messenger.suggestions {\n  display: block !important;\n  height: 50px;\n}\n\n.lt-ie10 .messenger.suggestions .messa",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "By JESSICA BENNETT and \n    \n      ANYA STRZEMIEN\n    \n      \n    \n  \n              \n                We gave young women",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "By JESSICA BENNETT and \n    \n      ANYA STRZEMIEN\n    \n      \n    \n  \n              \n                We gave young women",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "#ThisIs18\n\n      .cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{font-siz",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "#ThisIs18",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "144px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "129.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What does life look like for girls turning 18 in 2018? We gave young women photographers around the world an assignment:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "41.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Our editors explain",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "24px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "#ThisIs18\n    \n\n    \n      \n        \n          \n            Home\n          \n        \n      \n        \n          \n        ",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#ThisIs18",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "#ThisIs18",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "10.72px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "12.864px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 115, 115)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chengdu, China",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Chengdu, China",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(210, 177, 255)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "New Delhi, India",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "New Delhi, India",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(24, 0, 75)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Slang Dictionary",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Slang Dictionary",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(162, 161, 175)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "London, U.K.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "London, U.K.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(254, 164, 255)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Lagos, Nigeria",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Lagos, Nigeria",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(188, 242, 240)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mixtape",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Mixtape",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(199, 36, 36)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chandpur, Bangladesh",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Chandpur, Bangladesh",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(186, 182, 198)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Bushehr, Iran",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bushehr, Iran",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(71, 41, 44)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "What’s for Breakfast?",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What’s for Breakfast?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(249, 255, 118)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Zacatecas, Mexico",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Zacatecas, Mexico",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(242, 253, 225)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Washington, D.C.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Washington, D.C.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(4, 33, 35)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mom Knows Best",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Mom Knows Best",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 192, 49)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Clarksdale, Mississippi",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Clarksdale, Mississippi",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(237, 230, 234)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Family Traditions",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Family Traditions",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(205, 244, 73)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ramallah, West Bank",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ramallah, West Bank",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(16, 90, 73)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "What Worries You?",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What Worries You?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 242, 239)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Melbourne, Australia",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Melbourne, Australia",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(245, 255, 171)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Moscow, Russia",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Moscow, Russia",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(159, 173, 172)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Bronx, N.Y.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bronx, N.Y.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(77, 165, 236)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Letter from the Editors",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Letter from the Editors",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 241, 241)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#ThisIs18",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "#ThisIs18",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Brought to you by",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Brought to you by",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(243, 179, 156)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "22.4px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 12:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Los Angeles, where Hélène is studying fine art and animation.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Arleigh Haskal for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 02:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Zacatecas, Mexico, where Obdulia helps her parents sell traditional crafts.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Jesse Mireles for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 02:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Clarksdale, Miss., USA, where Madison is taking a break from school to work and support her son, Jeremiah.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Yasmine Malone for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Bronx, New York, where Maryclare will soon be heading off to college.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Julie Lozano for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Washington, D.C., where Grace hopes to become a filmmaker.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By TiKa Wallace for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Montreal, where Lori'anne works and attends school.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Adèle Foglia for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Havana, where Thalia is studying industrial engineering.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Alexandra Álvarez for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "14.4px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 08:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in London, where Ruby is in her final year of high school.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "32px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.2px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#47292a",
+            "count": 10620
+          },
+          {
+            "hex": "#5a5761",
+            "count": 4972
+          },
+          {
+            "hex": "#221d22",
+            "count": 4103
+          },
+          {
+            "hex": "#9497a6",
+            "count": 2386
+          },
+          {
+            "hex": "#5e708f",
+            "count": 2368
+          },
+          {
+            "hex": "#323146",
+            "count": 395
+          },
+          {
+            "hex": "#dfe1e6",
+            "count": 388
+          },
+          {
+            "hex": "#788499",
+            "count": 368
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#47292a",
+            "count": 10620
+          },
+          {
+            "hex": "#5a5761",
+            "count": 4972
+          },
+          {
+            "hex": "#221d22",
+            "count": 4103
+          },
+          {
+            "hex": "#9497a6",
+            "count": 2386
+          },
+          {
+            "hex": "#5e708f",
+            "count": 2368
+          },
+          {
+            "hex": "#323146",
+            "count": 395
+          },
+          {
+            "hex": "#dfe1e6",
+            "count": 388
+          },
+          {
+            "hex": "#788499",
+            "count": 368
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "This is 18 Around the World — Through Girls’ Eyes - The New York Times",
+        "url": "https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(51, 51, 51)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "#ThisIs18",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "48px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "43.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "What does life look like for girls turning 18 in 2018? We gave young women photographers around the world an assignment:",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "20px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Our editors explain",
+          "color": "rgb(21, 124, 210)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+          "fontSize": "20px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "nyt-stymie",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-stymie",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "200",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "italic",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-cheltenham-sh",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-cheltenham-extra-cn-bd",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-serif-headline",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-karnak-display-130124",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-franklin",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-mag-slab",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nyt-tmag-serif",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-200",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-200",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-cond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-scaps-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-small-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-wide-italic-400",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-wide-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "cheltenham-xcond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-600",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-italic-900",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-normal-900",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-cword-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-small-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "franklin-small-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-cond-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "graphik-xcond-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-600",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "imperial-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-small-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "magsans-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "magsans-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "magserif-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "magslab-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-s-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-s-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-600",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "schnyder-scond-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-300",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-500",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-700",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-100",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-200",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-300",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-normal-900",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-small-italic-800",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "stymie-small-normal-800",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "karnak-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-400",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-500",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "kippenberger-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "fact-display-normal-700",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "fact-deck-normal-400",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "vhs",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".lt-ie10 .messenger.suggestions {\n  display: block !important;\n  height: 50px;\n}\n\n.lt-ie10 .messenger.suggestions .messa",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "By JESSICA BENNETT and \n    \n      ANYA STRZEMIEN\n    \n      \n    \n  \n              \n                We gave young women",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "By JESSICA BENNETT and \n    \n      ANYA STRZEMIEN\n    \n      \n    \n  \n              \n                We gave young women",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "#ThisIs18\n\n      .cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{font-siz",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "#ThisIs18",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "48px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What does life look like for girls turning 18 in 2018? We gave young women photographers around the world an assignment:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Our editors explain",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "#ThisIs18\n    \n\n    \n      \n        \n          \n            Home\n          \n        \n      \n        \n          \n        ",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#ThisIs18",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "#ThisIs18",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "10.72px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "12.864px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chengdu, China",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "New Delhi, India",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Slang Dictionary",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "London, U.K.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Lagos, Nigeria",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mixtape",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chandpur, Bangladesh",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Bushehr, Iran",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "What’s for Breakfast?",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Zacatecas, Mexico",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Washington, D.C.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mom Knows Best",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Clarksdale, Mississippi",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Family Traditions",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ramallah, West Bank",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "What Worries You?",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Melbourne, Australia",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Moscow, Russia",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Bronx, N.Y.",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Letter from the Editors",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "#ThisIs18",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Brought to you by",
+            "color": "rgb(21, 124, 210)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 12:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Los Angeles, where Hélène is studying fine art and animation.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Arleigh Haskal for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 02:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Zacatecas, Mexico, where Obdulia helps her parents sell traditional crafts.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Jesse Mireles for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 02:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Clarksdale, Miss., USA, where Madison is taking a break from school to work and support her son, Jeremiah.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Yasmine Malone for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Bronx, New York, where Maryclare will soon be heading off to college.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Julie Lozano for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Washington, D.C., where Grace hopes to become a filmmaker.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By TiKa Wallace for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Montreal, where Lori'anne works and attends school.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Adèle Foglia for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 03:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Havana, where Thalia is studying industrial engineering.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Alexandra Álvarez for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 08:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in London, where Ruby is in her final year of high school.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Georgia Canning for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 09:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Lagos, Nigeria, where Victory is a student at the University of Lagos.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Ebunoluwa Osaro Akinbo for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 09:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Rena, Norway, where Anndrine just finished up a summer job at IKEA.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Celina Christoffersen for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 09:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Berlin, where Cinzia is finishing up her final year of high school and spent the summer working in an ice bar (ye",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Constanze Josting for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 11:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Nairobi, Kenya, where Wanjiku is studying urban planning.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Sarah Sunday Moses for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 10:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Ramallah, West Bank, where Faiza recently graduated from high school and is working at an aquarium.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Leen Awartani for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 11:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Moscow, where Alexandra lives with her parents and younger sister.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Anna Dermicheva for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 10:20p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "... in Beersheba, Israel, where Lior just graduated from high school and plays on a women’s volleyball league.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "By Noga Sieradzki for The New York Times",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham-sh, nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Right now, it’s 11:50p.m.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "nyt-cheltenham, georgia, \"times new roman\", times, serif",
+            "fontSize": "20px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#47292b",
+            "count": 12171
+          },
+          {
+            "hex": "#1c171c",
+            "count": 4855
+          },
+          {
+            "hex": "#60575f",
+            "count": 3478
+          },
+          {
+            "hex": "#9a97a2",
+            "count": 1771
+          },
+          {
+            "hex": "#eaeaeb",
+            "count": 1570
+          },
+          {
+            "hex": "#5f708f",
+            "count": 1011
+          },
+          {
+            "hex": "#8c6c70",
+            "count": 451
+          },
+          {
+            "hex": "#513946",
+            "count": 293
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#47292b",
+            "count": 12171
+          },
+          {
+            "hex": "#1c171c",
+            "count": 4855
+          },
+          {
+            "hex": "#60575f",
+            "count": 3478
+          },
+          {
+            "hex": "#9a97a2",
+            "count": 1771
+          },
+          {
+            "hex": "#eaeaeb",
+            "count": 1570
+          },
+          {
+            "hex": "#5f708f",
+            "count": 1011
+          },
+          {
+            "hex": "#8c6c70",
+            "count": 451
+          },
+          {
+            "hex": "#513946",
+            "count": 293
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

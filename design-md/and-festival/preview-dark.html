@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>And Festival Design Preview (Dark)</title>
+<style>
+  :root {
+    --bg: #0f0f10;
+    --fg: #f7f7f7;
+    --accent: #79e3d8;
+    --card: #18181b;
+    --border: rgba(255,255,255,0.12);
+    --font-sans: Basier Circle Mono;
+    --font-mono: ui-monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 40px 20px 80px; }
+  .hero { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 20px; align-items: start; }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 24px;
+  }
+  .eyebrow { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; opacity: .72; }
+  h1 { font-size: clamp(40px, 7vw, 84px); line-height: .96; margin: 10px 0 16px; }
+  p { max-width: 62ch; }
+  .buttons { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+  .btn {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn--accent { background: var(--accent); color: #0a0a0a; border-color: transparent; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 24px; }
+  .swatch { border-radius: 18px; overflow: hidden; border: 1px solid var(--border); }
+  .swatch .chip { height: 82px; }
+  .swatch .meta { padding: 12px 14px; font-family: var(--font-mono); font-size: 12px; }
+  .shots { display: grid; grid-template-columns: 1fr 320px; gap: 20px; margin-top: 28px; }
+  img { width: 100%; display: block; border-radius: 18px; border: 1px solid var(--border); }
+  .small { font-size: 13px; opacity: .72; }
+  @media (max-width: 900px) {
+    .hero, .shots, .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <div class="eyebrow">loadmo.re design archive</div>
+        <h1>And Festival</h1>
+        <p>Firstly pick a rendering quality to select how much data you'd like to load, then discover the festival's programme through navigating a 3D map.</p>
+        <div class="buttons">
+          <a class="btn btn--accent" href="https://andfestival.world">Visit live site</a>
+          <a class="btn" href="https://loadmo.re/posts/and-festival">Open loadmo.re entry</a>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Fonts</div>
+        <p>Basier Circle Mono</p>
+        <div class="eyebrow">Tags</div>
+        <p class="small">game · typography</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="swatch"><div class="chip" style="background:#041f92"></div><div class="meta">#041f92</div></div><div class="swatch"><div class="chip" style="background:#021377"></div><div class="meta">#021377</div></div><div class="swatch"><div class="chip" style="background:#79e3d8"></div><div class="meta">#79e3d8</div></div><div class="swatch"><div class="chip" style="background:#2a509b"></div><div class="meta">#2a509b</div></div><div class="swatch"><div class="chip" style="background:#5467aa"></div><div class="meta">#5467aa</div></div><div class="swatch"><div class="chip" style="background:#60d8a1"></div><div class="meta">#60d8a1</div></div><div class="swatch"><div class="chip" style="background:#64a1ad"></div><div class="meta">#64a1ad</div></div><div class="swatch"><div class="chip" style="background:#6d9bcc"></div><div class="meta">#6d9bcc</div></div>
+    </section>
+
+    <section class="shots">
+      <div class="panel">
+        <div class="eyebrow">Web capture</div>
+        <img alt="And Festival desktop" src="./screenshots/desktop.jpg">
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Mobile capture</div>
+        <img alt="And Festival mobile" src="./screenshots/mobile.jpg">
+      </div>
+    </section>
+  </div>
+</body>
+</html>

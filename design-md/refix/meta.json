@@ -1,0 +1,4470 @@
+{
+  "slug": "refix",
+  "title": "Refix",
+  "liveUrl": "https://refixyourself.com/",
+  "domain": "refixyourself.com",
+  "loadmoreUrl": "https://loadmo.re/posts/refix",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/refix",
+  "description": "Solid big bold type nagivation to lure you in to explore further.",
+  "credits": "Naranjo-Etxeberria",
+  "added": "",
+  "tags": [
+    "e-commerce",
+    "typography",
+    "animation"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/refix/43444e776a-1606937844/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/refix/ad550047d1-1598788781/037-refix_v01.mov",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:24:32.548Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Bebida isotónica natural, 78 minerales del agua de mar REFIX",
+        "url": "https://refixyourself.com/",
+        "body": {
+          "backgroundColor": "rgb(104, 104, 104)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "lineHeight": "26px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bebida ecológica\nde hidratación rápida",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Oswald",
+          "fontSize": "50px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "60px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Limón y\nNaranja\nBebida isotónica\n265 ml",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Enviar / Send",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(17, 17, 17)",
+          "fontFamily": "Montserrat",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "40px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Quiénes somos",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "13px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "21.125px",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "vcpb-plugin-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "vc_grid_v1",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Glyphicons Halflings",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bebas Neue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bebas Neue",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5KBZ9NK\" height=\"0\" width=\"0\" style=\"display:none;visibilit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(104, 104, 104)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Quiénes somos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Hazte distribuidor",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Hazte Afiliado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Quiero Comprar",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Ferias y Eventos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "FAQ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Contacto",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "21.125px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Quiero comprar",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(29, 29, 27)",
+            "fontFamily": "Oswald",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "50px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Quiero ser distribuidor",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(29, 29, 27)",
+            "fontFamily": "Oswald",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "50px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "La ciencia nos avala. Ver estudios",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Oswald",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "50px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Vea nuestros puntos de venta",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Oswald",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "50px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "Limón y\nNaranja\nBebida isotónica\n265 ml",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Coco y Piña\nCoco y Manzana\nBebida isotónica\n500 ml",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fresa y Frambuesa\nMelocotón y Maracuya\nGeles energéticos\n40 g",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Bebida ecológica\nde hidratación rápida",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Oswald",
+            "fontSize": "50px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "60px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "¿DE DÓNDE PROCEDE REFIX?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "36px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "El consumo de agua de mar diluida con fines terapéuticos se remonta a la antigüedad, yaque tiene una composición mineral",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nuestro compromiso con la sostenibilidad va más allá, ya que toda la energía que consumimos tanto en el proceso de produ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Raúl Anta (biólogo)\nFounder | Leading Global Sales & Investor Relations",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "REFIX PARA LA SALUD\nY EL BIENESTAR DIARIO",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hidratación inteligente\nEl cuerpo necesita más que agua. Refix repone minerales marinos esenciales y restaura el equilib",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Recuperación natural\nTras el esfuerzo o los excesos, Refix ayuda a combatir la fatiga y a recuperar el bienestar de form",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bienestar diario\nAyudar en la recuperación nocturna, equilibrio fisico y mental crucial para su rendimiento, gracias a l",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fortaleza y defensa\nReducir la sensación de fatiga y cansancio de forma progresiva y equilibrada.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "ESTILO DE VIDA\nSALUDABLE Y DEPORTIVO",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Rendimiento natural\nREFIX hidrata más rápido que el agua sola, gracias a sus minerales marinos que ayudan a mantener el ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Recuperación post-entreno\nDespués del esfuerzo, Refix repone electrolitos esenciales y contribuye a reducir la fatiga mu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Resistencia y concentración\nSu fórmula sin azúcares ni estimulantes apoya la función muscular y nerviosa, ayudando a man",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Minerales del mar, fuerza real\nCon magnesio, potasio, fósforo y calcio naturales, Refix es la aliada perfecta para depor",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Compra nuestros productos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Compra nuestros productos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Montserrat",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "40px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Nuestro Equipo administrativo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "En REFIX, creemos que una gran marca no se construye solo con buenos productos, sino con personas apasionadas, compromet",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Representantes comerciales",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ocean Hydrate Food And Beverages Trading L.L.C",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gold Nutrition",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ocean Hydrate Food And Beverages Trading L.L.C",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gold Nutrition",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ocean Hydrate Food And Beverages Trading L.L.C",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gold Nutrition",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "CERTIFICADOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nuestra innovadora bebida cuenta con 5 prestigiosos\ncertificados reconocidos a nivel mundial:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "PREMIOS Y NOMINACIONES",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A lo largo de nuestra historia, hemos sido galardonados\ncon prestigiosos premios del sector a nivel mundial:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Ferias y eventos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "PRÓXIMOS EVENTOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "PRÓXIMOS EVENTOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Montserrat",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "40px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Sumérgete en REFIX",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Estudo científico\t\t\n\t\t\n\t\t\n\t\n\n\n\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\t\t\t\t\n\t\t\tConcepto y objetivo\t\t\n\t\t\n\t\t\n\t\n\n\n\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\t\t\t\t\n\t\t\tSostenibilid",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Estudo científico",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Concepto y objetivo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#160f10",
+            "count": 19710
+          },
+          {
+            "hex": "#6e6d6d",
+            "count": 4100
+          },
+          {
+            "hex": "#9e9b9b",
+            "count": 1091
+          },
+          {
+            "hex": "#dbdada",
+            "count": 426
+          },
+          {
+            "hex": "#443a37",
+            "count": 103
+          },
+          {
+            "hex": "#f9c907",
+            "count": 60
+          },
+          {
+            "hex": "#eddba4",
+            "count": 59
+          },
+          {
+            "hex": "#857a71",
+            "count": 51
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#160f10",
+            "count": 19710
+          },
+          {
+            "hex": "#6e6d6d",
+            "count": 4100
+          },
+          {
+            "hex": "#9e9b9b",
+            "count": 1091
+          },
+          {
+            "hex": "#dbdada",
+            "count": 426
+          },
+          {
+            "hex": "#443a37",
+            "count": 103
+          },
+          {
+            "hex": "#f9c907",
+            "count": 60
+          },
+          {
+            "hex": "#eddba4",
+            "count": 59
+          },
+          {
+            "hex": "#857a71",
+            "count": 51
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Bebida isotónica natural, 78 minerales del agua de mar REFIX",
+        "url": "https://refixyourself.com/",
+        "body": {
+          "backgroundColor": "rgb(104, 104, 104)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bebida ecológica\nde hidratación rápida",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Oswald",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "50.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Limón y\nNaranja\nBebida isotónica\n265 ml",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Enviar / Send",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(17, 17, 17)",
+          "fontFamily": "Montserrat",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "40px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Quiénes somos",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "13px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "stmicons",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "vcpb-plugin-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "vc_grid_v1",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Montserrat",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Glyphicons Halflings",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FontAwesome",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Brands",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Font Awesome 5 Free",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bebas Neue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bebas Neue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5KBZ9NK\" height=\"0\" width=\"0\" style=\"display:none;visibilit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(104, 104, 104)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Quiénes somos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Hazte distribuidor",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Hazte Afiliado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Quiero Comprar",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Ferias y Eventos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "FAQ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Contacto",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Limón y\nNaranja\nBebida isotónica\n265 ml",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Coco y Piña\nCoco y Manzana\nBebida isotónica\n500 ml",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fresa y Frambuesa\nMelocotón y Maracuya\nGeles energéticos\n40 g",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COMPRAR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Bebida ecológica\nde hidratación rápida",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Oswald",
+            "fontSize": "42px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "50.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "¿DE DÓNDE PROCEDE REFIX?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "El consumo de agua de mar diluida con fines terapéuticos se remonta a la antigüedad, yaque tiene una composición mineral",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nuestro compromiso con la sostenibilidad va más allá, ya que toda la energía que consumimos tanto en el proceso de produ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Raúl Anta (biólogo)\nFounder | Leading Global Sales & Investor Relations",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "REFIX PARA LA SALUD\nY EL BIENESTAR DIARIO",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hidratación inteligente\nEl cuerpo necesita más que agua. Refix repone minerales marinos esenciales y restaura el equilib",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Recuperación natural\nTras el esfuerzo o los excesos, Refix ayuda a combatir la fatiga y a recuperar el bienestar de form",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bienestar diario\nAyudar en la recuperación nocturna, equilibrio fisico y mental crucial para su rendimiento, gracias a l",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fortaleza y defensa\nReducir la sensación de fatiga y cansancio de forma progresiva y equilibrada.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "ESTILO DE VIDA\nSALUDABLE Y DEPORTIVO",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Rendimiento natural\nREFIX hidrata más rápido que el agua sola, gracias a sus minerales marinos que ayudan a mantener el ",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Recuperación post-entreno\nDespués del esfuerzo, Refix repone electrolitos esenciales y contribuye a reducir la fatiga mu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Resistencia y concentración\nSu fórmula sin azúcares ni estimulantes apoya la función muscular y nerviosa, ayudando a man",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Minerales del mar, fuerza real\nCon magnesio, potasio, fósforo y calcio naturales, Refix es la aliada perfecta para depor",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Compra nuestros productos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Compra nuestros productos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Montserrat",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "40px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Nuestro Equipo administrativo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "En REFIX, creemos que una gran marca no se construye solo con buenos productos, sino con personas apasionadas, compromet",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Representantes comerciales",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gold Nutrition",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ocean Hydrate Food And Beverages Trading L.L.C",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gold Nutrition",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Ocean Hydrate Food And Beverages Trading L.L.C",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "CERTIFICADOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nuestra innovadora bebida cuenta con 5 prestigiosos\ncertificados reconocidos a nivel mundial:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "PREMIOS Y NOMINACIONES",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A lo largo de nuestra historia, hemos sido galardonados\ncon prestigiosos premios del sector a nivel mundial:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Ferias y eventos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "PRÓXIMOS EVENTOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "PRÓXIMOS EVENTOS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(17, 17, 17)",
+            "fontFamily": "Montserrat",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "40px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Sumérgete en REFIX",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Estudo científico\t\t\n\t\t\n\t\t\n\t\n\n\n\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\t\t\t\t\n\t\t\tConcepto y objetivo\t\t\n\t\t\n\t\t\n\t\n\n\n\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\t\t\t\t\n\t\t\tSostenibilid",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Estudo científico",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Concepto y objetivo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Sostenibilidad",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "78 sales minerales",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Calidad y bienestar para toda la famila",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Conferencias y eventos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Compra Refix en:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Montserrat",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#737373",
+            "count": 15700
+          },
+          {
+            "hex": "#29292d",
+            "count": 5638
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 1773
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 1255
+          },
+          {
+            "hex": "#e5a613",
+            "count": 372
+          },
+          {
+            "hex": "#65531e",
+            "count": 300
+          },
+          {
+            "hex": "#f5df9d",
+            "count": 288
+          },
+          {
+            "hex": "#daa858",
+            "count": 274
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#737373",
+            "count": 15700
+          },
+          {
+            "hex": "#29292d",
+            "count": 5638
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 1773
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 1255
+          },
+          {
+            "hex": "#e5a613",
+            "count": 372
+          },
+          {
+            "hex": "#65531e",
+            "count": 300
+          },
+          {
+            "hex": "#f5df9d",
+            "count": 288
+          },
+          {
+            "hex": "#daa858",
+            "count": 274
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,1146 @@
+{
+  "slug": "the-art-of-critique",
+  "title": "The Art of Critique",
+  "liveUrl": "https://theartofcritique.rietveldacademie.nl/",
+  "domain": "theartofcritique.rietveldacademie.nl",
+  "loadmoreUrl": "https://loadmo.re/posts/the-art-of-critique",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/the-art-of-critique",
+  "description": "Single page that works as an interactive poster for this online exhibition. Including comprehensive program and details about the event.",
+  "credits": "Quentin Creuzet, Giulia Bierens de Haan",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "typography",
+    "digital-exhibition"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/the-art-of-critique/3ef422753c-1621860543/0149-the-art-of-critique-cover-home.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/the-art-of-critique/887b5904e6-1621860561/0149-the-art-of-critique-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:28:41.410Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "The Art of Critique",
+        "url": "https://theartofcritique.rietveldacademie.nl/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.8px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "12.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "HarmoniaSansMono-Regular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "HarmoniaSansMonoStd-Italic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bureau Grot Cond Lt",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Home\n                  About\n                        Reader\n            \n\n    \n    \n      \n                  Chapter 1: ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Home\n                  About\n                        Reader\n            \n\n    \n    \n      \n                  Chapter 1: ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Home\n                  About\n                        Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Chapter 1: Color Critique\n              \n      \n                                      Text\n                        \n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 1: Color Critique",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 2: Image Critique",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shuffle",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Tour",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Events",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 3: Structure Critique",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shuffle",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Events",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Clear artworks",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "The Art of Critique\n      \n\n      1) About\n    \n          This website is a collaboration between the Frans Hals Museum ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Virtual tour: Watch the video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Browse through the online environment",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Browse through the online environment",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "3) Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Quentin Creuzet",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Giulia Bierens de Haan",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 15413
+          },
+          {
+            "hex": "#0d0d0c",
+            "count": 5030
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 1992
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 1816
+          },
+          {
+            "hex": "#f5f50c",
+            "count": 742
+          },
+          {
+            "hex": "#656519",
+            "count": 295
+          },
+          {
+            "hex": "#d3d36a",
+            "count": 162
+          },
+          {
+            "hex": "#a8a824",
+            "count": 150
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 15413
+          },
+          {
+            "hex": "#0d0d0c",
+            "count": 5030
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 1992
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 1816
+          },
+          {
+            "hex": "#f5f50c",
+            "count": 742
+          },
+          {
+            "hex": "#656519",
+            "count": 295
+          },
+          {
+            "hex": "#d3d36a",
+            "count": 162
+          },
+          {
+            "hex": "#a8a824",
+            "count": 150
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "The Art of Critique",
+        "url": "https://theartofcritique.rietveldacademie.nl/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.8px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "12.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "HarmoniaSansMono-Regular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "HarmoniaSansMonoStd-Italic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Bureau Grot Cond Lt",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Home\n                  About\n                        Reader\n            \n\n    \n    \n      \n                  Chapter 1: ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Home\n                  About\n                        Reader\n            \n\n    \n    \n      \n                  Chapter 1: ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Home\n                  About\n                        Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Chapter 1: Color Critique\n              \n      \n                                      Text\n                        \n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 1: Color Critique",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 2: Image Critique",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shuffle",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Tour",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Events",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Chapter 3: Structure Critique",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shuffle",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Events",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Text",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Clear artworks",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "The Art of Critique\n      \n\n      1) About\n    \n          This website is a collaboration between the Frans Hals Museum ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Virtual tour: Watch the video",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Browse through the online environment",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Browse through the online environment",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "3) Reader",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "This project is generously supported by the Goethe-Institut Amsterdam\nThe exhibition, Image Power, is supported by Mondr",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Quentin Creuzet",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Giulia Bierens de Haan",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "HarmoniaSansMono-Regular, \"Courier New\", Courier, monospace",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.6px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fafafa",
+            "count": 15602
+          },
+          {
+            "hex": "#0e0e0d",
+            "count": 4261
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 1850
+          },
+          {
+            "hex": "#636363",
+            "count": 1766
+          },
+          {
+            "hex": "#f3f307",
+            "count": 1580
+          },
+          {
+            "hex": "#a3a31c",
+            "count": 281
+          },
+          {
+            "hex": "#ceceb0",
+            "count": 158
+          },
+          {
+            "hex": "#626221",
+            "count": 102
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fafafa",
+            "count": 15602
+          },
+          {
+            "hex": "#0e0e0d",
+            "count": 4261
+          },
+          {
+            "hex": "#9e9e9e",
+            "count": 1850
+          },
+          {
+            "hex": "#636363",
+            "count": 1766
+          },
+          {
+            "hex": "#f3f307",
+            "count": 1580
+          },
+          {
+            "hex": "#a3a31c",
+            "count": 281
+          },
+          {
+            "hex": "#ceceb0",
+            "count": 158
+          },
+          {
+            "hex": "#626221",
+            "count": 102
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

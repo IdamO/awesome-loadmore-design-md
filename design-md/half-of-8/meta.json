@@ -1,0 +1,4203 @@
+{
+  "slug": "half-of-8",
+  "title": "Half of 8",
+  "liveUrl": "https://halfof8.com/",
+  "domain": "halfof8.com",
+  "loadmoreUrl": "https://loadmo.re/posts/half-of-8",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/half-of-8",
+  "description": "Website for collective half of 8. Features an infinite grid for exploring chapters of the ‘Half of Journal’ zine, a music player, and even a narrative expedition of Mt. Fuji!",
+  "credits": "Half of 8",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "online-magazine",
+    "graphic-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/half-of-8/a296d7492f-1719044458/0005-halfof8-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/half-of-8/b7d001bc6c-1719044498/0005-halfof8-post-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:12:35.780Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Anton | Half of Eight",
+        "url": "https://halfof8.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "TALKS & WRITINGS",
+          "color": "rgba(255, 255, 255, 0.3)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1.2px",
+          "lineHeight": "17.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "46px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.46px",
+          "lineHeight": "49.68px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "½ 88",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "__interDisplay_d57320",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "__interDisplay_d57320",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "__interDisplay_Fallback_d57320",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_Fallback_d848ea",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_Fallback_e0f1bd",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "InterDisplay",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "InterDisplay",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "!function(e,t,c,n,r,a,s){e[r]=e[r]||function(){(e[r].a=e[r].a||[]).push(arguments)},e[r].l=1*new Date;for(var i=0;i<docu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "½ 88JournalArtBookBookFujiFujiTunesTune??",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "½ 88",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "JournalArt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "BookBook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "FujiFuji",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "TunesTune",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "??",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "日本語",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "46px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.46px",
+            "lineHeight": "49.68px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "TALKS & WRITINGS",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Designer, In Japan. YouTube channel with reports, explorations, and interviews.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "½ Book. A study of the development of my visual style. Sold out.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Awwwards NYC 2024. Exploring the Purpose of Artistic Expression in the Age of AI",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "INTERACTIVE WEB",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Expedition to Mt. Fuji. An unusual report on an expedition to the one ♡ only.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Art Journal. An infinite exhibition of posters focused on relocation to Japan.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Sukima. An exhibition of clay and digital — exploring Japanese folklore.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "SemiTone. Music tracks and visuals created in self-isolation during COVID-19.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "DIGITAL APPS",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Minimalist gym tracker. iOS app to log exercise data and see what to do next, no noise.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "JetBrains Space. R&D project exploring a combination of team and coding tools.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fleet Code Editor. A platform for lightweight coding solutions.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Matter. AI prototyping tool for product teams focused on real-world codebases.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "RECOGNITION",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "13.2px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#050505",
+            "count": 23525
+          },
+          {
+            "hex": "#5b5b5b",
+            "count": 772
+          },
+          {
+            "hex": "#ececec",
+            "count": 356
+          },
+          {
+            "hex": "#999898",
+            "count": 300
+          },
+          {
+            "hex": "#551916",
+            "count": 215
+          },
+          {
+            "hex": "#f84428",
+            "count": 209
+          },
+          {
+            "hex": "#e89697",
+            "count": 131
+          },
+          {
+            "hex": "#a22c21",
+            "count": 92
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#050505",
+            "count": 23525
+          },
+          {
+            "hex": "#5b5b5b",
+            "count": 772
+          },
+          {
+            "hex": "#ececec",
+            "count": 356
+          },
+          {
+            "hex": "#999898",
+            "count": 300
+          },
+          {
+            "hex": "#551916",
+            "count": 215
+          },
+          {
+            "hex": "#f84428",
+            "count": 209
+          },
+          {
+            "hex": "#e89697",
+            "count": 131
+          },
+          {
+            "hex": "#a22c21",
+            "count": 92
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Anton | Half of Eight",
+        "url": "https://halfof8.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "TALKS & WRITINGS",
+          "color": "rgba(255, 255, 255, 0.3)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1.2px",
+          "lineHeight": "17.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.28px",
+          "lineHeight": "30.24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "½?",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(53, 53, 53, 0.4)",
+          "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "4px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "½ 88",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "__interDisplay_d57320",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "__interDisplay_d57320",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "__interDisplay_Fallback_d57320",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_d848ea",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Noto_Sans_JP_Fallback_d848ea",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_e0f1bd",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__Dela_Gothic_One_Fallback_e0f1bd",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "InterDisplay",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "InterDisplay",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "!function(e,t,c,n,r,a,s){e[r]=e[r]||function(){(e[r].a=e[r].a||[]).push(arguments)},e[r].l=1*new Date;for(var i=0;i<docu",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "½ 88JournalArtBookBookFujiFujiTunesTune??",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "½ 88",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "JournalArt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "BookBook",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "FujiFuji",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "TunesTune",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "??",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "日本語",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "info@halfof8.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "½?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(53, 53, 53, 0.4)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "main",
+            "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "__interDisplay_d57320, __interDisplay_Fallback_d57320, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Hi,I'mAnton—adesigndirectorbasedinTokyo.Ilead0–1productteamsandstayhands-onacrossUI/UX,3D,graphicdesign,andvideo.Selecte",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.28px",
+            "lineHeight": "30.24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "TALKS & WRITINGS",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Designer, In Japan. YouTube channel with reports, explorations, and interviews.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "½ Book. A study of the development of my visual style. Sold out.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Awwwards NYC 2024. Exploring the Purpose of Artistic Expression in the Age of AI",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "INTERACTIVE WEB",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Expedition to Mt. Fuji. An unusual report on an expedition to the one ♡ only.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Art Journal. An infinite exhibition of posters focused on relocation to Japan.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Sukima. An exhibition of clay and digital — exploring Japanese folklore.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "SemiTone. Music tracks and visuals created in self-isolation during COVID-19.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "DIGITAL APPS",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Minimalist gym tracker. iOS app to log exercise data and see what to do next, no noise.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "JetBrains Space. R&D project exploring a combination of team and coding tools.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Fleet Code Editor. A platform for lightweight coding solutions.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Matter. AI prototyping tool for product teams focused on real-world codebases.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "RECOGNITION",
+            "color": "rgba(255, 255, 255, 0.3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "InterDisplay, -apple-system, \"system-ui\", \"Segoe UI\", system-ui, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.2px",
+            "lineHeight": "13.2px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#070707",
+            "count": 17761
+          },
+          {
+            "hex": "#f74227",
+            "count": 4526
+          },
+          {
+            "hex": "#5b5c5b",
+            "count": 1267
+          },
+          {
+            "hex": "#9d9d9b",
+            "count": 817
+          },
+          {
+            "hex": "#ebebea",
+            "count": 367
+          },
+          {
+            "hex": "#9a2e1e",
+            "count": 336
+          },
+          {
+            "hex": "#d93c25",
+            "count": 274
+          },
+          {
+            "hex": "#63241b",
+            "count": 252
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#070707",
+            "count": 17761
+          },
+          {
+            "hex": "#f74227",
+            "count": 4526
+          },
+          {
+            "hex": "#5b5c5b",
+            "count": 1267
+          },
+          {
+            "hex": "#9d9d9b",
+            "count": 817
+          },
+          {
+            "hex": "#ebebea",
+            "count": 367
+          },
+          {
+            "hex": "#9a2e1e",
+            "count": 336
+          },
+          {
+            "hex": "#d93c25",
+            "count": 274
+          },
+          {
+            "hex": "#63241b",
+            "count": 252
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

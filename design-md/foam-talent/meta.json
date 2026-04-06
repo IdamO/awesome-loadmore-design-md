@@ -1,0 +1,411 @@
+{
+  "slug": "foam-talent",
+  "title": "Foam Talent",
+  "liveUrl": "https://talent.foam.org/",
+  "domain": "talent.foam.org",
+  "loadmoreUrl": "https://loadmo.re/posts/foam-talent",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/foam-talent",
+  "description": "Discover photographers by orbiting their visuals in 3D.",
+  "credits": "Build in Amsterdam",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "3d-space",
+    "photography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/foam-talent/abbdebfb1a-1737743947/foam-cover-hp-min-v02.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/foam-talent/0ab2331bbf-1737743818/foam-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:10:34.343Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Talent 2024-2025 – Digital Exhibition | Foam: All about photography",
+        "url": "https://www.foam.org/talent-2024",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "11.5px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "11.5px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PurpleHaze",
+            "style": "normal",
+            "weight": "100 700",
+            "status": "loaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_d95056",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_d95056",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_Fallback_d95056",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_4ab799",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_4ab799",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_Fallback_4ab799",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "{\"props\":{\"pageProps\":{\"story\":{\"name\":\"Overview\",\"created_at\":\"2023-12-13T11:06:03.084Z\",\"published_at\":\"2024-11-27T11:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#201f21",
+            "count": 9865
+          },
+          {
+            "hex": "#6894cd",
+            "count": 3945
+          },
+          {
+            "hex": "#4972af",
+            "count": 3514
+          },
+          {
+            "hex": "#90b3dd",
+            "count": 2485
+          },
+          {
+            "hex": "#655b56",
+            "count": 1954
+          },
+          {
+            "hex": "#a78e72",
+            "count": 1914
+          },
+          {
+            "hex": "#8a7560",
+            "count": 974
+          },
+          {
+            "hex": "#a9c7e6",
+            "count": 949
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#201f21",
+            "count": 9865
+          },
+          {
+            "hex": "#6894cd",
+            "count": 3945
+          },
+          {
+            "hex": "#4972af",
+            "count": 3514
+          },
+          {
+            "hex": "#90b3dd",
+            "count": 2485
+          },
+          {
+            "hex": "#655b56",
+            "count": 1954
+          },
+          {
+            "hex": "#a78e72",
+            "count": 1914
+          },
+          {
+            "hex": "#8a7560",
+            "count": 974
+          },
+          {
+            "hex": "#a9c7e6",
+            "count": 949
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Talent 2024-2025 – Digital Exhibition | Foam: All about photography",
+        "url": "https://www.foam.org/talent-2024",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "11.5px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "TALENT",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "PurpleHaze",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "11.5px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Monument Grotesk Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "PurpleHaze",
+            "style": "normal",
+            "weight": "100 700",
+            "status": "loaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_d95056",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_d95056",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__MONUMENT_GROTESK_FONT_Fallback_d95056",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_4ab799",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_4ab799",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "__KORMELINK_FONT_Fallback_4ab799",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "TALENTartistsshapingthefutureofphotography{\"props\":{\"pageProps\":{\"story\":{\"name\":\"Overview\",\"created_at\":\"2023-12-13T11:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "TALENT",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "PurpleHaze",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "__MONUMENT_GROTESK_FONT_d95056, __MONUMENT_GROTESK_FONT_Fallback_d95056, HelveticaNeue-Light, \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#212021",
+            "count": 16001
+          },
+          {
+            "hex": "#5a5b5a",
+            "count": 4209
+          },
+          {
+            "hex": "#dbdcdd",
+            "count": 2112
+          },
+          {
+            "hex": "#9ea09f",
+            "count": 2063
+          },
+          {
+            "hex": "#363847",
+            "count": 338
+          },
+          {
+            "hex": "#4d4938",
+            "count": 321
+          },
+          {
+            "hex": "#948d70",
+            "count": 319
+          },
+          {
+            "hex": "#67748d",
+            "count": 237
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#212021",
+            "count": 16001
+          },
+          {
+            "hex": "#5a5b5a",
+            "count": 4209
+          },
+          {
+            "hex": "#dbdcdd",
+            "count": 2112
+          },
+          {
+            "hex": "#9ea09f",
+            "count": 2063
+          },
+          {
+            "hex": "#363847",
+            "count": 338
+          },
+          {
+            "hex": "#4d4938",
+            "count": 321
+          },
+          {
+            "hex": "#948d70",
+            "count": 319
+          },
+          {
+            "hex": "#67748d",
+            "count": 237
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

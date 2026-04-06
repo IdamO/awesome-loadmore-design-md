@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>General Index Design Preview (Light)</title>
+<style>
+  :root {
+    --bg: #fdfdfd;
+    --fg: #a4a9a0;
+    --accent: #e5d9aa;
+    --card: #ffffff;
+    --border: rgba(17,17,17,0.12);
+    --font-sans: system-ui;
+    --font-mono: ui-monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 40px 20px 80px; }
+  .hero { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 20px; align-items: start; }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 24px;
+  }
+  .eyebrow { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; opacity: .72; }
+  h1 { font-size: clamp(40px, 7vw, 84px); line-height: .96; margin: 10px 0 16px; }
+  p { max-width: 62ch; }
+  .buttons { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+  .btn {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn--accent { background: var(--accent); color: #ffffff; border-color: transparent; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 24px; }
+  .swatch { border-radius: 18px; overflow: hidden; border: 1px solid var(--border); }
+  .swatch .chip { height: 82px; }
+  .swatch .meta { padding: 12px 14px; font-family: var(--font-mono); font-size: 12px; }
+  .shots { display: grid; grid-template-columns: 1fr 320px; gap: 20px; margin-top: 28px; }
+  img { width: 100%; display: block; border-radius: 18px; border: 1px solid var(--border); }
+  .small { font-size: 13px; opacity: .72; }
+  @media (max-width: 900px) {
+    .hero, .shots, .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <div class="eyebrow">loadmo.re design archive</div>
+        <h1>General Index</h1>
+        <p>A simple e-commerce website introduced by an animated graph.</p>
+        <div class="buttons">
+          <a class="btn btn--accent" href="https://general-index.eu/">Visit live site</a>
+          <a class="btn" href="https://loadmo.re/posts/general-index">Open loadmo.re entry</a>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Fonts</div>
+        <p>System UI</p>
+        <div class="eyebrow">Tags</div>
+        <p class="small">e-commerce · fashion · graphic-design</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="swatch"><div class="chip" style="background:#fdfdfd"></div><div class="meta">#fdfdfd</div></div><div class="swatch"><div class="chip" style="background:#a4a9a0"></div><div class="meta">#a4a9a0</div></div><div class="swatch"><div class="chip" style="background:#e5d9aa"></div><div class="meta">#e5d9aa</div></div><div class="swatch"><div class="chip" style="background:#cdb79b"></div><div class="meta">#cdb79b</div></div><div class="swatch"><div class="chip" style="background:#ab9d75"></div><div class="meta">#ab9d75</div></div><div class="swatch"><div class="chip" style="background:#aec4aa"></div><div class="meta">#aec4aa</div></div><div class="swatch"><div class="chip" style="background:#57625c"></div><div class="meta">#57625c</div></div><div class="swatch"><div class="chip" style="background:#77978c"></div><div class="meta">#77978c</div></div>
+    </section>
+
+    <section class="shots">
+      <div class="panel">
+        <div class="eyebrow">Web capture</div>
+        <img alt="General Index desktop" src="./screenshots/desktop.jpg">
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Mobile capture</div>
+        <img alt="General Index mobile" src="./screenshots/mobile.jpg">
+      </div>
+    </section>
+  </div>
+</body>
+</html>

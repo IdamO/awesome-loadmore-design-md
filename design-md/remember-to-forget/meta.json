@@ -1,0 +1,623 @@
+{
+  "slug": "remember-to-forget",
+  "title": "Remember to Forget",
+  "liveUrl": "http://www.remembertoforget.me/",
+  "domain": "www.remembertoforget.me",
+  "loadmoreUrl": "https://loadmo.re/posts/remember-to-forget",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/remember-to-forget",
+  "description": "“Remember to Forget” by Faris Kassim archives 10 years of film slides, blurring images to the point of complete indistinguishability. Through a process akin to memory recall, the project downsizes and reconstructs images, filling in gaps with imagined data.",
+  "credits": "OKOK Services",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "animation"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/remember-to-forget/e04ea4043f-1719046074/0007-remembertoforget-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/remember-to-forget/89e6f1662b-1719046100/0007-remembertoforget-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:24:33.264Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Remember to Forget",
+        "url": "https://remembertoforget.me/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "“For those of us who cherish our memories and like to think they\n          are an accurate record of our history, the id",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26.56px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Faris Kassim",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26.56px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "L",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "L",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "“For those of us who cherish our memories and like to think they\n          are an accurate record of our history, the id",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The malleability of memories not only affect the past, but also\n          one’s present subjectivity as the present is s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "“Remember to Forget” is an ongoing project by\n        Faris Kassim,\n        archiving film slides taken in the course of",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Faris Kassim",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "between decay and magnification\n          between deterioration and abstraction\n          between distortion and reducti",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Pasts passed, pasts reimagined. For the things I wish to forget, and\n        things I wish I remembered.Remember to Forg",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Alex Heeyeon Kil",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "12px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "OKOK Services",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "12px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9f9f8",
+            "count": 23361
+          },
+          {
+            "hex": "#a9a9a8",
+            "count": 2217
+          },
+          {
+            "hex": "#c0c0be",
+            "count": 14
+          },
+          {
+            "hex": "#c0bfbd",
+            "count": 3
+          },
+          {
+            "hex": "#bdc0be",
+            "count": 2
+          },
+          {
+            "hex": "#bebfc0",
+            "count": 1
+          },
+          {
+            "hex": "#bfc1c0",
+            "count": 1
+          },
+          {
+            "hex": "#c1bfc0",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9f9f8",
+            "count": 23361
+          },
+          {
+            "hex": "#a9a9a8",
+            "count": 2217
+          },
+          {
+            "hex": "#c0c0be",
+            "count": 14
+          },
+          {
+            "hex": "#c0bfbd",
+            "count": 3
+          },
+          {
+            "hex": "#bdc0be",
+            "count": 2
+          },
+          {
+            "hex": "#bebfc0",
+            "count": 1
+          },
+          {
+            "hex": "#bfc1c0",
+            "count": 1
+          },
+          {
+            "hex": "#c1bfc0",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Remember to Forget",
+        "url": "https://remembertoforget.me/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "18px",
+          "lineHeight": "21.6px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "“For those of us who cherish our memories and like to think they\n          are an accurate record of our history, the id",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26.56px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Faris Kassim",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "L, san-serif",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26.56px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "L",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "L",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Remember to Forget                                                                    “For those of us who cherish our m",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "“For those of us who cherish our memories and like to think they\n          are an accurate record of our history, the id",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The malleability of memories not only affect the past, but also\n          one’s present subjectivity as the present is s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "“Remember to Forget” is an ongoing project by\n        Faris Kassim,\n        archiving film slides taken in the course of",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Faris Kassim",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "between decay and magnification\n          between deterioration and abstraction\n          between distortion and reducti",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Pasts passed, pasts reimagined. For the things I wish to forget, and\n        things I wish I remembered.Remember to Forg",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.56px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Alex Heeyeon Kil",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "12px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "OKOK Services",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "L, san-serif",
+            "fontSize": "12px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.8px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f7",
+            "count": 21738
+          },
+          {
+            "hex": "#a1a1a0",
+            "count": 3141
+          },
+          {
+            "hex": "#707070",
+            "count": 687
+          },
+          {
+            "hex": "#c1c0be",
+            "count": 18
+          },
+          {
+            "hex": "#80807e",
+            "count": 7
+          },
+          {
+            "hex": "#807e7e",
+            "count": 4
+          },
+          {
+            "hex": "#c0bfbd",
+            "count": 3
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f7",
+            "count": 21738
+          },
+          {
+            "hex": "#a1a1a0",
+            "count": 3141
+          },
+          {
+            "hex": "#707070",
+            "count": 687
+          },
+          {
+            "hex": "#c1c0be",
+            "count": 18
+          },
+          {
+            "hex": "#80807e",
+            "count": 7
+          },
+          {
+            "hex": "#807e7e",
+            "count": 4
+          },
+          {
+            "hex": "#c0bfbd",
+            "count": 3
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

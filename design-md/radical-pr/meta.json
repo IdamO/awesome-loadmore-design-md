@@ -1,0 +1,935 @@
+{
+  "slug": "radical-pr",
+  "title": "Radical PR",
+  "liveUrl": "http://www.radical-pr.com/",
+  "domain": "www.radical-pr.com",
+  "loadmoreUrl": "https://loadmo.re/posts/radical-pr",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/radical-pr",
+  "description": "Effortless.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "minimal",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/radical-pr/a2ea640696-1737745078/radicalpr-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/radical-pr/a53767446a-1737745090/radicalpr-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:23:57.813Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Radical PR",
+        "url": "https://www.radical-pr.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "flex",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "paris@radical-pr.com",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Established in 2017, the structure operates with offices in Paris, Milan and New York.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "PARIS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "22:23:46",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "9 Rue du Château d'Eau75010 Paris FRANCE",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "paris@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "MILAN",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "22:23:46",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Corso Buenos Aires 220124 Milan ITALY",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "milan@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "NEW YORK",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "16:23:46",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "161 Water StreetNY, NY 10038 USA",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "nyc@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@radical.pr",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 24888
+          },
+          {
+            "hex": "#161616",
+            "count": 201
+          },
+          {
+            "hex": "#474747",
+            "count": 131
+          },
+          {
+            "hex": "#373737",
+            "count": 122
+          },
+          {
+            "hex": "#262626",
+            "count": 117
+          },
+          {
+            "hex": "#575757",
+            "count": 106
+          },
+          {
+            "hex": "#656565",
+            "count": 27
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 8
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 24888
+          },
+          {
+            "hex": "#161616",
+            "count": 201
+          },
+          {
+            "hex": "#474747",
+            "count": 131
+          },
+          {
+            "hex": "#373737",
+            "count": 122
+          },
+          {
+            "hex": "#262626",
+            "count": 117
+          },
+          {
+            "hex": "#575757",
+            "count": 106
+          },
+          {
+            "hex": "#656565",
+            "count": 27
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 8
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Radical PR",
+        "url": "https://www.radical-pr.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "flex",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "paris@radical-pr.com",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.25px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter Fallback",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.Established in 2017, the stru",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Radical PR bridges the gap between fashion, arts, music, culture, design and communication.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Established in 2017, the structure operates with offices in Paris, Milan and New York.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "PARIS",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "22:23:56",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "9 Rue du Château d'Eau75010 Paris FRANCE",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "paris@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "MILAN",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "22:23:56",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Corso Buenos Aires 220124 Milan ITALY",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "milan@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "NEW YORK",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "16:23:56",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "161 Water StreetNY, NY 10038 USA",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "nyc@radical-pr.com",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@radical.pr",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.25px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 22812
+          },
+          {
+            "hex": "#2f2f2f",
+            "count": 745
+          },
+          {
+            "hex": "#6c6c6c",
+            "count": 538
+          },
+          {
+            "hex": "#171717",
+            "count": 530
+          },
+          {
+            "hex": "#575757",
+            "count": 428
+          },
+          {
+            "hex": "#474747",
+            "count": 409
+          },
+          {
+            "hex": "#8e8e8e",
+            "count": 112
+          },
+          {
+            "hex": "#dadada",
+            "count": 26
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 22812
+          },
+          {
+            "hex": "#2f2f2f",
+            "count": 745
+          },
+          {
+            "hex": "#6c6c6c",
+            "count": 538
+          },
+          {
+            "hex": "#171717",
+            "count": 530
+          },
+          {
+            "hex": "#575757",
+            "count": 428
+          },
+          {
+            "hex": "#474747",
+            "count": 409
+          },
+          {
+            "hex": "#8e8e8e",
+            "count": 112
+          },
+          {
+            "hex": "#dadada",
+            "count": 26
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

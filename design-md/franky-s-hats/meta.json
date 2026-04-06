@@ -1,0 +1,804 @@
+{
+  "slug": "franky-s-hats",
+  "title": "Franky's Hats",
+  "liveUrl": "https://www.frankys-hats.com/",
+  "domain": "www.frankys-hats.com",
+  "loadmoreUrl": "https://loadmo.re/posts/franky-s-hats",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/franky-s-hats",
+  "description": "A stylish e-commerce site blending modern-retro design with textured visuals and an AR try-on feature.",
+  "credits": "Huig van der Waal",
+  "added": "",
+  "tags": [
+    "colorful",
+    "retro",
+    "fashion"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/franky-s-hats/d389b112c5-1723185823/15-frankyshats-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/franky-s-hats/f8e389a3d0-1723185812/15-frankyshats-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:10:39.212Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "FRANKY'S | Get a hat",
+        "url": "https://www.frankys-hats.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Franky's Black",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "€65",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Win Store Coupons",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Arcade",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Arnold Boecklin",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Loading hats ...Win Store Coupons3DARFranky's Black€65Unstructed six-panel * Classic fit * 100% Fine Merino Wool\n* Satin",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Win Store Coupons",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "3D",
+            "color": "rgb(243, 229, 223)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "borderRadius": "9999px 0px 0px 9999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "AR",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(243, 229, 223)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "borderRadius": "0px 9999px 9999px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Black",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "€65",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(243, 229, 223)",
+            "backgroundColor": "rgb(18, 142, 68)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Black",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(243, 229, 223) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Green",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Out of Stock",
+            "color": "rgb(115, 115, 115)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(243, 229, 223) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Ochre",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(243, 229, 223) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Navy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(243, 229, 223) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Red",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(243, 229, 223) 0px 1px 0px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Subscribe",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Shipping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#272120",
+            "count": 8264
+          },
+          {
+            "hex": "#d9c3bb",
+            "count": 4946
+          },
+          {
+            "hex": "#d6c4c2",
+            "count": 3967
+          },
+          {
+            "hex": "#cab5b0",
+            "count": 3511
+          },
+          {
+            "hex": "#b09f99",
+            "count": 2193
+          },
+          {
+            "hex": "#615453",
+            "count": 1532
+          },
+          {
+            "hex": "#b56a17",
+            "count": 599
+          },
+          {
+            "hex": "#45362f",
+            "count": 588
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#272120",
+            "count": 8264
+          },
+          {
+            "hex": "#d9c3bb",
+            "count": 4946
+          },
+          {
+            "hex": "#d6c4c2",
+            "count": 3967
+          },
+          {
+            "hex": "#cab5b0",
+            "count": 3511
+          },
+          {
+            "hex": "#b09f99",
+            "count": 2193
+          },
+          {
+            "hex": "#615453",
+            "count": 1532
+          },
+          {
+            "hex": "#b56a17",
+            "count": 599
+          },
+          {
+            "hex": "#45362f",
+            "count": 588
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "FRANKY'S | Get a hat",
+        "url": "https://www.frankys-hats.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Franky's Black",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "€65",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Win Store Coupons",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arcade, sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Arcade",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Arnold Boecklin",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Loading hats ...Win Store Coupons3DARFranky's Black€65Unstructed six-panel * Classic fit * 100% Fine Merino Wool\n* Satin",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Win Store Coupons",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "3D",
+            "color": "rgb(243, 229, 223)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "borderRadius": "9999px 0px 0px 9999px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "AR",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(243, 229, 223)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "borderRadius": "0px 9999px 9999px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Franky's Black",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "€65",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Add to cart",
+            "color": "rgb(243, 229, 223)",
+            "backgroundColor": "rgb(18, 142, 68)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "6px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Subscribe",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Shipping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arcade, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#201c1b",
+            "count": 9909
+          },
+          {
+            "hex": "#d8c2ba",
+            "count": 6085
+          },
+          {
+            "hex": "#d6c5c2",
+            "count": 2774
+          },
+          {
+            "hex": "#ad9e98",
+            "count": 2007
+          },
+          {
+            "hex": "#5f5455",
+            "count": 1568
+          },
+          {
+            "hex": "#cab6b0",
+            "count": 1398
+          },
+          {
+            "hex": "#135f29",
+            "count": 1126
+          },
+          {
+            "hex": "#ca7213",
+            "count": 733
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#201c1b",
+            "count": 9909
+          },
+          {
+            "hex": "#d8c2ba",
+            "count": 6085
+          },
+          {
+            "hex": "#d6c5c2",
+            "count": 2774
+          },
+          {
+            "hex": "#ad9e98",
+            "count": 2007
+          },
+          {
+            "hex": "#5f5455",
+            "count": 1568
+          },
+          {
+            "hex": "#cab6b0",
+            "count": 1398
+          },
+          {
+            "hex": "#135f29",
+            "count": 1126
+          },
+          {
+            "hex": "#ca7213",
+            "count": 733
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

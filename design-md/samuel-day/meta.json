@@ -1,0 +1,622 @@
+{
+  "slug": "samuel-day",
+  "title": "Samuel Day",
+  "liveUrl": "https://www.samuelday.de/",
+  "domain": "www.samuelday.de",
+  "loadmoreUrl": "https://loadmo.re/posts/samuel-day",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/samuel-day",
+  "description": "Sam's website is like an interactive comic strip: swipe down to browse whats within his head.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/samuel-day/7abd646a86-1727171018/samuelday-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/samuel-day/15f0f585bd-1727171048/samuelday-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:25:39.638Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Inside the Mind of Samuel Day",
+        "url": "https://www.samuelday.de/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Get in Touch",
+          "color": "rgb(167, 108, 3)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Exposit, sans-serif",
+          "fontSize": "43.2px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "43.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "isi-globalallhands-linkgenesis-linkpsb-linktwo-chimps-linkGet in TouchEmail -  Instagram - Linkedin\nSCrollhtml{scroll-be",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "isi-global",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "webflow-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Exposit",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "isi-globalallhands-linkgenesis-linkpsb-linktwo-chimps-linkGet in TouchEmail -  Instagram - Linkedin\nSCrollhtml{scroll-be",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "isi-global",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "allhands-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "genesis-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "psb-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "two-chimps-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h2",
+            "text": "Get in Touch",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "43.2px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Email -",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "21.6px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "21.6px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "- Linkedin",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "21.6px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ca4f52",
+            "count": 16919
+          },
+          {
+            "hex": "#131111",
+            "count": 5744
+          },
+          {
+            "hex": "#a94546",
+            "count": 1683
+          },
+          {
+            "hex": "#632c2e",
+            "count": 524
+          },
+          {
+            "hex": "#8d3a3c",
+            "count": 436
+          },
+          {
+            "hex": "#983e40",
+            "count": 282
+          },
+          {
+            "hex": "#94403e",
+            "count": 10
+          },
+          {
+            "hex": "#7b4142",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ca4f52",
+            "count": 16919
+          },
+          {
+            "hex": "#131111",
+            "count": 5744
+          },
+          {
+            "hex": "#a94546",
+            "count": 1683
+          },
+          {
+            "hex": "#632c2e",
+            "count": 524
+          },
+          {
+            "hex": "#8d3a3c",
+            "count": 436
+          },
+          {
+            "hex": "#983e40",
+            "count": 282
+          },
+          {
+            "hex": "#94403e",
+            "count": 10
+          },
+          {
+            "hex": "#7b4142",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Inside the Mind of Samuel Day",
+        "url": "https://www.samuelday.de/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Get in Touch",
+          "color": "rgb(167, 108, 3)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Exposit, sans-serif",
+          "fontSize": "23.4px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "31.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "isi-globalallhands-linkgenesis-linkpsb-linktwo-chimps-linkGet in TouchEmail -  Instagram - Linkedin\nSCroll[data-w-id=\"4d",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "isi-global",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "webflow-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Exposit",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "isi-globalallhands-linkgenesis-linkpsb-linktwo-chimps-linkGet in TouchEmail -  Instagram - Linkedin\nSCroll[data-w-id=\"4d",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "isi-global",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "genesis-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "psb-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "two-chimps-link",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h2",
+            "text": "Get in Touch",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "23.4px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Email -",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "- Linkedin",
+            "color": "rgb(167, 108, 3)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "SCroll",
+            "color": "rgb(227, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Exposit, sans-serif",
+            "fontSize": "23.4px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e34d4e",
+            "count": 16524
+          },
+          {
+            "hex": "#000000",
+            "count": 5439
+          },
+          {
+            "hex": "#e24c4f",
+            "count": 1766
+          },
+          {
+            "hex": "#a1383a",
+            "count": 654
+          },
+          {
+            "hex": "#551e1f",
+            "count": 482
+          },
+          {
+            "hex": "#af3d40",
+            "count": 365
+          },
+          {
+            "hex": "#260d0e",
+            "count": 251
+          },
+          {
+            "hex": "#bb4043",
+            "count": 119
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e34d4e",
+            "count": 16524
+          },
+          {
+            "hex": "#000000",
+            "count": 5439
+          },
+          {
+            "hex": "#e24c4f",
+            "count": 1766
+          },
+          {
+            "hex": "#a1383a",
+            "count": 654
+          },
+          {
+            "hex": "#551e1f",
+            "count": 482
+          },
+          {
+            "hex": "#af3d40",
+            "count": 365
+          },
+          {
+            "hex": "#260d0e",
+            "count": 251
+          },
+          {
+            "hex": "#bb4043",
+            "count": 119
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

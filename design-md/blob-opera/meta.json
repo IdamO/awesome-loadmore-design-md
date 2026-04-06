@@ -1,0 +1,2907 @@
+{
+  "slug": "blob-opera",
+  "title": "Blob Opera",
+  "liveUrl": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30",
+  "domain": "artsandculture.google.com",
+  "loadmoreUrl": "https://loadmo.re/posts/blob-opera",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/blob-opera",
+  "description": "Impressive and fun interface which lets you play with singing 3D blobs. Opera singers have trained a machine learning algorithm to sing to create this.",
+  "credits": "David Li",
+  "added": "",
+  "tags": [
+    "music",
+    "playful",
+    "3d-space"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/blob-opera/3b079c11b9-1631783293/0198-blob-opera-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/blob-opera/39c64eff18-1631783311/0198-blob-opera-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:04:08.163Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Blob Opera — Google Arts & Culture",
+        "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(32, 33, 36)",
+          "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Play",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(60, 64, 67)",
+          "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "letterSpacing": "0.3px",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Home",
+          "color": "rgb(60, 64, 67)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "borderRadius": "24px 0px 0px 24px",
+          "boxShadow": "none",
+          "letterSpacing": "0.25px",
+          "lineHeight": "48px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Material Icons Extended",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Homemade Apple",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "HomeExplorePlayNearbyProfileThe LabAchievementsCollectionsThemesArtistsMediumsArt movementsHistorical eventsHistorical f",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "HomeExplorePlayNearbyProfileThe LabAchievementsCollectionsThemesArtistsMediumsArt movementsHistorical eventsHistorical f",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Play",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Nearby",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Profile",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "The Lab",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Achievements",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Collections",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Themes",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Artists",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mediums",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Art movements",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Historical events",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Historical figures",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Places",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Settings",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "View activity",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Send feedback",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Terms",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Generative AI Terms",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Celebrating 15 yrs",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Play",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Nearby",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Favorites",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "The Lab",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", Roboto, Helvetica, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "27px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sign in",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(11, 87, 208)",
+            "fontFamily": "\"Google Sans Text\", Roboto, Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "100px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(255, 255, 255, 0.5)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "section",
+            "text": "Finished playing?ShareResumeExitBlob OperaExperiments you might likeBlob BeatsPlayThe Descent of the SerpentPlayGeo Artw",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h3",
+            "text": "Finished playing?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Share",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Resume",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Exit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(26, 115, 232)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Blob Opera",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(255, 255, 255, 0.75)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h3",
+            "text": "Experiments you might like",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blob BeatsPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "The Descent of the SerpentPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Geo ArtworkPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Puzzle PartyPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "3D PotteryPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "View all Experiments",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Translate with Google",
+            "color": "rgba(68, 68, 68, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "48px 3px 3px 48px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px 48px 48px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#080302",
+            "count": 24928
+          },
+          {
+            "hex": "#5b5a59",
+            "count": 391
+          },
+          {
+            "hex": "#e1e4e4",
+            "count": 82
+          },
+          {
+            "hex": "#a19e99",
+            "count": 59
+          },
+          {
+            "hex": "#5f2724",
+            "count": 46
+          },
+          {
+            "hex": "#1c76ec",
+            "count": 41
+          },
+          {
+            "hex": "#a9cbec",
+            "count": 27
+          },
+          {
+            "hex": "#1b569d",
+            "count": 26
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#080302",
+            "count": 24928
+          },
+          {
+            "hex": "#5b5a59",
+            "count": 391
+          },
+          {
+            "hex": "#e1e4e4",
+            "count": 82
+          },
+          {
+            "hex": "#a19e99",
+            "count": 59
+          },
+          {
+            "hex": "#5f2724",
+            "count": 46
+          },
+          {
+            "hex": "#1c76ec",
+            "count": 41
+          },
+          {
+            "hex": "#a9cbec",
+            "count": 27
+          },
+          {
+            "hex": "#1b569d",
+            "count": 26
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Blob Opera — Google Arts & Culture",
+        "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(32, 33, 36)",
+          "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Play",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(60, 64, 67)",
+          "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "letterSpacing": "0.3px",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Sign in",
+          "color": "rgb(26, 115, 232)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "borderRadius": "3px",
+          "boxShadow": "none",
+          "letterSpacing": "0.25px",
+          "lineHeight": "20px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Display",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Google Sans Flex",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Material Icons Extended",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Homemade Apple",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Sign inHomeExplorePlayNearbyProfileThe LabAchievementsCollectionsThemesArtistsMediumsArt movementsHistorical eventsHisto",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "Sign inHomeExplorePlayNearbyProfileThe LabAchievementsCollectionsThemesArtistsMediumsArt movementsHistorical eventsHisto",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Sign in",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Play",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Nearby",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Profile",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "The Lab",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Achievements",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Collections",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Themes",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Artists",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mediums",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Art movements",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Historical events",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Historical figures",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Places",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Get the app",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Settings",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "View activity",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Send feedback",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "24px 0px 0px 24px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "48px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Terms",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Generative AI Terms",
+            "color": "rgb(60, 64, 67)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Celebrating 15 yrs",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.54)",
+            "backgroundColor": "rgba(255, 255, 255, 0.5)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "section",
+            "text": "Finished playing?ShareResumeExitBlob OperaExperiments you might likeBlob BeatsPlayThe Descent of the SerpentPlayGeo Artw",
+            "color": "rgb(32, 33, 36)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "h3",
+            "text": "Finished playing?",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Share",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Resume",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.8)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Exit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(26, 115, 232)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Blob Opera",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(255, 255, 255, 0.75)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "h3",
+            "text": "Experiments you might like",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blob BeatsPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "The Descent of the SerpentPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "3D PotteryPlay",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Play",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(60, 64, 67)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0.3px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "View all Experiments",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Translate with Google",
+            "color": "rgba(68, 68, 68, 0.5)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "48px 3px 3px 48px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(0, 0, 0, 0.26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans Text\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px 48px 48px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Discover",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Play",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Nearby",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Favorites",
+            "color": "rgb(26, 115, 232)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", \"Noto Naskh Arabic UI\", Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#090202",
+            "count": 23215
+          },
+          {
+            "hex": "#615f5e",
+            "count": 1103
+          },
+          {
+            "hex": "#9c9a98",
+            "count": 411
+          },
+          {
+            "hex": "#1a72e8",
+            "count": 294
+          },
+          {
+            "hex": "#e6e0db",
+            "count": 181
+          },
+          {
+            "hex": "#2f494c",
+            "count": 156
+          },
+          {
+            "hex": "#691e1a",
+            "count": 140
+          },
+          {
+            "hex": "#a35ce3",
+            "count": 100
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#090202",
+            "count": 23215
+          },
+          {
+            "hex": "#615f5e",
+            "count": 1103
+          },
+          {
+            "hex": "#9c9a98",
+            "count": 411
+          },
+          {
+            "hex": "#1a72e8",
+            "count": 294
+          },
+          {
+            "hex": "#e6e0db",
+            "count": 181
+          },
+          {
+            "hex": "#2f494c",
+            "count": 156
+          },
+          {
+            "hex": "#691e1a",
+            "count": 140
+          },
+          {
+            "hex": "#a35ce3",
+            "count": 100
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>f451.faith Design Preview (Light)</title>
+<style>
+  :root {
+    --bg: #f4f4f4;
+    --fg: #a7a5a1;
+    --accent: #666661;
+    --card: #ffffff;
+    --border: rgba(17,17,17,0.12);
+    --font-sans: ABCMonumentGrotesk-Medium;
+    --font-mono: ui-monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 40px 20px 80px; }
+  .hero { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 20px; align-items: start; }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 24px;
+  }
+  .eyebrow { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; opacity: .72; }
+  h1 { font-size: clamp(40px, 7vw, 84px); line-height: .96; margin: 10px 0 16px; }
+  p { max-width: 62ch; }
+  .buttons { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+  .btn {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn--accent { background: var(--accent); color: #ffffff; border-color: transparent; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 24px; }
+  .swatch { border-radius: 18px; overflow: hidden; border: 1px solid var(--border); }
+  .swatch .chip { height: 82px; }
+  .swatch .meta { padding: 12px 14px; font-family: var(--font-mono); font-size: 12px; }
+  .shots { display: grid; grid-template-columns: 1fr 320px; gap: 20px; margin-top: 28px; }
+  img { width: 100%; display: block; border-radius: 18px; border: 1px solid var(--border); }
+  .small { font-size: 13px; opacity: .72; }
+  @media (max-width: 900px) {
+    .hero, .shots, .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <div class="eyebrow">loadmo.re design archive</div>
+        <h1>f451.faith</h1>
+        <p>A temporary website as an online raffle to bet on the release date of the actual website.</p>
+        <div class="buttons">
+          <a class="btn btn--accent" href="https://f451.faith/">Visit live site</a>
+          <a class="btn" href="https://loadmo.re/posts/f451-faith">Open loadmo.re entry</a>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Fonts</div>
+        <p>ABCMonumentGrotesk-Medium</p>
+        <div class="eyebrow">Tags</div>
+        <p class="small">playful · participative</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="swatch"><div class="chip" style="background:#f4f4f4"></div><div class="meta">#f4f4f4</div></div><div class="swatch"><div class="chip" style="background:#a7a5a1"></div><div class="meta">#a7a5a1</div></div><div class="swatch"><div class="chip" style="background:#666661"></div><div class="meta">#666661</div></div><div class="swatch"><div class="chip" style="background:#1f2118"></div><div class="meta">#1f2118</div></div><div class="swatch"><div class="chip" style="background:#74a9d3"></div><div class="meta">#74a9d3</div></div><div class="swatch"><div class="chip" style="background:#8db7d9"></div><div class="meta">#8db7d9</div></div><div class="swatch"><div class="chip" style="background:#c7b5a9"></div><div class="meta">#c7b5a9</div></div><div class="swatch"><div class="chip" style="background:#cbc5b8"></div><div class="meta">#cbc5b8</div></div>
+    </section>
+
+    <section class="shots">
+      <div class="panel">
+        <div class="eyebrow">Web capture</div>
+        <img alt="f451.faith desktop" src="./screenshots/desktop.jpg">
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Mobile capture</div>
+        <img alt="f451.faith mobile" src="./screenshots/mobile.jpg">
+      </div>
+    </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,717 @@
+{
+  "slug": "rude-captcha",
+  "title": "Rude Captcha",
+  "liveUrl": "http://rudecaptcha.xyz",
+  "domain": "rudecaptcha.xyz",
+  "loadmoreUrl": "https://loadmo.re/posts/rude-captcha",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/rude-captcha",
+  "description": "Because AI can't be rude.",
+  "credits": "Matt Gordon",
+  "added": "",
+  "tags": [
+    "playful",
+    "participative",
+    "photography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/rude-captcha/4acf23aaf7-1747811981/rudecaptcha-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/rude-captcha/dc21ba2d06-1747811369/rudecaptcha-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:25:14.432Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "RudeCaptcha",
+        "url": "https://rudecaptcha.xyz/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The AI bots infesting the internet aren't allowed to be offensive.",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "28px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "AI Model Loading...rotate_right",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(156, 163, 175)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "700",
+          "borderRadius": "4px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "letterSpacing": "normal",
+          "lineHeight": "28px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Material Icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "🖕I'm not a robotrudeCAPTCHAA new way to prove you're humanThe AI bots infesting the internet aren't allowed to be offen",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "🖕I'm not a robotrudeCAPTCHAA new way to prove you're humanThe AI bots infesting the internet aren't allowed to be offen",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "A new way to prove you're human",
+            "color": "rgb(17, 24, 39)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The AI bots infesting the internet aren't allowed to be offensive.",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Verify your humanity by swearing at the camera",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Copy the rude gesture in the top right at the camera",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "AI Model Loading...rotate_right",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(156, 163, 175)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "rotate_right",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Material Icons\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "LOADING...",
+            "color": "rgb(17, 24, 39)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "rotate_right",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Material Icons\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Sick of having to prove to a robot you're human? AI isn't allowed to be offensive so won't be able to break this Captcha",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flow-root",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "help",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "ios_share",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#7e7e7e",
+            "count": 21236
+          },
+          {
+            "hex": "#f4f5f5",
+            "count": 3293
+          },
+          {
+            "hex": "#9b9ea4",
+            "count": 614
+          },
+          {
+            "hex": "#1f427b",
+            "count": 244
+          },
+          {
+            "hex": "#b7bcc5",
+            "count": 66
+          },
+          {
+            "hex": "#153a76",
+            "count": 52
+          },
+          {
+            "hex": "#7b7d81",
+            "count": 51
+          },
+          {
+            "hex": "#7086a4",
+            "count": 44
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#7e7e7e",
+            "count": 21236
+          },
+          {
+            "hex": "#f4f5f5",
+            "count": 3293
+          },
+          {
+            "hex": "#9b9ea4",
+            "count": 614
+          },
+          {
+            "hex": "#1f427b",
+            "count": 244
+          },
+          {
+            "hex": "#b7bcc5",
+            "count": 66
+          },
+          {
+            "hex": "#153a76",
+            "count": 52
+          },
+          {
+            "hex": "#7b7d81",
+            "count": 51
+          },
+          {
+            "hex": "#7086a4",
+            "count": 44
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "RudeCaptcha",
+        "url": "https://rudecaptcha.xyz/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The AI bots infesting the internet aren't allowed to be offensive.",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "28px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "OK",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(59, 130, 246)",
+          "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "700",
+          "borderRadius": "4px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+          "letterSpacing": "normal",
+          "lineHeight": "28px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Material Icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "🖕I'm not a robotrudeCAPTCHAA new way to prove you're humanThe AI bots infesting the internet aren't allowed to be offen",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "🖕I'm not a robotrudeCAPTCHAA new way to prove you're humanThe AI bots infesting the internet aren't allowed to be offen",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "A new way to prove you're human",
+            "color": "rgb(17, 24, 39)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The AI bots infesting the internet aren't allowed to be offensive.",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Verify your humanity by swearing at the camera",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Copy the rude gesture in the top right at the camera",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Loading slowly? Freezing? rudeCAPTCHA works better on desktop",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "OK",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(59, 130, 246)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "rotate_right",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Material Icons\"",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "28px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "LOADING...",
+            "color": "rgb(17, 24, 39)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "rotate_right",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Material Icons\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Sick of having to prove to a robot you're human? AI isn't allowed to be offensive so won't be able to break this Captcha",
+            "color": "rgb(55, 65, 81)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flow-root",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "help",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "ios_share",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f9f9",
+            "count": 22693
+          },
+          {
+            "hex": "#3a81f5",
+            "count": 1139
+          },
+          {
+            "hex": "#a0a4aa",
+            "count": 887
+          },
+          {
+            "hex": "#a3bce1",
+            "count": 264
+          },
+          {
+            "hex": "#498bf2",
+            "count": 199
+          },
+          {
+            "hex": "#337df5",
+            "count": 185
+          },
+          {
+            "hex": "#bccee5",
+            "count": 164
+          },
+          {
+            "hex": "#595e69",
+            "count": 69
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f9f9",
+            "count": 22693
+          },
+          {
+            "hex": "#3a81f5",
+            "count": 1139
+          },
+          {
+            "hex": "#a0a4aa",
+            "count": 887
+          },
+          {
+            "hex": "#a3bce1",
+            "count": 264
+          },
+          {
+            "hex": "#498bf2",
+            "count": 199
+          },
+          {
+            "hex": "#337df5",
+            "count": 185
+          },
+          {
+            "hex": "#bccee5",
+            "count": 164
+          },
+          {
+            "hex": "#595e69",
+            "count": 69
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "slug": "mousing-around",
+  "title": "Mousing Around",
+  "liveUrl": "http://domitilledebret.net/cursor/",
+  "domain": "domitilledebret.net",
+  "loadmoreUrl": "https://loadmo.re/posts/mousing-around",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/mousing-around",
+  "description": "How does it feel to use a pointer cursor on a touch screen?",
+  "credits": "Domitille Debret",
+  "added": "",
+  "tags": [
+    "default-aesthetics",
+    "tactile",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/mousing-around/f353d1e405-1654263778/0331_mousingaround-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/mousing-around/e2326e75c6-1654263788/0331_mousingaround-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:19:05.613Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Mousing around - click",
+        "url": "https://www.domitilledebret.net/cursor/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "12px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Click here\n  \n\n\n  \n\n  \n    Next step\n  \n\n\n  \n\n\n  \n  This mini-site is a mobile phone experiment. Go to your touch device",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Click here\n  \n\n\n  \n\n  \n    Next step\n  \n\n\n  \n\n\n  \n  This mini-site is a mobile phone experiment. Go to your touch device",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25136
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 92
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 80
+          },
+          {
+            "hex": "#868686",
+            "count": 75
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 68
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 67
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 50
+          },
+          {
+            "hex": "#777777",
+            "count": 32
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25136
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 92
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 80
+          },
+          {
+            "hex": "#868686",
+            "count": 75
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 68
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 67
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 50
+          },
+          {
+            "hex": "#777777",
+            "count": 32
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Mousing around - click",
+        "url": "https://www.domitilledebret.net/cursor/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "12px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "helvetica",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "helvetica",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25408
+          },
+          {
+            "hex": "#dcdcdc",
+            "count": 107
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 28
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 23
+          },
+          {
+            "hex": "#979797",
+            "count": 20
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 6
+          },
+          {
+            "hex": "#666666",
+            "count": 5
+          },
+          {
+            "hex": "#1e1e1e",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25408
+          },
+          {
+            "hex": "#dcdcdc",
+            "count": 107
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 28
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 23
+          },
+          {
+            "hex": "#979797",
+            "count": 20
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 6
+          },
+          {
+            "hex": "#666666",
+            "count": 5
+          },
+          {
+            "hex": "#1e1e1e",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

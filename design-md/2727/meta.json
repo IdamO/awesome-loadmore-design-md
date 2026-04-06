@@ -1,0 +1,1386 @@
+{
+  "slug": "2727",
+  "title": "2727",
+  "liveUrl": "https://2727.today",
+  "domain": "2727.today",
+  "loadmoreUrl": "https://loadmo.re/posts/2727",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/2727",
+  "description": "Effortless and colorful table-based layout for an artistic residency in Berkeley, CA.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "default-aesthetics",
+    "educational",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/2727/fd3748fd98-1606938427/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/2727/5090d2e037-1602158412/067-2727.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:00:13.921Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "2727",
+        "url": "https://www.2727.today/",
+        "body": {
+          "backgroundColor": "rgb(252, 240, 240)",
+          "color": "rgb(83, 26, 74)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "2727 California Street: An Arts Support Foundation in Berkeley, CA",
+          "color": "rgb(83, 26, 74)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Ovo",
+          "fontSize": "67.84px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.3568px",
+          "lineHeight": "71.639px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "POWERED BY SQUARESPACE",
+          "color": "rgb(83, 26, 74)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "About us",
+          "color": "rgb(83, 26, 74)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "inline-flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to Content",
+          "color": "rgb(252, 240, 240)",
+          "backgroundColor": "rgb(83, 26, 74)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "45px 0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ovo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgb(252, 240, 240)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Skip to Content\n      \n      \n\n\n\n    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {\n        .hea",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to Content",
+            "color": "rgb(252, 240, 240)",
+            "backgroundColor": "rgb(83, 26, 74)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "45px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "2727",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Ovo",
+            "fontSize": "24.64px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4928px",
+            "lineHeight": "29.568px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Home\n      \n    \n  \n  \n  \n\n\n  \n    \n      \n      \n        About us\n      \n      \n      \n        \n          \n            ",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "About us",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Physical Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Programs",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Artist Co-op",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Calendar",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Get involved",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Home\n                \n              \n            \n          \n        \n      \n    \n      \n        \n          \n           ",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "19.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Folder:\n                About us",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Folder:\n                Physical Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Programs",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Artist Co-op",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Calendar",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Get involved",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Mission",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "History",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Multi-Use Events & Program Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Residential and Studio Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "58.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "58.8px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "2727 California Street: An Arts Support Foundation in Berkeley, CA",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Ovo",
+            "fontSize": "67.84px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.3568px",
+            "lineHeight": "71.639px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "POWERED BY SQUARESPACE\n\n\n  .fe-block-9dac883224d6c4599e0a {mix-blend-mode: ;\n    }",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "POWERED BY SQUARESPACE\n\n\n  .fe-block-9dac883224d6c4599e0a {mix-blend-mode: ;\n    }",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "POWERED BY SQUARESPACE",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SQUARESPACE",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9edee",
+            "count": 19532
+          },
+          {
+            "hex": "#a9989d",
+            "count": 1604
+          },
+          {
+            "hex": "#8b6d6c",
+            "count": 1339
+          },
+          {
+            "hex": "#725458",
+            "count": 1182
+          },
+          {
+            "hex": "#ccb2ad",
+            "count": 718
+          },
+          {
+            "hex": "#583136",
+            "count": 534
+          },
+          {
+            "hex": "#917388",
+            "count": 418
+          },
+          {
+            "hex": "#734839",
+            "count": 273
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9edee",
+            "count": 19532
+          },
+          {
+            "hex": "#a9989d",
+            "count": 1604
+          },
+          {
+            "hex": "#8b6d6c",
+            "count": 1339
+          },
+          {
+            "hex": "#725458",
+            "count": 1182
+          },
+          {
+            "hex": "#ccb2ad",
+            "count": 718
+          },
+          {
+            "hex": "#583136",
+            "count": 534
+          },
+          {
+            "hex": "#917388",
+            "count": 418
+          },
+          {
+            "hex": "#734839",
+            "count": 273
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "2727",
+        "url": "https://www.2727.today/",
+        "body": {
+          "backgroundColor": "rgb(252, 240, 240)",
+          "color": "rgb(83, 26, 74)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "2727 California Street: An Arts Support Foundation in Berkeley, CA",
+          "color": "rgb(83, 26, 74)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Ovo",
+          "fontSize": "39.904px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.79808px",
+          "lineHeight": "42.1386px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "POWERED BY SQUARESPACE",
+          "color": "rgb(83, 26, 74)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Open Menu\n    Close Menu",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to Content",
+          "color": "rgb(252, 240, 240)",
+          "backgroundColor": "rgb(83, 26, 74)",
+          "fontFamily": "Almarai",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "45px 0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Almarai",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Ovo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgb(252, 240, 240)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Skip to Content\n      \n      \n\n\n\n    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {\n        .hea",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to Content",
+            "color": "rgb(252, 240, 240)",
+            "backgroundColor": "rgb(83, 26, 74)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "45px 0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "2727",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Ovo",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.32px",
+            "lineHeight": "19.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Open Menu\n    Close Menu",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "Home\n                \n              \n            \n          \n        \n      \n    \n      \n        \n          \n           ",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "19.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Home",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Folder:\n                About us",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Folder:\n                Physical Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Programs",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Artist Co-op",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Calendar",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Get involved",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Mission",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "History",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Multi-Use Events & Program Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Residential and Studio Space",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "33.15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.15px",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-67d90503c23aa1f7497b9c48 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 28.0px);\n  --cell-max-width: c",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "2727 California Street: An Arts Support Foundation in Berkeley, CA",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Ovo",
+            "fontSize": "39.904px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.79808px",
+            "lineHeight": "42.1386px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "POWERED BY SQUARESPACE\n\n\n  .fe-block-9dac883224d6c4599e0a {mix-blend-mode: ;\n    }",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "POWERED BY SQUARESPACE\n\n\n  .fe-block-9dac883224d6c4599e0a {mix-blend-mode: ;\n    }",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "POWERED BY SQUARESPACE",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SQUARESPACE",
+            "color": "rgb(83, 26, 74)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Almarai",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8eced",
+            "count": 18159
+          },
+          {
+            "hex": "#aa989d",
+            "count": 2045
+          },
+          {
+            "hex": "#8c6e6b",
+            "count": 1530
+          },
+          {
+            "hex": "#725357",
+            "count": 1415
+          },
+          {
+            "hex": "#cbb1ac",
+            "count": 848
+          },
+          {
+            "hex": "#572e37",
+            "count": 735
+          },
+          {
+            "hex": "#91768a",
+            "count": 442
+          },
+          {
+            "hex": "#5a264e",
+            "count": 426
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8eced",
+            "count": 18159
+          },
+          {
+            "hex": "#aa989d",
+            "count": 2045
+          },
+          {
+            "hex": "#8c6e6b",
+            "count": 1530
+          },
+          {
+            "hex": "#725357",
+            "count": 1415
+          },
+          {
+            "hex": "#cbb1ac",
+            "count": 848
+          },
+          {
+            "hex": "#572e37",
+            "count": 735
+          },
+          {
+            "hex": "#91768a",
+            "count": 442
+          },
+          {
+            "hex": "#5a264e",
+            "count": 426
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

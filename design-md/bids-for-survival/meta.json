@@ -1,0 +1,906 @@
+{
+  "slug": "bids-for-survival",
+  "title": "Bids for Survival",
+  "liveUrl": "https://bidsforsurvival.com/",
+  "domain": "bidsforsurvival.com",
+  "loadmoreUrl": "https://loadmo.re/posts/bids-for-survival",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/bids-for-survival",
+  "description": "An immersive experience that offers a dive within a photogrammetric world, guided with voiceovers and and cut-scenes.",
+  "credits": "Michael Schindhelm",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "game",
+    "participative"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/bids-for-survival/0d83225a51-1744802984/bidsforsurvival-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/bids-for-survival/b34bcf74a7-1744803138/bidsforsurvival-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:03:50.229Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Bid(s) for Survival",
+        "url": "https://bidsforsurvival.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "19.5px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bid(s) for Survival",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(135, 180, 220)",
+          "fontFamily": "\"Century Schoolbook Mono\", monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "3px",
+          "boxShadow": "none",
+          "letterSpacing": "1.68px",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Kulturstiftung Basel H. Geiger",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(135, 180, 220)",
+          "fontFamily": "\"Century Schoolbook Mono\", monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "3px",
+          "boxShadow": "none",
+          "letterSpacing": "1.68px",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Visit the hospitalI",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "12.7344px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17.25px",
+          "display": "grid",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "a project by Michael SchindhelmI",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(210, 210, 210)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "12.7344px",
+          "boxShadow": "none",
+          "letterSpacing": "1.8px",
+          "lineHeight": "19.5px",
+          "display": "grid",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Century Schoolbook Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Century Schoolbook Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "I\n  \nCloseI\n  \n    \n    \n  \nBid(s) for SurvivalI\n  \n  \nOnI\n  \n  \n  \nAboutI\n  \n  \nView mapI\n  \n    \n    \n  \na project by ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "I\n  \nCloseI\n  \n    \n    \n  \nBid(s) for SurvivalI\n  \n  \nOnI\n  \n  \n  \nAboutI\n  \n  \nView mapI\n  \n    \n    \n  \na project by ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "h1",
+            "text": "Bid(s) for Survival",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(135, 180, 220)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "a project by Michael SchindhelmI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(210, 210, 210)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "a project by Michael Schindhelm",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Kulturstiftung Basel H. GeigerKBH.GI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "Kulturstiftung Basel H. Geiger",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(135, 180, 220)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "KBH.GI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(210, 210, 210)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "KBH.G",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "The End of Aging",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 230, 105)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit the hospitalI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.25px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Visit the hospital",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Roots",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 230, 105)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit the hotelI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.25px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Visit the hotel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1d1c1c",
+            "count": 13436
+          },
+          {
+            "hex": "#5d5d59",
+            "count": 6878
+          },
+          {
+            "hex": "#9f9f9a",
+            "count": 2806
+          },
+          {
+            "hex": "#8e8976",
+            "count": 1064
+          },
+          {
+            "hex": "#d6d6d5",
+            "count": 470
+          },
+          {
+            "hex": "#46423c",
+            "count": 406
+          },
+          {
+            "hex": "#857969",
+            "count": 295
+          },
+          {
+            "hex": "#443b37",
+            "count": 245
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1d1c1c",
+            "count": 13436
+          },
+          {
+            "hex": "#5d5d59",
+            "count": 6878
+          },
+          {
+            "hex": "#9f9f9a",
+            "count": 2806
+          },
+          {
+            "hex": "#8e8976",
+            "count": 1064
+          },
+          {
+            "hex": "#d6d6d5",
+            "count": 470
+          },
+          {
+            "hex": "#46423c",
+            "count": 406
+          },
+          {
+            "hex": "#857969",
+            "count": 295
+          },
+          {
+            "hex": "#443b37",
+            "count": 245
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Bid(s) for Survival",
+        "url": "https://bidsforsurvival.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "19.5px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Bid(s) for Survival",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(135, 180, 220)",
+          "fontFamily": "\"Century Schoolbook Mono\", monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "3px",
+          "boxShadow": "none",
+          "letterSpacing": "1.68px",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Kulturstiftung Basel H. Geiger",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(135, 180, 220)",
+          "fontFamily": "\"Century Schoolbook Mono\", monospace",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "3px",
+          "boxShadow": "none",
+          "letterSpacing": "1.68px",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Visit the hospitalI",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "12.7344px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17.25px",
+          "display": "grid",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "a project by Michael SchindhelmI",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(210, 210, 210)",
+          "fontFamily": "\"Helvetica Now Text\", sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "12.7344px",
+          "boxShadow": "none",
+          "letterSpacing": "1.8px",
+          "lineHeight": "19.5px",
+          "display": "grid",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Century Schoolbook Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Helvetica Now Text",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Century Schoolbook Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "I\n  \nCloseI\n  \n    \n    \n  \nBid(s) for SurvivalI\n  \n  \nOnI\n  \n  \n  \nAboutI\n  \n  \nView mapI\n  \n    \n    \n  \na project by ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "I\n  \nCloseI\n  \n    \n    \n  \nBid(s) for SurvivalI\n  \n  \nOnI\n  \n  \n  \nAboutI\n  \n  \nView mapI\n  \n    \n    \n  \na project by ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "sticky"
+          },
+          {
+            "tag": "h1",
+            "text": "Bid(s) for Survival",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(135, 180, 220)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "a project by Michael SchindhelmI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(210, 210, 210)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "a project by Michael Schindhelm",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Kulturstiftung Basel H. GeigerKBH.GI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "Kulturstiftung Basel H. Geiger",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(135, 180, 220)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "KBH.GI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(210, 210, 210)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "KBH.G",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "The End of Aging",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 230, 105)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit the hospitalI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.25px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Visit the hospital",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Roots",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 230, 105)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Visit the hotelI",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "12.7344px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.25px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Visit the hotel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Century Schoolbook Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.68px",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Now Text\", sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.8px",
+            "lineHeight": "19.5px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#171717",
+            "count": 11755
+          },
+          {
+            "hex": "#60605b",
+            "count": 6001
+          },
+          {
+            "hex": "#9f9f9a",
+            "count": 3095
+          },
+          {
+            "hex": "#d7d7d6",
+            "count": 1973
+          },
+          {
+            "hex": "#88b3d9",
+            "count": 945
+          },
+          {
+            "hex": "#8d8774",
+            "count": 759
+          },
+          {
+            "hex": "#f7e068",
+            "count": 580
+          },
+          {
+            "hex": "#48453b",
+            "count": 492
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#171717",
+            "count": 11755
+          },
+          {
+            "hex": "#60605b",
+            "count": 6001
+          },
+          {
+            "hex": "#9f9f9a",
+            "count": 3095
+          },
+          {
+            "hex": "#d7d7d6",
+            "count": 1973
+          },
+          {
+            "hex": "#88b3d9",
+            "count": 945
+          },
+          {
+            "hex": "#8d8774",
+            "count": 759
+          },
+          {
+            "hex": "#f7e068",
+            "count": 580
+          },
+          {
+            "hex": "#48453b",
+            "count": 492
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

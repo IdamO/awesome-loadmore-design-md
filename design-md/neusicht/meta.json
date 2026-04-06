@@ -1,0 +1,635 @@
+{
+  "slug": "neusicht",
+  "title": "Neusicht",
+  "liveUrl": "https://www.neusicht.ch/",
+  "domain": "www.neusicht.ch",
+  "loadmoreUrl": "https://loadmo.re/posts/neusicht",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/neusicht",
+  "description": "Crystal clear informational website with an interesting layout and hidden game feature.",
+  "credits": "Studio Szh",
+  "added": "",
+  "tags": [
+    "game",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/neusicht/01af3c842d-1598788680/007-neusicht_2.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/neusicht/d4e8090fcc-1598788680/007-neusicht_v04.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:04.326Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Abspann – Neusicht",
+        "url": "https://neusicht.ch/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "79.6875px",
+          "lineHeight": "79.6875px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "DankeDankeDanke",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "153px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "114.75px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Off",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "37.1875px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Maximilian Lederer",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "79.6875px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "79.6875px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "LifeEF",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "LifeEF",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GTPressura",
+            "style": "normal",
+            "weight": "bold",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Neusicht\n2014–2022\n\n\n\n\nDankeDankeDanke\n\nSirkka AmmannPhilipp HoferPatricia MittererNoah HorlacherTobias RothenbergerKim ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Neusicht\n2014–2022",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.19531px",
+            "lineHeight": "140.25px",
+            "display": "grid",
+            "position": "fixed"
+          },
+          {
+            "tag": "main",
+            "text": "DankeDankeDanke\n\nSirkka AmmannPhilipp HoferPatricia MittererNoah HorlacherTobias RothenbergerKim Da ReKadriye SamsunluKa",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "DankeDankeDanke",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "153px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "114.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Adieu!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Andreas TrietJonas HuberOliver Kerrison",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bild: Maximilian LedererMusik: Dachs – Pflumebaum\nSt.Gallen, Dezember 2022",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Maximilian Lederer",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dachs – Pflumebaum",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "79.6875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.6875px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Off",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "37.1875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20523
+          },
+          {
+            "hex": "#fbfb04",
+            "count": 3152
+          },
+          {
+            "hex": "#606060",
+            "count": 640
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 613
+          },
+          {
+            "hex": "#1e1e15",
+            "count": 401
+          },
+          {
+            "hex": "#9d9d0d",
+            "count": 156
+          },
+          {
+            "hex": "#5f5f0b",
+            "count": 113
+          },
+          {
+            "hex": "#7f8015",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20523
+          },
+          {
+            "hex": "#fbfb04",
+            "count": 3152
+          },
+          {
+            "hex": "#606060",
+            "count": 640
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 613
+          },
+          {
+            "hex": "#1e1e15",
+            "count": 401
+          },
+          {
+            "hex": "#9d9d0d",
+            "count": 156
+          },
+          {
+            "hex": "#5f5f0b",
+            "count": 113
+          },
+          {
+            "hex": "#7f8015",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Abspann – Neusicht",
+        "url": "https://neusicht.ch/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "37.5px",
+          "lineHeight": "37.5px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "DankeDankeDanke",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "72px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "54px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Off",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "17.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Maximilian Lederer",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GTPressura",
+          "fontSize": "24.75px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24.75px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "LifeEF",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "LifeEF",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GTPressura",
+            "style": "normal",
+            "weight": "bold",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Neusicht\n2014–2022\n\n\n\n\nDankeDankeDanke\n\nStjepan CoricJan WinigerDominik BauerPascal BlatterLorena FroeschDoris KönigerLi",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "37.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Neusicht\n2014–2022",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "37.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5625px",
+            "lineHeight": "37.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "main",
+            "text": "DankeDankeDanke\n\nStjepan CoricJan WinigerDominik BauerPascal BlatterLorena FroeschDoris KönigerLisa TegtmeierGigolo Roma",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "37.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "DankeDankeDanke",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "72px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Adieu!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "37.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Andreas TrietJonas HuberOliver Kerrison",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "24.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Bild: Maximilian LedererMusik: Dachs – Pflumebaum\nSt.Gallen, Dezember 2022",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "24.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Maximilian Lederer",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "24.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.75px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dachs – Pflumebaum",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "24.75px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24.75px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Off",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GTPressura",
+            "fontSize": "17.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20334
+          },
+          {
+            "hex": "#fcfc01",
+            "count": 2924
+          },
+          {
+            "hex": "#12120e",
+            "count": 901
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 658
+          },
+          {
+            "hex": "#616161",
+            "count": 378
+          },
+          {
+            "hex": "#64630a",
+            "count": 152
+          },
+          {
+            "hex": "#9f9f0b",
+            "count": 152
+          },
+          {
+            "hex": "#c3c263",
+            "count": 101
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20334
+          },
+          {
+            "hex": "#fcfc01",
+            "count": 2924
+          },
+          {
+            "hex": "#12120e",
+            "count": 901
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 658
+          },
+          {
+            "hex": "#616161",
+            "count": 378
+          },
+          {
+            "hex": "#64630a",
+            "count": 152
+          },
+          {
+            "hex": "#9f9f0b",
+            "count": 152
+          },
+          {
+            "hex": "#c3c263",
+            "count": 101
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

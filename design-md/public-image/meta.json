@@ -1,0 +1,396 @@
+{
+  "slug": "public-image",
+  "title": "©Public Image",
+  "liveUrl": "https://public-image.co",
+  "domain": "public-image.co",
+  "loadmoreUrl": "https://loadmo.re/posts/public-image",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/public-image",
+  "description": "A landing page based on an interactive timeline to browse the studio's work.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "photography",
+    "clean-ui",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/public-image/b3c9818dcf-1644580397/0317-public-image-post-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/public-image/f2cc5fe7e6-1644580392/0317-public-image-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T19:57:50.033Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "©Public Image",
+        "url": "https://public-image.co/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Roma",
+          "fontSize": "22px",
+          "lineHeight": "25px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "©Public Image offers creative direction + design services\nfor brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Roma",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "services[at]public-image.co",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Ital",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "25px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ItalianGaramondW01-Roma",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "ItalianGaramondW01-Ital",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "ItalianGaramondW01-Bold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "©Public Image offers creative direction + design services for brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "ItalianGaramondW01-Roma",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "©Public Image offers creative direction + design services\nfor brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ItalianGaramondW01-Roma",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "services[at]public-image.co",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ItalianGaramondW01-Ital",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "25px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 13385
+          },
+          {
+            "hex": "#1f1c1e",
+            "count": 7255
+          },
+          {
+            "hex": "#a6a3a5",
+            "count": 1283
+          },
+          {
+            "hex": "#5d5757",
+            "count": 1082
+          },
+          {
+            "hex": "#9a6c57",
+            "count": 836
+          },
+          {
+            "hex": "#cfa692",
+            "count": 734
+          },
+          {
+            "hex": "#b68971",
+            "count": 647
+          },
+          {
+            "hex": "#513227",
+            "count": 378
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 13385
+          },
+          {
+            "hex": "#1f1c1e",
+            "count": 7255
+          },
+          {
+            "hex": "#a6a3a5",
+            "count": 1283
+          },
+          {
+            "hex": "#5d5757",
+            "count": 1082
+          },
+          {
+            "hex": "#9a6c57",
+            "count": 836
+          },
+          {
+            "hex": "#cfa692",
+            "count": 734
+          },
+          {
+            "hex": "#b68971",
+            "count": 647
+          },
+          {
+            "hex": "#513227",
+            "count": 378
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "©Public Image",
+        "url": "https://public-image.co/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Roma",
+          "fontSize": "19px",
+          "lineHeight": "21px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "©Public Image offers creative direction + design services for brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Roma",
+          "fontSize": "19px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "21px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "services[at]publicimage.com",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ItalianGaramondW01-Ital",
+          "fontSize": "19px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5px",
+          "lineHeight": "21px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ItalianGaramondW01-Roma",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "ItalianGaramondW01-Ital",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "ItalianGaramondW01-Bold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "©Public Image offers creative direction + design services for brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "ItalianGaramondW01-Roma",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "©Public Image offers creative direction + design services for brands : Gucci, Versace, Jacquemus, Prada, Byredo, Trussar",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ItalianGaramondW01-Roma",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "services[at]publicimage.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ItalianGaramondW01-Ital",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5px",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1e1b1d",
+            "count": 15384
+          },
+          {
+            "hex": "#996c58",
+            "count": 2112
+          },
+          {
+            "hex": "#625958",
+            "count": 1773
+          },
+          {
+            "hex": "#cea591",
+            "count": 1651
+          },
+          {
+            "hex": "#b58971",
+            "count": 1628
+          },
+          {
+            "hex": "#a6a1a3",
+            "count": 1437
+          },
+          {
+            "hex": "#503127",
+            "count": 960
+          },
+          {
+            "hex": "#6b4838",
+            "count": 655
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1e1b1d",
+            "count": 15384
+          },
+          {
+            "hex": "#996c58",
+            "count": 2112
+          },
+          {
+            "hex": "#625958",
+            "count": 1773
+          },
+          {
+            "hex": "#cea591",
+            "count": 1651
+          },
+          {
+            "hex": "#b58971",
+            "count": 1628
+          },
+          {
+            "hex": "#a6a1a3",
+            "count": 1437
+          },
+          {
+            "hex": "#503127",
+            "count": 960
+          },
+          {
+            "hex": "#6b4838",
+            "count": 655
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

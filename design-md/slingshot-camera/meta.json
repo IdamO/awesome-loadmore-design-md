@@ -1,0 +1,418 @@
+{
+  "slug": "slingshot-camera",
+  "title": "Slingshot Camera",
+  "liveUrl": "https://slingshot.trudy.computer/",
+  "domain": "slingshot.trudy.computer",
+  "loadmoreUrl": "https://loadmo.re/posts/slingshot-camera",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/slingshot-camera",
+  "description": "Drag your finger to aim and take a snapshot of your surroundings.",
+  "credits": "Trudy Painter",
+  "added": "",
+  "tags": [
+    "photography",
+    "playful",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/slingshot-camera/e12d9ac899-1747809430/slingshotcamera-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/slingshot-camera/96a2bbda95-1747809455/slingshotcamera-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:27:01.035Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Slingshot Camera",
+        "url": "https://slingshot.trudy.computer/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(10, 10, 10)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Drag to capture(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5244,[],\\\"\\",
+          "color": "rgb(10, 10, 10)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(75, 85, 99)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Drag to capture(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5244,[],\\\"\\",
+            "color": "rgb(10, 10, 10)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25288
+          },
+          {
+            "hex": "#ededf1",
+            "count": 171
+          },
+          {
+            "hex": "#cfd2d6",
+            "count": 57
+          },
+          {
+            "hex": "#e8e8eb",
+            "count": 43
+          },
+          {
+            "hex": "#eef0f3",
+            "count": 20
+          },
+          {
+            "hex": "#a8acb3",
+            "count": 12
+          },
+          {
+            "hex": "#b8bbc1",
+            "count": 6
+          },
+          {
+            "hex": "#bdc2c7",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25288
+          },
+          {
+            "hex": "#ededf1",
+            "count": 171
+          },
+          {
+            "hex": "#cfd2d6",
+            "count": 57
+          },
+          {
+            "hex": "#e8e8eb",
+            "count": 43
+          },
+          {
+            "hex": "#eef0f3",
+            "count": 20
+          },
+          {
+            "hex": "#a8acb3",
+            "count": 12
+          },
+          {
+            "hex": "#b8bbc1",
+            "count": 6
+          },
+          {
+            "hex": "#bdc2c7",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Slingshot Camera",
+        "url": "https://slingshot.trudy.computer/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(10, 10, 10)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Drag to capture(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5244,[],\\\"\\",
+          "color": "rgb(10, 10, 10)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(75, 85, 99)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Drag to capture(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5244,[],\\\"\\",
+            "color": "rgb(10, 10, 10)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(75, 85, 99)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 23712
+          },
+          {
+            "hex": "#e9ebee",
+            "count": 1713
+          },
+          {
+            "hex": "#a1a6ae",
+            "count": 126
+          },
+          {
+            "hex": "#b8bcc2",
+            "count": 24
+          },
+          {
+            "hex": "#bdc0c6",
+            "count": 12
+          },
+          {
+            "hex": "#7b838d",
+            "count": 5
+          },
+          {
+            "hex": "#717985",
+            "count": 4
+          },
+          {
+            "hex": "#626977",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 23712
+          },
+          {
+            "hex": "#e9ebee",
+            "count": 1713
+          },
+          {
+            "hex": "#a1a6ae",
+            "count": 126
+          },
+          {
+            "hex": "#b8bcc2",
+            "count": 24
+          },
+          {
+            "hex": "#bdc0c6",
+            "count": 12
+          },
+          {
+            "hex": "#7b838d",
+            "count": 5
+          },
+          {
+            "hex": "#717985",
+            "count": 4
+          },
+          {
+            "hex": "#626977",
+            "count": 4
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "slug": "canoa-lab",
+  "title": "Canoa Lab",
+  "liveUrl": "https://www.canoalab.com",
+  "domain": "www.canoalab.com",
+  "loadmoreUrl": "https://loadmo.re/posts/canoa-lab",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/canoa-lab",
+  "description": "Canoa Lab’s ceramics come alive as images glide in a fluid, figure-eight motion.",
+  "credits": "Jota Team Aurora Saseta",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "animation",
+    "photography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/canoa-lab/ac86f1bcab-1736954885/canoalab-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/canoa-lab/5dc87f03b5-1736954897/canolalab-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:05:24.792Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Canoa Lab. – Canoa Lab. is an experimental ceramic design studio. We hope you feel our work as a reflection of our love for glazes, clay, metal and craftsmanship.",
+        "url": "https://www.canoalab.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(17, 17, 17)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Manage Consent\n\t\t\n\t\t\t\n\t\t\n\t\n\n\t\n\t\n\t\tTo provide the best experiences, we use technologies like cookies to store and/or acce",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.16px",
+          "lineHeight": "20px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Shop",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.16px",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ABC Oracle Triple",
+            "style": "normal",
+            "weight": "100",
+            "status": "loaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Manage Consent\n\t\t\n\t\t\t\n\t\t\n\t\n\n\t\n\t\n\t\tTo provide the best experiences, we use technologies like cookies to store and/or acce",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Shop\n  \n\n      \n       Projects        \n          DerivaMe tienes en ascuasMesaDeriva y trampaMitos        \n      \n\n    ",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Shop",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Cart",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#2d3336",
+            "count": 13646
+          },
+          {
+            "hex": "#585450",
+            "count": 7266
+          },
+          {
+            "hex": "#c7d3d9",
+            "count": 1602
+          },
+          {
+            "hex": "#9caaa8",
+            "count": 1294
+          },
+          {
+            "hex": "#b8c6c8",
+            "count": 1136
+          },
+          {
+            "hex": "#44413d",
+            "count": 270
+          },
+          {
+            "hex": "#363c41",
+            "count": 198
+          },
+          {
+            "hex": "#423d3b",
+            "count": 188
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#2d3336",
+            "count": 13646
+          },
+          {
+            "hex": "#585450",
+            "count": 7266
+          },
+          {
+            "hex": "#c7d3d9",
+            "count": 1602
+          },
+          {
+            "hex": "#9caaa8",
+            "count": 1294
+          },
+          {
+            "hex": "#b8c6c8",
+            "count": 1136
+          },
+          {
+            "hex": "#44413d",
+            "count": 270
+          },
+          {
+            "hex": "#363c41",
+            "count": 198
+          },
+          {
+            "hex": "#423d3b",
+            "count": 188
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Canoa Lab. – Canoa Lab. is an experimental ceramic design studio. We hope you feel our work as a reflection of our love for glazes, clay, metal and craftsmanship.",
+        "url": "https://www.canoalab.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(17, 17, 17)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Newsletter",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.16px",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Cart",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.16px",
+          "lineHeight": "20px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ABC Oracle Triple",
+            "style": "normal",
+            "weight": "100",
+            "status": "loaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Manage Consent\n\t\t\n\t\t\t\n\t\t\n\t\n\n\t\n\t\n\t\tTo provide the best experiences, we use technologies like cookies to store and/or acce",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Shop\n  \n\n      \n       Projects        \n          DerivaMe tienes en ascuasMesaDeriva y trampaMitos        \n      \n\n    ",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Cart",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Newsletter",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"ABC Oracle Triple\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ccd6de",
+            "count": 11967
+          },
+          {
+            "hex": "#242c2c",
+            "count": 3748
+          },
+          {
+            "hex": "#f9fba8",
+            "count": 3562
+          },
+          {
+            "hex": "#5a615e",
+            "count": 3500
+          },
+          {
+            "hex": "#969f9a",
+            "count": 1732
+          },
+          {
+            "hex": "#3a4344",
+            "count": 623
+          },
+          {
+            "hex": "#bac7c9",
+            "count": 276
+          },
+          {
+            "hex": "#7b8883",
+            "count": 192
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ccd6de",
+            "count": 11967
+          },
+          {
+            "hex": "#242c2c",
+            "count": 3748
+          },
+          {
+            "hex": "#f9fba8",
+            "count": 3562
+          },
+          {
+            "hex": "#5a615e",
+            "count": 3500
+          },
+          {
+            "hex": "#969f9a",
+            "count": 1732
+          },
+          {
+            "hex": "#3a4344",
+            "count": 623
+          },
+          {
+            "hex": "#bac7c9",
+            "count": 276
+          },
+          {
+            "hex": "#7b8883",
+            "count": 192
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

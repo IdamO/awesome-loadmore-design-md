@@ -1,0 +1,283 @@
+{
+  "slug": "radio-orsimanirana",
+  "title": "Radio Orsimanirana",
+  "liveUrl": "https://www.radio-orsimanirana.com/",
+  "domain": "www.radio-orsimanirana.com",
+  "loadmoreUrl": "https://loadmo.re/posts/radio-orsimanirana",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/radio-orsimanirana",
+  "description": "Online radio that acts as the digital platform linked to an exhibition. Pick a floating shape to select a program.",
+  "credits": "Jerszy Seymour, Eurico Sá Fernandes",
+  "added": "",
+  "tags": [
+    "music",
+    "arts&culture",
+    "glitches"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/radio-orsimanirana/79a7465f7a-1631783800/0229-radio-orsimanirana-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/radio-orsimanirana/513182af1d-1631783829/0229-radio-orsimanirana-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:24:13.781Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Radio Orsimanirana",
+        "url": "https://www.radio-orsimanirana.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "LIFE ON PLANET ORSIMANIRANAArchiveNew Cosmological EncountersMade from Queer MudPost Anthropocentric PleasureFrom Democr",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "LIFE ON PLANET ORSIMANIRANAArchiveNew Cosmological EncountersMade from Queer MudPost Anthropocentric PleasureFrom Democr",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#111210",
+            "count": 15137
+          },
+          {
+            "hex": "#645d5c",
+            "count": 2588
+          },
+          {
+            "hex": "#a49f9d",
+            "count": 2260
+          },
+          {
+            "hex": "#e7e7e8",
+            "count": 1688
+          },
+          {
+            "hex": "#935e63",
+            "count": 1268
+          },
+          {
+            "hex": "#535c2e",
+            "count": 995
+          },
+          {
+            "hex": "#562528",
+            "count": 873
+          },
+          {
+            "hex": "#eff70a",
+            "count": 791
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#111210",
+            "count": 15137
+          },
+          {
+            "hex": "#645d5c",
+            "count": 2588
+          },
+          {
+            "hex": "#a49f9d",
+            "count": 2260
+          },
+          {
+            "hex": "#e7e7e8",
+            "count": 1688
+          },
+          {
+            "hex": "#935e63",
+            "count": 1268
+          },
+          {
+            "hex": "#535c2e",
+            "count": 995
+          },
+          {
+            "hex": "#562528",
+            "count": 873
+          },
+          {
+            "hex": "#eff70a",
+            "count": 791
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Radio Orsimanirana",
+        "url": "https://www.radio-orsimanirana.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "18px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "LIFE ON PLANET ORSIMANIRANAArchiveNew Cosmological EncountersMade from Queer MudPost Anthropocentric PleasureFrom Democr",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "LIFE ON PLANET ORSIMANIRANAArchiveNew Cosmological EncountersMade from Queer MudPost Anthropocentric PleasureFrom Democr",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#14120f",
+            "count": 13718
+          },
+          {
+            "hex": "#efedee",
+            "count": 3877
+          },
+          {
+            "hex": "#635c59",
+            "count": 1872
+          },
+          {
+            "hex": "#a39f9c",
+            "count": 1828
+          },
+          {
+            "hex": "#4e5f2d",
+            "count": 1263
+          },
+          {
+            "hex": "#582225",
+            "count": 1263
+          },
+          {
+            "hex": "#63324c",
+            "count": 1022
+          },
+          {
+            "hex": "#6b9e4f",
+            "count": 757
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#14120f",
+            "count": 13718
+          },
+          {
+            "hex": "#efedee",
+            "count": 3877
+          },
+          {
+            "hex": "#635c59",
+            "count": 1872
+          },
+          {
+            "hex": "#a39f9c",
+            "count": 1828
+          },
+          {
+            "hex": "#4e5f2d",
+            "count": 1263
+          },
+          {
+            "hex": "#582225",
+            "count": 1263
+          },
+          {
+            "hex": "#63324c",
+            "count": 1022
+          },
+          {
+            "hex": "#6b9e4f",
+            "count": 757
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

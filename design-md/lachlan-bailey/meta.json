@@ -1,0 +1,372 @@
+{
+  "slug": "lachlan-bailey",
+  "title": "Lachlan Bailey",
+  "liveUrl": "https://www.lachlanbailey.com/",
+  "domain": "www.lachlanbailey.com",
+  "loadmoreUrl": "https://loadmo.re/posts/lachlan-bailey",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/lachlan-bailey",
+  "description": "Portfolio site for Lachlan Bailey with simple UI and nested project info.",
+  "credits": "Paul Lacour Cam Durand",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "clean-ui",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/lachlan-bailey/4bc5a83034-1730110791/lachlanbailey-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/lachlan-bailey/228e178191-1730110811/lachlanbailey-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:16:52.329Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Lachlan Bailey",
+        "url": "https://www.lachlanbailey.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Work     Clients     Film  About   Contact                                                                  1 of 63 prev",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Film",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Nimbus Sans D OT",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Work     Clients     Film  About   Contact                                                                  1 of 63 prev",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Film",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Work\n     \n      Featured ★    [63\n      medias]",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 19524
+          },
+          {
+            "hex": "#e53104",
+            "count": 2227
+          },
+          {
+            "hex": "#fb521f",
+            "count": 1354
+          },
+          {
+            "hex": "#fb9067",
+            "count": 665
+          },
+          {
+            "hex": "#f76e4a",
+            "count": 562
+          },
+          {
+            "hex": "#fbaf98",
+            "count": 531
+          },
+          {
+            "hex": "#240a09",
+            "count": 396
+          },
+          {
+            "hex": "#ad1c06",
+            "count": 341
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 19524
+          },
+          {
+            "hex": "#e53104",
+            "count": 2227
+          },
+          {
+            "hex": "#fb521f",
+            "count": 1354
+          },
+          {
+            "hex": "#fb9067",
+            "count": 665
+          },
+          {
+            "hex": "#f76e4a",
+            "count": 562
+          },
+          {
+            "hex": "#fbaf98",
+            "count": 531
+          },
+          {
+            "hex": "#240a09",
+            "count": 396
+          },
+          {
+            "hex": "#ad1c06",
+            "count": 341
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Lachlan Bailey",
+        "url": "https://www.lachlanbailey.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Work     Clients     Film  About   Contact                                                                  1 of 63   \n ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Film",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Nimbus Sans D OT",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Work     Clients     Film  About   Contact                                                                  1 of 63   \n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Film",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Work\n     \n      Featured ★    [63\n      medias]",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nimbus Sans D OT\", \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfbfb",
+            "count": 10505
+          },
+          {
+            "hex": "#e43104",
+            "count": 5564
+          },
+          {
+            "hex": "#fc521e",
+            "count": 3476
+          },
+          {
+            "hex": "#fc9364",
+            "count": 1526
+          },
+          {
+            "hex": "#faaf98",
+            "count": 1459
+          },
+          {
+            "hex": "#f86e4a",
+            "count": 1242
+          },
+          {
+            "hex": "#240a09",
+            "count": 1066
+          },
+          {
+            "hex": "#ad1a04",
+            "count": 762
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfbfb",
+            "count": 10505
+          },
+          {
+            "hex": "#e43104",
+            "count": 5564
+          },
+          {
+            "hex": "#fc521e",
+            "count": 3476
+          },
+          {
+            "hex": "#fc9364",
+            "count": 1526
+          },
+          {
+            "hex": "#faaf98",
+            "count": 1459
+          },
+          {
+            "hex": "#f86e4a",
+            "count": 1242
+          },
+          {
+            "hex": "#240a09",
+            "count": 1066
+          },
+          {
+            "hex": "#ad1a04",
+            "count": 762
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

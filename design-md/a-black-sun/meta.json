@@ -1,0 +1,956 @@
+{
+  "slug": "a-black-sun",
+  "title": "A Black Sun",
+  "liveUrl": "https://nicolastilly.fr/a-black-sun/",
+  "domain": "nicolastilly.fr",
+  "loadmoreUrl": "https://loadmo.re/posts/a-black-sun",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/a-black-sun",
+  "description": "Bathe in the black sun with this immersive ambient poem.",
+  "credits": "Nicolas Tilly",
+  "added": "",
+  "tags": [
+    "sound-design",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/a-black-sun/3862b85633-1747760140/ablacksun-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/a-black-sun/741b1d49d0-1747760166/ablacksun-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:00:14.661Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "A black sun on a sunny day - Nicolas Tilly",
+        "url": "https://nicolastilly.fr/a-black-sun/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "A black sun on a sunny day est un poème visuel et sonore. La conception de ce projet m'a amené à me poser ces questions ",
+          "color": "rgb(15, 14, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "BwGradual-Light",
+          "fontSize": "28px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "30.8px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Nicolas Tilly",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "icomoon",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rubik-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rubik-Medium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-LightItalic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-Italic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Syne-Extra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "BwGradual-ExtraBold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "BwGradual-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "body.lay-hide-sitetitle .sitetitle, body.lay-hide-sitetitle .mobile-title{display:none!important;}body.lay-hide-menu .la",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Nicolas Tilly",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "Actualités\nBlog\nÀ propos\nRechercher",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Actualités",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "22px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "22px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "À propos",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "22px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Rechercher",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "22px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "❯",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "❯",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "A black sun on a sunny day est un poème visuel et sonore. La conception de ce projet m'a amené à me poser ces questions ",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-Light",
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gavity bent by playful skill.Design + musique + code : Nicolas TillyMars 2025",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-Light",
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Schéma préparatoire pour l'interaction sonore spatiale et le design de l'astre.",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Light",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Visiter le site A black sun",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Visiter le site A black sun",
+            "color": "rgb(2, 2, 2)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "100px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nicolas Tilly - 2026",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 21947
+          },
+          {
+            "hex": "#a0a0a1",
+            "count": 1285
+          },
+          {
+            "hex": "#cfcfcf",
+            "count": 787
+          },
+          {
+            "hex": "#202020",
+            "count": 561
+          },
+          {
+            "hex": "#626262",
+            "count": 536
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 465
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 11
+          },
+          {
+            "hex": "#bebec0",
+            "count": 8
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 21947
+          },
+          {
+            "hex": "#a0a0a1",
+            "count": 1285
+          },
+          {
+            "hex": "#cfcfcf",
+            "count": 787
+          },
+          {
+            "hex": "#202020",
+            "count": 561
+          },
+          {
+            "hex": "#626262",
+            "count": 536
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 465
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 11
+          },
+          {
+            "hex": "#bebec0",
+            "count": 8
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "A black sun on a sunny day - Nicolas Tilly",
+        "url": "https://nicolastilly.fr/a-black-sun/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "A black sun on a sunny day est un poème visuel et sonore. La conception de ce projet m'a amené à me poser ces questions ",
+          "color": "rgb(15, 14, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "BwGradual-Light",
+          "fontSize": "20px",
+          "fontWeight": "800",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Actualités",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Rubik-Regular",
+          "fontSize": "19px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "icomoon",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rubik-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rubik-Medium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-LightItalic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rubik-Italic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Syne-Extra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "BwGradual-ExtraBold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "BwGradual-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "html",
+            "text": "A black sun on a sunny day - Nicolas Tilly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "body",
+            "text": "body.lay-hide-sitetitle .sitetitle, body.lay-hide-sitetitle .mobile-title{display:none!important;}body.lay-hide-menu .la",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Actualités\nBlog\nÀ propos\nRechercher",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Actualités",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "19px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "19px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "À propos",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "19px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Rechercher",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "19px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Nicolas Tilly",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-ExtraBold",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "❯",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "❯",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "A black sun on a sunny day est un poème visuel et sonore. La conception de ce projet m'a amené à me poser ces questions ",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-Light",
+            "fontSize": "20px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Gavity bent by playful skill.Design + musique + code : Nicolas TillyMars 2025",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "BwGradual-Light",
+            "fontSize": "20px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Schéma préparatoire pour l'interaction sonore spatiale et le design de l'astre.",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Light",
+            "fontSize": "13px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.3px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Visiter le site A black sun",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Visiter le site A black sun",
+            "color": "rgb(2, 2, 2)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "100px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Nicolas Tilly - 2026",
+            "color": "rgb(15, 14, 19)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Rubik-Regular",
+            "fontSize": "16px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfb",
+            "count": 23290
+          },
+          {
+            "hex": "#a2a2a3",
+            "count": 1275
+          },
+          {
+            "hex": "#616163",
+            "count": 663
+          },
+          {
+            "hex": "#161616",
+            "count": 337
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 16
+          },
+          {
+            "hex": "#bfbfc0",
+            "count": 8
+          },
+          {
+            "hex": "#807f81",
+            "count": 6
+          },
+          {
+            "hex": "#3e3d41",
+            "count": 5
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfb",
+            "count": 23290
+          },
+          {
+            "hex": "#a2a2a3",
+            "count": 1275
+          },
+          {
+            "hex": "#616163",
+            "count": 663
+          },
+          {
+            "hex": "#161616",
+            "count": 337
+          },
+          {
+            "hex": "#7e7e80",
+            "count": 16
+          },
+          {
+            "hex": "#bfbfc0",
+            "count": 8
+          },
+          {
+            "hex": "#807f81",
+            "count": 6
+          },
+          {
+            "hex": "#3e3d41",
+            "count": 5
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

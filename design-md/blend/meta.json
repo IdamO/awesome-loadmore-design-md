@@ -1,0 +1,354 @@
+{
+  "slug": "blend",
+  "title": "Blend",
+  "liveUrl": "https://office.no-plans.com/play/blend/",
+  "domain": "office.no-plans.com",
+  "loadmoreUrl": "https://loadmo.re/posts/blend",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/blend",
+  "description": "Mesmerizing experiment by No Plans, which lets you create colored bubbles that blend together.",
+  "credits": "No Plans",
+  "added": "",
+  "tags": [
+    "tactile",
+    "colorful",
+    "net.art"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/blend/3056e16903-1662801130/0268_blend-home-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/blend/4e7d7503d6-1662801148/0268_blend-home-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:03:37.458Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Blend",
+        "url": "https://office.no-plans.com/play/blend/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "19.6px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "( tap anywhere )",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "19.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "b/w",
+          "color": "rgba(0, 0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "19.6px",
+          "fontWeight": "400",
+          "borderRadius": "39.2px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "( tap anywhere )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "19.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "b/w",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "19.6px",
+            "fontWeight": "400",
+            "borderRadius": "39.2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "clear",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "19.6px",
+            "fontWeight": "400",
+            "borderRadius": "39.2px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 25558
+          },
+          {
+            "hex": "#161616",
+            "count": 17
+          },
+          {
+            "hex": "#232323",
+            "count": 11
+          },
+          {
+            "hex": "#585858",
+            "count": 5
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 4
+          },
+          {
+            "hex": "#464646",
+            "count": 3
+          },
+          {
+            "hex": "#696969",
+            "count": 2
+          },
+          {
+            "hex": "#ffffff",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 25558
+          },
+          {
+            "hex": "#161616",
+            "count": 17
+          },
+          {
+            "hex": "#232323",
+            "count": 11
+          },
+          {
+            "hex": "#585858",
+            "count": 5
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 4
+          },
+          {
+            "hex": "#464646",
+            "count": 3
+          },
+          {
+            "hex": "#696969",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Blend",
+        "url": "https://office.no-plans.com/play/blend/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "13.28px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "( tap anywhere )",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "13.28px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "b/w",
+          "color": "rgba(0, 0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "13.28px",
+          "fontWeight": "400",
+          "borderRadius": "26.56px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "( tap anywhere )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "13.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "b/w",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "13.28px",
+            "fontWeight": "400",
+            "borderRadius": "26.56px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "clear",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "13.28px",
+            "fontWeight": "400",
+            "borderRadius": "26.56px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 25509
+          },
+          {
+            "hex": "#171717",
+            "count": 33
+          },
+          {
+            "hex": "#292929",
+            "count": 23
+          },
+          {
+            "hex": "#585858",
+            "count": 10
+          },
+          {
+            "hex": "#474747",
+            "count": 9
+          },
+          {
+            "hex": "#676767",
+            "count": 9
+          },
+          {
+            "hex": "#353535",
+            "count": 4
+          },
+          {
+            "hex": "#737373",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 25509
+          },
+          {
+            "hex": "#171717",
+            "count": 33
+          },
+          {
+            "hex": "#292929",
+            "count": 23
+          },
+          {
+            "hex": "#585858",
+            "count": 10
+          },
+          {
+            "hex": "#474747",
+            "count": 9
+          },
+          {
+            "hex": "#676767",
+            "count": 9
+          },
+          {
+            "hex": "#353535",
+            "count": 4
+          },
+          {
+            "hex": "#737373",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

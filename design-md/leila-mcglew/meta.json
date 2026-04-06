@@ -1,0 +1,395 @@
+{
+  "slug": "leila-mcglew",
+  "title": "Leila Mcglew",
+  "liveUrl": "http://leilamcglew.com",
+  "domain": "leilamcglew.com",
+  "loadmoreUrl": "https://loadmo.re/posts/leila-mcglew",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/leila-mcglew",
+  "description": "Playful yet simple page that lets you draw emojis everywhere. Satisfying!",
+  "credits": "Jake Dow Smith",
+  "added": "",
+  "tags": [
+    "playful",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/leila-mcglew/07d723ff3e-1606940633/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/leila-mcglew/d7c3bb3ed6-1606391153/leila-mcglew.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:16:57.438Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Leila McGlew",
+        "url": "https://leilamcglew.com/",
+        "body": {
+          "backgroundColor": "rgb(244, 245, 241)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "79.2px",
+          "lineHeight": "81.18px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Leila McGlew is co-founder of figures, shaping alternative influence",
+          "color": "rgb(244, 245, 241)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "79.2px",
+          "fontWeight": "1000",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.98px",
+          "lineHeight": "81.18px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Visit figures",
+          "color": "rgb(244, 245, 241)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "43.2px",
+          "fontWeight": "1000",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "43.2px",
+          "display": "inline",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Nunito",
+            "style": "normal",
+            "weight": "920",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(244, 245, 241)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "81.18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "81.18px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.98px",
+            "lineHeight": "81.18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.98px",
+            "lineHeight": "81.18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Visit figures or mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "43.2px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Visit figures",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "43.2px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "43.2px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "43.2px",
+            "display": "inline",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f5f0",
+            "count": 25600
+          },
+          {
+            "hex": "#f4f5f1",
+            "count": 8
+          },
+          {
+            "hex": "#000000",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f4f5f0",
+            "count": 25600
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Leila McGlew",
+        "url": "https://leilamcglew.com/",
+        "body": {
+          "backgroundColor": "rgb(244, 245, 241)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "39px",
+          "lineHeight": "39px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Leila McGlew is co-founder of figures, shaping alternative influence",
+          "color": "rgb(244, 245, 241)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "39px",
+          "fontWeight": "1000",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.975px",
+          "lineHeight": "39px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Visit figures",
+          "color": "rgb(244, 245, 241)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "23.4px",
+          "fontWeight": "1000",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.4px",
+          "display": "inline",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Nunito",
+            "style": "normal",
+            "weight": "920",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(244, 245, 241)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence\n\t\t\tVisit figures or mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.975px",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Leila McGlew is co-founder of figures, shaping alternative influence",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.975px",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Visit figures or mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "23.4px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Visit figures",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "23.4px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "inline",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "mail me",
+            "color": "rgb(244, 245, 241)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Nunito, \"SF Compact Rounded\", ui-rounded, -apple-system-rounded, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "23.4px",
+            "fontWeight": "1000",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "inline",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f5f0",
+            "count": 25600
+          },
+          {
+            "hex": "#f4f5f1",
+            "count": 8
+          },
+          {
+            "hex": "#000000",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f4f5f0",
+            "count": 25600
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

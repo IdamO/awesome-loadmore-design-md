@@ -1,0 +1,311 @@
+{
+  "slug": "flip",
+  "title": "FLIP",
+  "liveUrl": "https://flip.marco.land/",
+  "domain": "flip.marco.land",
+  "loadmoreUrl": "https://loadmo.re/posts/flip",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/flip",
+  "description": "Just flip your phone.",
+  "credits": "Marco Land/",
+  "added": "",
+  "tags": [
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/flip/54a1a3a89a-1638286598/292-flip-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/flip/d5c6f1c8d2-1638286609/292-flip-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:10:09.766Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "flip.marco.land",
+        "url": "https://flip.marco.land/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "98px",
+          "lineHeight": "98px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Please visit with a phone/tablet",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "196px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.96px",
+          "lineHeight": "196px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "h1",
+          "text": "Please visit with a phone/tablet",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "196px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.96px",
+          "lineHeight": "196px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "h1",
+            "text": "Please visit with a phone/tablet",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "196px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.96px",
+            "lineHeight": "196px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 21523
+          },
+          {
+            "hex": "#010101",
+            "count": 1944
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 444
+          },
+          {
+            "hex": "#5b5b5b",
+            "count": 438
+          },
+          {
+            "hex": "#d2d2d2",
+            "count": 398
+          },
+          {
+            "hex": "#181818",
+            "count": 309
+          },
+          {
+            "hex": "#2f2f2f",
+            "count": 273
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 271
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 21523
+          },
+          {
+            "hex": "#010101",
+            "count": 1944
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 444
+          },
+          {
+            "hex": "#5b5b5b",
+            "count": 438
+          },
+          {
+            "hex": "#d2d2d2",
+            "count": 398
+          },
+          {
+            "hex": "#181818",
+            "count": 309
+          },
+          {
+            "hex": "#2f2f2f",
+            "count": 273
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 271
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "flip.marco.land",
+        "url": "https://flip.marco.land/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "39px",
+          "lineHeight": "39px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Flip your phone",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "25.35px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.78px",
+          "lineHeight": "25.35px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Flip your phone  window.__NUXT__={staticAssetsBase:\"/_nuxt/static/1702669775\",layout:\"default\",error:null,serverRendered",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.78px",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Flip your phone",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "39px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.78px",
+            "lineHeight": "39px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Flip your phone",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "25.35px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.78px",
+            "lineHeight": "25.35px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f7f7f7",
+            "count": 21717
+          },
+          {
+            "hex": "#000000",
+            "count": 3401
+          },
+          {
+            "hex": "#242424",
+            "count": 126
+          },
+          {
+            "hex": "#dbdbdb",
+            "count": 105
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 92
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 84
+          },
+          {
+            "hex": "#363636",
+            "count": 60
+          },
+          {
+            "hex": "#181818",
+            "count": 15
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f7f7f7",
+            "count": 21717
+          },
+          {
+            "hex": "#000000",
+            "count": 3401
+          },
+          {
+            "hex": "#242424",
+            "count": 126
+          },
+          {
+            "hex": "#dbdbdb",
+            "count": 105
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 92
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 84
+          },
+          {
+            "hex": "#363636",
+            "count": 60
+          },
+          {
+            "hex": "#181818",
+            "count": 15
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

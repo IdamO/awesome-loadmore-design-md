@@ -1,0 +1,448 @@
+{
+  "slug": "sam-dumez",
+  "title": "Samuel Dumez",
+  "liveUrl": "https://sa-m.fr/",
+  "domain": "sa-m.fr",
+  "loadmoreUrl": "https://loadmo.re/posts/sam-dumez",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/sam-dumez",
+  "description": "Clever portfolio website where information is revealed through a crossword",
+  "credits": "Samuel Dumez",
+  "added": "",
+  "tags": [
+    "playful",
+    "portfolio",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/sam-dumez/a7aa534934-1677588416/samdumez-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/sam-dumez/c15333c234-1677588445/samdumez-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:25:41.743Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Samuel Dumez",
+        "url": "https://sa-m.fr/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "2 \n                D\n            \n        \n        \n            \n\n            \n        \n        \n            \n\n         ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "contact@sa-m.fr",
+          "color": "rgb(0, 128, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "2 \n                D\n            \n        \n        \n            \n\n            \n        \n        \n            \n\n         ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "INFO\n                \n\n                \n                    1.\n                \n                \n                    1.\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "contact@sa-m.fr",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "+33(0)630626363",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@samueldumez",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "2023",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 23630
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 819
+          },
+          {
+            "hex": "#d4d4d4",
+            "count": 787
+          },
+          {
+            "hex": "#a8aca8",
+            "count": 235
+          },
+          {
+            "hex": "#a7cda7",
+            "count": 60
+          },
+          {
+            "hex": "#626262",
+            "count": 60
+          },
+          {
+            "hex": "#353535",
+            "count": 8
+          },
+          {
+            "hex": "#bfdac0",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 23630
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 819
+          },
+          {
+            "hex": "#d4d4d4",
+            "count": 787
+          },
+          {
+            "hex": "#a8aca8",
+            "count": 235
+          },
+          {
+            "hex": "#a7cda7",
+            "count": 60
+          },
+          {
+            "hex": "#626262",
+            "count": 60
+          },
+          {
+            "hex": "#353535",
+            "count": 8
+          },
+          {
+            "hex": "#bfdac0",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Samuel Dumez",
+        "url": "https://sa-m.fr/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "2 \n                D\n            \n        \n        \n            \n\n            \n        \n        \n            \n\n         ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "contact@sa-m.fr",
+          "color": "rgb(0, 128, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "9.75px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "2 \n                D\n            \n        \n        \n            \n\n            \n        \n        \n            \n\n         ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "INFO\n                \n\n                \n                    1.\n                \n                \n                    1.\n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "9.75px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "contact@sa-m.fr",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "9.75px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "+33(0)630626363",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "9.75px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "@samueldumez",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "9.75px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "2023",
+            "color": "rgb(0, 128, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "9.75px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 24312
+          },
+          {
+            "hex": "#9b9c9b",
+            "count": 992
+          },
+          {
+            "hex": "#a0cba0",
+            "count": 173
+          },
+          {
+            "hex": "#686868",
+            "count": 110
+          },
+          {
+            "hex": "#363636",
+            "count": 6
+          },
+          {
+            "hex": "#74b474",
+            "count": 3
+          },
+          {
+            "hex": "#7eba80",
+            "count": 2
+          },
+          {
+            "hex": "#bfdbc0",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 24312
+          },
+          {
+            "hex": "#9b9c9b",
+            "count": 992
+          },
+          {
+            "hex": "#a0cba0",
+            "count": 173
+          },
+          {
+            "hex": "#686868",
+            "count": 110
+          },
+          {
+            "hex": "#363636",
+            "count": 6
+          },
+          {
+            "hex": "#74b474",
+            "count": 3
+          },
+          {
+            "hex": "#7eba80",
+            "count": 2
+          },
+          {
+            "hex": "#bfdbc0",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

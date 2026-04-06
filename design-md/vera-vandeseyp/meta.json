@@ -1,0 +1,408 @@
+{
+  "slug": "vera-vandeseyp",
+  "title": "Vera VanDeSeyp",
+  "liveUrl": "https://veravandeseyp.com/",
+  "domain": "veravandeseyp.com",
+  "loadmoreUrl": "https://loadmo.re/posts/vera-vandeseyp",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/vera-vandeseyp",
+  "description": "Portfolio website with stretchy text and a guestbook where visitors can design their messages using a variable font.",
+  "credits": "Vera van de Seyp, Koos Breen",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "typography",
+    "retro"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/vera-vandeseyp/a16ca8c0d1-1719046692/0009-veravandeseyp-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/vera-vandeseyp/bcbf3f90b4-1719046718/0009-veravandeseyp-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:31:25.318Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Vera van de Seyp",
+        "url": "https://veravandeseyp.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(167, 175, 182)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "22px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "+\n\t\t\n\t\tAboutProjectsMessages\t\t \n\t\t \t\n\t\t \n\t \n\t \n\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+          "color": "rgb(167, 175, 182)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Vera van de Seyp",
+          "color": "rgb(167, 175, 182)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "monument-mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "monument-mono",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "dumpling",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "dumpling-extra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "+\n\t\t\n\t\tAboutProjectsMessages\t\t \n\t\t \t\n\t\t \n\t \n\t \n\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgb(167, 175, 182)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Vera van de Seyp",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#020104",
+            "count": 17221
+          },
+          {
+            "hex": "#9a41fd",
+            "count": 2960
+          },
+          {
+            "hex": "#622aa2",
+            "count": 1730
+          },
+          {
+            "hex": "#8a3ae3",
+            "count": 1519
+          },
+          {
+            "hex": "#321653",
+            "count": 979
+          },
+          {
+            "hex": "#7934c8",
+            "count": 701
+          },
+          {
+            "hex": "#441e73",
+            "count": 484
+          },
+          {
+            "hex": "#5f6266",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#020104",
+            "count": 17221
+          },
+          {
+            "hex": "#9a41fd",
+            "count": 2960
+          },
+          {
+            "hex": "#622aa2",
+            "count": 1730
+          },
+          {
+            "hex": "#8a3ae3",
+            "count": 1519
+          },
+          {
+            "hex": "#321653",
+            "count": 979
+          },
+          {
+            "hex": "#7934c8",
+            "count": 701
+          },
+          {
+            "hex": "#441e73",
+            "count": 484
+          },
+          {
+            "hex": "#5f6266",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Vera van de Seyp",
+        "url": "https://veravandeseyp.com/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(167, 175, 182)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "+\n\t\t\n\t\tAboutProjectsMessages\t\t \n\t\t \t\n\t\t \n\t \n\t \n\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+          "color": "rgb(167, 175, 182)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Vera van de Seyp",
+          "color": "rgb(167, 175, 182)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "monument-mono, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.4px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "monument-mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "monument-mono",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "dumpling",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "dumpling-extra",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "+\n\t\t\n\t\tAboutProjectsMessages\t\t \n\t\t \t\n\t\t \n\t \n\t \n\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgb(167, 175, 182)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "30px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Vera van de Seyp",
+            "color": "rgb(167, 175, 182)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monument-mono, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#020103",
+            "count": 17359
+          },
+          {
+            "hex": "#9a41fc",
+            "count": 2882
+          },
+          {
+            "hex": "#5d2899",
+            "count": 1757
+          },
+          {
+            "hex": "#8a3be4",
+            "count": 1188
+          },
+          {
+            "hex": "#7a35ca",
+            "count": 921
+          },
+          {
+            "hex": "#301551",
+            "count": 894
+          },
+          {
+            "hex": "#471f75",
+            "count": 559
+          },
+          {
+            "hex": "#a2abb2",
+            "count": 40
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#020103",
+            "count": 17359
+          },
+          {
+            "hex": "#9a41fc",
+            "count": 2882
+          },
+          {
+            "hex": "#5d2899",
+            "count": 1757
+          },
+          {
+            "hex": "#8a3be4",
+            "count": 1188
+          },
+          {
+            "hex": "#7a35ca",
+            "count": 921
+          },
+          {
+            "hex": "#301551",
+            "count": 894
+          },
+          {
+            "hex": "#471f75",
+            "count": 559
+          },
+          {
+            "hex": "#a2abb2",
+            "count": 40
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "slug": "samuel-weidmann",
+  "title": "samuel Weidmann",
+  "liveUrl": "http://samuelweidmann.com/",
+  "domain": "samuelweidmann.com",
+  "loadmoreUrl": "https://loadmo.re/posts/samuel-weidmann",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/samuel-weidmann",
+  "description": "Cursor fireworks on click light up the horizon of this digital floating business card.",
+  "credits": "Samuel Weidmann",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/samuel-weidmann/99b04396e8-1727428931/samuelweidmann-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/samuel-weidmann/bb5ac10999-1727429062/samuelweidmann-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:25:45.143Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Samuel Weidmann, Graphic Design — Zurich, CH",
+        "url": "https://www.samuelweidmann.com/",
+        "body": {
+          "backgroundColor": "rgb(200, 200, 200)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Samuel Weidmann",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "17.28px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.2592px",
+          "lineHeight": "22.464px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Contact / IGMon 10 25 33 PM @ Zurich — CH, overcast clouds with 11.8°CSamuel Weidmann[[\"ShallowReactive\",1],{\"data\":2,\"s",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(200, 200, 200)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Contact",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "mono, \"Courier New\", Courier, monospace",
+          "fontSize": "12.96px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.1296px",
+          "lineHeight": "19.44px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "documenta",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Contact / IGMon 10 25 33 PM @ Zurich — CH, overcast clouds with 11.8°CSamuel Weidmann[[\"ShallowReactive\",1],{\"data\":2,\"s",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(200, 200, 200)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "mono, \"Courier New\", Courier, monospace",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1296px",
+            "lineHeight": "19.44px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "IG",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "mono, \"Courier New\", Courier, monospace",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.1296px",
+            "lineHeight": "19.44px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Samuel Weidmann",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "section",
+            "text": "Samuel Weidmann",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(247, 247, 247, 0.7)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.3) 0px 0px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "Samuel Weidmann",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "17.28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.2592px",
+            "lineHeight": "22.464px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#d7d7d7",
+            "count": 8315
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 7706
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 6341
+          },
+          {
+            "hex": "#cbcbcb",
+            "count": 3106
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 79
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 27
+          },
+          {
+            "hex": "#999999",
+            "count": 25
+          },
+          {
+            "hex": "#8e8e8e",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d7d7d7",
+            "count": 8315
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 7706
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 6341
+          },
+          {
+            "hex": "#cbcbcb",
+            "count": 3106
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 79
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 27
+          },
+          {
+            "hex": "#999999",
+            "count": 25
+          },
+          {
+            "hex": "#8e8e8e",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Samuel Weidmann, Graphic Design — Zurich, CH",
+        "url": "https://www.samuelweidmann.com/",
+        "body": {
+          "backgroundColor": "rgb(200, 200, 200)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Samuel Weidmann",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "13.65px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.20475px",
+          "lineHeight": "17.745px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Contact / IGMon 10 25 44 PM @ Zurich — CH, overcast clouds with 11.8°CSamuel Weidmann[[\"ShallowReactive\",1],{\"data\":2,\"s",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(200, 200, 200)",
+          "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Contact",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "mono, \"Courier New\", Courier, monospace",
+          "fontSize": "12.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.128px",
+          "lineHeight": "19.2px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "documenta",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Contact / IGMon 10 25 44 PM @ Zurich — CH, overcast clouds with 11.8°CSamuel Weidmann[[\"ShallowReactive\",1],{\"data\":2,\"s",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(200, 200, 200)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "mono, \"Courier New\", Courier, monospace",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.128px",
+            "lineHeight": "19.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "IG",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "mono, \"Courier New\", Courier, monospace",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.128px",
+            "lineHeight": "19.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Samuel Weidmann",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "section",
+            "text": "Samuel Weidmann",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(247, 247, 247, 0.7)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.3) 0px 0px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "Samuel Weidmann",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "documenta, \"Times New Roman\", Times, serif",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.20475px",
+            "lineHeight": "17.745px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#d7d7d7",
+            "count": 8725
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 7374
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 5974
+          },
+          {
+            "hex": "#cbcbcb",
+            "count": 2988
+          },
+          {
+            "hex": "#939393",
+            "count": 191
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 186
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 136
+          },
+          {
+            "hex": "#777777",
+            "count": 26
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d7d7d7",
+            "count": 8725
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 7374
+          },
+          {
+            "hex": "#e5e5e5",
+            "count": 5974
+          },
+          {
+            "hex": "#cbcbcb",
+            "count": 2988
+          },
+          {
+            "hex": "#939393",
+            "count": 191
+          },
+          {
+            "hex": "#a8a8a8",
+            "count": 186
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 136
+          },
+          {
+            "hex": "#777777",
+            "count": 26
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

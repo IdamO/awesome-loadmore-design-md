@@ -1,0 +1,594 @@
+{
+  "slug": "collection-of-holiday-experiences",
+  "title": "Collection of Holiday Experiences",
+  "liveUrl": "https://collectionofholidayexperiences.xyz/",
+  "domain": "collectionofholidayexperiences.xyz",
+  "loadmoreUrl": "https://loadmo.re/posts/collection-of-holiday-experiences",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/collection-of-holiday-experiences",
+  "description": "Interactive experiences celebrating Xmas magic, eg. a baking cookies challenge or a decorating a tree drawing tool.",
+  "credits": "Rachel Yeeun Kim",
+  "added": "",
+  "tags": [
+    "playful",
+    "game",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/collection-of-holiday-experiences/f30f8a68ef-1654263326/0309_collectionofholidayexperiences-cover-home-min-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/collection-of-holiday-experiences/e557d0c661-1654263337/0309_collectionofholidayexperiences-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:06:32.051Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Collection of Holiday Experience",
+        "url": "https://www.collectionofholidayexperiences.xyz/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Please visit in narrower device.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "Please visit in narrower device.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#989898",
+            "count": 24252
+          },
+          {
+            "hex": "#eaeaea",
+            "count": 1128
+          },
+          {
+            "hex": "#d4d4d5",
+            "count": 116
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 86
+          },
+          {
+            "hex": "#adcceb",
+            "count": 10
+          },
+          {
+            "hex": "#7a7a7a",
+            "count": 4
+          },
+          {
+            "hex": "#84b9e8",
+            "count": 3
+          },
+          {
+            "hex": "#6fb0e9",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#989898",
+            "count": 24252
+          },
+          {
+            "hex": "#eaeaea",
+            "count": 1128
+          },
+          {
+            "hex": "#d4d4d5",
+            "count": 116
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 86
+          },
+          {
+            "hex": "#adcceb",
+            "count": 10
+          },
+          {
+            "hex": "#7a7a7a",
+            "count": 4
+          },
+          {
+            "hex": "#84b9e8",
+            "count": 3
+          },
+          {
+            "hex": "#6fb0e9",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Collection of Holiday Experience",
+        "url": "https://www.collectionofholidayexperiences.xyz/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "a",
+          "text": "",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefd",
+            "count": 24390
+          },
+          {
+            "hex": "#a1a4a4",
+            "count": 290
+          },
+          {
+            "hex": "#146a29",
+            "count": 208
+          },
+          {
+            "hex": "#d5a05c",
+            "count": 179
+          },
+          {
+            "hex": "#a76b20",
+            "count": 171
+          },
+          {
+            "hex": "#e7cfa8",
+            "count": 128
+          },
+          {
+            "hex": "#da9916",
+            "count": 123
+          },
+          {
+            "hex": "#d3b09c",
+            "count": 111
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefd",
+            "count": 24390
+          },
+          {
+            "hex": "#a1a4a4",
+            "count": 290
+          },
+          {
+            "hex": "#146a29",
+            "count": 208
+          },
+          {
+            "hex": "#d5a05c",
+            "count": 179
+          },
+          {
+            "hex": "#a76b20",
+            "count": 171
+          },
+          {
+            "hex": "#e7cfa8",
+            "count": 128
+          },
+          {
+            "hex": "#da9916",
+            "count": 123
+          },
+          {
+            "hex": "#d3b09c",
+            "count": 111
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

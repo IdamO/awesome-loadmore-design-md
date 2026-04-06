@@ -1,0 +1,911 @@
+{
+  "slug": "new-aesthetic-2",
+  "title": "New Aesthetic 2",
+  "liveUrl": "https://newaesthetic.xyz/",
+  "domain": "newaesthetic.xyz",
+  "loadmoreUrl": "https://loadmo.re/posts/new-aesthetic-2",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/new-aesthetic-2",
+  "description": "Playful single page introducing this new publication by Sorry Press, which makes you interact with the book while scrolling down.",
+  "credits": "Maximilian Bernd",
+  "added": "",
+  "tags": [
+    "3d",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/new-aesthetic-2/d7b51673af-1638285917/269-newaesthetic2-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/new-aesthetic-2/f9bdd62b8d-1638285929/269-newaesthetic2-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:07.885Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "New Aesthetic",
+        "url": "https://newaesthetic.xyz/",
+        "body": {
+          "backgroundColor": "rgb(26, 25, 25)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Sorry",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "New Aesthetic 2",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "39.4286px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "39.4286px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Featuring Typefaces by",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "39.4286px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "39.4286px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Order on Sorry Press",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "39.4286px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "39.4286px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Sorry",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "New Aesthetic 2Order on Sorry PressA collection of independent type design.Featuring Typefaces by3,QuatorzeAlex OrtigaAl",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(26, 25, 25)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "New Aesthetic 2Order on Sorry PressA collection of independent type design.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "New Aesthetic 2",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Order on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "A collection of independent type design.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Featuring Typefaces by3,QuatorzeAlex OrtigaAlexander RafflAlexandre BassiAlff RosineAntoine BrunAntonio D’ElisiisAriel M",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Featuring Typefaces by3,QuatorzeAlex OrtigaAlexander RafflAlexandre BassiAlff RosineAntoine BrunAntonio D’ElisiisAriel M",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Featuring Typefaces by",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Order now on Sorry PressCreditsWebsite: Maximilian BerndtEdited by: Sophia Brinkgerd, Leonhard LaupichlerPublished by: S",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Order now on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Order now on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "39.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.4286px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Credits",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Website: Maximilian Berndt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Maximilian Berndt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Edited by: Sophia Brinkgerd, Leonhard Laupichler",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sophia Brinkgerd",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Leonhard Laupichler",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Published by: Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "\"New Aesthetic approaches type design as an opportunity to create art: looking at type design with a benevolence to expe",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "15.4286px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.1429px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 21003
+          },
+          {
+            "hex": "#189755",
+            "count": 2366
+          },
+          {
+            "hex": "#24985a",
+            "count": 934
+          },
+          {
+            "hex": "#262d29",
+            "count": 417
+          },
+          {
+            "hex": "#606060",
+            "count": 376
+          },
+          {
+            "hex": "#194a2f",
+            "count": 333
+          },
+          {
+            "hex": "#236e47",
+            "count": 121
+          },
+          {
+            "hex": "#898989",
+            "count": 50
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 21003
+          },
+          {
+            "hex": "#189755",
+            "count": 2366
+          },
+          {
+            "hex": "#24985a",
+            "count": 934
+          },
+          {
+            "hex": "#262d29",
+            "count": 417
+          },
+          {
+            "hex": "#606060",
+            "count": 376
+          },
+          {
+            "hex": "#194a2f",
+            "count": 333
+          },
+          {
+            "hex": "#236e47",
+            "count": 121
+          },
+          {
+            "hex": "#898989",
+            "count": 50
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "New Aesthetic",
+        "url": "https://newaesthetic.xyz/",
+        "body": {
+          "backgroundColor": "rgb(26, 25, 25)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Sorry",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "New Aesthetic 2",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Featuring Typefaces by",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Order on Sorry Press",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Sorry",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Sorry",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "New Aesthetic 2Order on Sorry PressA collection of independent type design.Featuring Typefaces by3,QuatorzeAlex OrtigaAl",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(26, 25, 25)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "New Aesthetic 2Order on Sorry PressA collection of independent type design.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "New Aesthetic 2",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Order on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "A collection of independent type design.",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Featuring Typefaces by3,QuatorzeAlex OrtigaAlexander RafflAlexandre BassiAlff RosineAntoine BrunAntonio D’ElisiisAriel M",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Featuring Typefaces by3,QuatorzeAlex OrtigaAlexander RafflAlexandre BassiAlff RosineAntoine BrunAntonio D’ElisiisAriel M",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Featuring Typefaces by",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Order now on Sorry PressCreditsWebsite: Maximilian BerndtEdited by: Sophia Brinkgerd, Leonhard LaupichlerPublished by: S",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Order now on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Order now on Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Credits",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Website: Maximilian Berndt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Maximilian Berndt",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Edited by: Sophia Brinkgerd, Leonhard Laupichler",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sophia Brinkgerd",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Leonhard Laupichler",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Published by: Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Sorry Press",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "\"New Aesthetic approaches type design as an opportunity to create art: looking at type design with a benevolence to expe",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Sorry",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 17959
+          },
+          {
+            "hex": "#1a9755",
+            "count": 5765
+          },
+          {
+            "hex": "#212a25",
+            "count": 790
+          },
+          {
+            "hex": "#616161",
+            "count": 418
+          },
+          {
+            "hex": "#1b5537",
+            "count": 244
+          },
+          {
+            "hex": "#9b9b9b",
+            "count": 210
+          },
+          {
+            "hex": "#226e46",
+            "count": 195
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 19
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 17959
+          },
+          {
+            "hex": "#1a9755",
+            "count": 5765
+          },
+          {
+            "hex": "#212a25",
+            "count": 790
+          },
+          {
+            "hex": "#616161",
+            "count": 418
+          },
+          {
+            "hex": "#1b5537",
+            "count": 244
+          },
+          {
+            "hex": "#9b9b9b",
+            "count": 210
+          },
+          {
+            "hex": "#226e46",
+            "count": 195
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 19
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

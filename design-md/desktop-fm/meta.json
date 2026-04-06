@@ -1,0 +1,627 @@
+{
+  "slug": "desktop-fm",
+  "title": "Desktop FM",
+  "liveUrl": "http://desktop.fm/",
+  "domain": "desktop.fm",
+  "loadmoreUrl": "https://loadmo.re/posts/desktop-fm",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/desktop-fm",
+  "description": "Teaser site where users can interact with 3D visual of a desktop.fm CD to play dreamlike musical chords.",
+  "credits": "Xavier (Jack)",
+  "added": "",
+  "tags": [
+    "playful",
+    "sound-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/desktop-fm/c52fad4def-1723185589/14-desktopfm-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/desktop-fm/df065263ab-1723185605/14-desktopfm-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:08:04.748Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Desktop.fm",
+        "url": "https://desktop.fm/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgba(255, 255, 255, 0.792)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "lineHeight": "22.5px"
+        },
+        "bodyText": {
+          "tag": "div",
+          "text": "",
+          "color": "rgba(255, 255, 255, 0.792)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(45, 45, 45)",
+          "backgroundColor": "rgb(221, 221, 221)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "borderRadius": "50%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "header",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "25px",
+            "boxShadow": "rgba(51, 51, 51, 0.1) 0px 0px 40px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "i",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(180, 180, 180)",
+            "fontFamily": "monospace",
+            "fontSize": "12px",
+            "fontWeight": "800",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "Desktop.fm",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1px",
+            "lineHeight": "35px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Join the waiting list",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Join the waiting list",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(45, 45, 45)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "20px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#bdc2c4",
+            "count": 20854
+          },
+          {
+            "hex": "#b3b4b4",
+            "count": 1590
+          },
+          {
+            "hex": "#ceced0",
+            "count": 1325
+          },
+          {
+            "hex": "#a2d4b9",
+            "count": 1023
+          },
+          {
+            "hex": "#bbbdc1",
+            "count": 515
+          },
+          {
+            "hex": "#2c2c2c",
+            "count": 183
+          },
+          {
+            "hex": "#606061",
+            "count": 83
+          },
+          {
+            "hex": "#c1bec4",
+            "count": 27
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#bdc2c4",
+            "count": 20854
+          },
+          {
+            "hex": "#b3b4b4",
+            "count": 1590
+          },
+          {
+            "hex": "#ceced0",
+            "count": 1325
+          },
+          {
+            "hex": "#a2d4b9",
+            "count": 1023
+          },
+          {
+            "hex": "#bbbdc1",
+            "count": 515
+          },
+          {
+            "hex": "#2c2c2c",
+            "count": 183
+          },
+          {
+            "hex": "#606061",
+            "count": 83
+          },
+          {
+            "hex": "#c1bec4",
+            "count": 27
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Desktop.fm",
+        "url": "https://desktop.fm/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgba(255, 255, 255, 0.792)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "lineHeight": "22.5px"
+        },
+        "bodyText": {
+          "tag": "div",
+          "text": "",
+          "color": "rgba(255, 255, 255, 0.792)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(45, 45, 45)",
+          "backgroundColor": "rgb(221, 221, 221)",
+          "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "borderRadius": "50%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.5px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "header",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgba(255, 255, 255, 0.792)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "25px",
+            "boxShadow": "rgba(51, 51, 51, 0.1) 0px 0px 40px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "iDesktop.fmJoin the waiting list",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "i",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(180, 180, 180)",
+            "fontFamily": "monospace",
+            "fontSize": "12px",
+            "fontWeight": "800",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "Desktop.fm",
+            "color": "rgb(45, 45, 45)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1px",
+            "lineHeight": "35px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Join the waiting list",
+            "color": "rgb(17, 17, 17)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Join the waiting list",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(45, 45, 45)",
+            "fontFamily": "-apple-system, system-ui, \"system-ui\"",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "20px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.25px",
+            "lineHeight": "20px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#bdc2c4",
+            "count": 16378
+          },
+          {
+            "hex": "#d8d8d9",
+            "count": 4499
+          },
+          {
+            "hex": "#b9bec1",
+            "count": 1257
+          },
+          {
+            "hex": "#2b2b2b",
+            "count": 1155
+          },
+          {
+            "hex": "#a8abad",
+            "count": 876
+          },
+          {
+            "hex": "#9cdbb7",
+            "count": 787
+          },
+          {
+            "hex": "#5d5e60",
+            "count": 412
+          },
+          {
+            "hex": "#74eea7",
+            "count": 236
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#bdc2c4",
+            "count": 16378
+          },
+          {
+            "hex": "#d8d8d9",
+            "count": 4499
+          },
+          {
+            "hex": "#b9bec1",
+            "count": 1257
+          },
+          {
+            "hex": "#2b2b2b",
+            "count": 1155
+          },
+          {
+            "hex": "#a8abad",
+            "count": 876
+          },
+          {
+            "hex": "#9cdbb7",
+            "count": 787
+          },
+          {
+            "hex": "#5d5e60",
+            "count": 412
+          },
+          {
+            "hex": "#74eea7",
+            "count": 236
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

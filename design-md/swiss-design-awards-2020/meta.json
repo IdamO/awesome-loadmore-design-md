@@ -1,0 +1,726 @@
+{
+  "slug": "swiss-design-awards-2020",
+  "title": "Swiss Design Awards 2020",
+  "liveUrl": "https://2020.swissdesignawardsblog.ch/everywhere",
+  "domain": "2020.swissdesignawardsblog.ch",
+  "loadmoreUrl": "https://loadmo.re/posts/swiss-design-awards-2020",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/swiss-design-awards-2020",
+  "description": "Beautiful Swiss grid-based layout combined with funny not-that-Swiss menu design: a 3D carousel to explore categories.",
+  "credits": "Dual Room, Tristan Bagot, Swiss Design Awards, Anna Niederhäuser",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "graphic-design",
+    "online-magazine"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/swiss-design-awards-2020/670b25efd6-1606940245/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/swiss-design-awards-2020/9af55bde4c-1606390161/swiss-design-award-2020.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:28:25.678Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Everywhere | Swiss Design Awards Blog",
+        "url": "https://2020.swissdesignawardsblog.ch/everywhere",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "13.824px",
+          "lineHeight": "13.824px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "ESSAYS AND INTERVIEWS",
+          "color": "rgb(255, 60, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ApaxBold, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "23.04px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.04px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "X",
+          "color": "rgb(255, 60, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "97.92px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.9584px",
+          "lineHeight": "88.128px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ApaxBold",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ApaxRegular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ApaxItalic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Here\n\t\t\n\n\n        X\n                \t\n\n\n  \n\n    \n\n\n      \n      \n              \n          \n      \n      \n              \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Here\n\t\t\n\n\n        X",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "X",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "97.92px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.9584px",
+            "lineHeight": "88.128px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "13.824px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13.824px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "ESSAYS AND INTERVIEWS",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxBold, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "23.04px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.04px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 21411
+          },
+          {
+            "hex": "#e0a59a",
+            "count": 1242
+          },
+          {
+            "hex": "#a59e9b",
+            "count": 841
+          },
+          {
+            "hex": "#996c61",
+            "count": 755
+          },
+          {
+            "hex": "#6d5e5b",
+            "count": 420
+          },
+          {
+            "hex": "#191314",
+            "count": 382
+          },
+          {
+            "hex": "#e1926e",
+            "count": 299
+          },
+          {
+            "hex": "#ee6b5c",
+            "count": 250
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 21411
+          },
+          {
+            "hex": "#e0a59a",
+            "count": 1242
+          },
+          {
+            "hex": "#a59e9b",
+            "count": 841
+          },
+          {
+            "hex": "#996c61",
+            "count": 755
+          },
+          {
+            "hex": "#6d5e5b",
+            "count": 420
+          },
+          {
+            "hex": "#191314",
+            "count": 382
+          },
+          {
+            "hex": "#e1926e",
+            "count": 299
+          },
+          {
+            "hex": "#ee6b5c",
+            "count": 250
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Everywhere | Swiss Design Awards Blog",
+        "url": "https://2020.swissdesignawardsblog.ch/everywhere",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "16.848px",
+          "lineHeight": "16.848px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "ESSAYS AND INTERVIEWS",
+          "color": "rgb(255, 60, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ApaxBold, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "14.04px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.04px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "X",
+          "color": "rgb(255, 60, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "62.478px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.24956px",
+          "lineHeight": "56.2302px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ApaxBold",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ApaxRegular",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ApaxItalic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Here\n\t\t\n\n\n        X\n                \t\n\n\n  \n\n    \n\n\n      \n      \n              \n          \n      \n      \n              \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Here\n\t\t\n\n\n        X",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "X",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "62.478px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.24956px",
+            "lineHeight": "56.2302px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxRegular, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "16.848px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "ESSAYS AND INTERVIEWS",
+            "color": "rgb(255, 60, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ApaxBold, \"Helvetica Neue\", Arial, sans-serif",
+            "fontSize": "14.04px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.04px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f6f5f5",
+            "count": 15056
+          },
+          {
+            "hex": "#dfa598",
+            "count": 3803
+          },
+          {
+            "hex": "#9b695f",
+            "count": 2226
+          },
+          {
+            "hex": "#dd9e65",
+            "count": 1668
+          },
+          {
+            "hex": "#aa9c9a",
+            "count": 872
+          },
+          {
+            "hex": "#6f5855",
+            "count": 705
+          },
+          {
+            "hex": "#572e2f",
+            "count": 690
+          },
+          {
+            "hex": "#0f0808",
+            "count": 580
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f6f5f5",
+            "count": 15056
+          },
+          {
+            "hex": "#dfa598",
+            "count": 3803
+          },
+          {
+            "hex": "#9b695f",
+            "count": 2226
+          },
+          {
+            "hex": "#dd9e65",
+            "count": 1668
+          },
+          {
+            "hex": "#aa9c9a",
+            "count": 872
+          },
+          {
+            "hex": "#6f5855",
+            "count": 705
+          },
+          {
+            "hex": "#572e2f",
+            "count": 690
+          },
+          {
+            "hex": "#0f0808",
+            "count": 580
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "slug": "centrer-for-planetary-pedagogies",
+  "title": "Centrer for Planetary Pedagogies",
+  "liveUrl": "https://www.centerforplanetarypedagogies.org/?ref=siteinspire",
+  "domain": "www.centerforplanetarypedagogies.org",
+  "loadmoreUrl": "https://loadmo.re/posts/centrer-for-planetary-pedagogies",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/centrer-for-planetary-pedagogies",
+  "description": "Cute minimal forest dances with the movement of your cursor.",
+  "credits": "Studio OBV",
+  "added": "",
+  "tags": [
+    "net.art"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/centrer-for-planetary-pedagogies/ebec1d6a59-1747759805/centerforplanetarypedagogies-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/centrer-for-planetary-pedagogies/ae062ea59b-1747759858/centrerforplanetarypedagogies-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:05:46.588Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Center for Planetary Pedagogies",
+        "url": "https://www.centerforplanetarypedagogies.org/?ref=siteinspire",
+        "body": {
+          "backgroundColor": "rgb(122, 137, 34)",
+          "color": "rgb(28, 28, 2)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "15.9984px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagramLoudreadingNetworks ",
+          "color": "rgb(28, 28, 2)",
+          "backgroundColor": "rgb(122, 137, 34)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.479952px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Courses",
+          "color": "rgb(246, 243, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "14.4786px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.289571px",
+          "lineHeight": "18.0982px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ABCROM-Light",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ABCROMCondensed-Light",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ABCROM-LightItalic",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ABCROMCondensed-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagramLoudreadingNetworks ",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgb(122, 137, 34)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.479952px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagram",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.479952px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagram",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.479952px",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Courses",
+            "color": "rgb(246, 243, 239)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "14.4786px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.289571px",
+            "lineHeight": "18.0982px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Information",
+            "color": "rgb(246, 243, 239)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "14.4786px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.289571px",
+            "lineHeight": "18.0982px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "LoudreadingNetworks of solidarityFugitivityBlack feminist thoughtCollaborationEmbodimentGenerative justiceBiomaterialsRe",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.479952px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#798822",
+            "count": 15831
+          },
+          {
+            "hex": "#68751f",
+            "count": 8158
+          },
+          {
+            "hex": "#73895b",
+            "count": 738
+          },
+          {
+            "hex": "#6c899d",
+            "count": 449
+          },
+          {
+            "hex": "#6c7154",
+            "count": 184
+          },
+          {
+            "hex": "#899832",
+            "count": 113
+          },
+          {
+            "hex": "#99a454",
+            "count": 64
+          },
+          {
+            "hex": "#688bc7",
+            "count": 63
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#798822",
+            "count": 15831
+          },
+          {
+            "hex": "#68751f",
+            "count": 8158
+          },
+          {
+            "hex": "#73895b",
+            "count": 738
+          },
+          {
+            "hex": "#6c899d",
+            "count": 449
+          },
+          {
+            "hex": "#6c7154",
+            "count": 184
+          },
+          {
+            "hex": "#899832",
+            "count": 113
+          },
+          {
+            "hex": "#99a454",
+            "count": 64
+          },
+          {
+            "hex": "#688bc7",
+            "count": 63
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Center for Planetary Pedagogies",
+        "url": "https://www.centerforplanetarypedagogies.org/?ref=siteinspire",
+        "body": {
+          "backgroundColor": "rgb(122, 137, 34)",
+          "color": "rgb(28, 28, 2)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "17.94px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagramNetworks of solidari",
+          "color": "rgb(28, 28, 2)",
+          "backgroundColor": "rgb(122, 137, 34)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "17.94px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.5382px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Courses",
+          "color": "rgb(28, 28, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ABCROM-Light, serif",
+          "fontSize": "28.704px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.86112px",
+          "lineHeight": "34.4448px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "ABCROM-Light",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ABCROMCondensed-Light",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "ABCROM-LightItalic",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "ABCROMCondensed-Light",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagramNetworks of solidari",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgb(122, 137, 34)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "17.94px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5382px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagram",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "17.94px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5382px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "nav",
+            "text": "MenuCoursesInformationAccessibility Settings [+]Increase Text SizeIncrease ContrastLinkedInInstagram",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgb(246, 243, 239)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "17.94px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5382px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Courses",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "28.704px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.86112px",
+            "lineHeight": "34.4448px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Information",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "28.704px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.86112px",
+            "lineHeight": "34.4448px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "LinkedIn",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.7872px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.473616px",
+            "lineHeight": "18.9446px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "15.7872px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.473616px",
+            "lineHeight": "18.9446px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "Networks of solidarityLoudreadingFugitivityCollaborationGenerative justiceRadical spatial practiceSituated knowledgesEco",
+            "color": "rgb(28, 28, 2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ABCROM-Light, serif",
+            "fontSize": "17.94px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.5382px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#798822",
+            "count": 16605
+          },
+          {
+            "hex": "#66721f",
+            "count": 6008
+          },
+          {
+            "hex": "#f3f0eb",
+            "count": 1227
+          },
+          {
+            "hex": "#658ce0",
+            "count": 522
+          },
+          {
+            "hex": "#73895e",
+            "count": 505
+          },
+          {
+            "hex": "#6c8a9f",
+            "count": 415
+          },
+          {
+            "hex": "#99a167",
+            "count": 174
+          },
+          {
+            "hex": "#aba99e",
+            "count": 144
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#798822",
+            "count": 16605
+          },
+          {
+            "hex": "#66721f",
+            "count": 6008
+          },
+          {
+            "hex": "#f3f0eb",
+            "count": 1227
+          },
+          {
+            "hex": "#658ce0",
+            "count": 522
+          },
+          {
+            "hex": "#73895e",
+            "count": 505
+          },
+          {
+            "hex": "#6c8a9f",
+            "count": 415
+          },
+          {
+            "hex": "#99a167",
+            "count": 174
+          },
+          {
+            "hex": "#aba99e",
+            "count": 144
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

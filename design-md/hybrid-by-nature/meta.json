@@ -1,0 +1,635 @@
+{
+  "slug": "hybrid-by-nature",
+  "title": "Hybrid by Nature",
+  "liveUrl": "https://www.goethe.de/pro/games/oas/hybridbynature/index.html",
+  "domain": "www.goethe.de",
+  "loadmoreUrl": "https://loadmo.re/posts/hybrid-by-nature",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/hybrid-by-nature",
+  "description": "Scroll down to dive further into this psychedelic 3D funnel that acts as a digital leaflet, introducing artists featured in Hybrid by Nature, a media art project.",
+  "credits": "Yehwan Yen Song",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "3d-space"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/hybrid-by-nature/a47ddd94ce-1638285771/267-hybridbynature-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/hybrid-by-nature/74f3cc26d9-1638285780/267-hybridbynature-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:13:46.020Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Goethe-Institut - Seite nicht gefunden",
+        "url": "https://www.goethe.de/pro/games/oas/hybridbynature/index.html",
+        "body": {
+          "backgroundColor": "rgb(248, 248, 246)",
+          "color": "rgb(95, 103, 107)",
+          "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16.0016px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Page not found",
+          "color": "rgb(71, 77, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "21.0021px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Sprache. Kultur. Deutschland.",
+          "color": "rgb(120, 130, 135)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "18.0018px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "ClanWebPro-NarrMedium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "ClanWebPro-NarrMedium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GI-Iconset",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Sprache. Kultur. Deutschland.\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tPage not found\n\t\t\t\t\t\tThe page you have selected could ",
+            "color": "rgb(95, 103, 107)",
+            "backgroundColor": "rgb(248, 248, 246)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.0016px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Sprache. Kultur. Deutschland.",
+            "color": "rgb(95, 103, 107)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.0016px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Sprache. Kultur. Deutschland.",
+            "color": "rgb(120, 130, 135)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18.0018px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Page not found",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "21.0021px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The page you have selected could not be found.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We apologise for any inconvenience.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Seite nicht gefunden",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "21.0021px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Die Seite, die Sie aufgerufen haben, konnte leider nicht gefunden werden.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Wir bitten um Ihr Verständnis.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Service-Navigation:\n\t\t\t\t\t\n\t\t\t\t\t\t© 2025 Goethe-Institut",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(95, 103, 107)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "11.0011px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Service-Navigation:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.5017px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f6",
+            "count": 24928
+          },
+          {
+            "hex": "#636b6d",
+            "count": 406
+          },
+          {
+            "hex": "#a8aaac",
+            "count": 172
+          },
+          {
+            "hex": "#d3e298",
+            "count": 54
+          },
+          {
+            "hex": "#bcbec0",
+            "count": 15
+          },
+          {
+            "hex": "#bec1c2",
+            "count": 13
+          },
+          {
+            "hex": "#c8db7a",
+            "count": 10
+          },
+          {
+            "hex": "#7a8084",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f6",
+            "count": 24928
+          },
+          {
+            "hex": "#636b6d",
+            "count": 406
+          },
+          {
+            "hex": "#a8aaac",
+            "count": 172
+          },
+          {
+            "hex": "#d3e298",
+            "count": 54
+          },
+          {
+            "hex": "#bcbec0",
+            "count": 15
+          },
+          {
+            "hex": "#bec1c2",
+            "count": 13
+          },
+          {
+            "hex": "#c8db7a",
+            "count": 10
+          },
+          {
+            "hex": "#7a8084",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Goethe-Institut - Seite nicht gefunden",
+        "url": "https://www.goethe.de/pro/games/oas/hybridbynature/index.html",
+        "body": {
+          "backgroundColor": "rgb(248, 248, 246)",
+          "color": "rgb(95, 103, 107)",
+          "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16.0016px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Page not found",
+          "color": "rgb(71, 77, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "21.0021px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Sprache. Kultur. Deutschland.",
+          "color": "rgb(120, 130, 135)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "18.0018px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "ClanWebPro-NarrMedium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "ClanWebPro-NarrMedium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GI-Iconset",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Sprache. Kultur. Deutschland.\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tPage not found\n\t\t\t\t\t\tThe page you have selected could ",
+            "color": "rgb(95, 103, 107)",
+            "backgroundColor": "rgb(248, 248, 246)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.0016px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Sprache. Kultur. Deutschland.",
+            "color": "rgb(95, 103, 107)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.0016px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Sprache. Kultur. Deutschland.",
+            "color": "rgb(120, 130, 135)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "18.0018px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Page not found",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "21.0021px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The page you have selected could not be found.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We apologise for any inconvenience.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Seite nicht gefunden",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "21.0021px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Die Seite, die Sie aufgerufen haben, konnte leider nicht gefunden werden.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Wir bitten um Ihr Verständnis.",
+            "color": "rgb(71, 77, 80)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "13.7014px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.8936px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "Service-Navigation:\n\t\t\t\t\t\n\t\t\t\t\t\t© 2025 Goethe-Institut",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(95, 103, 107)",
+            "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "11.0011px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Service-Navigation:",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "ClanWebPro-NarrMedium, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+            "fontSize": "16.5017px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9f9f8",
+            "count": 23827
+          },
+          {
+            "hex": "#5d6568",
+            "count": 715
+          },
+          {
+            "hex": "#a7abac",
+            "count": 704
+          },
+          {
+            "hex": "#d4e499",
+            "count": 197
+          },
+          {
+            "hex": "#c5db75",
+            "count": 74
+          },
+          {
+            "hex": "#b8d454",
+            "count": 51
+          },
+          {
+            "hex": "#bec0c1",
+            "count": 16
+          },
+          {
+            "hex": "#7c8184",
+            "count": 16
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9f9f8",
+            "count": 23827
+          },
+          {
+            "hex": "#5d6568",
+            "count": 715
+          },
+          {
+            "hex": "#a7abac",
+            "count": 704
+          },
+          {
+            "hex": "#d4e499",
+            "count": 197
+          },
+          {
+            "hex": "#c5db75",
+            "count": 74
+          },
+          {
+            "hex": "#b8d454",
+            "count": 51
+          },
+          {
+            "hex": "#bec0c1",
+            "count": 16
+          },
+          {
+            "hex": "#7c8184",
+            "count": 16
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

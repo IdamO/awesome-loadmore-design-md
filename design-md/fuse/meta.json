@@ -1,0 +1,417 @@
+{
+  "slug": "fuse",
+  "title": "Fuse",
+  "liveUrl": "https://fuse.blog",
+  "domain": "fuse.blog",
+  "loadmoreUrl": "https://loadmo.re/posts/fuse",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/fuse",
+  "description": "Cool interface and cool content: FUSE is a listing of links to discover digital entertainment references.",
+  "credits": "Jonah Grindler, Cole Perkins",
+  "added": "",
+  "tags": [
+    "online-magazine",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/fuse/7a09e6552c-1616764651/0120-fuse-cover-hp.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/fuse/7e4548b0de-1616764681/0120-fuse-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:10:58.403Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "fuse.blog",
+        "url": "https://fuse.blog/",
+        "body": {
+          "backgroundColor": "rgb(16, 28, 54)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This domain is registered at Dynadot.com. Website coming soon.",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "12.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "___",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "___\n\n    let scriptPath='';\n    window.onRTBFailure = function () {\n        function handleRTBFailure() {\n            co",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(16, 28, 54)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "___",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "This domain is registered at Dynadot.com. Website coming soon.",
+            "color": "rgb(49, 49, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dynadot.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#10162d",
+            "count": 15058
+          },
+          {
+            "hex": "#212946",
+            "count": 4870
+          },
+          {
+            "hex": "#50576d",
+            "count": 2343
+          },
+          {
+            "hex": "#3a4361",
+            "count": 1407
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 1192
+          },
+          {
+            "hex": "#9a9da4",
+            "count": 555
+          },
+          {
+            "hex": "#737886",
+            "count": 136
+          },
+          {
+            "hex": "#7c818f",
+            "count": 39
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#10162d",
+            "count": 15058
+          },
+          {
+            "hex": "#212946",
+            "count": 4870
+          },
+          {
+            "hex": "#50576d",
+            "count": 2343
+          },
+          {
+            "hex": "#3a4361",
+            "count": 1407
+          },
+          {
+            "hex": "#f6f6f6",
+            "count": 1192
+          },
+          {
+            "hex": "#9a9da4",
+            "count": 555
+          },
+          {
+            "hex": "#737886",
+            "count": 136
+          },
+          {
+            "hex": "#7c818f",
+            "count": 39
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "fuse.blog",
+        "url": "https://fuse.blog/",
+        "body": {
+          "backgroundColor": "rgb(16, 28, 54)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This domain is registered at Dynadot.com. Website coming soon.",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "12.8px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "___",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "___\n\n    let scriptPath='';\n    window.onRTBFailure = function () {\n        function handleRTBFailure() {\n            co",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(16, 28, 54)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "___",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "This domain is registered at Dynadot.com. Website coming soon.",
+            "color": "rgb(49, 49, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dynadot.com",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12.8px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#162449",
+            "count": 10907
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 7587
+          },
+          {
+            "hex": "#0f152c",
+            "count": 4212
+          },
+          {
+            "hex": "#9a9fab",
+            "count": 1158
+          },
+          {
+            "hex": "#4d5770",
+            "count": 924
+          },
+          {
+            "hex": "#6a7389",
+            "count": 447
+          },
+          {
+            "hex": "#394563",
+            "count": 192
+          },
+          {
+            "hex": "#b6bac4",
+            "count": 173
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#162449",
+            "count": 10907
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 7587
+          },
+          {
+            "hex": "#0f152c",
+            "count": 4212
+          },
+          {
+            "hex": "#9a9fab",
+            "count": 1158
+          },
+          {
+            "hex": "#4d5770",
+            "count": 924
+          },
+          {
+            "hex": "#6a7389",
+            "count": 447
+          },
+          {
+            "hex": "#394563",
+            "count": 192
+          },
+          {
+            "hex": "#b6bac4",
+            "count": 173
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

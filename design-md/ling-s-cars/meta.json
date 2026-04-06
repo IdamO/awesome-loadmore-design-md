@@ -1,0 +1,508 @@
+{
+  "slug": "ling-s-cars",
+  "title": "Ling's Cars",
+  "liveUrl": "https://m.lingscars.com/",
+  "domain": "m.lingscars.com",
+  "loadmoreUrl": "https://loadmo.re/posts/ling-s-cars",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/ling-s-cars",
+  "description": "Thanks!",
+  "credits": "Valentine Ling",
+  "added": "",
+  "tags": [
+    "e-commerce",
+    "retro",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/ling-s-cars/35d9c84cb8-1606939036/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/ling-s-cars/f6f028e518-1604597745/lingscar.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:17:19.685Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "HTTP 404 Not Found",
+        "url": "https://m-museum.lingscars.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "The page cannot be found, WAH!",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "17.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Please try the following:",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "10.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.6667px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "www.google.com",
+          "color": "rgb(255, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "10.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.6667px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "The page cannot be found, WAH!\n    \n  \n  \n    WTF has happened? What did you press? This broken link should obviously be",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "The page cannot be found, WAH!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "17.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please try the following:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "www.google.com",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "www.LINGsCARS.com",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "HTTP 404 - File not found\n    Internet Exploder",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 24979
+          },
+          {
+            "hex": "#b0b0b0",
+            "count": 570
+          },
+          {
+            "hex": "#e4a59e",
+            "count": 25
+          },
+          {
+            "hex": "#df7373",
+            "count": 7
+          },
+          {
+            "hex": "#eeccb0",
+            "count": 7
+          },
+          {
+            "hex": "#6b5f57",
+            "count": 5
+          },
+          {
+            "hex": "#926d59",
+            "count": 4
+          },
+          {
+            "hex": "#dc906a",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 24979
+          },
+          {
+            "hex": "#b0b0b0",
+            "count": 570
+          },
+          {
+            "hex": "#e4a59e",
+            "count": 25
+          },
+          {
+            "hex": "#df7373",
+            "count": 7
+          },
+          {
+            "hex": "#eeccb0",
+            "count": 7
+          },
+          {
+            "hex": "#6b5f57",
+            "count": 5
+          },
+          {
+            "hex": "#926d59",
+            "count": 4
+          },
+          {
+            "hex": "#dc906a",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "HTTP 404 Not Found",
+        "url": "https://m-museum.lingscars.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "The page cannot be found, WAH!",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "17.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Please try the following:",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "10.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.6667px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "www.google.com",
+          "color": "rgb(255, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "verdana",
+          "fontSize": "10.6667px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.6667px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "The page cannot be found, WAH!\n    \n  \n  \n    WTF has happened? What did you press? This broken link should obviously be",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "The page cannot be found, WAH!",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "17.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Please try the following:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "www.google.com",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "www.LINGsCARS.com",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "HTTP 404 - File not found\n    Internet Exploder",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "verdana",
+            "fontSize": "10.6667px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.6667px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfb",
+            "count": 25463
+          },
+          {
+            "hex": "#b3b3b3",
+            "count": 80
+          },
+          {
+            "hex": "#e9b1ad",
+            "count": 45
+          },
+          {
+            "hex": "#e7c8b1",
+            "count": 3
+          },
+          {
+            "hex": "#a17359",
+            "count": 3
+          },
+          {
+            "hex": "#e9a172",
+            "count": 2
+          },
+          {
+            "hex": "#312d29",
+            "count": 2
+          },
+          {
+            "hex": "#b48265",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfb",
+            "count": 25463
+          },
+          {
+            "hex": "#b3b3b3",
+            "count": 80
+          },
+          {
+            "hex": "#e9b1ad",
+            "count": 45
+          },
+          {
+            "hex": "#e7c8b1",
+            "count": 3
+          },
+          {
+            "hex": "#a17359",
+            "count": 3
+          },
+          {
+            "hex": "#e9a172",
+            "count": 2
+          },
+          {
+            "hex": "#312d29",
+            "count": 2
+          },
+          {
+            "hex": "#b48265",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

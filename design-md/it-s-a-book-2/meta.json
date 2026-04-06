@@ -1,0 +1,824 @@
+{
+  "slug": "it-s-a-book-2",
+  "title": "It's a Book",
+  "liveUrl": "https://www.itsabook.de/books",
+  "domain": "www.itsabook.de",
+  "loadmoreUrl": "https://loadmo.re/posts/it-s-a-book-2",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/it-s-a-book-2",
+  "description": "An abstract interpretation of a bookshelf as an interactive grid.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "colorful",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/it-s-a-book-2/f91ed3fa9c-1671615867/it-s-a-book-cover-hp-v03.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/it-s-a-book-2/1b733547d0-1671615883/it-s-a-book-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:15:15.387Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Marketplace – It’s a book 2026",
+        "url": "https://itsabook.de/books",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Neue Haas\", arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Welcome to the annual get-together of publishers and independent publishing projects on this website and at the Academy ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo, monospace",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "31.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neue Haas\", arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Info",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Menlo, monospace",
+          "fontSize": "22.4px",
+          "fontWeight": "400",
+          "borderRadius": "100px",
+          "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Neue Haas",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Copperplate",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Menlo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Synchro",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "IT'S AIndependent Publishing Fair BOOK, MONEY  LOW,21.03.2026 FUNNY HGB Leipzig⠀THOUGHWelcome to the annual get-together",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Welcome to the annual get-together of publishers and independent publishing projects on this website and at the Academy ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "An event of the open book society e.V. in cooperation with the HGB Leipzig. Co-financed by the tax funds on the basis of",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Publishers",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Story",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Imprint",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Archive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "It's a book ×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "35.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "38.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Marketplace",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "35.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "38.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "35.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "38.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "35.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "38.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Filter by Tags +",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "35.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "38.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f7f8f8",
+            "count": 18675
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 1941
+          },
+          {
+            "hex": "#95b6fa",
+            "count": 1129
+          },
+          {
+            "hex": "#141412",
+            "count": 1121
+          },
+          {
+            "hex": "#07916b",
+            "count": 933
+          },
+          {
+            "hex": "#356df4",
+            "count": 759
+          },
+          {
+            "hex": "#73b3a7",
+            "count": 565
+          },
+          {
+            "hex": "#606362",
+            "count": 477
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f7f8f8",
+            "count": 18675
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 1941
+          },
+          {
+            "hex": "#95b6fa",
+            "count": 1129
+          },
+          {
+            "hex": "#141412",
+            "count": 1121
+          },
+          {
+            "hex": "#07916b",
+            "count": 933
+          },
+          {
+            "hex": "#356df4",
+            "count": 759
+          },
+          {
+            "hex": "#73b3a7",
+            "count": 565
+          },
+          {
+            "hex": "#606362",
+            "count": 477
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Marketplace – It’s a book 2026",
+        "url": "https://itsabook.de/books",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Neue Haas\", arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Welcome to the annual get-together of publishers and independent publishing projects on this website and at the Academy ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo, monospace",
+          "fontSize": "17.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.88px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neue Haas\", arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Info",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Menlo, monospace",
+          "fontSize": "22.4px",
+          "fontWeight": "400",
+          "borderRadius": "100px",
+          "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Neue Haas",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Haas",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Copperplate",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Menlo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Synchro",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Synchro Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "IT'S AIndependent Publishing Fair BOOK, MONEY  LOW,21.03.2026 FUNNY HGB Leipzig⠀THOUGHWelcome to the annual get-together",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Welcome to the annual get-together of publishers and independent publishing projects on this website and at the Academy ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "17.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "An event of the open book society e.V. in cooperation with the HGB Leipzig. Co-financed by the tax funds on the basis of",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "17.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Publishers",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Story",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Imprint",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Archive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Menlo, monospace",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "rgba(125, 125, 125, 0.1) 5px 5px 20px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "It's a book ×",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "25.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "30.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Filter by Tags +",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "25.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4px",
+            "lineHeight": "30.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neue Haas\", arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfb",
+            "count": 18887
+          },
+          {
+            "hex": "#95b6fa",
+            "count": 2112
+          },
+          {
+            "hex": "#161615",
+            "count": 1815
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 997
+          },
+          {
+            "hex": "#f945ee",
+            "count": 756
+          },
+          {
+            "hex": "#5f6060",
+            "count": 715
+          },
+          {
+            "hex": "#aac5fa",
+            "count": 211
+          },
+          {
+            "hex": "#ed3ce0",
+            "count": 107
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfb",
+            "count": 18887
+          },
+          {
+            "hex": "#95b6fa",
+            "count": 2112
+          },
+          {
+            "hex": "#161615",
+            "count": 1815
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 997
+          },
+          {
+            "hex": "#f945ee",
+            "count": 756
+          },
+          {
+            "hex": "#5f6060",
+            "count": 715
+          },
+          {
+            "hex": "#aac5fa",
+            "count": 211
+          },
+          {
+            "hex": "#ed3ce0",
+            "count": 107
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

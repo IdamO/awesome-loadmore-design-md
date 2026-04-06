@@ -1,0 +1,583 @@
+{
+  "slug": "tight",
+  "title": "Tight",
+  "liveUrl": "http://tig.ht",
+  "domain": "tig.ht",
+  "loadmoreUrl": "https://loadmo.re/posts/tight",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/tight",
+  "description": "Immerse yourself in a OS system that becomes a tidy way of displaying a portfolio of work.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "playful",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/tight/7be9d3faca-1606937470/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/tight/830d3ad3fa-1598788653/028-tight.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:29:55.770Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "tig.ht",
+        "url": "http://tig.ht/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "if (screen.width <= 1024) {\n    window.location = \"http://tig.ht/mobile\";\n  }\n\n  \n\n\n\n\n\n\n\n\n  \n    \n      \n      \n        ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "if (screen.width <= 1024) {\n    window.location = \"http://tig.ht/mobile\";\n  }\n\n  \n\n\n\n\n\n\n\n\n  \n    \n      \n      \n        ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "img",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#99e0da",
+            "count": 13335
+          },
+          {
+            "hex": "#9bf4ae",
+            "count": 9761
+          },
+          {
+            "hex": "#fafafa",
+            "count": 2149
+          },
+          {
+            "hex": "#72ad98",
+            "count": 200
+          },
+          {
+            "hex": "#5a8b75",
+            "count": 72
+          },
+          {
+            "hex": "#a1b2ab",
+            "count": 68
+          },
+          {
+            "hex": "#7cc19a",
+            "count": 9
+          },
+          {
+            "hex": "#6ccbf7",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#99e0da",
+            "count": 13335
+          },
+          {
+            "hex": "#9bf4ae",
+            "count": 9761
+          },
+          {
+            "hex": "#fafafa",
+            "count": 2149
+          },
+          {
+            "hex": "#72ad98",
+            "count": 200
+          },
+          {
+            "hex": "#5a8b75",
+            "count": 72
+          },
+          {
+            "hex": "#a1b2ab",
+            "count": 68
+          },
+          {
+            "hex": "#7cc19a",
+            "count": 9
+          },
+          {
+            "hex": "#6ccbf7",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "TIG.HT",
+        "url": "http://tig.ht/mobile/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "this website is only viewable in portrait mode\n\n\n\n\n\t\n    \n    \n\n\n\n\n\n    \n    Mail\n\n\n\n    \t\n    About Us\n\n\n\n    \n    \t\n  ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "200",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "this website is only viewable in portrait mode\n\n\n\n\n\t\n    \n    \n\n\n\n\n\n    \n    Mail\n\n\n\n    \t\n    About Us\n\n\n\n    \n    \t\n  ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, Helvetica, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "200",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#a0e3da",
+            "count": 14456
+          },
+          {
+            "hex": "#9df3ae",
+            "count": 6239
+          },
+          {
+            "hex": "#f1f6f4",
+            "count": 2422
+          },
+          {
+            "hex": "#a0a5a2",
+            "count": 768
+          },
+          {
+            "hex": "#292a29",
+            "count": 533
+          },
+          {
+            "hex": "#71a399",
+            "count": 477
+          },
+          {
+            "hex": "#5c605f",
+            "count": 421
+          },
+          {
+            "hex": "#125189",
+            "count": 284
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#a0e3da",
+            "count": 14456
+          },
+          {
+            "hex": "#9df3ae",
+            "count": 6239
+          },
+          {
+            "hex": "#f1f6f4",
+            "count": 2422
+          },
+          {
+            "hex": "#a0a5a2",
+            "count": 768
+          },
+          {
+            "hex": "#292a29",
+            "count": 533
+          },
+          {
+            "hex": "#71a399",
+            "count": 477
+          },
+          {
+            "hex": "#5c605f",
+            "count": 421
+          },
+          {
+            "hex": "#125189",
+            "count": 284
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

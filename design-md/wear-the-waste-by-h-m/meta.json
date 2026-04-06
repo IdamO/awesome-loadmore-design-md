@@ -1,0 +1,195 @@
+{
+  "slug": "wear-the-waste-by-h-m",
+  "title": "Wear The Waste by H&M",
+  "liveUrl": "https://wearthewaste.com/",
+  "domain": "wearthewaste.com",
+  "loadmoreUrl": "https://loadmo.re/posts/wear-the-waste-by-h-m",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/wear-the-waste-by-h-m",
+  "description": "This H&M campaign offers a delicate browsing among the clouds. Smooth camera movements and sleak animations.",
+  "credits": "Julian Garnier",
+  "added": "",
+  "tags": [
+    "fashion"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/wear-the-waste-by-h-m/207425b741-1638285305/201-wearthewastebyh-m-home-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/wear-the-waste-by-h-m/eb11c332d7-1638285319/201-wearthewastebyh-m-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:32:14.852Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://wearthewaste.com/\nCall log:\n\u001b[2m  - navigating to \"https://wearthewaste.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#f1f4f9",
+            "count": 15640
+          },
+          {
+            "hex": "#5374a4",
+            "count": 3997
+          },
+          {
+            "hex": "#53622f",
+            "count": 3213
+          },
+          {
+            "hex": "#6587b4",
+            "count": 1330
+          },
+          {
+            "hex": "#b5c9df",
+            "count": 544
+          },
+          {
+            "hex": "#99b1ce",
+            "count": 536
+          },
+          {
+            "hex": "#75854f",
+            "count": 181
+          },
+          {
+            "hex": "#6a7947",
+            "count": 159
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f4f9",
+            "count": 15640
+          },
+          {
+            "hex": "#5374a4",
+            "count": 3997
+          },
+          {
+            "hex": "#53622f",
+            "count": 3213
+          },
+          {
+            "hex": "#6587b4",
+            "count": 1330
+          },
+          {
+            "hex": "#b5c9df",
+            "count": 544
+          },
+          {
+            "hex": "#99b1ce",
+            "count": 536
+          },
+          {
+            "hex": "#75854f",
+            "count": 181
+          },
+          {
+            "hex": "#6a7947",
+            "count": 159
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/wear-the-waste-by-h-m/207425b741-1638285305/201-wearthewastebyh-m-home-cover-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://wearthewaste.com/\nCall log:\n\u001b[2m  - navigating to \"https://wearthewaste.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#f1f4f9",
+            "count": 15640
+          },
+          {
+            "hex": "#5374a4",
+            "count": 3997
+          },
+          {
+            "hex": "#53622f",
+            "count": 3213
+          },
+          {
+            "hex": "#6587b4",
+            "count": 1330
+          },
+          {
+            "hex": "#b5c9df",
+            "count": 544
+          },
+          {
+            "hex": "#99b1ce",
+            "count": 536
+          },
+          {
+            "hex": "#75854f",
+            "count": 181
+          },
+          {
+            "hex": "#6a7947",
+            "count": 159
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f4f9",
+            "count": 15640
+          },
+          {
+            "hex": "#5374a4",
+            "count": 3997
+          },
+          {
+            "hex": "#53622f",
+            "count": 3213
+          },
+          {
+            "hex": "#6587b4",
+            "count": 1330
+          },
+          {
+            "hex": "#b5c9df",
+            "count": 544
+          },
+          {
+            "hex": "#99b1ce",
+            "count": 536
+          },
+          {
+            "hex": "#75854f",
+            "count": 181
+          },
+          {
+            "hex": "#6a7947",
+            "count": 159
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/wear-the-waste-by-h-m/207425b741-1638285305/201-wearthewastebyh-m-home-cover-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:46.739Z"
+  }
+}

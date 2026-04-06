@@ -1,0 +1,656 @@
+{
+  "slug": "headline-vision",
+  "title": "Headline Vision",
+  "liveUrl": "https://headline.vision/2021_12_01_B",
+  "domain": "headline.vision",
+  "loadmoreUrl": "https://loadmo.re/posts/headline-vision",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/headline-vision",
+  "description": "Latest news headlines as seen through a generative image AI, with nice glitched transitions.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "glitches",
+    "photography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/headline-vision/6c9e2d2618-1654263465/0312_headlinevision-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/headline-vision/552b8af3ee-1654263470/0312_headlinevision-home-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:13:15.536Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Headline Vision - Looking Again at Amy Winehouse, 10 Years After Her Death",
+        "url": "https://headline.vision/2021_12_01_B",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Looking Again at Amy Winehouse, 10 Years After Her Death",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "46.8288px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.63901px",
+          "lineHeight": "46.8288px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Wednesday, December 01, 2021 headline.vision              Wednesday, December 01, 2021 Looking Again at Amy Winehouse, 1",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.32px",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "[View source]",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "headline.vision",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "25px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.625px",
+          "lineHeight": "25px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Dia Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Wednesday, December 01, 2021 headline.vision              Wednesday, December 01, 2021 Looking Again at Amy Winehouse, 1",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "headline.vision",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.625px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "headline.vision",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.625px",
+            "lineHeight": "25px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "24px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Wednesday, December 01, 2021",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.625px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Looking Again at Amy Winehouse, 10 Years After Her Death",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "46.8288px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.63901px",
+            "lineHeight": "46.8288px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "[View source]",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#606461",
+            "count": 10813
+          },
+          {
+            "hex": "#1b1b1d",
+            "count": 5813
+          },
+          {
+            "hex": "#9c9e95",
+            "count": 3642
+          },
+          {
+            "hex": "#9b8f6c",
+            "count": 2303
+          },
+          {
+            "hex": "#937259",
+            "count": 880
+          },
+          {
+            "hex": "#5b5433",
+            "count": 770
+          },
+          {
+            "hex": "#78858d",
+            "count": 712
+          },
+          {
+            "hex": "#36495a",
+            "count": 667
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#606461",
+            "count": 10813
+          },
+          {
+            "hex": "#1b1b1d",
+            "count": 5813
+          },
+          {
+            "hex": "#9c9e95",
+            "count": 3642
+          },
+          {
+            "hex": "#9b8f6c",
+            "count": 2303
+          },
+          {
+            "hex": "#937259",
+            "count": 880
+          },
+          {
+            "hex": "#5b5433",
+            "count": 770
+          },
+          {
+            "hex": "#78858d",
+            "count": 712
+          },
+          {
+            "hex": "#36495a",
+            "count": 667
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Headline Vision - Looking Again at Amy Winehouse, 10 Years After Her Death",
+        "url": "https://headline.vision/2021_12_01_B",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.4px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Looking Again at Amy Winehouse, 10 Years After Her Death",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-1.05px",
+          "lineHeight": "30px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Wednesday, December 01, 2021 headline.vision          [Previous]   [Next] Wednesday, December 01, 2021 Looking Again at ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.32px",
+          "lineHeight": "14.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "[View source]",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Wednesday, December 01, 2021",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Dia Regular\", sans-serif",
+          "fontSize": "17.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.4375px",
+          "lineHeight": "17.5px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Dia Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Wednesday, December 01, 2021 headline.vision          [Previous]   [Next] Wednesday, December 01, 2021 Looking Again at ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Wednesday, December 01, 2021",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "17.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4375px",
+            "lineHeight": "17.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Wednesday, December 01, 2021",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "17.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4375px",
+            "lineHeight": "17.5px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "14.4px",
+            "display": "grid",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "[Previous]",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "17.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4375px",
+            "lineHeight": "17.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "[Next]",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "17.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.4375px",
+            "lineHeight": "17.5px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h1",
+            "text": "Looking Again at Amy Winehouse, 10 Years After Her Death",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-1.05px",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "[View source]",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Dia Regular\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14.4px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#5e635f",
+            "count": 10942
+          },
+          {
+            "hex": "#a0a194",
+            "count": 4492
+          },
+          {
+            "hex": "#1f201f",
+            "count": 3821
+          },
+          {
+            "hex": "#9d916c",
+            "count": 2974
+          },
+          {
+            "hex": "#e1ded6",
+            "count": 1128
+          },
+          {
+            "hex": "#585734",
+            "count": 831
+          },
+          {
+            "hex": "#d5caad",
+            "count": 706
+          },
+          {
+            "hex": "#8f7356",
+            "count": 706
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#5e635f",
+            "count": 10942
+          },
+          {
+            "hex": "#a0a194",
+            "count": 4492
+          },
+          {
+            "hex": "#1f201f",
+            "count": 3821
+          },
+          {
+            "hex": "#9d916c",
+            "count": 2974
+          },
+          {
+            "hex": "#e1ded6",
+            "count": 1128
+          },
+          {
+            "hex": "#585734",
+            "count": 831
+          },
+          {
+            "hex": "#d5caad",
+            "count": 706
+          },
+          {
+            "hex": "#8f7356",
+            "count": 706
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

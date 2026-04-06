@@ -1,0 +1,1953 @@
+{
+  "generatedAt": "2026-04-06T20:34:32.050Z",
+  "total": 389,
+  "success": 336,
+  "failed": 53,
+  "items": [
+    {
+      "slug": "public-image",
+      "title": "©Public Image",
+      "status": "ok"
+    },
+    {
+      "slug": "100gecs",
+      "title": "100 Gecs",
+      "status": "ok"
+    },
+    {
+      "slug": "100k-studio",
+      "title": "100k Studio",
+      "status": "ok"
+    },
+    {
+      "slug": "sixty-nine",
+      "title": "69",
+      "status": "ok"
+    },
+    {
+      "slug": "2727",
+      "title": "2727",
+      "status": "ok"
+    },
+    {
+      "slug": "liber-liber",
+      "title": "A Scroll of One's Own",
+      "status": "failed"
+    },
+    {
+      "slug": "a-black-sun",
+      "title": "A Black Sun",
+      "status": "ok"
+    },
+    {
+      "slug": "a-cold-wall-autumn-winter-2021",
+      "title": "A-COLD-WALL AUTUMN WINTER 2021",
+      "status": "failed"
+    },
+    {
+      "slug": "a-proposal-for-immersive-video-on-the-web",
+      "title": "A proposal for immersive video on the web",
+      "status": "ok"
+    },
+    {
+      "slug": "a-year-of-conscious-practice",
+      "title": "A year of Conscious Practice",
+      "status": "ok"
+    },
+    {
+      "slug": "abc-dinamo",
+      "title": "ABC Dinamo",
+      "status": "ok"
+    },
+    {
+      "slug": "acil-et-pierre",
+      "title": "Acil & Pierre",
+      "status": "ok"
+    },
+    {
+      "slug": "alex-heeyeon-kill",
+      "title": "Alex Heeyeon Kill",
+      "status": "failed"
+    },
+    {
+      "slug": "abra",
+      "title": "ABRA",
+      "status": "ok"
+    },
+    {
+      "slug": "add-seoul",
+      "title": "Add seoul",
+      "status": "ok"
+    },
+    {
+      "slug": "alicia-mersy",
+      "title": "Alicia Mersy",
+      "status": "ok"
+    },
+    {
+      "slug": "alt-text-as-poetry",
+      "title": "Alt Text as Poetry",
+      "status": "ok"
+    },
+    {
+      "slug": "amanda-yeah-piano-scrollbar-piano",
+      "title": "Amanda Yeh Piano Scrollbar Piano",
+      "status": "ok"
+    },
+    {
+      "slug": "1982",
+      "title": "1982",
+      "status": "failed"
+    },
+    {
+      "slug": "and-festival",
+      "title": "And Festival",
+      "status": "ok"
+    },
+    {
+      "slug": "and-shy-magazine",
+      "title": "And Shy Magazine",
+      "status": "ok"
+    },
+    {
+      "slug": "andrea-perato",
+      "title": "Andrea Perato",
+      "status": "ok"
+    },
+    {
+      "slug": "american-haiku",
+      "title": "American Haiku",
+      "status": "ok"
+    },
+    {
+      "slug": "pixlpa",
+      "title": "Andrew Benson",
+      "status": "ok"
+    },
+    {
+      "slug": "angus-chiang-online",
+      "title": "Angus Chiang Online",
+      "status": "ok"
+    },
+    {
+      "slug": "animals-as-objects",
+      "title": "Animals As Objects",
+      "status": "ok"
+    },
+    {
+      "slug": "anna-ley",
+      "title": "Anna Ley",
+      "status": "ok"
+    },
+    {
+      "slug": "arroyo",
+      "title": "Arroyo",
+      "status": "failed"
+    },
+    {
+      "slug": "art-house-by-the-webster",
+      "title": "Art House by The Webster",
+      "status": "failed"
+    },
+    {
+      "slug": "another-kind-image-archive",
+      "title": "Another Kind Image Archive",
+      "status": "ok"
+    },
+    {
+      "slug": "apple-airpods-pro",
+      "title": "Apple Airpods Pro",
+      "status": "ok"
+    },
+    {
+      "slug": "arka",
+      "title": "Arka",
+      "status": "ok"
+    },
+    {
+      "slug": "art-code8",
+      "title": "Art&Code8",
+      "status": "ok"
+    },
+    {
+      "slug": "arthur-teboul",
+      "title": "Arthur Teboul",
+      "status": "ok"
+    },
+    {
+      "slug": "ash-work",
+      "title": "Ash Work",
+      "status": "ok"
+    },
+    {
+      "slug": "audiodrag",
+      "title": "Audiodrag",
+      "status": "ok"
+    },
+    {
+      "slug": "atomo-management",
+      "title": "Atomo Management",
+      "status": "ok"
+    },
+    {
+      "slug": "axis-mundi",
+      "title": "Axis Mundi",
+      "status": "ok"
+    },
+    {
+      "slug": "be-gen-21",
+      "title": "Be Gen 21",
+      "status": "failed"
+    },
+    {
+      "slug": "awge",
+      "title": "AWGE",
+      "status": "ok"
+    },
+    {
+      "slug": "badbadbadbad",
+      "title": "Badbadbadbad",
+      "status": "ok"
+    },
+    {
+      "slug": "balenciaga-lookbook-videogame",
+      "title": "Balenciaga Lookbook Videogame",
+      "status": "ok"
+    },
+    {
+      "slug": "bleached",
+      "title": "Bleached",
+      "status": "failed"
+    },
+    {
+      "slug": "below-the-surface",
+      "title": "Below the Surface",
+      "status": "ok"
+    },
+    {
+      "slug": "blend",
+      "title": "Blend",
+      "status": "ok"
+    },
+    {
+      "slug": "bids-for-survival",
+      "title": "Bids for Survival",
+      "status": "ok"
+    },
+    {
+      "slug": "blink",
+      "title": "Blink",
+      "status": "ok"
+    },
+    {
+      "slug": "bon-iver-viisualiizer",
+      "title": "Bon Iver Viisualiizer",
+      "status": "failed"
+    },
+    {
+      "slug": "blob-opera",
+      "title": "Blob Opera",
+      "status": "ok"
+    },
+    {
+      "slug": "bloomberg-2020-best-books",
+      "title": "Bloomberg 2020 Best Books",
+      "status": "ok"
+    },
+    {
+      "slug": "bong",
+      "title": "Bong",
+      "status": "ok"
+    },
+    {
+      "slug": "boring-conversation",
+      "title": "Boring Conversation",
+      "status": "ok"
+    },
+    {
+      "slug": "bouquet",
+      "title": "Bouquet",
+      "status": "ok"
+    },
+    {
+      "slug": "be-rude",
+      "title": "Be Rude",
+      "status": "failed"
+    },
+    {
+      "slug": "breathe-resting-computer",
+      "title": "Breathe Resting Computer",
+      "status": "ok"
+    },
+    {
+      "slug": "business-fonts",
+      "title": "Business Fonts",
+      "status": "failed"
+    },
+    {
+      "slug": "bridging-the-zoomer-boomer-divide",
+      "title": "Bridging the Zoomer-Boomer divide",
+      "status": "ok"
+    },
+    {
+      "slug": "bureau-cool",
+      "title": "Bureau Cool",
+      "status": "ok"
+    },
+    {
+      "slug": "bus-group",
+      "title": "Bus Group",
+      "status": "ok"
+    },
+    {
+      "slug": "busy-simulator",
+      "title": "Busy Simulator",
+      "status": "ok"
+    },
+    {
+      "slug": "cameron-s-world",
+      "title": "Cameron's World",
+      "status": "ok"
+    },
+    {
+      "slug": "canoa-lab",
+      "title": "Canoa Lab",
+      "status": "ok"
+    },
+    {
+      "slug": "cci-graduate-showcase",
+      "title": "CCI Graduate Showcase",
+      "status": "failed"
+    },
+    {
+      "slug": "carolee-schneemann-foundation",
+      "title": "Carolee Schneemann Foundation",
+      "status": "ok"
+    },
+    {
+      "slug": "cash-by-cash-app",
+      "title": "Cash by Cash App",
+      "status": "ok"
+    },
+    {
+      "slug": "ccamera",
+      "title": "ccamera",
+      "status": "ok"
+    },
+    {
+      "slug": "centrer-for-planetary-pedagogies",
+      "title": "Centrer for Planetary Pedagogies",
+      "status": "ok"
+    },
+    {
+      "slug": "chapps-online",
+      "title": "Chapps Online",
+      "status": "ok"
+    },
+    {
+      "slug": "cheap-urls-loan",
+      "title": "Cheap URLs Loan",
+      "status": "ok"
+    },
+    {
+      "slug": "chiara-rigato",
+      "title": "Chiara Rigato",
+      "status": "ok"
+    },
+    {
+      "slug": "christie-wu",
+      "title": "Christie Wu",
+      "status": "ok"
+    },
+    {
+      "slug": "circuits-of-truth",
+      "title": "Circuits of Truth",
+      "status": "ok"
+    },
+    {
+      "slug": "christopher-melgram",
+      "title": "Christopher Melgram",
+      "status": "ok"
+    },
+    {
+      "slug": "claudia-rafael",
+      "title": "Claudia Rafael",
+      "status": "ok"
+    },
+    {
+      "slug": "cloakroom-botter",
+      "title": "Cloakroom Botter",
+      "status": "ok"
+    },
+    {
+      "slug": "cloudwatching",
+      "title": "Cloudwatching",
+      "status": "ok"
+    },
+    {
+      "slug": "collection-of-holiday-experiences",
+      "title": "Collection of Holiday Experiences",
+      "status": "ok"
+    },
+    {
+      "slug": "color-push-wetransfer-x-liebermann",
+      "title": "Color Push : Wetransfer x Liebermann",
+      "status": "ok"
+    },
+    {
+      "slug": "colour-mapper",
+      "title": "Colour Mapper",
+      "status": "ok"
+    },
+    {
+      "slug": "communal-radio-club",
+      "title": "Communal Radio Club",
+      "status": "ok"
+    },
+    {
+      "slug": "contents",
+      "title": "Contents",
+      "status": "failed"
+    },
+    {
+      "slug": "control-the-virus-03",
+      "title": "Control The Virus 03",
+      "status": "failed"
+    },
+    {
+      "slug": "come-shave",
+      "title": "Come Shave",
+      "status": "ok"
+    },
+    {
+      "slug": "commune",
+      "title": "Commune",
+      "status": "ok"
+    },
+    {
+      "slug": "consecutives",
+      "title": "Consecutives",
+      "status": "ok"
+    },
+    {
+      "slug": "cupidku",
+      "title": "Cupidku",
+      "status": "failed"
+    },
+    {
+      "slug": "coralie-wipf",
+      "title": "Coralie Wipf",
+      "status": "ok"
+    },
+    {
+      "slug": "cormio",
+      "title": "Cormio",
+      "status": "ok"
+    },
+    {
+      "slug": "country-music",
+      "title": "Country Music",
+      "status": "ok"
+    },
+    {
+      "slug": "daisy-chain-studio",
+      "title": "Daisy Chain Studio",
+      "status": "ok"
+    },
+    {
+      "slug": "daniel-givens",
+      "title": "Daniel Givens",
+      "status": "ok"
+    },
+    {
+      "slug": "dance-party",
+      "title": "Dance Party",
+      "status": "ok"
+    },
+    {
+      "slug": "design-your-own-hole",
+      "title": "Design your own hole",
+      "status": "ok"
+    },
+    {
+      "slug": "developments",
+      "title": "Developments",
+      "status": "ok"
+    },
+    {
+      "slug": "desktop-fm",
+      "title": "Desktop FM",
+      "status": "ok"
+    },
+    {
+      "slug": "dictionary-of-online-behavior",
+      "title": "Dictionary of Online Behavior",
+      "status": "ok"
+    },
+    {
+      "slug": "dice",
+      "title": "Dice",
+      "status": "ok"
+    },
+    {
+      "slug": "diffusion-cam",
+      "title": "Diffusion Cam",
+      "status": "ok"
+    },
+    {
+      "slug": "drawing-garden",
+      "title": "Drawing Garden",
+      "status": "ok"
+    },
+    {
+      "slug": "dinamo-typefaces",
+      "title": "Dinamo Typefaces",
+      "status": "ok"
+    },
+    {
+      "slug": "dsr-ny",
+      "title": "DSR NY",
+      "status": "ok"
+    },
+    {
+      "slug": "duuu",
+      "title": "Duuu",
+      "status": "ok"
+    },
+    {
+      "slug": "edgar-schmitz",
+      "title": "Edgar Schmitz",
+      "status": "ok"
+    },
+    {
+      "slug": "elastic-grid",
+      "title": "Elastic Grid",
+      "status": "ok"
+    },
+    {
+      "slug": "elle-s-homepage",
+      "title": "Elle's Homepage",
+      "status": "ok"
+    },
+    {
+      "slug": "emoji-to-scale",
+      "title": "Emoji To Scale",
+      "status": "ok"
+    },
+    {
+      "slug": "http-endless-horse",
+      "title": "Endless Horse",
+      "status": "ok"
+    },
+    {
+      "slug": "entire-studios",
+      "title": "Entire Studios",
+      "status": "ok"
+    },
+    {
+      "slug": "ertdfgcvb",
+      "title": "ertdfgcvb",
+      "status": "ok"
+    },
+    {
+      "slug": "estudio-piedras-marries",
+      "title": "Estudio Piedras",
+      "status": "ok"
+    },
+    {
+      "slug": "ezekiel-aquino",
+      "title": "Ezekiel Aquino",
+      "status": "ok"
+    },
+    {
+      "slug": "everything-can-be-scanned",
+      "title": "Everything Can Be Scanned",
+      "status": "ok"
+    },
+    {
+      "slug": "f451-faith",
+      "title": "f451.faith",
+      "status": "ok"
+    },
+    {
+      "slug": "fast-cash-money",
+      "title": "Fast Cash Money",
+      "status": "ok"
+    },
+    {
+      "slug": "finger-walking",
+      "title": "Finger Walking",
+      "status": "failed"
+    },
+    {
+      "slug": "feline-align",
+      "title": "Feline Align",
+      "status": "ok"
+    },
+    {
+      "slug": "feeld-for-play-2",
+      "title": "Feeld for Play",
+      "status": "ok"
+    },
+    {
+      "slug": "felipe-pantone-contactless",
+      "title": "Felipe Pantone: Contactless",
+      "status": "ok"
+    },
+    {
+      "slug": "flip",
+      "title": "FLIP",
+      "status": "ok"
+    },
+    {
+      "slug": "for-ever-ware",
+      "title": "For ever ware",
+      "status": "failed"
+    },
+    {
+      "slug": "floris-schrama",
+      "title": "Floris Schrama",
+      "status": "ok"
+    },
+    {
+      "slug": "floating-in-entropy",
+      "title": "Floating In Entropy",
+      "status": "ok"
+    },
+    {
+      "slug": "fruitful-school",
+      "title": "Fruitful school",
+      "status": "failed"
+    },
+    {
+      "slug": "foam-talent",
+      "title": "Foam Talent",
+      "status": "ok"
+    },
+    {
+      "slug": "franky-s-hats",
+      "title": "Franky's Hats",
+      "status": "ok"
+    },
+    {
+      "slug": "frederic-briolet-monolith",
+      "title": "Frederic Briolet Monolith",
+      "status": "ok"
+    },
+    {
+      "slug": "fuck-investments",
+      "title": "Fuck Investments",
+      "status": "ok"
+    },
+    {
+      "slug": "fuse",
+      "title": "Fuse",
+      "status": "ok"
+    },
+    {
+      "slug": "fuse-kiwi-interesting-internet",
+      "title": "Fuse.kiwi – Interesting Internet",
+      "status": "ok"
+    },
+    {
+      "slug": "future-core",
+      "title": "Future Core",
+      "status": "ok"
+    },
+    {
+      "slug": "gegenwart",
+      "title": "Gegenwart",
+      "status": "ok"
+    },
+    {
+      "slug": "general-index",
+      "title": "General Index",
+      "status": "ok"
+    },
+    {
+      "slug": "glitch-mcconnell",
+      "title": "Glitch Mcconnell",
+      "status": "ok"
+    },
+    {
+      "slug": "glossary-of-undisciplined-design",
+      "title": "Glossary of Undisciplined Design",
+      "status": "failed"
+    },
+    {
+      "slug": "giga-stock",
+      "title": "Giga Stock",
+      "status": "ok"
+    },
+    {
+      "slug": "glob-land",
+      "title": "Glob",
+      "status": "ok"
+    },
+    {
+      "slug": "gravity-studio",
+      "title": "Gravity Studio",
+      "status": "failed"
+    },
+    {
+      "slug": "glossary-of-time",
+      "title": "Glossary of Time",
+      "status": "ok"
+    },
+    {
+      "slug": "groove-with-me",
+      "title": "Groove with me",
+      "status": "failed"
+    },
+    {
+      "slug": "gmbh",
+      "title": "gmbh",
+      "status": "ok"
+    },
+    {
+      "slug": "good-glyphs",
+      "title": "Good Glyphs",
+      "status": "ok"
+    },
+    {
+      "slug": "gucci-dive",
+      "title": "Gucci Dive",
+      "status": "failed"
+    },
+    {
+      "slug": "gucci-gift-2017",
+      "title": "Gucci Gift 2017",
+      "status": "failed"
+    },
+    {
+      "slug": "gucci-mascara-hunt",
+      "title": "Gucci Mascara Hunt",
+      "status": "failed"
+    },
+    {
+      "slug": "greg-roque",
+      "title": "Greg Roque",
+      "status": "ok"
+    },
+    {
+      "slug": "gt-flexa",
+      "title": "GT Flexa",
+      "status": "ok"
+    },
+    {
+      "slug": "gt-maru-typeface",
+      "title": "GT Maru Typeface",
+      "status": "ok"
+    },
+    {
+      "slug": "h0t-house",
+      "title": "H0t House",
+      "status": "ok"
+    },
+    {
+      "slug": "hackathon-fwb",
+      "title": "Hackathon FWB",
+      "status": "ok"
+    },
+    {
+      "slug": "haha-services",
+      "title": "HAHA Services",
+      "status": "ok"
+    },
+    {
+      "slug": "haiku-haiku",
+      "title": "Haiku Haiku",
+      "status": "ok"
+    },
+    {
+      "slug": "half-of-8",
+      "title": "Half of 8",
+      "status": "ok"
+    },
+    {
+      "slug": "hallo-internet",
+      "title": "Hallo internet",
+      "status": "ok"
+    },
+    {
+      "slug": "han-kjobenhavn",
+      "title": "Han Kjøbenhavn",
+      "status": "ok"
+    },
+    {
+      "slug": "haegeman-temmerman",
+      "title": "Haegeman Temmerman",
+      "status": "ok"
+    },
+    {
+      "slug": "harley-weir",
+      "title": "Harley Weir",
+      "status": "ok"
+    },
+    {
+      "slug": "harry-boyd",
+      "title": "Harry Boyd",
+      "status": "ok"
+    },
+    {
+      "slug": "headline-vision",
+      "title": "Headline Vision",
+      "status": "ok"
+    },
+    {
+      "slug": "hfbk-raumplan",
+      "title": "HFBK Raumplan",
+      "status": "ok"
+    },
+    {
+      "slug": "holen-und-bringen",
+      "title": "Holen Und Bringen",
+      "status": "ok"
+    },
+    {
+      "slug": "holodec-world",
+      "title": "Holodec World",
+      "status": "ok"
+    },
+    {
+      "slug": "hudson-mohawke",
+      "title": "Hudson Mohawke",
+      "status": "ok"
+    },
+    {
+      "slug": "hybrid-by-nature",
+      "title": "Hybrid by Nature",
+      "status": "ok"
+    },
+    {
+      "slug": "hybrid-vigor",
+      "title": "Hybrid Vigor",
+      "status": "ok"
+    },
+    {
+      "slug": "imaging-big-numbers",
+      "title": "Imaging Big Numbers",
+      "status": "failed"
+    },
+    {
+      "slug": "igloo-inc",
+      "title": "Igloo Inc.",
+      "status": "ok"
+    },
+    {
+      "slug": "image-morph",
+      "title": "Image Morph",
+      "status": "ok"
+    },
+    {
+      "slug": "chimes",
+      "title": "Hudson Mohawke - CHIMES RMX",
+      "status": "ok"
+    },
+    {
+      "slug": "in-common-with",
+      "title": "In Common With",
+      "status": "ok"
+    },
+    {
+      "slug": "indirect-flights",
+      "title": "Indirect Flights",
+      "status": "ok"
+    },
+    {
+      "slug": "infringe",
+      "title": "Infringe",
+      "status": "ok"
+    },
+    {
+      "slug": "intimacy-machine",
+      "title": "Intimacy Machine",
+      "status": "ok"
+    },
+    {
+      "slug": "ishi-mag",
+      "title": "ISHI MAG",
+      "status": "failed"
+    },
+    {
+      "slug": "issued-by-bottega",
+      "title": "Issued by Bottega",
+      "status": "failed"
+    },
+    {
+      "slug": "insight-agency",
+      "title": "Insight Agency",
+      "status": "ok"
+    },
+    {
+      "slug": "iota-editions",
+      "title": "Iota Editions",
+      "status": "ok"
+    },
+    {
+      "slug": "ipod-js",
+      "title": "iPod.js",
+      "status": "ok"
+    },
+    {
+      "slug": "jan-kaps",
+      "title": "Jan Kaps",
+      "status": "ok"
+    },
+    {
+      "slug": "it-s-a-book-2",
+      "title": "It's a Book",
+      "status": "ok"
+    },
+    {
+      "slug": "jazz-keys",
+      "title": "Jazz Keys",
+      "status": "ok"
+    },
+    {
+      "slug": "k2design-calendar",
+      "title": "K2design Calendar",
+      "status": "failed"
+    },
+    {
+      "slug": "joseph-pleass",
+      "title": "Joseph Pleass",
+      "status": "ok"
+    },
+    {
+      "slug": "kilbi-2020",
+      "title": "Kilbi 2020",
+      "status": "ok"
+    },
+    {
+      "slug": "jana-reddemann",
+      "title": "Jana Reddemann",
+      "status": "ok"
+    },
+    {
+      "slug": "kim-wermes",
+      "title": "Kim Wermes",
+      "status": "ok"
+    },
+    {
+      "slug": "kris-ludi",
+      "title": "Kris Ludi",
+      "status": "ok"
+    },
+    {
+      "slug": "ksenia-schnaider",
+      "title": "Ksenia Schnaider",
+      "status": "ok"
+    },
+    {
+      "slug": "johanna-jaskowska",
+      "title": "Johanna Jaskowska",
+      "status": "ok"
+    },
+    {
+      "slug": "l-inconnue",
+      "title": "L'inconnue",
+      "status": "ok"
+    },
+    {
+      "slug": "lcf-smc-show-21",
+      "title": "LCF SMC Show 21",
+      "status": "failed"
+    },
+    {
+      "slug": "lachlan-bailey",
+      "title": "Lachlan Bailey",
+      "status": "ok"
+    },
+    {
+      "slug": "labyrinth",
+      "title": "Labyrinth",
+      "status": "ok"
+    },
+    {
+      "slug": "leila-mcglew",
+      "title": "Leila Mcglew",
+      "status": "ok"
+    },
+    {
+      "slug": "litkovskaya",
+      "title": "Litkovskaya",
+      "status": "failed"
+    },
+    {
+      "slug": "klimaschau",
+      "title": "Klimaschau",
+      "status": "failed"
+    },
+    {
+      "slug": "liebermann-kiepe-reddemann",
+      "title": "Liebermann Kiepe Reddemann",
+      "status": "ok"
+    },
+    {
+      "slug": "ling-s-cars",
+      "title": "Ling's Cars",
+      "status": "ok"
+    },
+    {
+      "slug": "loading-giacomonanni",
+      "title": "Loading Giacomonanni",
+      "status": "ok"
+    },
+    {
+      "slug": "lofi-cafe",
+      "title": "Lofi Cafe",
+      "status": "ok"
+    },
+    {
+      "slug": "loverboy",
+      "title": "Loverboy",
+      "status": "ok"
+    },
+    {
+      "slug": "lucy-hard-castle",
+      "title": "Lucy Hard Castle",
+      "status": "ok"
+    },
+    {
+      "slug": "make-everything-ok",
+      "title": "Make Everything Ok",
+      "status": "ok"
+    },
+    {
+      "slug": "makewordart",
+      "title": "Make Word Art",
+      "status": "ok"
+    },
+    {
+      "slug": "martine-rose",
+      "title": "Martine Rose",
+      "status": "ok"
+    },
+    {
+      "slug": "max-bittker",
+      "title": "Max Bittker",
+      "status": "ok"
+    },
+    {
+      "slug": "messenger",
+      "title": "Messenger",
+      "status": "ok"
+    },
+    {
+      "slug": "michal-turtle-reinterprated-planisphere-editorial-2020",
+      "title": "Michal Turtle Reinterprated – Planisphere Editorial 2020",
+      "status": "ok"
+    },
+    {
+      "slug": "michael-speichert",
+      "title": "Michael Speichert",
+      "status": "ok"
+    },
+    {
+      "slug": "mit",
+      "title": "MIT's Center for Advanced Visual Studies",
+      "status": "ok"
+    },
+    {
+      "slug": "molly-ellison",
+      "title": "Molly Ellison",
+      "status": "failed"
+    },
+    {
+      "slug": "micaiah-carter",
+      "title": "Micaiah Carter",
+      "status": "ok"
+    },
+    {
+      "slug": "mobile-hsl-picker",
+      "title": "Mobile HSL Picker",
+      "status": "ok"
+    },
+    {
+      "slug": "model-und-ruine",
+      "title": "model und ruine",
+      "status": "ok"
+    },
+    {
+      "slug": "mono-x7",
+      "title": "Mono X7",
+      "status": "ok"
+    },
+    {
+      "slug": "mousing-around",
+      "title": "Mousing Around",
+      "status": "ok"
+    },
+    {
+      "slug": "nahee-app",
+      "title": "Nahee App",
+      "status": "failed"
+    },
+    {
+      "slug": "museum-at-large",
+      "title": "Museum At Large",
+      "status": "ok"
+    },
+    {
+      "slug": "my-smol-site",
+      "title": "My Smol Site",
+      "status": "ok"
+    },
+    {
+      "slug": "n10-as",
+      "title": "N10.AS",
+      "status": "ok"
+    },
+    {
+      "slug": "narrow-design",
+      "title": "Narrow Design",
+      "status": "ok"
+    },
+    {
+      "slug": "natalia-jordanova",
+      "title": "Natalia Jordanova",
+      "status": "ok"
+    },
+    {
+      "slug": "nearrest-neighbor",
+      "title": "Nearrest Neighbor",
+      "status": "ok"
+    },
+    {
+      "slug": "nam-huynh",
+      "title": "Nam Huynh",
+      "status": "ok"
+    },
+    {
+      "slug": "neusicht",
+      "title": "Neusicht",
+      "status": "ok"
+    },
+    {
+      "slug": "new-dawn",
+      "title": "New Dawn",
+      "status": "ok"
+    },
+    {
+      "slug": "new-aesthetic-2",
+      "title": "New Aesthetic 2",
+      "status": "ok"
+    },
+    {
+      "slug": "new-legibility",
+      "title": "New Legibility",
+      "status": "ok"
+    },
+    {
+      "slug": "nicky-tesla",
+      "title": "Nicky Tesla",
+      "status": "ok"
+    },
+    {
+      "slug": "new-york-times-this-is-18-around-the-world",
+      "title": "New York Times - This is 18 around the world",
+      "status": "ok"
+    },
+    {
+      "slug": "no-plans-show",
+      "title": "No Plans Show",
+      "status": "failed"
+    },
+    {
+      "slug": "nicolas-sassoon",
+      "title": "Nicolas Sassoon",
+      "status": "ok"
+    },
+    {
+      "slug": "nike-swoosh",
+      "title": "Nike - Swoosh",
+      "status": "ok"
+    },
+    {
+      "slug": "nike-moonshot",
+      "title": "Nike Moonshot",
+      "status": "ok"
+    },
+    {
+      "slug": "noko-studio",
+      "title": "Noko Studio",
+      "status": "ok"
+    },
+    {
+      "slug": "nold-boards",
+      "title": "Nold Boards",
+      "status": "ok"
+    },
+    {
+      "slug": "nonymous",
+      "title": "Nonymous",
+      "status": "ok"
+    },
+    {
+      "slug": "novembre-global",
+      "title": "Novembre Global",
+      "status": "ok"
+    },
+    {
+      "slug": "offline-only",
+      "title": "Offline only",
+      "status": "failed"
+    },
+    {
+      "slug": "of-hundred",
+      "title": "Of Hundred",
+      "status": "ok"
+    },
+    {
+      "slug": "ntgent",
+      "title": "Ntgent",
+      "status": "ok"
+    },
+    {
+      "slug": "odunpazari-modern-museum",
+      "title": "Odunpazarı Modern Museum",
+      "status": "ok"
+    },
+    {
+      "slug": "one",
+      "title": "ONE",
+      "status": "ok"
+    },
+    {
+      "slug": "oneiric",
+      "title": "oneiric",
+      "status": "ok"
+    },
+    {
+      "slug": "online-ceramics",
+      "title": "Online Ceramics",
+      "status": "ok"
+    },
+    {
+      "slug": "online-tea-timer",
+      "title": "Online Tea Timer",
+      "status": "ok"
+    },
+    {
+      "slug": "opening-ceremony",
+      "title": "Opening Ceremony",
+      "status": "failed"
+    },
+    {
+      "slug": "only-bags",
+      "title": "Only Bags",
+      "status": "ok"
+    },
+    {
+      "slug": "ooo",
+      "title": "øøø",
+      "status": "ok"
+    },
+    {
+      "slug": "open-foundry",
+      "title": "Open Foundry",
+      "status": "ok"
+    },
+    {
+      "slug": "orb-farm",
+      "title": "Orb Farm",
+      "status": "ok"
+    },
+    {
+      "slug": "osk",
+      "title": "Osk",
+      "status": "ok"
+    },
+    {
+      "slug": "oto-nove-swiss-paris",
+      "title": "Oto Nove Swiss Paris",
+      "status": "ok"
+    },
+    {
+      "slug": "otoro",
+      "title": "Otoro",
+      "status": "ok"
+    },
+    {
+      "slug": "paint-stx",
+      "title": "Paint.stx",
+      "status": "ok"
+    },
+    {
+      "slug": "piyenji",
+      "title": "Piyenji",
+      "status": "failed"
+    },
+    {
+      "slug": "paula-de-alvaro",
+      "title": "Paula De Álvaro",
+      "status": "ok"
+    },
+    {
+      "slug": "pics-of-people-taking-pics",
+      "title": "Pics of People Taking Pics",
+      "status": "ok"
+    },
+    {
+      "slug": "perlmutare",
+      "title": "Perlmutare",
+      "status": "ok"
+    },
+    {
+      "slug": "pizza-pizza",
+      "title": "Pizza Pizza",
+      "status": "ok"
+    },
+    {
+      "slug": "planet-digital",
+      "title": "Planet Digital",
+      "status": "ok"
+    },
+    {
+      "slug": "plastic-air",
+      "title": "Plastic Air",
+      "status": "ok"
+    },
+    {
+      "slug": "play-date",
+      "title": "Play Date",
+      "status": "ok"
+    },
+    {
+      "slug": "pleasures",
+      "title": "Pleasures",
+      "status": "ok"
+    },
+    {
+      "slug": "predominantly",
+      "title": "Predominantly",
+      "status": "failed"
+    },
+    {
+      "slug": "pond-gg",
+      "title": "Pond GG",
+      "status": "ok"
+    },
+    {
+      "slug": "pola-mother-s-day",
+      "title": "Pola - Mother's Day",
+      "status": "ok"
+    },
+    {
+      "slug": "poolside-fm",
+      "title": "PoolSide FM",
+      "status": "ok"
+    },
+    {
+      "slug": "publication-studio",
+      "title": "Publication Studio",
+      "status": "failed"
+    },
+    {
+      "slug": "rabbit-hole",
+      "title": "Rabbit Hole",
+      "status": "failed"
+    },
+    {
+      "slug": "presented-by-bottega",
+      "title": "Presented by Bottega",
+      "status": "ok"
+    },
+    {
+      "slug": "public-possession",
+      "title": "Public Possession",
+      "status": "ok"
+    },
+    {
+      "slug": "rachel-kim",
+      "title": "Rachel Kim",
+      "status": "ok"
+    },
+    {
+      "slug": "rachel-maclean",
+      "title": "Rachel Maclean",
+      "status": "ok"
+    },
+    {
+      "slug": "radical-pr",
+      "title": "Radical PR",
+      "status": "ok"
+    },
+    {
+      "slug": "radicals-radicants",
+      "title": "Radicals Radicants",
+      "status": "ok"
+    },
+    {
+      "slug": "rauno",
+      "title": "Rauno",
+      "status": "ok"
+    },
+    {
+      "slug": "radio-orsimanirana",
+      "title": "Radio Orsimanirana",
+      "status": "ok"
+    },
+    {
+      "slug": "real-life",
+      "title": "Real Life",
+      "status": "ok"
+    },
+    {
+      "slug": "refix",
+      "title": "Refix",
+      "status": "ok"
+    },
+    {
+      "slug": "remember-to-forget",
+      "title": "Remember to Forget",
+      "status": "ok"
+    },
+    {
+      "slug": "revision",
+      "title": "Revision",
+      "status": "ok"
+    },
+    {
+      "slug": "rifke-world",
+      "title": "Rifke World",
+      "status": "ok"
+    },
+    {
+      "slug": "ring-variations",
+      "title": "Ring Variations",
+      "status": "ok"
+    },
+    {
+      "slug": "robopoetics",
+      "title": "Robopoetics",
+      "status": "ok"
+    },
+    {
+      "slug": "roel-kok",
+      "title": "Roel Kok",
+      "status": "ok"
+    },
+    {
+      "slug": "room",
+      "title": "ROOM",
+      "status": "ok"
+    },
+    {
+      "slug": "rude-captcha",
+      "title": "Rude Captcha",
+      "status": "ok"
+    },
+    {
+      "slug": "saaaam",
+      "title": "Saaaam",
+      "status": "ok"
+    },
+    {
+      "slug": "sabrina-zeltner",
+      "title": "Sabrina Zeltner",
+      "status": "ok"
+    },
+    {
+      "slug": "sacred-display",
+      "title": "Sacred Display",
+      "status": "ok"
+    },
+    {
+      "slug": "sail-awway",
+      "title": "Sail Awway",
+      "status": "ok"
+    },
+    {
+      "slug": "samuel-day",
+      "title": "Samuel Day",
+      "status": "ok"
+    },
+    {
+      "slug": "sam-dumez",
+      "title": "Samuel Dumez",
+      "status": "ok"
+    },
+    {
+      "slug": "scale-to-infinity-audrey-large",
+      "title": "Scale to Infinity, Audrey Large",
+      "status": "failed"
+    },
+    {
+      "slug": "samuel-weidmann",
+      "title": "samuel Weidmann",
+      "status": "ok"
+    },
+    {
+      "slug": "schauspielhaus-zurich",
+      "title": "Schauspielhaus Zürich",
+      "status": "failed"
+    },
+    {
+      "slug": "sans-sheriff",
+      "title": "Sans Sheriff",
+      "status": "ok"
+    },
+    {
+      "slug": "scrolling-the-arcane",
+      "title": "Scrolling the Arcane",
+      "status": "failed"
+    },
+    {
+      "slug": "sandspiel",
+      "title": "Sandspiel",
+      "status": "ok"
+    },
+    {
+      "slug": "sce-e",
+      "title": "Sce.e",
+      "status": "ok"
+    },
+    {
+      "slug": "schultzschultz-touchetype-tool",
+      "title": "Schultzschultz - ToucheType Tool",
+      "status": "ok"
+    },
+    {
+      "slug": "self-titled-work",
+      "title": "Self Titled Work",
+      "status": "ok"
+    },
+    {
+      "slug": "seen",
+      "title": "Seen",
+      "status": "ok"
+    },
+    {
+      "slug": "selling-bricks",
+      "title": "Selling Bricks",
+      "status": "ok"
+    },
+    {
+      "slug": "shang-xia",
+      "title": "Shang Xia",
+      "status": "ok"
+    },
+    {
+      "slug": "simon-rogers",
+      "title": "Simon Rogers",
+      "status": "ok"
+    },
+    {
+      "slug": "simone-s-computer",
+      "title": "Simone's Computer",
+      "status": "ok"
+    },
+    {
+      "slug": "smc-real-time",
+      "title": "SMC REAL:TIME",
+      "status": "failed"
+    },
+    {
+      "slug": "slava-kirilenko",
+      "title": "Slava Kirilenko",
+      "status": "ok"
+    },
+    {
+      "slug": "slingshot-camera",
+      "title": "Slingshot Camera",
+      "status": "ok"
+    },
+    {
+      "slug": "smack-dat-ass",
+      "title": "Smack dat ass",
+      "status": "ok"
+    },
+    {
+      "slug": "snake",
+      "title": "Snake",
+      "status": "ok"
+    },
+    {
+      "slug": "soft-power",
+      "title": "Soft Power",
+      "status": "ok"
+    },
+    {
+      "slug": "somerset-house-s-decentralise",
+      "title": "Somerset House’s Decentralise",
+      "status": "ok"
+    },
+    {
+      "slug": "son-la-pham",
+      "title": "Son La Pham",
+      "status": "ok"
+    },
+    {
+      "slug": "sona-stream",
+      "title": "Sona Stream",
+      "status": "ok"
+    },
+    {
+      "slug": "source-type",
+      "title": "Source Type",
+      "status": "ok"
+    },
+    {
+      "slug": "special-offer",
+      "title": "Special Offer",
+      "status": "ok"
+    },
+    {
+      "slug": "sr-a-sr-a",
+      "title": "SR_A SR_A",
+      "status": "ok"
+    },
+    {
+      "slug": "streaming-consciousness",
+      "title": "Streaming Consciousness",
+      "status": "failed"
+    },
+    {
+      "slug": "ss21-rains",
+      "title": "SS21 Rains",
+      "status": "ok"
+    },
+    {
+      "slug": "stand-in-school-for-graphic-design",
+      "title": "Stand in School for Graphic Design",
+      "status": "ok"
+    },
+    {
+      "slug": "studio-runk",
+      "title": "Studio Runk",
+      "status": "failed"
+    },
+    {
+      "slug": "suddenly-rock",
+      "title": "Suddenly Rocks",
+      "status": "failed"
+    },
+    {
+      "slug": "staring-caring",
+      "title": "Staring Caring",
+      "status": "ok"
+    },
+    {
+      "slug": "studio-ananda",
+      "title": "Studio Ānanda",
+      "status": "ok"
+    },
+    {
+      "slug": "stripe-press",
+      "title": "Stripe Press",
+      "status": "ok"
+    },
+    {
+      "slug": "take-a-selfie",
+      "title": "Take a Selfie",
+      "status": "failed"
+    },
+    {
+      "slug": "swiss-design-awards-2020",
+      "title": "Swiss Design Awards 2020",
+      "status": "ok"
+    },
+    {
+      "slug": "taika-x-twb",
+      "title": "Taika x TWB",
+      "status": "ok"
+    },
+    {
+      "slug": "the-internet-click",
+      "title": "The Internet Click",
+      "status": "failed"
+    },
+    {
+      "slug": "temper",
+      "title": "temper",
+      "status": "ok"
+    },
+    {
+      "slug": "the-art-of-critique",
+      "title": "The Art of Critique",
+      "status": "ok"
+    },
+    {
+      "slug": "the-emoji-personality-test",
+      "title": "The Emoji Personality Test",
+      "status": "ok"
+    },
+    {
+      "slug": "the-new-company",
+      "title": "The New Company",
+      "status": "ok"
+    },
+    {
+      "slug": "the-road",
+      "title": "The Road",
+      "status": "ok"
+    },
+    {
+      "slug": "the-peach-spring-beyond-this-world",
+      "title": "The Peach Spring Beyond This World",
+      "status": "ok"
+    },
+    {
+      "slug": "thisisneverthat-teaser",
+      "title": "thisisneverthat FA22",
+      "status": "failed"
+    },
+    {
+      "slug": "the-wisdom-of-the-third-wave",
+      "title": "The Wisdom of the Third Wave",
+      "status": "ok"
+    },
+    {
+      "slug": "the-lost-lionesses",
+      "title": "The Lost Lionesses",
+      "status": "ok"
+    },
+    {
+      "slug": "the-sea-between-us",
+      "title": "The Sea Between Us",
+      "status": "ok"
+    },
+    {
+      "slug": "tienda-design-store",
+      "title": "Tienda - Design Store",
+      "status": "ok"
+    },
+    {
+      "slug": "tight",
+      "title": "Tight",
+      "status": "ok"
+    },
+    {
+      "slug": "till-janz",
+      "title": "Till Janz",
+      "status": "ok"
+    },
+    {
+      "slug": "tin-ed",
+      "title": "Tin & Ed",
+      "status": "ok"
+    },
+    {
+      "slug": "to-see-the-wave-as-a-sliding-door",
+      "title": "To See The Wave As A Sliding Door",
+      "status": "ok"
+    },
+    {
+      "slug": "tom-gould",
+      "title": "Tom Gould",
+      "status": "ok"
+    },
+    {
+      "slug": "http-twomuch-rocks",
+      "title": "Two Much Rocks",
+      "status": "failed"
+    },
+    {
+      "slug": "toph-tucker",
+      "title": "Toph Tucker",
+      "status": "ok"
+    },
+    {
+      "slug": "trans-books",
+      "title": "Trans Books",
+      "status": "ok"
+    },
+    {
+      "slug": "we-are-too-busy-foundation",
+      "title": "Too Busy Foundation",
+      "status": "ok"
+    },
+    {
+      "slug": "twomuch-studio",
+      "title": "TwoMuch studio",
+      "status": "ok"
+    },
+    {
+      "slug": "uberraum",
+      "title": "uberraum",
+      "status": "ok"
+    },
+    {
+      "slug": "united-fabric",
+      "title": "United Fabric",
+      "status": "ok"
+    },
+    {
+      "slug": "unveil",
+      "title": "UNVEIL",
+      "status": "ok"
+    },
+    {
+      "slug": "vang-hoa",
+      "title": "Vàng Hoa",
+      "status": "ok"
+    },
+    {
+      "slug": "venice-w",
+      "title": "Venice W.",
+      "status": "ok"
+    },
+    {
+      "slug": "vera-vandeseyp",
+      "title": "Vera VanDeSeyp",
+      "status": "ok"
+    },
+    {
+      "slug": "viennese-modernism",
+      "title": "Viennese Modernism",
+      "status": "ok"
+    },
+    {
+      "slug": "virgil-abloh",
+      "title": "Virgil Abloh™",
+      "status": "ok"
+    },
+    {
+      "slug": "viso-haus",
+      "title": "Viso Haus",
+      "status": "ok"
+    },
+    {
+      "slug": "visual-society",
+      "title": "Visual Society",
+      "status": "ok"
+    },
+    {
+      "slug": "vivien-hoffmann",
+      "title": "Vivien Hoffmann",
+      "status": "ok"
+    },
+    {
+      "slug": "volume-of-light",
+      "title": "Volume of Light",
+      "status": "ok"
+    },
+    {
+      "slug": "vlucendo-garden",
+      "title": "Vlucendo Garden",
+      "status": "ok"
+    },
+    {
+      "slug": "wandering-wondering-rocks",
+      "title": "Wandering Wondering Rocks",
+      "status": "ok"
+    },
+    {
+      "slug": "wear-the-waste-by-h-m",
+      "title": "Wear The Waste by H&M",
+      "status": "failed"
+    },
+    {
+      "slug": "voth000",
+      "title": "Voth000",
+      "status": "ok"
+    },
+    {
+      "slug": "water-works-project",
+      "title": "Water Works Project",
+      "status": "ok"
+    },
+    {
+      "slug": "westminster-kennel-club",
+      "title": "Westminster Kennel Club",
+      "status": "ok"
+    },
+    {
+      "slug": "white-russian",
+      "title": "White Russian",
+      "status": "ok"
+    },
+    {
+      "slug": "wilderness-land",
+      "title": "Wilderness Land",
+      "status": "ok"
+    },
+    {
+      "slug": "williams-college-museum-of-art",
+      "title": "Williams College Museum Of Art",
+      "status": "ok"
+    },
+    {
+      "slug": "without-order",
+      "title": "Without Order",
+      "status": "ok"
+    },
+    {
+      "slug": "world-on-a-wire",
+      "title": "World On a Wire",
+      "status": "ok"
+    },
+    {
+      "slug": "world-two",
+      "title": "World Two",
+      "status": "ok"
+    },
+    {
+      "slug": "woven-and-surge",
+      "title": "Woven sound",
+      "status": "ok"
+    },
+    {
+      "slug": "yeezy-gap",
+      "title": "Yeezy Gap",
+      "status": "failed"
+    },
+    {
+      "slug": "xuan-ye",
+      "title": "Xuan Ye",
+      "status": "ok"
+    },
+    {
+      "slug": "yaeji",
+      "title": "Yaeji",
+      "status": "ok"
+    },
+    {
+      "slug": "yamauchi-no-10-family-office",
+      "title": "Yamauchi No.10 Family Office",
+      "status": "ok"
+    },
+    {
+      "slug": "zentrale",
+      "title": "Zentrale",
+      "status": "ok"
+    },
+    {
+      "slug": "cyanbanister",
+      "title": "Cyan Banister",
+      "status": "ok"
+    },
+    {
+      "slug": "yvon-s",
+      "title": "Yvon's",
+      "status": "ok"
+    },
+    {
+      "slug": "zes-nullen",
+      "title": "Zes Nullen",
+      "status": "ok"
+    },
+    {
+      "slug": "zoo",
+      "title": "ZOO",
+      "status": "ok"
+    },
+    {
+      "slug": "camerons-world",
+      "title": "Cameron's World",
+      "status": "ok"
+    },
+    {
+      "slug": "neal-fun",
+      "title": "Neal Fun",
+      "status": "ok"
+    },
+    {
+      "slug": "bruno-simon",
+      "title": "Bruno Simon",
+      "status": "ok"
+    }
+  ]
+}

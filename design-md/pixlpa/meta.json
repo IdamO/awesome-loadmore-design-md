@@ -1,0 +1,688 @@
+{
+  "slug": "pixlpa",
+  "title": "Andrew Benson",
+  "liveUrl": "https://pixlpa.com",
+  "domain": "pixlpa.com",
+  "loadmoreUrl": "https://loadmo.re/posts/pixlpa",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/pixlpa",
+  "description": "Andrew Benson is an artist based in LA. His website is definitely not mobile friendly, yet it looks very cool on smartphone, so here we are.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "playful",
+    "glitches"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/pixlpa/22b9189d02-1606939299/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/pixlpa/8f8530cb3a-1605020014/pixlpa.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:02:05.008Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Andrew Benson",
+        "url": "https://pixlpa.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 209, 100)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "14.4px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Sign up for my mailing list",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "20.16px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "57.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "motion brush",
+          "color": "rgb(187, 34, 153)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.\n\t\t\t\n\t\t\tContact: pixlpa [at] gmail\n\t\t\t\n\t\t\n\t\t\t\n    \t",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 209, 100)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Contact: pixlpa [at] gmail",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Sign up for my mailing list",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "20.16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(170, 170, 170)",
+            "fontFamily": "Arial",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "motion brush",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "via GIPHY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "via GIPHY",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "filler",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f0e8",
+            "count": 11667
+          },
+          {
+            "hex": "#95d5e0",
+            "count": 5380
+          },
+          {
+            "hex": "#655859",
+            "count": 2051
+          },
+          {
+            "hex": "#2f2a2e",
+            "count": 1845
+          },
+          {
+            "hex": "#fdce63",
+            "count": 1407
+          },
+          {
+            "hex": "#a99792",
+            "count": 1235
+          },
+          {
+            "hex": "#8e7071",
+            "count": 1099
+          },
+          {
+            "hex": "#68a29e",
+            "count": 916
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f4f0e8",
+            "count": 11667
+          },
+          {
+            "hex": "#95d5e0",
+            "count": 5380
+          },
+          {
+            "hex": "#655859",
+            "count": 2051
+          },
+          {
+            "hex": "#2f2a2e",
+            "count": 1845
+          },
+          {
+            "hex": "#fdce63",
+            "count": 1407
+          },
+          {
+            "hex": "#a99792",
+            "count": 1235
+          },
+          {
+            "hex": "#8e7071",
+            "count": 1099
+          },
+          {
+            "hex": "#68a29e",
+            "count": 916
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Andrew Benson",
+        "url": "https://pixlpa.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 209, 100)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "14.4px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Sign up for my mailing list",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "20.16px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+          "fontSize": "57.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "motion brush",
+          "color": "rgb(187, 34, 153)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.\n\t\t\t\n\t\t\tContact: pixlpa [at] gmail\n\t\t\t\n\t\t\n\t\t\t\n    \t",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 209, 100)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "My name is Andrew Benson and I'm an artist living in Los Angeles, CA.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Contact: pixlpa [at] gmail",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Sign up for my mailing list",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "20.16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "3px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(170, 170, 170)",
+            "fontFamily": "Arial",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "motion brush",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "via GIPHY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "via GIPHY",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Cambria, Cochin, Georgia, Times, \"Times New Roman\", serif",
+            "fontSize": "57.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "filler",
+            "color": "rgb(187, 34, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fecf64",
+            "count": 14823
+          },
+          {
+            "hex": "#94d5e0",
+            "count": 4176
+          },
+          {
+            "hex": "#a2a0a5",
+            "count": 1973
+          },
+          {
+            "hex": "#ecede8",
+            "count": 1860
+          },
+          {
+            "hex": "#5f6165",
+            "count": 1774
+          },
+          {
+            "hex": "#343339",
+            "count": 334
+          },
+          {
+            "hex": "#cdc9b1",
+            "count": 332
+          },
+          {
+            "hex": "#6f9fa5",
+            "count": 328
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fecf64",
+            "count": 14823
+          },
+          {
+            "hex": "#94d5e0",
+            "count": 4176
+          },
+          {
+            "hex": "#a2a0a5",
+            "count": 1973
+          },
+          {
+            "hex": "#ecede8",
+            "count": 1860
+          },
+          {
+            "hex": "#5f6165",
+            "count": 1774
+          },
+          {
+            "hex": "#343339",
+            "count": 334
+          },
+          {
+            "hex": "#cdc9b1",
+            "count": 332
+          },
+          {
+            "hex": "#6f9fa5",
+            "count": 328
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

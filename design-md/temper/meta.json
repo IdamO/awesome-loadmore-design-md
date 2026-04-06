@@ -1,0 +1,2285 @@
+{
+  "slug": "temper",
+  "title": "temper",
+  "liveUrl": "https://temper.one/",
+  "domain": "temper.one",
+  "loadmoreUrl": "https://loadmo.re/posts/temper",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/temper",
+  "description": "In situ demo for a sleek one page website editor.",
+  "credits": "Jonas Pelzer",
+  "added": "",
+  "tags": [
+    "typography",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/temper/27e70ae910-1747757505/temper-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/temper/d13ea2a848-1747757537/temper-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:28:40.074Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "temper — Build your personal web page in seconds",
+        "url": "https://temper.one/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "This is the first paragraph. Here you could introduce yourself.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "79.2px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "79.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This site uses cookies to give you a better experience. Read more",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "p",
+          "text": "To edit paragraphs, simply select them and start typing. In the bottom right corner, there are buttons to add or remove ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "79.2px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "79.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "OK",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "27px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "65px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Scope",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Scope-Web",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope-Web",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Condensed",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Expanded",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Expanded",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fictional",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fictional",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Indicate Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Indicate Mono Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Blow",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Blow",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Krasz",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Krasz",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Semi Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Semi Mono",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Mono",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Television",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Television",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "OKThis site uses cookies to give you a better experience. Read moreCookie Consent plugin for the EU cookie law\n\n  \n  \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "OK",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "27px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "65px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "This site uses cookies to give you a better experience. Read more",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Read more",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Build your personal web page in seconds",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Click anywhere to start",
+            "color": "rgb(255, 255, 224)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Jonas Pelzer",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "This is the first paragraph. Here you could introduce yourself.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "To edit paragraphs, simply select them and start typing. In the bottom right corner, there are buttons to add or remove ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If you want to add a link, simply type the link text, select it and a link button will appear in the bottom right corner",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "In the top right corner, there is a settings button. You can use this to add meta data and adjust the appearance of your",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "79.2px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "79.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "built with temper",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "39.6px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "39.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "slideFrame",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "add",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 239, 239)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "cancel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Are you sure you want to remove this paragraph?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "All contents will be deleted.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "remove",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 239, 239)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "cancel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "i",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "↗",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "-",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "+",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(16, 16, 16)",
+            "backgroundColor": "rgb(153, 153, 153)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "25px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "buy me a coffee",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "30px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Legal notice and data privacy",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#0e0e0e",
+            "count": 18547
+          },
+          {
+            "hex": "#fc772f",
+            "count": 3140
+          },
+          {
+            "hex": "#0c59fa",
+            "count": 1163
+          },
+          {
+            "hex": "#efee07",
+            "count": 939
+          },
+          {
+            "hex": "#f88d5c",
+            "count": 506
+          },
+          {
+            "hex": "#5a5a55",
+            "count": 481
+          },
+          {
+            "hex": "#f5ae9f",
+            "count": 474
+          },
+          {
+            "hex": "#f5eef1",
+            "count": 350
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0e0e0e",
+            "count": 18547
+          },
+          {
+            "hex": "#fc772f",
+            "count": 3140
+          },
+          {
+            "hex": "#0c59fa",
+            "count": 1163
+          },
+          {
+            "hex": "#efee07",
+            "count": 939
+          },
+          {
+            "hex": "#f88d5c",
+            "count": 506
+          },
+          {
+            "hex": "#5a5a55",
+            "count": 481
+          },
+          {
+            "hex": "#f5ae9f",
+            "count": 474
+          },
+          {
+            "hex": "#f5eef1",
+            "count": 350
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "temper — Build your personal web page in seconds",
+        "url": "https://temper.one/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "18px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "This is the first paragraph. Here you could introduce yourself.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "21.45px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "21.45px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "This site uses cookies to give you a better experience. Read more",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "p",
+          "text": "To edit paragraphs, simply select them and start typing. In the bottom right corner, there are buttons to add or remove ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "21.45px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "21.45px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "OK",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Scope, sans-serif",
+          "fontSize": "27px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "65px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Scope",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Scope-Web",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope-Web",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Condensed",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Expanded",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Scope Expanded",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fictional",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fictional",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Indicate Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Indicate Mono Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Balkenschrift Rounded",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Blow",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Blow",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Gain",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Golzheim Sans",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Krasz",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Krasz",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Semi Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Semi Mono",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Massimo Grafia Mono",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff A",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Takeoff B",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Television",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Television",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Neue Sammlung",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Alcea",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Marblis",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "OKThis site uses cookies to give you a better experience. Read moreCookie Consent plugin for the EU cookie law\n\n  \n  \n\n ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "OK",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "27px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "65px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "This site uses cookies to give you a better experience. Read more",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Read more",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Build your personal web page in seconds",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Click anywhere to start",
+            "color": "rgb(255, 255, 224)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Jonas Pelzer",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "This is the first paragraph. Here you could introduce yourself.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "21.45px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "To edit paragraphs, simply select them and start typing. In the bottom right corner, there are buttons to add or remove ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "21.45px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If you want to add a link, simply type the link text, select it and a link button will appear in the bottom right corner",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "21.45px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "In the top right corner, there is a settings button. You can use this to add meta data and adjust the appearance of your",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "21.45px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "built with temper",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "sans-serif",
+            "fontSize": "10.725px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10.725px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "slideFrame",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "add",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 239, 239)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "cancel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Are you sure you want to remove this paragraph?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "All contents will be deleted.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "remove",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(239, 239, 239)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "cancel",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(221, 221, 221)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "2px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "button",
+            "text": "i",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "↗",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "-",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "+",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "rgba(0, 0, 0, 0.6) 0px 2px 5px 1px",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(153, 153, 153)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(16, 16, 16)",
+            "backgroundColor": "rgb(153, 153, 153)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "buy me a coffee",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "15.6px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Legal notice and data privacy",
+            "color": "rgb(102, 102, 102)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Scope, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#0f0f0f",
+            "count": 21572
+          },
+          {
+            "hex": "#f7f7f8",
+            "count": 1917
+          },
+          {
+            "hex": "#60605b",
+            "count": 1209
+          },
+          {
+            "hex": "#989894",
+            "count": 628
+          },
+          {
+            "hex": "#878778",
+            "count": 117
+          },
+          {
+            "hex": "#43433c",
+            "count": 71
+          },
+          {
+            "hex": "#9d9eec",
+            "count": 47
+          },
+          {
+            "hex": "#6c6ce6",
+            "count": 39
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0f0f0f",
+            "count": 21572
+          },
+          {
+            "hex": "#f7f7f8",
+            "count": 1917
+          },
+          {
+            "hex": "#60605b",
+            "count": 1209
+          },
+          {
+            "hex": "#989894",
+            "count": 628
+          },
+          {
+            "hex": "#878778",
+            "count": 117
+          },
+          {
+            "hex": "#43433c",
+            "count": 71
+          },
+          {
+            "hex": "#9d9eec",
+            "count": 47
+          },
+          {
+            "hex": "#6c6ce6",
+            "count": 39
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

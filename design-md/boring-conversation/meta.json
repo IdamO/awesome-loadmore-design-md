@@ -1,0 +1,478 @@
+{
+  "slug": "boring-conversation",
+  "title": "Boring Conversation",
+  "liveUrl": "https://boringconversation.chat/",
+  "domain": "boringconversation.chat",
+  "loadmoreUrl": "https://loadmo.re/posts/boring-conversation",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/boring-conversation",
+  "description": "Chat bot designed to facilitate boring conversations.",
+  "credits": "Maja",
+  "added": "",
+  "tags": [
+    "participative",
+    "default-aesthetics",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/boring-conversation/dfd4072536-1662801524/0359_boring-conversation-home-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/boring-conversation/e21e6269a3-1662801537/0359_boring-conversation-post-cover-min.jpg",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:04:30.408Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Boring Conversation",
+        "url": "https://boringconversation.chat/",
+        "body": {
+          "backgroundColor": "rgb(250, 250, 245)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "welcome to...",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "cursive",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "have a conversation",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(250, 250, 245)",
+          "fontFamily": "Times",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "×\n      \n        welcome to...\n        \n        \n          Enter your ScreenName:\n          \n          have a conversati",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "×\n      \n        welcome to...\n        \n        \n          Enter your ScreenName:\n          \n          have a conversati",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 204)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(211, 211, 211) -4px 5px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "welcome to...",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "cursive",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Enter your ScreenName:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(211, 211, 211) -2px 2px 0px 0px inset",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "have a conversation",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Times",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9faeb",
+            "count": 25212
+          },
+          {
+            "hex": "#d6d6b3",
+            "count": 230
+          },
+          {
+            "hex": "#aaaa9a",
+            "count": 147
+          },
+          {
+            "hex": "#b7b7d7",
+            "count": 5
+          },
+          {
+            "hex": "#bbc3b0",
+            "count": 3
+          },
+          {
+            "hex": "#c1bea5",
+            "count": 1
+          },
+          {
+            "hex": "#7e8073",
+            "count": 1
+          },
+          {
+            "hex": "#928b7e",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9faeb",
+            "count": 25212
+          },
+          {
+            "hex": "#d6d6b3",
+            "count": 230
+          },
+          {
+            "hex": "#aaaa9a",
+            "count": 147
+          },
+          {
+            "hex": "#b7b7d7",
+            "count": 5
+          },
+          {
+            "hex": "#bbc3b0",
+            "count": 3
+          },
+          {
+            "hex": "#c1bea5",
+            "count": 1
+          },
+          {
+            "hex": "#7e8073",
+            "count": 1
+          },
+          {
+            "hex": "#928b7e",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Boring Conversation",
+        "url": "https://boringconversation.chat/",
+        "body": {
+          "backgroundColor": "rgb(250, 250, 245)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "welcome to...",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "cursive",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "have a conversation",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(250, 250, 245)",
+          "fontFamily": "Times",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "×\n      \n        welcome to...\n        \n        \n          Enter your ScreenName:\n          \n          have a conversati",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "×\n      \n        welcome to...\n        \n        \n          Enter your ScreenName:\n          \n          have a conversati",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 204)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(211, 211, 211) -4px 5px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "welcome to...",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "cursive",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Enter your ScreenName:",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Arial",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(211, 211, 211) -2px 2px 0px 0px inset",
+            "letterSpacing": "2px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "have a conversation",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(250, 250, 245)",
+            "fontFamily": "Times",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fafbdd",
+            "count": 23907
+          },
+          {
+            "hex": "#d6d6b6",
+            "count": 891
+          },
+          {
+            "hex": "#b2b29c",
+            "count": 498
+          },
+          {
+            "hex": "#74746f",
+            "count": 180
+          },
+          {
+            "hex": "#9c9ee6",
+            "count": 52
+          },
+          {
+            "hex": "#8c8c78",
+            "count": 52
+          },
+          {
+            "hex": "#7374e3",
+            "count": 14
+          },
+          {
+            "hex": "#c6b8ac",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fafbdd",
+            "count": 23907
+          },
+          {
+            "hex": "#d6d6b6",
+            "count": 891
+          },
+          {
+            "hex": "#b2b29c",
+            "count": 498
+          },
+          {
+            "hex": "#74746f",
+            "count": 180
+          },
+          {
+            "hex": "#9c9ee6",
+            "count": 52
+          },
+          {
+            "hex": "#8c8c78",
+            "count": 52
+          },
+          {
+            "hex": "#7374e3",
+            "count": 14
+          },
+          {
+            "hex": "#c6b8ac",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "control-the-virus-03",
+  "title": "Control The Virus 03",
+  "liveUrl": "https://controlthevirus.art/",
+  "domain": "controlthevirus.art",
+  "loadmoreUrl": "https://loadmo.re/posts/control-the-virus-03",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/control-the-virus-03",
+  "description": "Online exhibition bringing you some digital artworks. Feels like floating in a rainbow cotton nest.",
+  "credits": "Jospeh Pleass, innit.__",
+  "added": "",
+  "tags": [
+    "digital-exhibition",
+    "3d-space",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/control-the-virus-03/7340a99787-1617701236/0224-control-the-virus-cover-hp.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/control-the-virus-03/7c9b192789-1617701253/0224-control-the-virus-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:06:53.239Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://controlthevirus.art/\nCall log:\n\u001b[2m  - navigating to \"https://controlthevirus.art/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#dbd3d9",
+            "count": 8813
+          },
+          {
+            "hex": "#d3c9b3",
+            "count": 6212
+          },
+          {
+            "hex": "#d4b8c7",
+            "count": 3206
+          },
+          {
+            "hex": "#ddb8b5",
+            "count": 2346
+          },
+          {
+            "hex": "#b5d0b1",
+            "count": 2192
+          },
+          {
+            "hex": "#a4a1a2",
+            "count": 1523
+          },
+          {
+            "hex": "#b7c3d8",
+            "count": 813
+          },
+          {
+            "hex": "#777377",
+            "count": 495
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#dbd3d9",
+            "count": 8813
+          },
+          {
+            "hex": "#d3c9b3",
+            "count": 6212
+          },
+          {
+            "hex": "#d4b8c7",
+            "count": 3206
+          },
+          {
+            "hex": "#ddb8b5",
+            "count": 2346
+          },
+          {
+            "hex": "#b5d0b1",
+            "count": 2192
+          },
+          {
+            "hex": "#a4a1a2",
+            "count": 1523
+          },
+          {
+            "hex": "#b7c3d8",
+            "count": 813
+          },
+          {
+            "hex": "#777377",
+            "count": 495
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/control-the-virus-03/7340a99787-1617701236/0224-control-the-virus-cover-hp.png"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://controlthevirus.art/\nCall log:\n\u001b[2m  - navigating to \"https://controlthevirus.art/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#dbd3d9",
+            "count": 8813
+          },
+          {
+            "hex": "#d3c9b3",
+            "count": 6212
+          },
+          {
+            "hex": "#d4b8c7",
+            "count": 3206
+          },
+          {
+            "hex": "#ddb8b5",
+            "count": 2346
+          },
+          {
+            "hex": "#b5d0b1",
+            "count": 2192
+          },
+          {
+            "hex": "#a4a1a2",
+            "count": 1523
+          },
+          {
+            "hex": "#b7c3d8",
+            "count": 813
+          },
+          {
+            "hex": "#777377",
+            "count": 495
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#dbd3d9",
+            "count": 8813
+          },
+          {
+            "hex": "#d3c9b3",
+            "count": 6212
+          },
+          {
+            "hex": "#d4b8c7",
+            "count": 3206
+          },
+          {
+            "hex": "#ddb8b5",
+            "count": 2346
+          },
+          {
+            "hex": "#b5d0b1",
+            "count": 2192
+          },
+          {
+            "hex": "#a4a1a2",
+            "count": 1523
+          },
+          {
+            "hex": "#b7c3d8",
+            "count": 813
+          },
+          {
+            "hex": "#777377",
+            "count": 495
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/control-the-virus-03/7340a99787-1617701236/0224-control-the-virus-cover-hp.png"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:32.762Z"
+  }
+}

@@ -1,0 +1,30 @@
+# Commune Inspired Design System
+
+[DESIGN.md](./DESIGN.md) extracted from the public [Commune](http://commune.digitale-grafik.com) website, cross-referenced with [loadmo.re](https://loadmo.re/posts/commune). This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.
+
+## Files
+
+| File | Description |
+|------|-------------|
+| DESIGN.md | Full design-system reference with separate web/mobile guidance |
+| preview.html | Light preview page generated from the extracted tokens |
+| preview-dark.html | Dark preview page generated from the extracted tokens |
+| meta.json | Source metadata, capture checklist, extracted tokens |
+| screenshots/desktop.jpg | Live or archival desktop viewport capture |
+| screenshots/mobile.jpg | Live or archival mobile viewport capture |
+
+## Source Notes
+
+- Tags: arts&culture, colorful, educational
+- Credits: Klasse Digitale Grafik
+- Added to loadmo.re: unknown
+- Capture status: ok
+- Archival fallback: no
+
+## Preview
+
+### Web
+![Commune desktop capture](./screenshots/desktop.jpg)
+
+### Mobile
+![Commune mobile capture](./screenshots/mobile.jpg)

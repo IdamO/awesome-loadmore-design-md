@@ -1,0 +1,197 @@
+{
+  "slug": "imaging-big-numbers",
+  "title": "Imaging Big Numbers",
+  "liveUrl": "https://www.imagingbignumbers.xyz/",
+  "domain": "www.imagingbignumbers.xyz",
+  "loadmoreUrl": "https://loadmo.re/posts/imaging-big-numbers",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/imaging-big-numbers",
+  "description": "An experience to help visitors conceptualize big numbers through interactive visuals and thoughtful text.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "educational",
+    "tactile",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/imaging-big-numbers/ba71f9d408-1730109913/imagingbignumbers-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/imaging-big-numbers/b10d48ad44-1730109934/imagingbignumbers-post-v01.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:13:57.438Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.imagingbignumbers.xyz/\nCall log:\n\u001b[2m  - navigating to \"https://www.imagingbignumbers.xyz/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#100f11",
+            "count": 23560
+          },
+          {
+            "hex": "#575759",
+            "count": 926
+          },
+          {
+            "hex": "#98989c",
+            "count": 430
+          },
+          {
+            "hex": "#2a2845",
+            "count": 201
+          },
+          {
+            "hex": "#26452c",
+            "count": 173
+          },
+          {
+            "hex": "#452130",
+            "count": 120
+          },
+          {
+            "hex": "#38464b",
+            "count": 105
+          },
+          {
+            "hex": "#463845",
+            "count": 85
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#100f11",
+            "count": 23560
+          },
+          {
+            "hex": "#575759",
+            "count": 926
+          },
+          {
+            "hex": "#98989c",
+            "count": 430
+          },
+          {
+            "hex": "#2a2845",
+            "count": 201
+          },
+          {
+            "hex": "#26452c",
+            "count": 173
+          },
+          {
+            "hex": "#452130",
+            "count": 120
+          },
+          {
+            "hex": "#38464b",
+            "count": 105
+          },
+          {
+            "hex": "#463845",
+            "count": 85
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/imaging-big-numbers/ba71f9d408-1730109913/imagingbignumbers-cover-hp-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.imagingbignumbers.xyz/\nCall log:\n\u001b[2m  - navigating to \"https://www.imagingbignumbers.xyz/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#100f11",
+            "count": 23560
+          },
+          {
+            "hex": "#575759",
+            "count": 926
+          },
+          {
+            "hex": "#98989c",
+            "count": 430
+          },
+          {
+            "hex": "#2a2845",
+            "count": 201
+          },
+          {
+            "hex": "#26452c",
+            "count": 173
+          },
+          {
+            "hex": "#452130",
+            "count": 120
+          },
+          {
+            "hex": "#38464b",
+            "count": 105
+          },
+          {
+            "hex": "#463845",
+            "count": 85
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#100f11",
+            "count": 23560
+          },
+          {
+            "hex": "#575759",
+            "count": 926
+          },
+          {
+            "hex": "#98989c",
+            "count": 430
+          },
+          {
+            "hex": "#2a2845",
+            "count": 201
+          },
+          {
+            "hex": "#26452c",
+            "count": 173
+          },
+          {
+            "hex": "#452130",
+            "count": 120
+          },
+          {
+            "hex": "#38464b",
+            "count": 105
+          },
+          {
+            "hex": "#463845",
+            "count": 85
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/imaging-big-numbers/ba71f9d408-1730109913/imagingbignumbers-cover-hp-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:37.163Z"
+  }
+}

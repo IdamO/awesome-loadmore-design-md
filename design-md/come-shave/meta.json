@@ -1,0 +1,312 @@
+{
+  "slug": "come-shave",
+  "title": "Come Shave",
+  "liveUrl": "https://www.comeshave.com/",
+  "domain": "www.comeshave.com",
+  "loadmoreUrl": "https://loadmo.re/posts/come-shave",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/come-shave",
+  "description": "Fancy shaving a website? There you go. Watch out, digital hair's regrowth is quick!",
+  "credits": "Studio Moniker, Alexandra Barancova, Jae Perris",
+  "added": "",
+  "tags": [
+    "tactile",
+    "net.art",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/come-shave/a0fd900476-1631783118/0142-come-shave-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/come-shave/9fe076ccd3-1631783137/0142-come-shave-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:06:54.139Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Come Shave With Me",
+        "url": "https://www.comeshave.com/#unfortunately-muscular-lower-ear",
+        "body": {
+          "backgroundColor": "rgb(128, 217, 147)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "?",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "?",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "gt_alpinalight",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt_alpinalight",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#62a16f",
+            "count": 14652
+          },
+          {
+            "hex": "#78cb8a",
+            "count": 5937
+          },
+          {
+            "hex": "#497452",
+            "count": 1855
+          },
+          {
+            "hex": "#70bc81",
+            "count": 1513
+          },
+          {
+            "hex": "#81db94",
+            "count": 1308
+          },
+          {
+            "hex": "#3c5f43",
+            "count": 206
+          },
+          {
+            "hex": "#35513a",
+            "count": 118
+          },
+          {
+            "hex": "#253929",
+            "count": 11
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#62a16f",
+            "count": 14652
+          },
+          {
+            "hex": "#78cb8a",
+            "count": 5937
+          },
+          {
+            "hex": "#497452",
+            "count": 1855
+          },
+          {
+            "hex": "#70bc81",
+            "count": 1513
+          },
+          {
+            "hex": "#81db94",
+            "count": 1308
+          },
+          {
+            "hex": "#3c5f43",
+            "count": 206
+          },
+          {
+            "hex": "#35513a",
+            "count": 118
+          },
+          {
+            "hex": "#253929",
+            "count": 11
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Come Shave With Me",
+        "url": "https://www.comeshave.com/#awfully-muscular-upper-breast",
+        "body": {
+          "backgroundColor": "rgb(128, 217, 147)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "?",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "?",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "gt_alpinalight",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "gt_alpinalight",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "gt_alpinalight",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#5f9c6c",
+            "count": 10036
+          },
+          {
+            "hex": "#79cc8b",
+            "count": 4254
+          },
+          {
+            "hex": "#477351",
+            "count": 3733
+          },
+          {
+            "hex": "#82dd96",
+            "count": 2785
+          },
+          {
+            "hex": "#314e37",
+            "count": 1792
+          },
+          {
+            "hex": "#3c5f43",
+            "count": 1287
+          },
+          {
+            "hex": "#203023",
+            "count": 889
+          },
+          {
+            "hex": "#70bc81",
+            "count": 824
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#5f9c6c",
+            "count": 10036
+          },
+          {
+            "hex": "#79cc8b",
+            "count": 4254
+          },
+          {
+            "hex": "#477351",
+            "count": 3733
+          },
+          {
+            "hex": "#82dd96",
+            "count": 2785
+          },
+          {
+            "hex": "#314e37",
+            "count": 1792
+          },
+          {
+            "hex": "#3c5f43",
+            "count": 1287
+          },
+          {
+            "hex": "#203023",
+            "count": 889
+          },
+          {
+            "hex": "#70bc81",
+            "count": 824
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

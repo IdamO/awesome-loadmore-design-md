@@ -1,0 +1,569 @@
+{
+  "slug": "paula-de-alvaro",
+  "title": "Paula De Álvaro",
+  "liveUrl": "https://pauladealvaro.com/",
+  "domain": "pauladealvaro.com",
+  "loadmoreUrl": "https://loadmo.re/posts/paula-de-alvaro",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/paula-de-alvaro",
+  "description": "De Álvaro questions the fragility of online protoflios with an absurd and ironic web-folio showcasing her printed instagram archive.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "graphic-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/paula-de-alvaro/21a0ed1285-1747759119/pauladealvaro-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/paula-de-alvaro/f3243af55f-1747759146/pauladealvaro-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:22:37.279Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Paula de Álvaro",
+        "url": "https://pauladealvaro.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "14.5px",
+          "lineHeight": "23.925px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "function NewTab() {\n            window.open(\n                \"https://www.instagram.com/pauladealvaro/\", \"_blank\");\n    ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "14.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.925px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "function NewTab() {\n            window.open(\n                \"https://www.instagram.com/pauladealvaro/\", \"_blank\");\n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.925px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 23646
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 479
+          },
+          {
+            "hex": "#c7c8c7",
+            "count": 348
+          },
+          {
+            "hex": "#a8a8a7",
+            "count": 344
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 323
+          },
+          {
+            "hex": "#b8b8b7",
+            "count": 298
+          },
+          {
+            "hex": "#9a9a99",
+            "count": 150
+          },
+          {
+            "hex": "#c0c0be",
+            "count": 12
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 23646
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 479
+          },
+          {
+            "hex": "#c7c8c7",
+            "count": 348
+          },
+          {
+            "hex": "#a8a8a7",
+            "count": 344
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 323
+          },
+          {
+            "hex": "#b8b8b7",
+            "count": 298
+          },
+          {
+            "hex": "#9a9a99",
+            "count": 150
+          },
+          {
+            "hex": "#c0c0be",
+            "count": 12
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Paula de Álvaro",
+        "url": "https://pauladealvaro.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "function NewTab() {\n            window.open(\n                \"https://www.instagram.com/pauladealvaro/\", \"_blank\");\n    ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "normal",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "TeX Gyre Heros Condensed",
+            "style": "italic",
+            "weight": "bold",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "normal",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Variable",
+            "style": "italic",
+            "weight": "200 1000",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Semi-Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "normal",
+            "weight": "200 700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Diatype Mono Variable",
+            "style": "italic",
+            "weight": "200 700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "function NewTab() {\n            window.open(\n                \"https://www.instagram.com/pauladealvaro/\", \"_blank\");\n    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, \"system-ui\", Inter, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20496
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 1189
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 1171
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 1097
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 1089
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 554
+          },
+          {
+            "hex": "#d5d5d3",
+            "count": 3
+          },
+          {
+            "hex": "#c1c1bf",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 20496
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 1189
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 1171
+          },
+          {
+            "hex": "#b8b8b8",
+            "count": 1097
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 1089
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 554
+          },
+          {
+            "hex": "#d5d5d3",
+            "count": 3
+          },
+          {
+            "hex": "#c1c1bf",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

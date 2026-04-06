@@ -1,0 +1,522 @@
+{
+  "slug": "tin-ed",
+  "title": "Tin & Ed",
+  "liveUrl": "https://tinanded.com/",
+  "domain": "tinanded.com",
+  "loadmoreUrl": "https://loadmo.re/posts/tin-ed",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/tin-ed",
+  "description": "Vibrant abstract 3D shapes that visitors can drag to 'paint' the screen with their trailing patterns.",
+  "credits": "Tin & Ed",
+  "added": "",
+  "tags": [
+    "colorful",
+    "tactile",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/tin-ed/9a3e9cf525-1719046447/0008-tin-ed-cover-hp.png",
+  "previewVideo": "https://loadmo.re/media/pages/posts/tin-ed/d65a917461-1719046435/0008-tin-ed-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:30:04.662Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Tin&Ed",
+        "url": "https://tinanded.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "17.6px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Tin&EdProjectsAboutContactInstagram Tin&Ed         \n\t\t\t{\"status\":200,\"statusText\":\"\",\"headers\":{},\"body\":\"{\\\"data\\\":{\\\"s",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Tin&Ed",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "borderRadius": "9999px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "30px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Untitled Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Untitled Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Tin&EdProjectsAboutContactInstagram Tin&Ed         \n\t\t\t{\"status\":200,\"statusText\":\"\",\"headers\":{},\"body\":\"{\\\"data\\\":{\\\"s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Tin&Ed",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Projects",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfc",
+            "count": 17971
+          },
+          {
+            "hex": "#93a361",
+            "count": 1483
+          },
+          {
+            "hex": "#2b2d24",
+            "count": 1471
+          },
+          {
+            "hex": "#57672b",
+            "count": 1189
+          },
+          {
+            "hex": "#5e665c",
+            "count": 1169
+          },
+          {
+            "hex": "#9ba697",
+            "count": 1109
+          },
+          {
+            "hex": "#d6e7a7",
+            "count": 713
+          },
+          {
+            "hex": "#6c882d",
+            "count": 495
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfc",
+            "count": 17971
+          },
+          {
+            "hex": "#93a361",
+            "count": 1483
+          },
+          {
+            "hex": "#2b2d24",
+            "count": 1471
+          },
+          {
+            "hex": "#57672b",
+            "count": 1189
+          },
+          {
+            "hex": "#5e665c",
+            "count": 1169
+          },
+          {
+            "hex": "#9ba697",
+            "count": 1109
+          },
+          {
+            "hex": "#d6e7a7",
+            "count": 713
+          },
+          {
+            "hex": "#6c882d",
+            "count": 495
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Tin&Ed",
+        "url": "https://tinanded.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "17.6px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Tin&EdProjectsAboutContactInstagram Tin&Ed         \n\t\t\t{\"status\":200,\"statusText\":\"\",\"headers\":{},\"body\":\"{\\\"data\\\":{\\\"s",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "9999px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Tin&Ed",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Untitled Sans\", sans-serif",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "borderRadius": "9999px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "30px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Untitled Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Untitled Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Tin&EdProjectsAboutContactInstagram Tin&Ed         \n\t\t\t{\"status\":200,\"statusText\":\"\",\"headers\":{},\"body\":\"{\\\"data\\\":{\\\"s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Tin&Ed",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "9999px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Untitled Sans\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.6px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#4f364b",
+            "count": 10051
+          },
+          {
+            "hex": "#fcfcfc",
+            "count": 5506
+          },
+          {
+            "hex": "#66505b",
+            "count": 3801
+          },
+          {
+            "hex": "#a59696",
+            "count": 1779
+          },
+          {
+            "hex": "#926f71",
+            "count": 1306
+          },
+          {
+            "hex": "#8f7099",
+            "count": 1147
+          },
+          {
+            "hex": "#352b34",
+            "count": 1040
+          },
+          {
+            "hex": "#48303b",
+            "count": 970
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#4f364b",
+            "count": 10051
+          },
+          {
+            "hex": "#fcfcfc",
+            "count": 5506
+          },
+          {
+            "hex": "#66505b",
+            "count": 3801
+          },
+          {
+            "hex": "#a59696",
+            "count": 1779
+          },
+          {
+            "hex": "#926f71",
+            "count": 1306
+          },
+          {
+            "hex": "#8f7099",
+            "count": 1147
+          },
+          {
+            "hex": "#352b34",
+            "count": 1040
+          },
+          {
+            "hex": "#48303b",
+            "count": 970
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

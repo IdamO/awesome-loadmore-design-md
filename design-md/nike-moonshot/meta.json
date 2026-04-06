@@ -1,0 +1,477 @@
+{
+  "slug": "nike-moonshot",
+  "title": "Nike Moonshot",
+  "liveUrl": "https://johnprovencher.com/moonshot/",
+  "domain": "johnprovencher.com",
+  "loadmoreUrl": "https://loadmo.re/posts/nike-moonshot",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/nike-moonshot",
+  "description": "A Moon generator, that creates a snapshot made of distorted circles.",
+  "credits": "John Provencher",
+  "added": "",
+  "tags": [
+    "net.art",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/nike-moonshot/f077669849-1657206072/0271_nikemoonshot-home-min-0-00-05-00-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/nike-moonshot/1daee6e1f9-1657198455/0271_nikemoonshot-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:48.998Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Page not found",
+        "url": "https://johnprovencher.com/moonshot/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(53, 58, 62)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Page not found",
+          "color": "rgb(53, 58, 62)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist on this site.",
+          "color": "rgb(53, 58, 62)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "“page not found” support guide",
+          "color": "rgb(2, 128, 125)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "21px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Page not found\n        \n          Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Page not found\n        \n          Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "rgba(53, 58, 62, 0.06) 0px 1px 10px 0px, rgba(53, 58, 62, 0.08) 0px 2px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "Page not found",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist on this site.",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If this is your site, and you weren’t expecting a 404 for this path,\n          please visit Netlify’s\n          “page no",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "“page not found” support guide",
+            "color": "rgb(2, 128, 125)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25440
+          },
+          {
+            "hex": "#a9adaf",
+            "count": 122
+          },
+          {
+            "hex": "#accdcb",
+            "count": 24
+          },
+          {
+            "hex": "#77b6b3",
+            "count": 8
+          },
+          {
+            "hex": "#8ac0bf",
+            "count": 2
+          },
+          {
+            "hex": "#7c7f82",
+            "count": 2
+          },
+          {
+            "hex": "#bebfc1",
+            "count": 1
+          },
+          {
+            "hex": "#767a7c",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25440
+          },
+          {
+            "hex": "#a9adaf",
+            "count": 122
+          },
+          {
+            "hex": "#accdcb",
+            "count": 24
+          },
+          {
+            "hex": "#77b6b3",
+            "count": 8
+          },
+          {
+            "hex": "#8ac0bf",
+            "count": 2
+          },
+          {
+            "hex": "#7c7f82",
+            "count": 2
+          },
+          {
+            "hex": "#bebfc1",
+            "count": 1
+          },
+          {
+            "hex": "#767a7c",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Page not found",
+        "url": "https://johnprovencher.com/moonshot/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(53, 58, 62)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Page not found",
+          "color": "rgb(53, 58, 62)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist on this site.",
+          "color": "rgb(53, 58, 62)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "“page not found” support guide",
+          "color": "rgb(2, 128, 125)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "21px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Page not found\n        \n          Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Page not found\n        \n          Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "rgba(53, 58, 62, 0.06) 0px 1px 10px 0px, rgba(53, 58, 62, 0.08) 0px 2px 4px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "h1",
+            "text": "Page not found",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Looks like you’ve followed a broken link or entered a URL that doesn’t\n          exist on this site.",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "If this is your site, and you weren’t expecting a 404 for this path,\n          please visit Netlify’s\n          “page no",
+            "color": "rgb(53, 58, 62)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "“page not found” support guide",
+            "color": "rgb(2, 128, 125)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 24590
+          },
+          {
+            "hex": "#a3a5a7",
+            "count": 718
+          },
+          {
+            "hex": "#a8cdcc",
+            "count": 133
+          },
+          {
+            "hex": "#66a5a3",
+            "count": 65
+          },
+          {
+            "hex": "#616568",
+            "count": 53
+          },
+          {
+            "hex": "#bdbec0",
+            "count": 20
+          },
+          {
+            "hex": "#33383c",
+            "count": 14
+          },
+          {
+            "hex": "#86c0be",
+            "count": 7
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 24590
+          },
+          {
+            "hex": "#a3a5a7",
+            "count": 718
+          },
+          {
+            "hex": "#a8cdcc",
+            "count": 133
+          },
+          {
+            "hex": "#66a5a3",
+            "count": 65
+          },
+          {
+            "hex": "#616568",
+            "count": 53
+          },
+          {
+            "hex": "#bdbec0",
+            "count": 20
+          },
+          {
+            "hex": "#33383c",
+            "count": 14
+          },
+          {
+            "hex": "#86c0be",
+            "count": 7
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

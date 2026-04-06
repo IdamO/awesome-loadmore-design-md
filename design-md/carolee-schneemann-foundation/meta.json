@@ -1,0 +1,942 @@
+{
+  "slug": "carolee-schneemann-foundation",
+  "title": "Carolee Schneemann Foundation",
+  "liveUrl": "http://www.schneemannfoundation.org/",
+  "domain": "www.schneemannfoundation.org",
+  "loadmoreUrl": "https://loadmo.re/posts/carolee-schneemann-foundation",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/carolee-schneemann-foundation",
+  "description": "Just very great graphics, with nice gradient animation that makes the UI",
+  "credits": "Ayham Ghraowi, Matt Wolff",
+  "added": "",
+  "tags": [
+    "photography",
+    "portfolio",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/carolee-schneemann-foundation/bca8d55de2-1644579549/0302-carolee-scheemann-foundation-post-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/carolee-schneemann-foundation/56d3059821-1644579545/0302-carolee-scheemann-foundation-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:05:26.996Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Carolee Schneemann Foundation",
+        "url": "https://www.schneemannfoundation.org/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "19px",
+          "lineHeight": "23.75px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Carolee Schneemann artwork writing chronology bibliography oral history  Foundation  Historic Artists’ Homes and Studios",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "19px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.75px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(169, 169, 169)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "16.625px",
+          "fontWeight": "700",
+          "borderRadius": "50%",
+          "boxShadow": "rgba(255, 255, 255, 0.75) 0px 0px 8px 0px inset",
+          "letterSpacing": "normal",
+          "lineHeight": "16.625px",
+          "display": "flex",
+          "position": "fixed"
+        },
+        "link": {
+          "tag": "a",
+          "text": "artwork",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "13.3px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.931px",
+          "lineHeight": "16.625px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "FreeSans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSerif",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSerif",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Carolee Schneemann artwork writing chronology bibliography oral history  Foundation  Historic Artists’ Homes and Studios",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "ul",
+            "text": "artwork writing chronology bibliography oral history",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "artwork",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "writing",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "chronology",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "bibliography",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "oral history",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Historic Artists’ Homes and Studios Affiliate Member",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "ul",
+            "text": "news mission contact residency newsletter search",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "news",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "mission",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "contact",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "residency",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "newsletter",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "search",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.931px",
+            "lineHeight": "16.625px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(169, 169, 169)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "16.625px",
+            "fontWeight": "700",
+            "borderRadius": "50%",
+            "boxShadow": "rgba(255, 255, 255, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "16.625px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "main",
+            "text": "▶ Four Fur Cutting Boards, 1962  ▶ ABC – We Print Anything – In the Cards, 1977  ▶ ABC – We Print Anything – In the Card",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶ Four Fur Cutting Boards, 1962",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ ABC – We Print Anything – In the Cards, 1977",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ ABC – We Print Anything – In the Cards, 1977",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ Colorado House, 1962",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "inline-flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#edece9",
+            "count": 12619
+          },
+          {
+            "hex": "#eae695",
+            "count": 3308
+          },
+          {
+            "hex": "#a8a29b",
+            "count": 2991
+          },
+          {
+            "hex": "#685d59",
+            "count": 2038
+          },
+          {
+            "hex": "#e0e477",
+            "count": 1344
+          },
+          {
+            "hex": "#936760",
+            "count": 1278
+          },
+          {
+            "hex": "#9f9463",
+            "count": 1160
+          },
+          {
+            "hex": "#282021",
+            "count": 862
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#edece9",
+            "count": 12619
+          },
+          {
+            "hex": "#eae695",
+            "count": 3308
+          },
+          {
+            "hex": "#a8a29b",
+            "count": 2991
+          },
+          {
+            "hex": "#685d59",
+            "count": 2038
+          },
+          {
+            "hex": "#e0e477",
+            "count": 1344
+          },
+          {
+            "hex": "#936760",
+            "count": 1278
+          },
+          {
+            "hex": "#9f9463",
+            "count": 1160
+          },
+          {
+            "hex": "#282021",
+            "count": 862
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Carolee Schneemann Foundation",
+        "url": "https://www.schneemannfoundation.org/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "19px",
+          "lineHeight": "23.75px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Carolee Schneemann  Menu  Foundation  Historic Artists’ Homes and Studios Affiliate Member     ▶ ABC – We Print Anything",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "19px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "23.75px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(169, 169, 169)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "16.625px",
+          "fontWeight": "700",
+          "borderRadius": "50%",
+          "boxShadow": "rgba(255, 255, 255, 0.75) 0px 0px 8px 0px inset",
+          "letterSpacing": "normal",
+          "lineHeight": "16.625px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Historic Artists’ Homes and Studios Affiliate Member",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "FreeSans, Helvetica, sans-serif",
+          "fontSize": "14.25px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17.8125px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "FreeSans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "FreeSans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSerif",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "FreeSerif",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Carolee Schneemann  Menu  Foundation  Historic Artists’ Homes and Studios Affiliate Member     ▶ ABC – We Print Anything",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.75px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(169, 169, 169)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "16.625px",
+            "fontWeight": "700",
+            "borderRadius": "50%",
+            "boxShadow": "rgba(255, 255, 255, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "16.625px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Menu",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "13.3px",
+            "fontWeight": "700",
+            "borderRadius": "4px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "0.931px",
+            "lineHeight": "13.3px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Historic Artists’ Homes and Studios Affiliate Member",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "14.25px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17.8125px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "main",
+            "text": "▶ ABC – We Print Anything – In the Cards, 1977  ▶ Infinity Kisses – The Movie, 2008  ▶ ABC – We Print Anything – In the ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "9.5px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.875px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶ ABC – We Print Anything – In the Cards, 1977",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "9.5px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.875px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "11.875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "14.8438px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ Infinity Kisses – The Movie, 2008",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "9.5px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.875px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "11.875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "14.8438px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ ABC – We Print Anything – In the Cards, 1977",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "9.5px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.875px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "11.875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "14.8438px",
+            "display": "inline-flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "▶ Parts of a Body House, 1966",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "9.5px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.875px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "▶",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "FreeSans, Helvetica, sans-serif",
+            "fontSize": "11.875px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.75) 0px 0px 8px 0px inset",
+            "letterSpacing": "normal",
+            "lineHeight": "14.8438px",
+            "display": "inline-flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1f1ef",
+            "count": 10729
+          },
+          {
+            "hex": "#89bcd2",
+            "count": 4557
+          },
+          {
+            "hex": "#281f26",
+            "count": 3034
+          },
+          {
+            "hex": "#a6a5a4",
+            "count": 1943
+          },
+          {
+            "hex": "#6a93a9",
+            "count": 1771
+          },
+          {
+            "hex": "#5f5b5c",
+            "count": 1696
+          },
+          {
+            "hex": "#9dc7d9",
+            "count": 1385
+          },
+          {
+            "hex": "#8d7264",
+            "count": 485
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f1ef",
+            "count": 10729
+          },
+          {
+            "hex": "#89bcd2",
+            "count": 4557
+          },
+          {
+            "hex": "#281f26",
+            "count": 3034
+          },
+          {
+            "hex": "#a6a5a4",
+            "count": 1943
+          },
+          {
+            "hex": "#6a93a9",
+            "count": 1771
+          },
+          {
+            "hex": "#5f5b5c",
+            "count": 1696
+          },
+          {
+            "hex": "#9dc7d9",
+            "count": 1385
+          },
+          {
+            "hex": "#8d7264",
+            "count": 485
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

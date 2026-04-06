@@ -1,0 +1,267 @@
+{
+  "slug": "messenger",
+  "title": "Messenger",
+  "liveUrl": "https://messenger.abeto.co/",
+  "domain": "messenger.abeto.co",
+  "loadmoreUrl": "https://loadmo.re/posts/messenger",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/messenger",
+  "description": "It's a small planet, but someone's gotta make the deliveries. Chill, lo-fi browser game with beautiful sound design.",
+  "credits": "Abeto",
+  "added": "",
+  "tags": [
+    "game",
+    "sound-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/messenger/a91a989b5e-1765558543/messenger-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/messenger/3725605bad-1765558431/messenger-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:18:17.679Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Messenger",
+        "url": "https://messenger.abeto.co/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "/* js */\n        div#webgl {\n            display: block;\n            position: absolute;\n            width: 100%;\n      ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "/* js */\n        div#webgl {\n            display: block;\n            position: absolute;\n            width: 100%;\n      ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25534
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 19
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 14
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 14
+          },
+          {
+            "hex": "#b9b9b9",
+            "count": 12
+          },
+          {
+            "hex": "#ababab",
+            "count": 3
+          },
+          {
+            "hex": "#8a8a8a",
+            "count": 2
+          },
+          {
+            "hex": "#939393",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25534
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 19
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 14
+          },
+          {
+            "hex": "#d8d8d8",
+            "count": 14
+          },
+          {
+            "hex": "#b9b9b9",
+            "count": 12
+          },
+          {
+            "hex": "#ababab",
+            "count": 3
+          },
+          {
+            "hex": "#8a8a8a",
+            "count": 2
+          },
+          {
+            "hex": "#939393",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Messenger",
+        "url": "https://messenger.abeto.co/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "/* js */\n        div#webgl {\n            display: block;\n            position: absolute;\n            width: 100%;\n      ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "/* js */\n        div#webgl {\n            display: block;\n            position: absolute;\n            width: 100%;\n      ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25383
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 39
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 35
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 33
+          },
+          {
+            "hex": "#656565",
+            "count": 31
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 29
+          },
+          {
+            "hex": "#979797",
+            "count": 29
+          },
+          {
+            "hex": "#d6d6d6",
+            "count": 21
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25383
+          },
+          {
+            "hex": "#9f9f9f",
+            "count": 39
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 35
+          },
+          {
+            "hex": "#c8c8c8",
+            "count": 33
+          },
+          {
+            "hex": "#656565",
+            "count": 31
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 29
+          },
+          {
+            "hex": "#979797",
+            "count": 29
+          },
+          {
+            "hex": "#d6d6d6",
+            "count": 21
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

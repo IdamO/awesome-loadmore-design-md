@@ -1,0 +1,4949 @@
+{
+  "slug": "open-foundry",
+  "title": "Open Foundry",
+  "liveUrl": "https://open-foundry.com",
+  "domain": "open-foundry.com",
+  "loadmoreUrl": "https://loadmo.re/posts/open-foundry",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/open-foundry",
+  "description": "Curation of free fonts that look cool, with a sleek interface.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "graphic-design",
+    "typography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/open-foundry/1b85ab1adc-1607344375/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/open-foundry/d1ec04b82e-1607344391/open-foundry-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:22:00.798Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Open Foundry | Curated Fonts for Free",
+        "url": "https://open-foundry.com/",
+        "body": {
+          "backgroundColor": "oklch(0.96 0.003 264)",
+          "color": "oklch(0.2 0.002 264)",
+          "fontFamily": "Mirage",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Free Fonts_",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Index",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.44px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Updates on new free fonts,and their creators.",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Index",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.44px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Fonts",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+          "fontFamily": "Mirage",
+          "fontSize": "15px",
+          "fontWeight": "450",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "letterSpacing": "0%",
+          "lineHeight": "21px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Open Foundry",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Mirage",
+          "fontSize": "15px",
+          "fontWeight": "450",
+          "borderRadius": "16px",
+          "boxShadow": "none",
+          "letterSpacing": "0%",
+          "lineHeight": "21px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Mirage",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Index",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Index",
+            "style": "italic",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "bagnard",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "bluu-next",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "bluu-next",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cotham-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "900",
+            "status": "loaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "junicode",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "reglo",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "terminal-grotesque",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "terminal-grotesque-open",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "young-serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Open Foundry FontsAbout Subscribe  Open Foundry Free Fonts_M+ M Type-1Regular48M+ M Type-1by Coji Morishita Explore Arch",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.96 0.003 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Open Foundry FontsAbout Subscribe",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Open Foundry",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "15px",
+            "fontWeight": "450",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "21px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Fonts",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "15px",
+            "fontWeight": "450",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "21px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "About",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "15px",
+            "fontWeight": "450",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "21px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "Subscribe",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "15px",
+            "fontWeight": "450",
+            "borderRadius": "16px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "21px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "Free Fonts_M+ M Type-1Regular48M+ M Type-1by Coji Morishita Explore ArchivoRegular144Archivoby Hector Gatti Explore Aile",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Free Fonts_M+ M Type-1Regular48M+ M Type-1by Coji Morishita Explore ArchivoRegular144Archivoby Hector Gatti Explore Aile",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Free Fonts_M+ M Type-1Regular48M+ M Type-1by Coji Morishita Explore ArchivoRegular144Archivoby Hector Gatti Explore Aile",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Free Fonts_",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "M+ M Type-1Regular48M+ M Type-1by Coji Morishita Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "M+ M Type-1",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "ArchivoRegular144Archivoby Hector Gatti Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Archivo",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "AileronRegular112Aileronby Sori Sagano Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Aileron",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Bluu NextBold144Bluu Nextby Jean-Baptiste Morizot Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Bluu Next",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Work SansRegular96Work Sansby Wei Huang Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Work Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Tex Gyre HerosRegular96Tex Gyre Herosby Boguslaw Jackowski +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Tex Gyre Heros",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Terminal GrotesqueRegular128Terminal Grotesqueby Raphaël Bastide +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Terminal Grotesque",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "RobotoSemibold128Robotoby Christian Robertson Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Roboto",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "RegloBold160Regloby Sebastien Sanfilippo Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Reglo",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "PoppinsRegular128Poppinsby Jonny Pinhorn +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Poppins",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "OswaldRegular160Oswaldby Vernon Adams +3 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Oswald",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Ostrich SansLight160Ostrich Sansby Tyler Finck Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Ostrich Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Young SerifRegular128Young Serifby Bastien Sozeau Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Young Serif",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Office Code ProRegular32Office Code Proby Nathan Rutzky Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Office Code Pro",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Nimbus Sans LBold112Nimbus Sans Lby URW Type Foundry Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Nimbus Sans L",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Libre BaskervilleRegular96Libre Baskervilleby Pablo Impallari +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Libre Baskerville",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Liberation SansRegular112Liberation Sansby Steve Matteson Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "Liberation Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "League GothicItalic160League Gothicby Tyler Finck +3 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.4 0.01 264 / 0.12)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1f2f4",
+            "count": 13643
+          },
+          {
+            "hex": "#686968",
+            "count": 6551
+          },
+          {
+            "hex": "#15220f",
+            "count": 1981
+          },
+          {
+            "hex": "#760607",
+            "count": 1734
+          },
+          {
+            "hex": "#19511d",
+            "count": 945
+          },
+          {
+            "hex": "#82080c",
+            "count": 261
+          },
+          {
+            "hex": "#4a4d34",
+            "count": 259
+          },
+          {
+            "hex": "#a19e9c",
+            "count": 226
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f2f4",
+            "count": 13643
+          },
+          {
+            "hex": "#686968",
+            "count": 6551
+          },
+          {
+            "hex": "#15220f",
+            "count": 1981
+          },
+          {
+            "hex": "#760607",
+            "count": 1734
+          },
+          {
+            "hex": "#19511d",
+            "count": 945
+          },
+          {
+            "hex": "#82080c",
+            "count": 261
+          },
+          {
+            "hex": "#4a4d34",
+            "count": 259
+          },
+          {
+            "hex": "#a19e9c",
+            "count": 226
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Open Foundry | Curated Fonts for Free",
+        "url": "https://open-foundry.com/",
+        "body": {
+          "backgroundColor": "oklch(0.96 0.003 264)",
+          "color": "oklch(0.2 0.002 264)",
+          "fontFamily": "Mirage",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Free Fonts_",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Index",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.44px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Updates on new free fonts,and their creators.",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Index",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.44px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Subscribe",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "oklch(0.2 0.002 264)",
+          "fontFamily": "Mirage",
+          "fontSize": "16px",
+          "fontWeight": "450",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "letterSpacing": "0%",
+          "lineHeight": "22.4px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Open Foundry",
+          "color": "oklch(0.2 0.002 264)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Mirage",
+          "fontSize": "16px",
+          "fontWeight": "450",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "letterSpacing": "0%",
+          "lineHeight": "22.4px",
+          "display": "flex",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Mirage",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Index",
+            "style": "normal",
+            "weight": "100 900",
+            "status": "loaded"
+          },
+          {
+            "family": "Index",
+            "style": "italic",
+            "weight": "100 900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "aileron",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "archivo",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "bagnard",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "bluu-next",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "bluu-next",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cotham-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "cooper-hewitt",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "eb-garamond",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "gap-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "inter",
+            "style": "normal",
+            "weight": "900",
+            "status": "loaded"
+          },
+          {
+            "family": "inter",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "junicode",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "junicode",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "league-gothic",
+            "style": "italic",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "liberation-sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "libre-baskerville",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "mplus-mtype-1",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "nimbus-sans-l",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "office-code-pro",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "ostrich-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "oswald",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "reglo",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "roboto",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "terminal-grotesque",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "terminal-grotesque-open",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "tex-gyre-heros-condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "work-sans",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "young-serif",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Open Foundry FontsAbout Subscribe  Open Foundry Free Fonts_M+ M Type-1Regular24M+ M Type-1by Coji Morishita Explore Arch",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "oklch(0.96 0.003 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Open Foundry",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Open Foundry",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "Free Fonts_M+ M Type-1Regular24M+ M Type-1by Coji Morishita Explore ArchivoRegular72Archivoby Hector Gatti Explore Ailer",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Free Fonts_M+ M Type-1Regular24M+ M Type-1by Coji Morishita Explore ArchivoRegular72Archivoby Hector Gatti Explore Ailer",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Free Fonts_M+ M Type-1Regular24M+ M Type-1by Coji Morishita Explore ArchivoRegular72Archivoby Hector Gatti Explore Ailer",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Free Fonts_",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.44px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "M+ M Type-1Regular24M+ M Type-1by Coji Morishita Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "M+ M Type-1",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "ArchivoRegular72Archivoby Hector Gatti Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Archivo",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "AileronRegular56Aileronby Sori Sagano Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Aileron",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Bluu NextBold72Bluu Nextby Jean-Baptiste Morizot Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Bluu Next",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Work SansRegular48Work Sansby Wei Huang Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Work Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Tex Gyre HerosRegular48Tex Gyre Herosby Boguslaw Jackowski +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Tex Gyre Heros",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Terminal GrotesqueRegular64Terminal Grotesqueby Raphaël Bastide +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Terminal Grotesque",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "RobotoSemibold64Robotoby Christian Robertson Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Roboto",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "RegloBold80Regloby Sebastien Sanfilippo Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Reglo",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "PoppinsRegular64Poppinsby Jonny Pinhorn +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Poppins",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "OswaldRegular80Oswaldby Vernon Adams +3 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Oswald",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Ostrich SansLight80Ostrich Sansby Tyler Finck Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Ostrich Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Young SerifRegular64Young Serifby Bastien Sozeau Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Young Serif",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Office Code ProRegular16Office Code Proby Nathan Rutzky Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Office Code Pro",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Nimbus Sans LBold56Nimbus Sans Lby URW Type Foundry Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Nimbus Sans L",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Libre BaskervilleRegular48Libre Baskervilleby Pablo Impallari +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Libre Baskerville",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Liberation SansRegular56Liberation Sansby Steve Matteson Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Liberation Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "League GothicItalic80League Gothicby Tyler Finck +3 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "League Gothic",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "JunicodeRegular72Junicodeby Peter Baker Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Junicode",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "InterBlack72Interby Rasmus Andersson Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Inter",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Gap SansBold64Gap Sansby Alexandre Liziard +2 Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Gap Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "EB GaramondRegular64EB Garamondby Georg Duffner Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "EB Garamond",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Cotham SansRegular56Cotham Sansby Sebastien Sanfilippo Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Cotham Sans",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "Cooper HewittMedium64Cooper Hewittby Chester Jenkins Explore",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Cooper Hewitt",
+            "color": "oklch(0.2 0.002 264)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Index",
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Explore",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "oklch(0.2 0.002 264)",
+            "fontFamily": "Mirage",
+            "fontSize": "16px",
+            "fontWeight": "450",
+            "borderRadius": "18px",
+            "boxShadow": "none",
+            "letterSpacing": "0%",
+            "lineHeight": "22.4px",
+            "display": "flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1f2f4",
+            "count": 12899
+          },
+          {
+            "hex": "#696b6b",
+            "count": 5842
+          },
+          {
+            "hex": "#780204",
+            "count": 3764
+          },
+          {
+            "hex": "#191615",
+            "count": 1644
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 507
+          },
+          {
+            "hex": "#274c2b",
+            "count": 382
+          },
+          {
+            "hex": "#81050c",
+            "count": 372
+          },
+          {
+            "hex": "#4d4d35",
+            "count": 190
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1f2f4",
+            "count": 12899
+          },
+          {
+            "hex": "#696b6b",
+            "count": 5842
+          },
+          {
+            "hex": "#780204",
+            "count": 3764
+          },
+          {
+            "hex": "#191615",
+            "count": 1644
+          },
+          {
+            "hex": "#a2a2a2",
+            "count": 507
+          },
+          {
+            "hex": "#274c2b",
+            "count": 382
+          },
+          {
+            "hex": "#81050c",
+            "count": 372
+          },
+          {
+            "hex": "#4d4d35",
+            "count": 190
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

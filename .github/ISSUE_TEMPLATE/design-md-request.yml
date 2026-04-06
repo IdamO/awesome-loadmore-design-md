@@ -1,0 +1,20 @@
+name: Design MD request
+description: Request a new DESIGN.md extraction for a site that is not yet in the archive.
+title: "[design-md]: "
+labels:
+  - design-md-request
+body:
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this site belongs in the archive
+      description: Describe the design language, not the company pitch.
+    validations:
+      required: true

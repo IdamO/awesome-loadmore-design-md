@@ -1,0 +1,717 @@
+{
+  "slug": "andrea-perato",
+  "title": "Andrea Perato",
+  "liveUrl": "http://andreaperato.com/",
+  "domain": "andreaperato.com",
+  "loadmoreUrl": "https://loadmo.re/posts/andrea-perato",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/andrea-perato",
+  "description": "A google sheets iframe portfolio.",
+  "credits": "Andrea Perato",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/andrea-perato/4251ba7d8e-1767801182/andreaperato-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/andrea-perato/5729c27bf7-1767801192/andreaperato-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:01:46.465Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Andrea Perato",
+        "url": "https://www.andreaperato.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Informativa",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "UnifrakturCook, \"Vampiro One\"",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "98px",
+          "display": "inline",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Noi   e terze parti selezionate  raccogliamo informazioni personali e utilizziamo cookie o tecnologie simili  per finali",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Non vendere le mie informazioni personali",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "cookie policy",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "(function (w,d) {var loader = function () {var s = d.createElement(\"script\"), tag = d.getElementsByTagName(\"script\")[0];",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Informativa",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "UnifrakturCook, \"Vampiro One\"",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "98px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Noi   e terze parti selezionate  raccogliamo informazioni personali e utilizziamo cookie o tecnologie simili  per finali",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cookie policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "In caso di vendita di informazioni personali, puoi fare opt-out utilizzando il link \"Non vendere le mie informazioni per",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Non vendere le mie informazioni personali",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Per saperne di più sulle categorie di informazioni personali raccolte e sulle finalità per le quali tali informazioni sa",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "privacy policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Usa il pulsante “Accetta” per acconsentire. Usa il pulsante “Rifiuta”  per continuare senza accettare.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Scopri di più",
+            "color": "rgb(77, 77, 77)",
+            "backgroundColor": "rgb(218, 218, 218)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Rifiuta",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 115, 206)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Accetta",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 115, 206)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Created with iubenda(il link si apre in una nuova scheda)",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "rgba(0, 0, 0, 0.1) 0px 0px 16px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f7f7f7",
+            "count": 21239
+          },
+          {
+            "hex": "#0b0b0b",
+            "count": 1565
+          },
+          {
+            "hex": "#a4a4a4",
+            "count": 1530
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 757
+          },
+          {
+            "hex": "#9cb7d5",
+            "count": 164
+          },
+          {
+            "hex": "#0070cd",
+            "count": 148
+          },
+          {
+            "hex": "#b0c6dd",
+            "count": 120
+          },
+          {
+            "hex": "#2d89d1",
+            "count": 77
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f7f7f7",
+            "count": 21239
+          },
+          {
+            "hex": "#0b0b0b",
+            "count": 1565
+          },
+          {
+            "hex": "#a4a4a4",
+            "count": 1530
+          },
+          {
+            "hex": "#5e5e5e",
+            "count": 757
+          },
+          {
+            "hex": "#9cb7d5",
+            "count": 164
+          },
+          {
+            "hex": "#0070cd",
+            "count": 148
+          },
+          {
+            "hex": "#b0c6dd",
+            "count": 120
+          },
+          {
+            "hex": "#2d89d1",
+            "count": 77
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Andrea Perato",
+        "url": "https://www.andreaperato.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Informativa",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "UnifrakturCook, \"Vampiro One\"",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "66.4px",
+          "display": "inline",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Noi   e terze parti selezionate  raccogliamo informazioni personali e utilizziamo cookie o tecnologie simili  per finali",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Non vendere le mie informazioni personali",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "cookie policy",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "-apple-system, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.6px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "(function (w,d) {var loader = function () {var s = d.createElement(\"script\"), tag = d.getElementsByTagName(\"script\")[0];",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Informativa",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "UnifrakturCook, \"Vampiro One\"",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "66.4px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Noi   e terze parti selezionate  raccogliamo informazioni personali e utilizziamo cookie o tecnologie simili  per finali",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "cookie policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "In caso di vendita di informazioni personali, puoi fare opt-out utilizzando il link \"Non vendere le mie informazioni per",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Non vendere le mie informazioni personali",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Per saperne di più sulle categorie di informazioni personali raccolte e sulle finalità per le quali tali informazioni sa",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "privacy policy",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Usa il pulsante “Accetta” per acconsentire. Usa il pulsante “Rifiuta”  per continuare senza accettare.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Scopri di più",
+            "color": "rgb(77, 77, 77)",
+            "backgroundColor": "rgb(218, 218, 218)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Rifiuta",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 115, 206)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Accetta",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 115, 206)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "700",
+            "borderRadius": "64px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Created with iubenda(il link si apre in una nuova scheda)",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "-apple-system, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "6px",
+            "boxShadow": "rgba(0, 0, 0, 0.1) 0px 0px 16px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f5f5",
+            "count": 19942
+          },
+          {
+            "hex": "#a4a4a4",
+            "count": 2910
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 1120
+          },
+          {
+            "hex": "#0172cd",
+            "count": 962
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 414
+          },
+          {
+            "hex": "#acd1e9",
+            "count": 170
+          },
+          {
+            "hex": "#5fa5da",
+            "count": 51
+          },
+          {
+            "hex": "#2385d2",
+            "count": 31
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f4f5f5",
+            "count": 19942
+          },
+          {
+            "hex": "#a4a4a4",
+            "count": 2910
+          },
+          {
+            "hex": "#5f5f5f",
+            "count": 1120
+          },
+          {
+            "hex": "#0172cd",
+            "count": 962
+          },
+          {
+            "hex": "#3a3a3a",
+            "count": 414
+          },
+          {
+            "hex": "#acd1e9",
+            "count": 170
+          },
+          {
+            "hex": "#5fa5da",
+            "count": 51
+          },
+          {
+            "hex": "#2385d2",
+            "count": 31
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

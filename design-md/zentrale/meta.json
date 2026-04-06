@@ -1,0 +1,368 @@
+{
+  "slug": "zentrale",
+  "title": "Zentrale",
+  "liveUrl": "http://www.zentrale-karlsruhe.com/",
+  "domain": "www.zentrale-karlsruhe.com",
+  "loadmoreUrl": "https://loadmo.re/posts/zentrale",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/zentrale",
+  "description": "A bookshop-inspired site where content is creatively framed like windows or book covers.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "minimal",
+    "graphic-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/zentrale/2164967cdd-1737744697/zentrale-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/zentrale/9c48c25154-1737744603/zentrale-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:33:38.543Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Start",
+        "url": "http://www.zentrale-karlsruhe.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 0, 0)",
+          "fontFamily": "Zentrale, Courier-New, monospace",
+          "fontSize": "31.68px",
+          "lineHeight": "34.848px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": ".st0{fill:#FFFFFF;}\n\t.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;}\n\t.st2{fill:none;}\n\t.st3{fill:none;stroke:#FF00",
+          "color": "rgb(255, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Zentrale, Courier-New, monospace",
+          "fontSize": "31.68px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "34.848px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "am-controls",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Zentrale",
+            "style": "normal",
+            "weight": "normal",
+            "status": "error"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".st0{fill:#FFFFFF;}\n\t.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;}\n\t.st2{fill:none;}\n\t.st3{fill:none;stroke:#FF00",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "31.68px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "34.848px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefdfd",
+            "count": 19421
+          },
+          {
+            "hex": "#f6e7e7",
+            "count": 3383
+          },
+          {
+            "hex": "#f3d8d8",
+            "count": 1464
+          },
+          {
+            "hex": "#f2d8d8",
+            "count": 906
+          },
+          {
+            "hex": "#edd6d6",
+            "count": 359
+          },
+          {
+            "hex": "#ecb9b9",
+            "count": 53
+          },
+          {
+            "hex": "#efc0be",
+            "count": 8
+          },
+          {
+            "hex": "#ecbec0",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefdfd",
+            "count": 19421
+          },
+          {
+            "hex": "#f6e7e7",
+            "count": 3383
+          },
+          {
+            "hex": "#f3d8d8",
+            "count": 1464
+          },
+          {
+            "hex": "#f2d8d8",
+            "count": 906
+          },
+          {
+            "hex": "#edd6d6",
+            "count": 359
+          },
+          {
+            "hex": "#ecb9b9",
+            "count": 53
+          },
+          {
+            "hex": "#efc0be",
+            "count": 8
+          },
+          {
+            "hex": "#ecbec0",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Start",
+        "url": "http://www.zentrale-karlsruhe.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 0, 0)",
+          "fontFamily": "Zentrale, Courier-New, monospace",
+          "fontSize": "19.5px",
+          "lineHeight": "21.45px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": ".st0{fill:#FFFFFF;}\n\t.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;}\n\t.st2{fill:none;}\n\t.st3{fill:none;stroke:#FF00",
+          "color": "rgb(255, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Zentrale, Courier-New, monospace",
+          "fontSize": "19.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "21.45px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": ".st0 {\n                        fill: white !important;\n                    }\n\n                    .st1 {\n               ",
+          "color": "rgb(255, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Zentrale, Courier-New, monospace",
+          "fontSize": "19.5px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "1px",
+          "lineHeight": "21.45px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "am-controls",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Zentrale",
+            "style": "normal",
+            "weight": "normal",
+            "status": "error"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": ".st0{fill:#FFFFFF;}\n\t.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;}\n\t.st2{fill:none;}\n\t.st3{fill:none;stroke:#FF00",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "21.45px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": ".st0 {\n                        fill: white !important;\n                    }\n\n                    .st1 {\n               ",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "21.45px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "21.45px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "21.45px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Zentrale, Courier-New, monospace",
+            "fontSize": "19.5px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "21.45px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefd",
+            "count": 19364
+          },
+          {
+            "hex": "#f6d9d8",
+            "count": 5030
+          },
+          {
+            "hex": "#f0acab",
+            "count": 1146
+          },
+          {
+            "hex": "#f3c0be",
+            "count": 39
+          },
+          {
+            "hex": "#ee7978",
+            "count": 13
+          },
+          {
+            "hex": "#f2bfc0",
+            "count": 5
+          },
+          {
+            "hex": "#ec7f80",
+            "count": 2
+          },
+          {
+            "hex": "#ee807f",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefd",
+            "count": 19364
+          },
+          {
+            "hex": "#f6d9d8",
+            "count": 5030
+          },
+          {
+            "hex": "#f0acab",
+            "count": 1146
+          },
+          {
+            "hex": "#f3c0be",
+            "count": 39
+          },
+          {
+            "hex": "#ee7978",
+            "count": 13
+          },
+          {
+            "hex": "#f2bfc0",
+            "count": 5
+          },
+          {
+            "hex": "#ec7f80",
+            "count": 2
+          },
+          {
+            "hex": "#ee807f",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

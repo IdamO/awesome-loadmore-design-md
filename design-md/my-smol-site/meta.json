@@ -1,0 +1,3979 @@
+{
+  "slug": "my-smol-site",
+  "title": "My Smol Site",
+  "liveUrl": "https://mysmol.site/",
+  "domain": "mysmol.site",
+  "loadmoreUrl": "https://loadmo.re/posts/my-smol-site",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/my-smol-site",
+  "description": "This is a site to help people make one-page sites, resurrecting Clippy in the form of the cartoon character from the Loki series.",
+  "credits": "Sarim Haque",
+  "added": "",
+  "tags": [
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/my-smol-site/296751533d-1767800846/mysmolsite-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/my-smol-site/aeac222d0d-1767800857/mysmolsite-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:19:20.256Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "smol site | Tiny sites for your ginormous ideas",
+        "url": "https://mysmol.site/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(37, 37, 37)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "23.2px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Free site!",
+          "color": "rgb(37, 37, 37)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+          "fontSize": "85.8307px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.98956px",
+          "lineHeight": "62.64px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "We all need websites. smol site helps you create a really tiny one in minutes with zero effort. Plus, you can make edits",
+          "color": "rgb(37, 37, 37)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20.16px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Try it out",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(255, 109, 62)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "8px",
+          "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+          "letterSpacing": "normal",
+          "lineHeight": "23.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5KXZ35JT&\" height=\"0\" width=\"0\" style=\"display:none;visibil",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Free site!",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "85.8307px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.98956px",
+            "lineHeight": "62.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We all need websites. smol site helps you create a really tiny one in minutes with zero effort. Plus, you can make edits",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "smol site is now on Messenger!",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Simply message smol site Facebook page with a short description of what you need like \"I want a birthday invite site for",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Try it out",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 109, 62)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "x",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(255, 255, 255, 0.5)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h2",
+            "text": "1. Claim your URL",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "35.1562px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "37.12px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Enter a path name to check if it's available.",
+            "color": "rgb(79, 74, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "mysmol.site/",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "7.3728px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "46.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hello! I am smoly. I am here to be your guide. First things first, what path name would you like? Please use letters & n",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Path name",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Style & color",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Header image",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Callouts",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Body content",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Links",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "11.52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.52px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Examples",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.1562px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Party invitation",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Resume site",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "City guide",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ecommerce page",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgb(254, 255, 4)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "54.9316px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.9316px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Share, please.",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "35.1562px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "by sitenote.ai",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "sitenote.ai",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "23.2px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 19897
+          },
+          {
+            "hex": "#1f1865",
+            "count": 2384
+          },
+          {
+            "hex": "#fd6b36",
+            "count": 1121
+          },
+          {
+            "hex": "#f3f30a",
+            "count": 993
+          },
+          {
+            "hex": "#a6a5a5",
+            "count": 399
+          },
+          {
+            "hex": "#585867",
+            "count": 299
+          },
+          {
+            "hex": "#f8ab8f",
+            "count": 274
+          },
+          {
+            "hex": "#645c88",
+            "count": 233
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 19897
+          },
+          {
+            "hex": "#1f1865",
+            "count": 2384
+          },
+          {
+            "hex": "#fd6b36",
+            "count": 1121
+          },
+          {
+            "hex": "#f3f30a",
+            "count": 993
+          },
+          {
+            "hex": "#a6a5a5",
+            "count": 399
+          },
+          {
+            "hex": "#585867",
+            "count": 299
+          },
+          {
+            "hex": "#f8ab8f",
+            "count": 274
+          },
+          {
+            "hex": "#645c88",
+            "count": 233
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "smol site | Tiny sites for your ginormous ideas",
+        "url": "https://mysmol.site/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(37, 37, 37)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "20.88px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Free site!",
+          "color": "rgb(37, 37, 37)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+          "fontSize": "77.2476px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.890604px",
+          "lineHeight": "56.376px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "EXAMPLE OF A RESUME SITE SEE IT!",
+          "color": "rgb(250, 250, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "12.96px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16.848px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "SEE IT!",
+          "color": "rgb(254, 255, 4)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Poppins, sans-serif",
+          "fontSize": "12.96px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20.88px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans Condensed",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Patrick Hand",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "italic",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "200",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "style": "normal",
+            "weight": "900",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5KXZ35JT&\" height=\"0\" width=\"0\" style=\"display:none;visibil",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A RESUME SITE SEE IT!",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SEE IT!",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A BIRTHDAY PARTY INVITE CHECK IT OUT",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CHECK IT OUT",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A CITY GUIDE PAGE CLICK TO SEE",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CLICK TO SEE",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A RESUME SITE SEE IT!",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SEE IT!",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A BIRTHDAY PARTY INVITE CHECK IT OUT",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CHECK IT OUT",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A CITY GUIDE PAGE CLICK TO SEE",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CLICK TO SEE",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A RESUME SITE SEE IT!",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SEE IT!",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A BIRTHDAY PARTY INVITE CHECK IT OUT",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CHECK IT OUT",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A CITY GUIDE PAGE CLICK TO SEE",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CLICK TO SEE",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A RESUME SITE SEE IT!",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SEE IT!",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A BIRTHDAY PARTY INVITE CHECK IT OUT",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CHECK IT OUT",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "EXAMPLE OF A CITY GUIDE PAGE CLICK TO SEE",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CLICK TO SEE",
+            "color": "rgb(254, 255, 4)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Free site!",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "77.2476px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.890604px",
+            "lineHeight": "56.376px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "We all need websites. smol site helps you create a really tiny one in minutes with zero effort. Plus, you can make edits",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.144px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "smol site is now on Messenger!",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Simply message smol site Facebook page with a short description of what you need like \"I want a birthday invite site for",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Try it out",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 109, 62)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "8px",
+            "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "x",
+            "color": "rgb(51, 51, 51)",
+            "backgroundColor": "rgba(255, 255, 255, 0.5)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "100px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h2",
+            "text": "1. Claim your URL",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Sans Condensed\", sans-serif",
+            "fontSize": "31.6406px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "33.408px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Enter a path name to check if it's available.",
+            "color": "rgb(79, 74, 64)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "mysmol.site/",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "16.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "21.06px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "6.63552px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "41.76px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Hello! I am smoly. I am here to be your guide. First things first, what path name would you like? Please use letters & n",
+            "color": "rgb(255, 244, 218)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.848px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Share, please.",
+            "color": "rgb(37, 37, 37)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", monospace",
+            "fontSize": "12.96px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "31.6406px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "by sitenote.ai",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.72px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "sitenote.ai",
+            "color": "rgb(250, 250, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Poppins, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20.88px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fd6d38",
+            "count": 10719
+          },
+          {
+            "hex": "#f8f7f8",
+            "count": 6830
+          },
+          {
+            "hex": "#f1902a",
+            "count": 3625
+          },
+          {
+            "hex": "#dbbaa9",
+            "count": 2412
+          },
+          {
+            "hex": "#f91a0b",
+            "count": 833
+          },
+          {
+            "hex": "#a9a0a4",
+            "count": 550
+          },
+          {
+            "hex": "#f19cf1",
+            "count": 398
+          },
+          {
+            "hex": "#635e91",
+            "count": 233
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fd6d38",
+            "count": 10719
+          },
+          {
+            "hex": "#f8f7f8",
+            "count": 6830
+          },
+          {
+            "hex": "#f1902a",
+            "count": 3625
+          },
+          {
+            "hex": "#dbbaa9",
+            "count": 2412
+          },
+          {
+            "hex": "#f91a0b",
+            "count": 833
+          },
+          {
+            "hex": "#a9a0a4",
+            "count": 550
+          },
+          {
+            "hex": "#f19cf1",
+            "count": 398
+          },
+          {
+            "hex": "#635e91",
+            "count": 233
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

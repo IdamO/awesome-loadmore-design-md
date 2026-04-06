@@ -1,0 +1,197 @@
+{
+  "slug": "ishi-mag",
+  "title": "ISHI MAG",
+  "liveUrl": "www.ishi.place",
+  "domain": "",
+  "loadmoreUrl": "https://loadmo.re/posts/ishi-mag",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/ishi-mag",
+  "description": "A tangkhul, community led magazine. Exploring various indigenous experiences based out of Ukhrul, Manipur (India).",
+  "credits": "Team ishi, Aarushi Bapna",
+  "added": "",
+  "tags": [
+    "online-magazine",
+    "illustration",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/ishi-mag/2a09370353-1638286242/280-ishimag-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/ishi-mag/e77fc4f6ff-1638286252/280-ishimag-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:14:42.058Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n\u001b[2m  - navigating to \"www.ishi.place\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#ded3ca",
+            "count": 16280
+          },
+          {
+            "hex": "#e998f4",
+            "count": 2505
+          },
+          {
+            "hex": "#d4b0aa",
+            "count": 1852
+          },
+          {
+            "hex": "#d8c6b9",
+            "count": 1315
+          },
+          {
+            "hex": "#aca5ce",
+            "count": 1290
+          },
+          {
+            "hex": "#100f10",
+            "count": 1028
+          },
+          {
+            "hex": "#a59ea3",
+            "count": 680
+          },
+          {
+            "hex": "#e73225",
+            "count": 650
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ded3ca",
+            "count": 16280
+          },
+          {
+            "hex": "#e998f4",
+            "count": 2505
+          },
+          {
+            "hex": "#d4b0aa",
+            "count": 1852
+          },
+          {
+            "hex": "#d8c6b9",
+            "count": 1315
+          },
+          {
+            "hex": "#aca5ce",
+            "count": 1290
+          },
+          {
+            "hex": "#100f10",
+            "count": 1028
+          },
+          {
+            "hex": "#a59ea3",
+            "count": 680
+          },
+          {
+            "hex": "#e73225",
+            "count": 650
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/ishi-mag/2a09370353-1638286242/280-ishimag-cover-home-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n\u001b[2m  - navigating to \"www.ishi.place\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#ded3ca",
+            "count": 16280
+          },
+          {
+            "hex": "#e998f4",
+            "count": 2505
+          },
+          {
+            "hex": "#d4b0aa",
+            "count": 1852
+          },
+          {
+            "hex": "#d8c6b9",
+            "count": 1315
+          },
+          {
+            "hex": "#aca5ce",
+            "count": 1290
+          },
+          {
+            "hex": "#100f10",
+            "count": 1028
+          },
+          {
+            "hex": "#a59ea3",
+            "count": 680
+          },
+          {
+            "hex": "#e73225",
+            "count": 650
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ded3ca",
+            "count": 16280
+          },
+          {
+            "hex": "#e998f4",
+            "count": 2505
+          },
+          {
+            "hex": "#d4b0aa",
+            "count": 1852
+          },
+          {
+            "hex": "#d8c6b9",
+            "count": 1315
+          },
+          {
+            "hex": "#aca5ce",
+            "count": 1290
+          },
+          {
+            "hex": "#100f10",
+            "count": 1028
+          },
+          {
+            "hex": "#a59ea3",
+            "count": 680
+          },
+          {
+            "hex": "#e73225",
+            "count": 650
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/ishi-mag/2a09370353-1638286242/280-ishimag-cover-home-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:37.483Z"
+  }
+}

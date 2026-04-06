@@ -1,0 +1,621 @@
+{
+  "slug": "cash-by-cash-app",
+  "title": "Cash by Cash App",
+  "liveUrl": "http://cashbycashapp.com/",
+  "domain": "cashbycashapp.com",
+  "loadmoreUrl": "https://loadmo.re/posts/cash-by-cash-app",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/cash-by-cash-app",
+  "description": "Explorative game-like 3D experience that celebrates the ever-evolving diversity of the natural world.",
+  "credits": "Superficial, Jack Wild",
+  "added": "",
+  "tags": [
+    "e-commerce",
+    "3d-space",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/cash-by-cash-app/b7df410494-1654264503/0340_cashbycashapp-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/cash-by-cash-app/f38ffce9ae-1654264515/0340_cashbycashapp-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:05:28.327Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Restricted Access | Cash By Cash App",
+        "url": "https://www.cashbycashapp.com/auth/unlock",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Inter, helvetica, arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Back to Cart",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Söhne",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "22.1053px",
+          "display": "inline",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Submit",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Söhne Mono Kräftig\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px 0px",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Back to home",
+          "color": "rgb(51, 116, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Söhne",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.14px",
+          "lineHeight": "21px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "VideoJS",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Söhne Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Söhne",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Söhne Mono Kräftig",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Submit\n\t    \n\t\t\t\tBack to home\n\t\t\t   \n \n\t\t\t\tBack to Cart\n\t\t\t       \n\t\t\t\tSecure checkout by Square\n\t\t\t                    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Inter, helvetica, arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Submit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(27, 27, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Submit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Söhne Mono Kräftig\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px 0px",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back to home",
+            "color": "rgb(51, 116, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.14px",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Back to Cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Söhne Mono\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "Back to Cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "22.1053px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25370
+          },
+          {
+            "hex": "#000000",
+            "count": 72
+          },
+          {
+            "hex": "#cfd6e0",
+            "count": 38
+          },
+          {
+            "hex": "#ececec",
+            "count": 36
+          },
+          {
+            "hex": "#6c6c6c",
+            "count": 35
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 32
+          },
+          {
+            "hex": "#222222",
+            "count": 15
+          },
+          {
+            "hex": "#bccfec",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25370
+          },
+          {
+            "hex": "#000000",
+            "count": 72
+          },
+          {
+            "hex": "#cfd6e0",
+            "count": 38
+          },
+          {
+            "hex": "#ececec",
+            "count": 36
+          },
+          {
+            "hex": "#6c6c6c",
+            "count": 35
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 32
+          },
+          {
+            "hex": "#222222",
+            "count": 15
+          },
+          {
+            "hex": "#bccfec",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Restricted Access | Cash By Cash App",
+        "url": "https://www.cashbycashapp.com/auth/unlock",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Inter, helvetica, arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Submit\n\t    \n\t\t\t\tBack to home\n\t\t\t   \n \n\t\t\t\tBack to Cart\n\t\t\t       \n\t\t\t\tSecure checkout by Square\n\t\t\t                    ",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, helvetica, arial, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "16px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Submit",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Söhne Mono Kräftig\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px 0px",
+          "letterSpacing": "-0.16px",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "relative"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Back to home",
+          "color": "rgb(51, 116, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Söhne",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.14px",
+          "lineHeight": "21px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "VideoJS",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Söhne Mono",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Söhne",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Söhne Mono Kräftig",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Inter",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Submit\n\t    \n\t\t\t\tBack to home\n\t\t\t   \n \n\t\t\t\tBack to Cart\n\t\t\t       \n\t\t\t\tSecure checkout by Square\n\t\t\t                    ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Inter, helvetica, arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Submit",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(27, 27, 27)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Submit",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Söhne Mono Kräftig\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(255, 255, 255) 0px 0px 0px 0px inset, rgb(255, 255, 255) 0px 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px 0px",
+            "letterSpacing": "-0.16px",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back to home",
+            "color": "rgb(51, 116, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Söhne",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.14px",
+            "lineHeight": "21px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Back to Cart",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Söhne Mono\"",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24500
+          },
+          {
+            "hex": "#000000",
+            "count": 451
+          },
+          {
+            "hex": "#e1e3e5",
+            "count": 323
+          },
+          {
+            "hex": "#242424",
+            "count": 114
+          },
+          {
+            "hex": "#5d5d5d",
+            "count": 108
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 62
+          },
+          {
+            "hex": "#b3caf3",
+            "count": 25
+          },
+          {
+            "hex": "#97b6f1",
+            "count": 17
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24500
+          },
+          {
+            "hex": "#000000",
+            "count": 451
+          },
+          {
+            "hex": "#e1e3e5",
+            "count": 323
+          },
+          {
+            "hex": "#242424",
+            "count": 114
+          },
+          {
+            "hex": "#5d5d5d",
+            "count": 108
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 62
+          },
+          {
+            "hex": "#b3caf3",
+            "count": 25
+          },
+          {
+            "hex": "#97b6f1",
+            "count": 17
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

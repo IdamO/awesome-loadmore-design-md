@@ -1,0 +1,444 @@
+{
+  "slug": "bong",
+  "title": "Bong",
+  "liveUrl": "http://bong.international",
+  "domain": "bong.international",
+  "loadmoreUrl": "https://loadmo.re/posts/bong",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/bong",
+  "description": "Toy around with BONG logo, which includes planet earth.",
+  "credits": "Ben West, Simon Sweeney",
+  "added": "",
+  "tags": [
+    "playful",
+    "portfolio",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/bong/a57c89ab47-1607337472/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/bong/8921e8471a-1607337490/bong-international.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:04:25.502Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "BONG",
+        "url": "https://bong.international/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Work Sans\", sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Full Service International Design & Development Agency @BON\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\n\n\t\tis asleep. call s",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Work Sans\", sans-serif",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "simon sweeney",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "loaded"
+          },
+          {
+            "family": "AdobeBlank",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Full Service International Design & Development Agency @BON\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\n\n\t\tis asleep. call s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Work Sans\", sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "simon sweeney",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ben west",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 19672
+          },
+          {
+            "hex": "#040408",
+            "count": 2640
+          },
+          {
+            "hex": "#a1a2a5",
+            "count": 870
+          },
+          {
+            "hex": "#555662",
+            "count": 800
+          },
+          {
+            "hex": "#262752",
+            "count": 698
+          },
+          {
+            "hex": "#eedaa6",
+            "count": 413
+          },
+          {
+            "hex": "#6a6d8b",
+            "count": 305
+          },
+          {
+            "hex": "#515529",
+            "count": 202
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 19672
+          },
+          {
+            "hex": "#040408",
+            "count": 2640
+          },
+          {
+            "hex": "#a1a2a5",
+            "count": 870
+          },
+          {
+            "hex": "#555662",
+            "count": 800
+          },
+          {
+            "hex": "#262752",
+            "count": 698
+          },
+          {
+            "hex": "#eedaa6",
+            "count": 413
+          },
+          {
+            "hex": "#6a6d8b",
+            "count": 305
+          },
+          {
+            "hex": "#515529",
+            "count": 202
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "BONG",
+        "url": "https://bong.international/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Work Sans\", sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Full S\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\n\n\t\tis asleep. call simon sweeney or ben west.\n\t\t\n\t\t\n\n\t\t\n\t\t  (function(i,s",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Work Sans\", sans-serif",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "simon sweeney",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "unloaded"
+          },
+          {
+            "family": "Work Sans",
+            "style": "normal",
+            "weight": "800",
+            "status": "loaded"
+          },
+          {
+            "family": "AdobeBlank",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Full S\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\n\n\t\tis asleep. call simon sweeney or ben west.\n\t\t\n\t\t\n\n\t\t\n\t\t  (function(i,s",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Work Sans\", sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "simon sweeney",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ben west",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 23860
+          },
+          {
+            "hex": "#050506",
+            "count": 652
+          },
+          {
+            "hex": "#a3a4a6",
+            "count": 354
+          },
+          {
+            "hex": "#5f6069",
+            "count": 268
+          },
+          {
+            "hex": "#292a54",
+            "count": 175
+          },
+          {
+            "hex": "#a1a2de",
+            "count": 120
+          },
+          {
+            "hex": "#696c8a",
+            "count": 86
+          },
+          {
+            "hex": "#ecd8a7",
+            "count": 85
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 23860
+          },
+          {
+            "hex": "#050506",
+            "count": 652
+          },
+          {
+            "hex": "#a3a4a6",
+            "count": 354
+          },
+          {
+            "hex": "#5f6069",
+            "count": 268
+          },
+          {
+            "hex": "#292a54",
+            "count": 175
+          },
+          {
+            "hex": "#a1a2de",
+            "count": 120
+          },
+          {
+            "hex": "#696c8a",
+            "count": 86
+          },
+          {
+            "hex": "#ecd8a7",
+            "count": 85
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "slug": "design-your-own-hole",
+  "title": "Design your own hole",
+  "liveUrl": "https://designyourownhole.com/",
+  "domain": "designyourownhole.com",
+  "loadmoreUrl": "https://loadmo.re/posts/design-your-own-hole",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/design-your-own-hole",
+  "description": "A website as a toy! A touchable interactive HTML object.",
+  "credits": "Elwyn.co",
+  "added": "",
+  "tags": [
+    "tactile",
+    "playful",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/design-your-own-hole/9e3dfc0312-1625577563/0160-design-your-own-hole-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/design-your-own-hole/e2f5811747-1625577581/0160-design-your-own-hole-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:07:43.805Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Design your own hole!",
+        "url": "https://designyourownhole.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Design your own hole!Sometimes it's just safer in a hole.Site by ben elwynTouch me,and drag/*<![CDATA[*/window.pagePath=",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "GT-Haptik-Light-2",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-Haptik-Medium-2",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Design your own hole!Sometimes it's just safer in a hole.Site by ben elwynTouch me,and drag/*<![CDATA[*/window.pagePath=",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#0000fd",
+            "count": 22019
+          },
+          {
+            "hex": "#e8e800",
+            "count": 2280
+          },
+          {
+            "hex": "#a8a704",
+            "count": 772
+          },
+          {
+            "hex": "#000001",
+            "count": 464
+          },
+          {
+            "hex": "#12125c",
+            "count": 18
+          },
+          {
+            "hex": "#6061f0",
+            "count": 17
+          },
+          {
+            "hex": "#5d5d0d",
+            "count": 16
+          },
+          {
+            "hex": "#0d0da0",
+            "count": 14
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0000fd",
+            "count": 22019
+          },
+          {
+            "hex": "#e8e800",
+            "count": 2280
+          },
+          {
+            "hex": "#a8a704",
+            "count": 772
+          },
+          {
+            "hex": "#000001",
+            "count": 464
+          },
+          {
+            "hex": "#12125c",
+            "count": 18
+          },
+          {
+            "hex": "#6061f0",
+            "count": 17
+          },
+          {
+            "hex": "#5d5d0d",
+            "count": 16
+          },
+          {
+            "hex": "#0d0da0",
+            "count": 14
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Design your own hole!",
+        "url": "https://designyourownhole.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Design your own hole!Sometimes it's just safer in a hole.Site by ben elwynTouch me,and drag/*<![CDATA[*/window.pagePath=",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "GT-Haptik-Light-2, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "GT-Haptik-Light-2",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT-Haptik-Medium-2",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Design your own hole!Sometimes it's just safer in a hole.Site by ben elwynTouch me,and drag/*<![CDATA[*/window.pagePath=",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "GT-Haptik-Light-2, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#0000fd",
+            "count": 22091
+          },
+          {
+            "hex": "#e9e900",
+            "count": 1636
+          },
+          {
+            "hex": "#f43c72",
+            "count": 768
+          },
+          {
+            "hex": "#b3b200",
+            "count": 451
+          },
+          {
+            "hex": "#040305",
+            "count": 202
+          },
+          {
+            "hex": "#5d5d03",
+            "count": 180
+          },
+          {
+            "hex": "#000095",
+            "count": 170
+          },
+          {
+            "hex": "#efeff6",
+            "count": 102
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#0000fd",
+            "count": 22091
+          },
+          {
+            "hex": "#e9e900",
+            "count": 1636
+          },
+          {
+            "hex": "#f43c72",
+            "count": 768
+          },
+          {
+            "hex": "#b3b200",
+            "count": 451
+          },
+          {
+            "hex": "#040305",
+            "count": 202
+          },
+          {
+            "hex": "#5d5d03",
+            "count": 180
+          },
+          {
+            "hex": "#000095",
+            "count": 170
+          },
+          {
+            "hex": "#efeff6",
+            "count": 102
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

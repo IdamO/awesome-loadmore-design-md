@@ -1,0 +1,759 @@
+{
+  "slug": "estudio-piedras-marries",
+  "title": "Estudio Piedras",
+  "liveUrl": "http://estudiopiedras.com",
+  "domain": "estudiopiedras.com",
+  "loadmoreUrl": "https://loadmo.re/posts/estudio-piedras-marries",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/estudio-piedras-marries",
+  "description": "Puzzle interaction to play with the studio's branding and content.",
+  "credits": "Fernanda Ruiz",
+  "added": "",
+  "tags": [
+    "playful",
+    "tactile",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/estudio-piedras-marries/208ae5dd12-1644580554/0318-estudio-piedras-post-cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/estudio-piedras-marries/4b6f4c33a3-1644580548/0318-estudio-piedras-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:09:24.837Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "",
+        "url": "http://estudiopiedras.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(30, 30, 30)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Estudio Piedras marries geological influence and modern forms",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "01/08",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "[■]Gallery",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "[■]Products",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "NT Zeu",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "Neu Leon Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "[■]Products\n      [■]About\n      [■]Contact\n      \n      [■]Instagram\n      [■]Gallery\n    \n\n          \n      Back to To",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "[■]Products\n      [■]About\n      [■]Contact\n      \n      [■]Instagram\n      [■]Gallery",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "[■]Products",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "[■]Contact",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "[■]Instagram",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "[■]Gallery",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Estudio Piedras marries geological influence and modern forms",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Estudio Piedras is a design practice that marries geological influence and modern forms to create everyday sculptural ob",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"NT Zeu\"",
+            "fontSize": "32px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Tellurian, organic influences combined with contemporary production methods create shapes, forms, and textures that deri",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"NT Zeu\"",
+            "fontSize": "32px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36.8px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "01/08\n      Close",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "01/08",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Close",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24081
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 556
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 519
+          },
+          {
+            "hex": "#c9c9c9",
+            "count": 342
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 56
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 32
+          },
+          {
+            "hex": "#999999",
+            "count": 10
+          },
+          {
+            "hex": "#888888",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24081
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 556
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 519
+          },
+          {
+            "hex": "#c9c9c9",
+            "count": 342
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 56
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 32
+          },
+          {
+            "hex": "#999999",
+            "count": 10
+          },
+          {
+            "hex": "#888888",
+            "count": 4
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "",
+        "url": "http://estudiopiedras.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(30, 30, 30)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Estudio Piedras marries geological influence and modern forms",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15.64px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "01/08",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15.64px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "[■]Gallery",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15.64px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "[■]Products",
+          "color": "rgb(30, 30, 30)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Neu Leon Mono\", monospace",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15.64px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "NT Zeu",
+            "style": "normal",
+            "weight": "300",
+            "status": "loaded"
+          },
+          {
+            "family": "Neu Leon Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "[■]Products\n      [■]About\n      [■]Contact\n      \n      [■]Instagram\n      [■]Gallery\n    \n\n          \n      Back to To",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "[■]Products\n      [■]About\n      [■]Contact\n      \n      [■]Instagram\n      [■]Gallery",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "[■]Products",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "[■]About",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "[■]Contact",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "[■]Gallery",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Back to Top ↑\n      Instagram",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Back to Top ↑",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Instagram",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "Estudio Piedras marries geological influence and modern forms",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Estudio Piedras is a design practice that marries geological influence and modern forms to create everyday sculptural ob",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"NT Zeu\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h3",
+            "text": "Tellurian, organic influences combined with contemporary production methods create shapes, forms, and textures that deri",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"NT Zeu\"",
+            "fontSize": "24px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "27.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": "01/08\n      Close",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16.1px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "01/08",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Close",
+            "color": "rgb(30, 30, 30)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Neu Leon Mono\", monospace",
+            "fontSize": "13.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15.64px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25231
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 129
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 62
+          },
+          {
+            "hex": "#d9d9d9",
+            "count": 48
+          },
+          {
+            "hex": "#979797",
+            "count": 45
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 36
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 33
+          },
+          {
+            "hex": "#777777",
+            "count": 16
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25231
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 129
+          },
+          {
+            "hex": "#a0a0a0",
+            "count": 62
+          },
+          {
+            "hex": "#d9d9d9",
+            "count": 48
+          },
+          {
+            "hex": "#979797",
+            "count": 45
+          },
+          {
+            "hex": "#c6c6c6",
+            "count": 36
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 33
+          },
+          {
+            "hex": "#777777",
+            "count": 16
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

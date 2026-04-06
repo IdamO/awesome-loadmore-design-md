@@ -1,0 +1,581 @@
+{
+  "slug": "ooo",
+  "title": "øøø",
+  "liveUrl": "https://xn--pdaaa.com/sketch/stamps",
+  "domain": "xn--pdaaa.com",
+  "loadmoreUrl": "https://loadmo.re/posts/ooo",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/ooo",
+  "description": "Draw with multicoloured stamps, or with circles and lines that have a life of their own.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "playful",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/ooo/557aa9367d-1730112064/stamps-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/ooo/5ab8f67a03-1730112082/stamps-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:21:57.496Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "ØØØ.COM",
+        "url": "https://xn--pdaaa.com/sketch/stamps",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Frames SwirlsWarpStamps",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.96px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "13.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Frames",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.96px",
+          "lineHeight": "48px",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Inter",
+            "style": "oblique -20deg 20deg",
+            "weight": "125 950",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Frames SwirlsWarpStamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Frames SwirlsWarpStamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "48px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Frames",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "48px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Swirls",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "48px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Warp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "48px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Stamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "48px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.96px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 24096
+          },
+          {
+            "hex": "#a2a3a4",
+            "count": 374
+          },
+          {
+            "hex": "#f6d3a5",
+            "count": 350
+          },
+          {
+            "hex": "#f2a69d",
+            "count": 269
+          },
+          {
+            "hex": "#97b0e9",
+            "count": 235
+          },
+          {
+            "hex": "#b3d0f1",
+            "count": 161
+          },
+          {
+            "hex": "#f5a26e",
+            "count": 60
+          },
+          {
+            "hex": "#717172",
+            "count": 55
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 24096
+          },
+          {
+            "hex": "#a2a3a4",
+            "count": 374
+          },
+          {
+            "hex": "#f6d3a5",
+            "count": 350
+          },
+          {
+            "hex": "#f2a69d",
+            "count": 269
+          },
+          {
+            "hex": "#97b0e9",
+            "count": 235
+          },
+          {
+            "hex": "#b3d0f1",
+            "count": 161
+          },
+          {
+            "hex": "#f5a26e",
+            "count": 60
+          },
+          {
+            "hex": "#717172",
+            "count": 55
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "ØØØ.COM",
+        "url": "https://xn--pdaaa.com/sketch/stamps",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Frames SwirlsWarpStamps",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.64px",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "13.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Frames",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "-0.64px",
+          "lineHeight": "32px",
+          "display": "block",
+          "position": "relative"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Inter",
+            "style": "oblique -20deg 20deg",
+            "weight": "125 950",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Frames SwirlsWarpStamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Frames SwirlsWarpStamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "32px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Frames",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Swirls",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Warp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Stamps",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "32px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Inter, sans-serif",
+            "fontSize": "32px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-0.64px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfcfd",
+            "count": 23579
+          },
+          {
+            "hex": "#daa7e4",
+            "count": 795
+          },
+          {
+            "hex": "#a2a1a2",
+            "count": 362
+          },
+          {
+            "hex": "#b494f4",
+            "count": 275
+          },
+          {
+            "hex": "#606060",
+            "count": 217
+          },
+          {
+            "hex": "#f366a3",
+            "count": 172
+          },
+          {
+            "hex": "#da6fd6",
+            "count": 113
+          },
+          {
+            "hex": "#f58ab8",
+            "count": 87
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfcfd",
+            "count": 23579
+          },
+          {
+            "hex": "#daa7e4",
+            "count": 795
+          },
+          {
+            "hex": "#a2a1a2",
+            "count": 362
+          },
+          {
+            "hex": "#b494f4",
+            "count": 275
+          },
+          {
+            "hex": "#606060",
+            "count": 217
+          },
+          {
+            "hex": "#f366a3",
+            "count": 172
+          },
+          {
+            "hex": "#da6fd6",
+            "count": 113
+          },
+          {
+            "hex": "#f58ab8",
+            "count": 87
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "slug": "jan-kaps",
+  "title": "Jan Kaps",
+  "liveUrl": "https://jan-kaps.com/real-books",
+  "domain": "jan-kaps.com",
+  "loadmoreUrl": "https://loadmo.re/posts/jan-kaps",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/jan-kaps",
+  "description": "Beautiful bookstore website which lets you browse its collection by floating around a sphere.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "arts&culture"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/jan-kaps/34efb022fd-1606939245/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/jan-kaps/a033cd6384-1604933662/jankaps.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:15:11.889Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Jan Kaps",
+        "url": "https://jan-kaps.com/real-books",
+        "body": {
+          "backgroundColor": "rgb(249, 249, 249)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "16.1px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Error 404",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "19.6px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.28px",
+          "lineHeight": "22.54px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Page Not Found",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.28px",
+          "lineHeight": "16.1px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Go to homepage",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.28px",
+          "lineHeight": "16.1px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "TeeFranklin",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Error 404Page Not FoundGo to homepage[{\"_errors\":1,\"serverRendered\":2,\"data\":3,\"state\":4},{},false,{},{}]\nwindow.__NUXT_",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(249, 249, 249)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.28px",
+            "lineHeight": "16.1px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Error 404",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "19.6px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.28px",
+            "lineHeight": "22.54px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Page Not Found",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.28px",
+            "lineHeight": "16.1px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Go to homepage",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.28px",
+            "lineHeight": "16.1px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9f9f9",
+            "count": 25508
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 29
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 17
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 17
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 11
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 11
+          },
+          {
+            "hex": "#999999",
+            "count": 7
+          },
+          {
+            "hex": "#000000",
+            "count": 7
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9f9f9",
+            "count": 25508
+          },
+          {
+            "hex": "#d7d7d7",
+            "count": 29
+          },
+          {
+            "hex": "#c7c7c7",
+            "count": 17
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 17
+          },
+          {
+            "hex": "#a6a6a6",
+            "count": 11
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 11
+          },
+          {
+            "hex": "#999999",
+            "count": 7
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Jan Kaps",
+        "url": "https://jan-kaps.com/real-books",
+        "body": {
+          "backgroundColor": "rgb(249, 249, 249)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Error 404",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "22.4px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.32px",
+          "lineHeight": "25.76px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Page Not Found",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.32px",
+          "lineHeight": "18.4px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Go to homepage",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "TeeFranklin, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.32px",
+          "lineHeight": "18.4px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "TeeFranklin",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Error 404Page Not FoundGo to homepage[{\"_errors\":1,\"serverRendered\":2,\"data\":3,\"state\":4},{},false,{},{}]\nwindow.__NUXT_",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(249, 249, 249)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Error 404",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "22.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "25.76px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Page Not Found",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "18.4px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Go to homepage",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "TeeFranklin, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.32px",
+            "lineHeight": "18.4px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f9f9f9",
+            "count": 25158
+          },
+          {
+            "hex": "#cfcfcf",
+            "count": 108
+          },
+          {
+            "hex": "#e9e9e9",
+            "count": 81
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 73
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 73
+          },
+          {
+            "hex": "#919191",
+            "count": 68
+          },
+          {
+            "hex": "#636363",
+            "count": 35
+          },
+          {
+            "hex": "#383838",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f9f9f9",
+            "count": 25158
+          },
+          {
+            "hex": "#cfcfcf",
+            "count": 108
+          },
+          {
+            "hex": "#e9e9e9",
+            "count": 81
+          },
+          {
+            "hex": "#b7b7b7",
+            "count": 73
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 73
+          },
+          {
+            "hex": "#919191",
+            "count": 68
+          },
+          {
+            "hex": "#636363",
+            "count": 35
+          },
+          {
+            "hex": "#383838",
+            "count": 4
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

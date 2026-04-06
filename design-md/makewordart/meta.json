@@ -1,0 +1,654 @@
+{
+  "slug": "makewordart",
+  "title": "Make Word Art",
+  "liveUrl": "https://makewordart.com/",
+  "domain": "makewordart.com",
+  "loadmoreUrl": "https://loadmo.re/posts/makewordart",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/makewordart",
+  "description": "Go back in time with this nice web adaptation of the coolest typographic tool from the 2000s.",
+  "credits": "Mike Mcmillan",
+  "added": "",
+  "tags": [
+    "playful",
+    "retro",
+    "default-aesthetics"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/makewordart/a7b1c63e95-1606936258/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/makewordart/d6108f1baa-1598788670/make-word-art.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:17:58.175Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Free WordArt Generator - Create 90s Text Effects Online | Make WordArt",
+        "url": "https://www.makewordart.com/",
+        "body": {
+          "backgroundColor": "rgb(128, 128, 128)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "18px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Make Wordart",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Make Wordart        Clear\n  About\n    File  Create Word Art Clear Canvas Download Image     Help  About this site Blog F",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(128, 128, 128)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Download",
+          "color": "rgb(128, 128, 128)",
+          "backgroundColor": "rgb(192, 192, 192)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Make Wordart",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Impact",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Impact",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Make Wordart        Clear\n  About\n    File  Create Word Art Clear Canvas Download Image     Help  About this site Blog F",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(128, 128, 128)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Donate",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shop",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(0, 0, 0) -1px 0px 0px 0px, rgb(0, 0, 0) 0px -1px 0px 0px, rgb(0, 0, 0) -1px -1px 0px 0px, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px, rgb(0, 0, 0) 1px -1px 0px 0px, rgb(0, 0, 0) -1px 2px 0px 0px, rgb(0, 0, 0) 2px -1px 0px 0px, rgb(0, 0, 0) 2px 2px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Download",
+            "color": "rgb(128, 128, 128)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f5f5f5",
+            "count": 16964
+          },
+          {
+            "hex": "#8d8d8e",
+            "count": 7224
+          },
+          {
+            "hex": "#215ba7",
+            "count": 585
+          },
+          {
+            "hex": "#787877",
+            "count": 413
+          },
+          {
+            "hex": "#10338d",
+            "count": 171
+          },
+          {
+            "hex": "#6e788c",
+            "count": 160
+          },
+          {
+            "hex": "#7a8596",
+            "count": 49
+          },
+          {
+            "hex": "#062279",
+            "count": 34
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f5f5f5",
+            "count": 16964
+          },
+          {
+            "hex": "#8d8d8e",
+            "count": 7224
+          },
+          {
+            "hex": "#215ba7",
+            "count": 585
+          },
+          {
+            "hex": "#787877",
+            "count": 413
+          },
+          {
+            "hex": "#10338d",
+            "count": 171
+          },
+          {
+            "hex": "#6e788c",
+            "count": 160
+          },
+          {
+            "hex": "#7a8596",
+            "count": 49
+          },
+          {
+            "hex": "#062279",
+            "count": 34
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Free WordArt Generator - Create 90s Text Effects Online | Make WordArt",
+        "url": "https://www.makewordart.com/",
+        "body": {
+          "backgroundColor": "rgb(128, 128, 128)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "18px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Make Wordart",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Make Wordart        Clear\n  About\n    File  Create Word Art Clear Canvas Download Image     Help  About this site Blog F",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(128, 128, 128)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Download",
+          "color": "rgb(128, 128, 128)",
+          "backgroundColor": "rgb(192, 192, 192)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Make Wordart",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "18px",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Impact",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Impact",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Make Wordart        Clear\n  About\n    File  Create Word Art Clear Canvas Download Image     Help  About this site Blog F",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(128, 128, 128)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Make Wordart",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Clear",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Donate",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Shop",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(0, 0, 0) -1px 0px 0px 0px, rgb(0, 0, 0) 0px -1px 0px 0px, rgb(0, 0, 0) -1px -1px 0px 0px, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px, rgb(0, 0, 0) 1px -1px 0px 0px, rgb(0, 0, 0) -1px 2px 0px 0px, rgb(0, 0, 0) 2px -1px 0px 0px, rgb(0, 0, 0) 2px 2px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Download",
+            "color": "rgb(128, 128, 128)",
+            "backgroundColor": "rgb(192, 192, 192)",
+            "fontFamily": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgb(223, 223, 223) 1px 1px 0px 0px inset, rgb(0, 0, 0) 1px 0px 0px 0px, rgb(0, 0, 0) 0px 1px 0px 0px, rgb(0, 0, 0) 1px 1px 0px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1ebeb",
+            "count": 14954
+          },
+          {
+            "hex": "#999da1",
+            "count": 4349
+          },
+          {
+            "hex": "#686b6a",
+            "count": 2046
+          },
+          {
+            "hex": "#161615",
+            "count": 1487
+          },
+          {
+            "hex": "#db1c27",
+            "count": 824
+          },
+          {
+            "hex": "#1f59a7",
+            "count": 761
+          },
+          {
+            "hex": "#dfa8a8",
+            "count": 601
+          },
+          {
+            "hex": "#aab7c5",
+            "count": 578
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1ebeb",
+            "count": 14954
+          },
+          {
+            "hex": "#999da1",
+            "count": 4349
+          },
+          {
+            "hex": "#686b6a",
+            "count": 2046
+          },
+          {
+            "hex": "#161615",
+            "count": 1487
+          },
+          {
+            "hex": "#db1c27",
+            "count": 824
+          },
+          {
+            "hex": "#1f59a7",
+            "count": 761
+          },
+          {
+            "hex": "#dfa8a8",
+            "count": 601
+          },
+          {
+            "hex": "#aab7c5",
+            "count": 578
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

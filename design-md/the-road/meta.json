@@ -1,0 +1,294 @@
+{
+  "slug": "the-road",
+  "title": "The Road",
+  "liveUrl": "https://theroad.elwyn.co",
+  "domain": "theroad.elwyn.co",
+  "loadmoreUrl": "https://loadmo.re/posts/the-road",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/the-road",
+  "description": "I know, it's just a wheel that makes noise. But just try it, it's kinda addictive! That could be the future of toys.",
+  "credits": "Benjamin Elwyn",
+  "added": "",
+  "tags": [
+    "playful",
+    "tactile",
+    "sound-design"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/the-road/a6e8698bc2-1606940317/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/the-road/4ad012a85d-1606391562/the-road.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:29:12.153Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "The Road",
+        "url": "https://theroad.elwyn.co/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 26, 26)",
+          "fontFamily": "monospace",
+          "fontSize": "19px",
+          "lineHeight": "26.6px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Click to start",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "26.6px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "This app works best with JavaScript enabled.Click to start\n  varying vec2 vUv;\n  void main()\n  {\n    vUv = uv;\n    vec4 ",
+            "color": "rgb(26, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monospace",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Click to start",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "26.6px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 25572
+          },
+          {
+            "hex": "#474747",
+            "count": 9
+          },
+          {
+            "hex": "#353535",
+            "count": 7
+          },
+          {
+            "hex": "#575757",
+            "count": 7
+          },
+          {
+            "hex": "#656565",
+            "count": 3
+          },
+          {
+            "hex": "#242424",
+            "count": 1
+          },
+          {
+            "hex": "#171717",
+            "count": 1
+          },
+          {
+            "hex": "#1a1a1a",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 25572
+          },
+          {
+            "hex": "#474747",
+            "count": 9
+          },
+          {
+            "hex": "#353535",
+            "count": 7
+          },
+          {
+            "hex": "#575757",
+            "count": 7
+          },
+          {
+            "hex": "#656565",
+            "count": 3
+          },
+          {
+            "hex": "#242424",
+            "count": 1
+          },
+          {
+            "hex": "#171717",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "The Road",
+        "url": "https://theroad.elwyn.co/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 26, 26)",
+          "fontFamily": "monospace",
+          "fontSize": "18px",
+          "lineHeight": "25.2px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "Tap to start(and unmute your phone)",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "monospace",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "This app works best with JavaScript enabled.Tap to start(and unmute your phone)\n  varying vec2 vUv;\n  void main()\n  {\n  ",
+            "color": "rgb(26, 26, 26)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monospace",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Tap to start(and unmute your phone)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "monospace",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#000000",
+            "count": 25279
+          },
+          {
+            "hex": "#5d5d5d",
+            "count": 69
+          },
+          {
+            "hex": "#989898",
+            "count": 68
+          },
+          {
+            "hex": "#161616",
+            "count": 54
+          },
+          {
+            "hex": "#373737",
+            "count": 53
+          },
+          {
+            "hex": "#282828",
+            "count": 41
+          },
+          {
+            "hex": "#575757",
+            "count": 35
+          },
+          {
+            "hex": "#c0c0c0",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#000000",
+            "count": 25279
+          },
+          {
+            "hex": "#5d5d5d",
+            "count": 69
+          },
+          {
+            "hex": "#989898",
+            "count": 68
+          },
+          {
+            "hex": "#161616",
+            "count": 54
+          },
+          {
+            "hex": "#373737",
+            "count": 53
+          },
+          {
+            "hex": "#282828",
+            "count": 41
+          },
+          {
+            "hex": "#575757",
+            "count": 35
+          },
+          {
+            "hex": "#c0c0c0",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

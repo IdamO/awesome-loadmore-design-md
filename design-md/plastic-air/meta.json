@@ -1,0 +1,648 @@
+{
+  "slug": "plastic-air",
+  "title": "Plastic Air",
+  "liveUrl": "https://artsexperiments.withgoogle.com/plasticair/",
+  "domain": "artsexperiments.withgoogle.com",
+  "loadmoreUrl": "https://loadmo.re/posts/plastic-air",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/plastic-air",
+  "description": "It's beautiful although meant to show us something not that cute.",
+  "credits": "Giorga Lupi, Talia Cotton, Phil Cox (Pentagram)",
+  "added": "",
+  "tags": [
+    "3d-space",
+    "tactile",
+    "educational"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/plastic-air/1f67fc0e82-1648802995/0305_plasticair-home-cover-min-1.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/plastic-air/488f700294-1648669844/0305_plasticair-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:23:03.696Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Plastic Air",
+        "url": "https://artsexperiments.withgoogle.com/plasticair/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "You\n                   \n                        \n                        \n                            \n                 ",
+          "color": "rgb(255, 255, 169)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "40px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "#cookieBar{\n                background-color:white;\n                color:black;\n            }\n            .dark #cookie",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Baskervville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "#cookieBar{\n                background-color:white;\n                color:black;\n            }\n            .dark #cookie",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "You\n                   \n                        \n                        \n                            \n                 ",
+            "color": "rgb(255, 255, 169)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, Helvetica, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "A project by Giorgia Lupi with Talia Cotton and Phil Cox (Pentagram).Supported by Google Arts and Culture.",
+            "color": "rgb(80, 97, 156)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, sans-serif",
+            "fontSize": "9px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-2%",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#66b2e5",
+            "count": 13377
+          },
+          {
+            "hex": "#86bcdf",
+            "count": 3995
+          },
+          {
+            "hex": "#e8ea9f",
+            "count": 3817
+          },
+          {
+            "hex": "#9ec5d8",
+            "count": 3690
+          },
+          {
+            "hex": "#c4d0d5",
+            "count": 576
+          },
+          {
+            "hex": "#b6d5b9",
+            "count": 143
+          },
+          {
+            "hex": "#7fc1d2",
+            "count": 1
+          },
+          {
+            "hex": "#3fa6ef",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#66b2e5",
+            "count": 13377
+          },
+          {
+            "hex": "#86bcdf",
+            "count": 3995
+          },
+          {
+            "hex": "#e8ea9f",
+            "count": 3817
+          },
+          {
+            "hex": "#9ec5d8",
+            "count": 3690
+          },
+          {
+            "hex": "#c4d0d5",
+            "count": 576
+          },
+          {
+            "hex": "#b6d5b9",
+            "count": 143
+          },
+          {
+            "hex": "#7fc1d2",
+            "count": 1
+          },
+          {
+            "hex": "#3fa6ef",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Plastic Air",
+        "url": "https://artsexperiments.withgoogle.com/plasticair/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "You\n                   \n                        \n                        \n                            \n                 ",
+          "color": "rgb(255, 255, 169)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "40px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "#cookieBar{\n                background-color:white;\n                color:black;\n            }\n            .dark #cookie",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Epilogue, Helvetica, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Baskervville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Baskervville",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "100",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Epilogue",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "#cookieBar{\n                background-color:white;\n                color:black;\n            }\n            .dark #cookie",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, Helvetica, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h2",
+            "text": "You\n                   \n                        \n                        \n                            \n                 ",
+            "color": "rgb(255, 255, 169)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, Helvetica, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h3",
+            "text": "A project by Giorgia Lupi with Talia Cotton and Phil Cox (Pentagram).Supported by Google Arts and Culture.",
+            "color": "rgb(80, 97, 156)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Epilogue, sans-serif",
+            "fontSize": "9px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "-2%",
+            "lineHeight": "12px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#64b1e5",
+            "count": 14036
+          },
+          {
+            "hex": "#88bcdd",
+            "count": 4640
+          },
+          {
+            "hex": "#9ac4d9",
+            "count": 4250
+          },
+          {
+            "hex": "#e6e9a1",
+            "count": 1955
+          },
+          {
+            "hex": "#c5d1d4",
+            "count": 476
+          },
+          {
+            "hex": "#b4d4b9",
+            "count": 139
+          },
+          {
+            "hex": "#7594ba",
+            "count": 98
+          },
+          {
+            "hex": "#7ec0d2",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#64b1e5",
+            "count": 14036
+          },
+          {
+            "hex": "#88bcdd",
+            "count": 4640
+          },
+          {
+            "hex": "#9ac4d9",
+            "count": 4250
+          },
+          {
+            "hex": "#e6e9a1",
+            "count": 1955
+          },
+          {
+            "hex": "#c5d1d4",
+            "count": 476
+          },
+          {
+            "hex": "#b4d4b9",
+            "count": 139
+          },
+          {
+            "hex": "#7594ba",
+            "count": 98
+          },
+          {
+            "hex": "#7ec0d2",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

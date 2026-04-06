@@ -1,0 +1,327 @@
+{
+  "slug": "westminster-kennel-club",
+  "title": "Westminster Kennel Club",
+  "liveUrl": "https://www.google.com/search?hl=fr-FR&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLWFtsDPFBNRod3V24fhErLgkw-LqkcOrPyKMZNKIO7uBfpx-w%3D%3D&kgs=663ee3128772a110&shndl=18&source=sh/x/kp/ee/1&entrypoint=sh/x/kp/ee",
+  "domain": "www.google.com",
+  "loadmoreUrl": "https://loadmo.re/posts/westminster-kennel-club",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/westminster-kennel-club",
+  "description": "Fun experiment that Google made when searching about this NGO dedicated to the sport of dogs.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "playful",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/westminster-kennel-club/6d3fd5900b-1657199401/0353_westminsterkennelclub-home-min-0-00-03-22-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/westminster-kennel-club/5503d071c3-1657199411/0353_westminsterkennelclub-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:32:35.744Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "https://www.google.com/search?hl=fr-FR&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLWFtsDPFBNRod3V24fhErLgkw-LqkcOrPyKMZNKIO7uBfpx-w%3D%3D&kgs=663ee3128772a110&shndl=18&source=sh/x/kp/ee/1&entrypoint=sh/x/kp/ee&sei=ThjUade3NsOnvr0PoOiUiAQ",
+        "url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Dfr-FR%26si%3DAC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLWFtsDPFBNRod3V24fhErLgkw-LqkcOrPyKMZNKIO7uBfpx-w%253D%253D%26kgs%3D663ee3128772a110%26shndl%3D18%26source%3Dsh/x/kp/ee/1%26entrypoint%3Dsh/x/kp/ee%26sei%3DThjUade3NsOnvr0PoOiUiAQ&hl=fr-FR&q=EgQykTpCGM-w0M4GIjBg5FUub1XW6R5gdzm9wf9a1fG-bcr0NdL-0m4iZjRkpr3DmZKTNRr8-VN7pJVgt-AyAVJaAUM",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<div style=\"font-size:13px;\">\nPour continuer, veuillez activer JavaScript sur votre navigateur Web.\n</div>\n\n\nvar submitC",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Que s'est-il passé ?",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<div style=\"font-size:13px;\">\nPour continuer, veuillez activer JavaScript sur votre navigateur Web.\n</div>\n\n\nvar submitC",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Que s'est-il passé ?",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfdfd",
+            "count": 25215
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 358
+          },
+          {
+            "hex": "#a6a7db",
+            "count": 18
+          },
+          {
+            "hex": "#6c98e1",
+            "count": 3
+          },
+          {
+            "hex": "#777777",
+            "count": 3
+          },
+          {
+            "hex": "#5773c5",
+            "count": 1
+          },
+          {
+            "hex": "#c2bfe4",
+            "count": 1
+          },
+          {
+            "hex": "#c0bfbe",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfdfd",
+            "count": 25215
+          },
+          {
+            "hex": "#a7a7a7",
+            "count": 358
+          },
+          {
+            "hex": "#a6a7db",
+            "count": 18
+          },
+          {
+            "hex": "#6c98e1",
+            "count": 3
+          },
+          {
+            "hex": "#777777",
+            "count": 3
+          },
+          {
+            "hex": "#5773c5",
+            "count": 1
+          },
+          {
+            "hex": "#c2bfe4",
+            "count": 1
+          },
+          {
+            "hex": "#c0bfbe",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "https://www.google.com/search?hl=fr-FR&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLWFtsDPFBNRod3V24fhErLgkw-LqkcOrPyKMZNKIO7uBfpx-w%3D%3D&kgs=663ee3128772a110&shndl=18&source=sh/x/kp/ee/1&entrypoint=sh/x/kp/ee&sei=WRjUaeSqG63m1e8PwqjS6QQ",
+        "url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fhl%3Dfr-FR%26si%3DAC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgLWFtsDPFBNRod3V24fhErLgkw-LqkcOrPyKMZNKIO7uBfpx-w%253D%253D%26kgs%3D663ee3128772a110%26shndl%3D18%26source%3Dsh/x/kp/ee/1%26entrypoint%3Dsh/x/kp/ee%26sei%3DWRjUaeSqG63m1e8PwqjS6QQ&hl=fr-FR&q=EgQykTpCGNmw0M4GIjBPc9f7Wr3MA4TPKGK0J9_mrG6XTYEvOrSZj8dQapH8mgPSV43MCtWp6ad7Oh8flmMyAVJaAUM",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "<div style=\"font-size:13px;\">\nPour continuer, veuillez activer JavaScript sur votre navigateur Web.\n</div>\n\n\nvar submitC",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Que s'est-il passé ?",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "arial, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "<div style=\"font-size:13px;\">\nPour continuer, veuillez activer JavaScript sur votre navigateur Web.\n</div>\n\n\nvar submitC",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Que s'est-il passé ?",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbfb",
+            "count": 23235
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 1823
+          },
+          {
+            "hex": "#707070",
+            "count": 427
+          },
+          {
+            "hex": "#9ea2e9",
+            "count": 75
+          },
+          {
+            "hex": "#7474e3",
+            "count": 17
+          },
+          {
+            "hex": "#588de7",
+            "count": 13
+          },
+          {
+            "hex": "#304cad",
+            "count": 6
+          },
+          {
+            "hex": "#1234a6",
+            "count": 4
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbfb",
+            "count": 23235
+          },
+          {
+            "hex": "#a1a1a1",
+            "count": 1823
+          },
+          {
+            "hex": "#707070",
+            "count": 427
+          },
+          {
+            "hex": "#9ea2e9",
+            "count": 75
+          },
+          {
+            "hex": "#7474e3",
+            "count": 17
+          },
+          {
+            "hex": "#588de7",
+            "count": 13
+          },
+          {
+            "hex": "#304cad",
+            "count": 6
+          },
+          {
+            "hex": "#1234a6",
+            "count": 4
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

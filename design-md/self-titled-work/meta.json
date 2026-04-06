@@ -1,0 +1,328 @@
+{
+  "slug": "self-titled-work",
+  "title": "Self Titled Work",
+  "liveUrl": "https://initializer.work.damonzucconi.com/",
+  "domain": "initializer.work.damonzucconi.com",
+  "loadmoreUrl": "https://loadmo.re/posts/self-titled-work",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/self-titled-work",
+  "description": "Randomly generating color stories as abstract art, transforming the browser into a canvas.",
+  "credits": "Damon Zucconi",
+  "added": "",
+  "tags": [
+    "net.art",
+    "colorful",
+    "typography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/self-titled-work/6e6b362942-1730110378/initializerwork-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/self-titled-work/93c934189f-1730110395/initializerwork-post-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:26:24.894Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Self-Titled",
+        "url": "https://initializer.work.damonzucconi.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "a field of indigo within a field of olive",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "13.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "a field of indigo within a field of olive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#7e8000",
+            "count": 11228
+          },
+          {
+            "hex": "#4a0081",
+            "count": 9988
+          },
+          {
+            "hex": "#4f117b",
+            "count": 1337
+          },
+          {
+            "hex": "#b4f67e",
+            "count": 1035
+          },
+          {
+            "hex": "#afeb81",
+            "count": 855
+          },
+          {
+            "hex": "#7b740e",
+            "count": 431
+          },
+          {
+            "hex": "#808100",
+            "count": 388
+          },
+          {
+            "hex": "#8fa281",
+            "count": 338
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#7e8000",
+            "count": 11228
+          },
+          {
+            "hex": "#4a0081",
+            "count": 9988
+          },
+          {
+            "hex": "#4f117b",
+            "count": 1337
+          },
+          {
+            "hex": "#b4f67e",
+            "count": 1035
+          },
+          {
+            "hex": "#afeb81",
+            "count": 855
+          },
+          {
+            "hex": "#7b740e",
+            "count": 431
+          },
+          {
+            "hex": "#808100",
+            "count": 388
+          },
+          {
+            "hex": "#8fa281",
+            "count": 338
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Self-Titled",
+        "url": "https://initializer.work.damonzucconi.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "a field of indigo on top of a field of green on top of a field of blue on top of a field of brown",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial",
+          "fontSize": "13.3333px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "fixed"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "a field of indigo on top of a field of green on top of a field of blue on top of a field of brown",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "fixed"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#a42a2a",
+            "count": 8584
+          },
+          {
+            "hex": "#4a0081",
+            "count": 5099
+          },
+          {
+            "hex": "#0303f9",
+            "count": 5081
+          },
+          {
+            "hex": "#008001",
+            "count": 4674
+          },
+          {
+            "hex": "#eeef13",
+            "count": 707
+          },
+          {
+            "hex": "#0b7b11",
+            "count": 668
+          },
+          {
+            "hex": "#eb80eb",
+            "count": 407
+          },
+          {
+            "hex": "#9ea164",
+            "count": 380
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#a42a2a",
+            "count": 8584
+          },
+          {
+            "hex": "#4a0081",
+            "count": 5099
+          },
+          {
+            "hex": "#0303f9",
+            "count": 5081
+          },
+          {
+            "hex": "#008001",
+            "count": 4674
+          },
+          {
+            "hex": "#eeef13",
+            "count": 707
+          },
+          {
+            "hex": "#0b7b11",
+            "count": 668
+          },
+          {
+            "hex": "#eb80eb",
+            "count": 407
+          },
+          {
+            "hex": "#9ea164",
+            "count": 380
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

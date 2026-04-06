@@ -1,0 +1,1237 @@
+{
+  "slug": "source-type",
+  "title": "Source Type",
+  "liveUrl": "https://www.sourcetype.com/",
+  "domain": "www.sourcetype.com",
+  "loadmoreUrl": "https://loadmo.re/posts/source-type",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/source-type",
+  "description": "A platform for typographic research and visual literacy. Super-smooth perspective scroll through their website content.",
+  "credits": "Laurenz Brunner Ben Schwartz",
+  "added": "",
+  "tags": [
+    "typography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/source-type/a93c120d34-1730111522/sourcetype-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/source-type/32612fcd38-1730111541/sourcetype-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:27:38.646Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Source Type",
+        "url": "https://www.sourcetype.com/",
+        "body": {
+          "backgroundColor": "rgb(245, 245, 245)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "More styles, more ooommmppphhh…\nby Laurenz Brunner",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times NR\", serif",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.76px",
+          "lineHeight": "40px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Yes",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "CookieRound, Courier, mono",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "5px",
+          "boxShadow": "none",
+          "letterSpacing": "0.25px",
+          "lineHeight": "16px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Back to Home",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+          "fontSize": "19px",
+          "fontWeight": "400",
+          "borderRadius": "21px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "24px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "CookieRound",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Source X",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Times NR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Times NR",
+            "style": "italic",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rekord",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rekord",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rekord Symbols",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Karl Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rekord Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "UFOSourceTypeGX",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "UFOSourceTypeGXMobile",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Times NR Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Back to Home\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\tTypefaces\n\t\t\t\n\t\t\t\n\t\t\t\tEditorial\n\t\t\t\n\t\t\t\n\t\t\t\tIndex\n\t\t\t\n\t\t\t\n\t\t\t\tStore\n\t\t\t\n\t\t",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(245, 245, 245)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back to Home",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "19px",
+            "fontWeight": "400",
+            "borderRadius": "21px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Typefaces",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "108.888px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.08888px",
+            "lineHeight": "108.888px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Editorial",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "108.888px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.08888px",
+            "lineHeight": "108.888px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "108.888px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.08888px",
+            "lineHeight": "108.888px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Store",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "108.888px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.08888px",
+            "lineHeight": "108.888px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Information",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "108.888px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1.08888px",
+            "lineHeight": "108.888px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "More styles, more ooommmppphhh…\nby Laurenz Brunner",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Dynamic Lettering, Typefaces & Language…\nby Nell May, Kevin Kuhn",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Italians do it better…\nby Laurenz Brunner",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Now with italics and monospace!\nby Selina Bernet",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Mercator – the Dutch Helvetica\nby Laurenz Brunner",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Out now! A soft-serif for hard times…\nby Laurenz Brunner, Stefan Fitze",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Home of type…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Milled curves, rural charm… meet our newest typeface, Reform",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The ultra heavy addition to the Karl family – now available!",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Extreme width and weights for typographic time travel…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "All the news thats fit to print…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What goes on four feet in the morning, two feet in midday, and three feet in the evening…\nby Billie Muraben",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A Trip to the Silicon Valley…\nby Mathis Neuhaus",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Part 2: Modes of Illegibility\nby Federico Pérez Villoro, Nic Schumann",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The Other Free Encyclopedia",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.76px",
+            "lineHeight": "40px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Welcome to Source Type! \n            Accept cookies?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Yes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Yes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "No",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "No",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 21408
+          },
+          {
+            "hex": "#636162",
+            "count": 1530
+          },
+          {
+            "hex": "#9c9b9b",
+            "count": 894
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 859
+          },
+          {
+            "hex": "#9b4a27",
+            "count": 530
+          },
+          {
+            "hex": "#5e2d23",
+            "count": 220
+          },
+          {
+            "hex": "#883a22",
+            "count": 95
+          },
+          {
+            "hex": "#5e4723",
+            "count": 64
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 21408
+          },
+          {
+            "hex": "#636162",
+            "count": 1530
+          },
+          {
+            "hex": "#9c9b9b",
+            "count": 894
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 859
+          },
+          {
+            "hex": "#9b4a27",
+            "count": 530
+          },
+          {
+            "hex": "#5e2d23",
+            "count": 220
+          },
+          {
+            "hex": "#883a22",
+            "count": 95
+          },
+          {
+            "hex": "#5e4723",
+            "count": 64
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Source Type",
+        "url": "https://www.sourcetype.com/",
+        "body": {
+          "backgroundColor": "rgb(245, 245, 245)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "17.5px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "More styles, more ooommmppphhh…\nby Laurenz Brunner",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times NR\", serif",
+          "fontSize": "23px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.46px",
+          "lineHeight": "27px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Yes",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "CookieRound, Courier, mono",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "borderRadius": "5px",
+          "boxShadow": "none",
+          "letterSpacing": "0.25px",
+          "lineHeight": "16px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Back to Home",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "borderRadius": "21px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "22px",
+          "display": "flex",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "CookieRound",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Source X",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Times NR",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Times NR",
+            "style": "italic",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rekord",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Rekord",
+            "style": "italic",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rekord Symbols",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Karl Condensed",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Rekord Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "UFOSourceTypeGX",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "UFOSourceTypeGXMobile",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Times NR Mono",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Back to Home\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\tTypefaces\n\t\t\t\n\t\t\t\n\t\t\t\tEditorial\n\t\t\t\n\t\t\t\n\t\t\t\tIndex\n\t\t\t\n\t\t\t\n\t\t\t\tStore\n\t\t\t\n\t\t",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(245, 245, 245)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "17.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "Back to Home",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "borderRadius": "21px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "22px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Typefaces",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Editorial",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Index",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Store",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Information",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "52px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "span",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Rekord Symbols\", Rekord, Helvetica, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "1px",
+            "lineHeight": "17.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "More styles, more ooommmppphhh…\nby Laurenz Brunner",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Dynamic Lettering, Typefaces & Language…\nby Nell May, Kevin Kuhn",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Mercator – the Dutch Helvetica\nby Laurenz Brunner",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Home of type…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Milled curves, rural charm… meet our newest typeface, Reform",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The ultra heavy addition to the Karl family – now available!",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Extreme width and weights for typographic time travel…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "All the news thats fit to print…",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "What goes on four feet in the morning, two feet in midday, and three feet in the evening…\nby Billie Muraben",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "A Trip to the Silicon Valley…\nby Mathis Neuhaus",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Part 2: Modes of Illegibility\nby Federico Pérez Villoro, Nic Schumann",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The Other Free Encyclopedia",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times NR\", serif",
+            "fontSize": "23px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.46px",
+            "lineHeight": "27px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Welcome to Source Type! \n            Accept cookies?",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "Yes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Yes",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "div",
+            "text": "No",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "No",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "CookieRound, Courier, mono",
+            "fontSize": "10px",
+            "fontWeight": "400",
+            "borderRadius": "5px",
+            "boxShadow": "none",
+            "letterSpacing": "0.25px",
+            "lineHeight": "16px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f2f2f0",
+            "count": 20967
+          },
+          {
+            "hex": "#a1a19f",
+            "count": 1252
+          },
+          {
+            "hex": "#646261",
+            "count": 1000
+          },
+          {
+            "hex": "#1b1717",
+            "count": 934
+          },
+          {
+            "hex": "#9c4b27",
+            "count": 844
+          },
+          {
+            "hex": "#5d2723",
+            "count": 368
+          },
+          {
+            "hex": "#9f7161",
+            "count": 130
+          },
+          {
+            "hex": "#883922",
+            "count": 105
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f2f2f0",
+            "count": 20967
+          },
+          {
+            "hex": "#a1a19f",
+            "count": 1252
+          },
+          {
+            "hex": "#646261",
+            "count": 1000
+          },
+          {
+            "hex": "#1b1717",
+            "count": 934
+          },
+          {
+            "hex": "#9c4b27",
+            "count": 844
+          },
+          {
+            "hex": "#5d2723",
+            "count": 368
+          },
+          {
+            "hex": "#9f7161",
+            "count": 130
+          },
+          {
+            "hex": "#883922",
+            "count": 105
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

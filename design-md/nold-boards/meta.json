@@ -1,0 +1,422 @@
+{
+  "slug": "nold-boards",
+  "title": "Nold Boards",
+  "liveUrl": "https://noldboards.ch/",
+  "domain": "noldboards.ch",
+  "loadmoreUrl": "https://loadmo.re/posts/nold-boards",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/nold-boards",
+  "description": "Skateboarding brand site that gives you left or right menu depending on whether you are a 'regular' or a 'goofy'",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "fashion",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/nold-boards/11a89a8943-1686650691/noldboards-cover-hp-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/nold-boards/3e66276bd2-1686650705/noldboards-post-min-v02.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:20:53.757Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Nold Skateboards",
+        "url": "https://noldboards.ch/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+          "fontSize": "24.912px",
+          "lineHeight": "29.952px"
+        },
+        "bodyText": {
+          "tag": "a",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+          "fontSize": "24.912px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "29.952px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Regular",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"GT Haptik Black\"",
+          "fontSize": "123.408px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "123.408px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "GT Haptik Black",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GT Haptik Black Rotalic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT Haptik Bold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT Haptik Medium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+            "fontSize": "24.912px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.952px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+            "fontSize": "24.912px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "29.952px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Regular",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Black\"",
+            "fontSize": "123.408px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "123.408px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Goofy",
+            "color": "rgb(0, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Black\"",
+            "fontSize": "123.408px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "123.408px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 12795
+          },
+          {
+            "hex": "#00fe01",
+            "count": 12451
+          },
+          {
+            "hex": "#9cfa9c",
+            "count": 192
+          },
+          {
+            "hex": "#62f962",
+            "count": 155
+          },
+          {
+            "hex": "#3ffa40",
+            "count": 4
+          },
+          {
+            "hex": "#80f97f",
+            "count": 1
+          },
+          {
+            "hex": "#c0fbbf",
+            "count": 1
+          },
+          {
+            "hex": "#7ffa80",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 12795
+          },
+          {
+            "hex": "#00fe01",
+            "count": 12451
+          },
+          {
+            "hex": "#9cfa9c",
+            "count": 192
+          },
+          {
+            "hex": "#62f962",
+            "count": 155
+          },
+          {
+            "hex": "#3ffa40",
+            "count": 4
+          },
+          {
+            "hex": "#80f97f",
+            "count": 1
+          },
+          {
+            "hex": "#c0fbbf",
+            "count": 1
+          },
+          {
+            "hex": "#7ffa80",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Nold Skateboards",
+        "url": "https://noldboards.ch/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "17px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Home\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBoards\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tAbout\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tNews\n\t\t\t\n\t\t\n\t\n \n\n\t\t\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "17px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Regular",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"GT Haptik Black\"",
+          "fontSize": "55px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "55px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "GT Haptik Black",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "GT Haptik Black Rotalic",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT Haptik Bold",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "GT Haptik Medium",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Home\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tBoards\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tAbout\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tNews\n\t\t\t\n\t\t\n\t\n \n\n\t\t\n\t\t\n\t\t\t\n\t\n\t\n\t\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Medium\", Helvetica, Arial, Verdana, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "17px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Regular",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Black\"",
+            "fontSize": "55px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "55px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Goofy",
+            "color": "rgb(0, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"GT Haptik Black\"",
+            "fontSize": "55px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "55px",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 12467
+          },
+          {
+            "hex": "#00fe01",
+            "count": 12053
+          },
+          {
+            "hex": "#1ffc20",
+            "count": 434
+          },
+          {
+            "hex": "#dffce0",
+            "count": 369
+          },
+          {
+            "hex": "#9ffa9f",
+            "count": 135
+          },
+          {
+            "hex": "#62fa63",
+            "count": 134
+          },
+          {
+            "hex": "#3efc40",
+            "count": 7
+          },
+          {
+            "hex": "#c0fbbf",
+            "count": 1
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 12467
+          },
+          {
+            "hex": "#00fe01",
+            "count": 12053
+          },
+          {
+            "hex": "#1ffc20",
+            "count": 434
+          },
+          {
+            "hex": "#dffce0",
+            "count": 369
+          },
+          {
+            "hex": "#9ffa9f",
+            "count": 135
+          },
+          {
+            "hex": "#62fa63",
+            "count": 134
+          },
+          {
+            "hex": "#3efc40",
+            "count": 7
+          },
+          {
+            "hex": "#c0fbbf",
+            "count": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

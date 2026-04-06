@@ -1,0 +1,4235 @@
+{
+  "slug": "water-works-project",
+  "title": "Water Works Project",
+  "liveUrl": "https://waterworksproject.nl/en",
+  "domain": "waterworksproject.nl",
+  "loadmoreUrl": "https://loadmo.re/posts/water-works-project",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/water-works-project",
+  "description": "Initiated by Field Records, Waterworks covers over 50 Dutch waterworks developed across Japan during the Meiji era. Navigate around the map and click on sites' names to learn about their development — often accompanied by visual or sonic impressions.",
+  "credits": "Field Records",
+  "added": "",
+  "tags": [
+    "educational",
+    "music"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/water-works-project/34d01f2277-1768238501/waterworksproject-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/water-works-project/f156de4c50-1768238513/waterworksproject-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:32:31.546Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Waterworks",
+        "url": "https://waterworksproject.nl/en",
+        "body": {
+          "backgroundColor": "rgb(50, 0, 255)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "11.25px",
+          "lineHeight": "12.9375px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Waterworks ( About ) enjp 54\n\t\t\tLocations ( See all ) ( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Po",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(50, 0, 255)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "11.25px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "12.9375px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "( About )",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "11.25px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "12.9375px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Waterworks",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "11.25px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "12.9375px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Waterworks ( About ) enjp 54\n\t\t\tLocations ( See all ) ( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Po",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(50, 0, 255)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "header",
+            "text": "Waterworks ( About ) enjp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Waterworks",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( About )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "en",
+            "color": "rgba(0, 0, 0, 0.2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "jp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "54\n\t\t\tLocations ( See all )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( See all )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Port )( River )( Other )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( All )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Watermannen )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Canal )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Dam )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Landmark )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Polder )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Port )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( River )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Other )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Asaka Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Asaka Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Biwa Lake Water Channel",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Biwa Lake Water Channel",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Dejima",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dejima",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Edo River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Edo River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Fuji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Fuji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Fushino River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Fushino River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hachinohe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hachinohe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hachirōgata Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hachirōgata Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hakodate Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hakodate Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hirado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hirado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hiroshima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hiroshima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Holland Dam (Kaizu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Holland Dam (Kaizu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Holland Dam (Otsu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Holland Dam (Otsu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Horie Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Horie Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Hososhima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hososhima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Iinuma Original Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Iinuma Original Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Ishii Lock",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ishii Lock",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Ishikari River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ishikari River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Jōganji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Jōganji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kanda River Sewer Network",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kanda River Sewer Network",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Katsura River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Katsura River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kinugawa River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kinugawa River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kiso Three Rivers",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kiso Three Rivers",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kitakami Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kitakami Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kizu River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kizu River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kōbe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kōbe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kojima Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kojima Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kurobe River Alluvial Fan",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kurobe River Alluvial Fan",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Kuzuryu River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kuzuryu River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Mikuni Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mikuni Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": "Mima Dam System",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "12.9375px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Mima Dam System",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "11.25px",
+            "fontWeight": "500",
+            "borderRadius": "4.5px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.25px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#2f01f4",
+            "count": 23500
+          },
+          {
+            "hex": "#abaaad",
+            "count": 1198
+          },
+          {
+            "hex": "#4d28e1",
+            "count": 344
+          },
+          {
+            "hex": "#6e55d3",
+            "count": 234
+          },
+          {
+            "hex": "#2206a6",
+            "count": 132
+          },
+          {
+            "hex": "#8674ca",
+            "count": 73
+          },
+          {
+            "hex": "#a095c9",
+            "count": 60
+          },
+          {
+            "hex": "#c9cac7",
+            "count": 59
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#2f01f4",
+            "count": 23500
+          },
+          {
+            "hex": "#abaaad",
+            "count": 1198
+          },
+          {
+            "hex": "#4d28e1",
+            "count": 344
+          },
+          {
+            "hex": "#6e55d3",
+            "count": 234
+          },
+          {
+            "hex": "#2206a6",
+            "count": 132
+          },
+          {
+            "hex": "#8674ca",
+            "count": 73
+          },
+          {
+            "hex": "#a095c9",
+            "count": 60
+          },
+          {
+            "hex": "#c9cac7",
+            "count": 59
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Waterworks",
+        "url": "https://waterworksproject.nl/en",
+        "body": {
+          "backgroundColor": "rgb(50, 0, 255)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "10px",
+          "lineHeight": "11.5px"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Waterworks ( About ) enjp 54\n\t\t\tLocations ( See all ) ( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Po",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(50, 0, 255)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "10px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "11.5px",
+          "display": "block",
+          "position": "fixed"
+        },
+        "button": {
+          "tag": "button",
+          "text": "( About )",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "10px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "11.5px",
+          "display": "flex",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Waterworks",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+          "fontSize": "10px",
+          "fontWeight": "500",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "11.5px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "style": "normal",
+            "weight": "500",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Sans JP",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Waterworks ( About ) enjp 54\n\t\t\tLocations ( See all ) ( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Po",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(50, 0, 255)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "header",
+            "text": "Waterworks ( About ) enjp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "fixed"
+          },
+          {
+            "tag": "a",
+            "text": "Waterworks",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( About )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "en",
+            "color": "rgba(0, 0, 0, 0.2)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "jp",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "54\n\t\t\tLocations ( See all )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( See all )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "nav",
+            "text": "( All ) ( Watermannen ) ( Canal )( Dam )( Landmark )( Polder )( Port )( River )( Other )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "( All )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Watermannen )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Canal )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Dam )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Landmark )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Polder )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Port )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( River )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "( Other )",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Asaka Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Asaka Canal",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Biwa Lake Water Channel",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Biwa Lake Water Channel",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Dejima",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dejima",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Edo River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Edo River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Fuji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Fuji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Fushino River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Fushino River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hachinohe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hachinohe Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hachirōgata Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hachirōgata Lake",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hakodate Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hakodate Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hirado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hirado",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hiroshima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hiroshima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Holland Dam (Kaizu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Holland Dam (Kaizu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Holland Dam (Otsu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Holland Dam (Otsu)",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Horie Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Horie Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Hososhima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hososhima Port",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Iinuma Original Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Iinuma Original Benchmark",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Ishii Lock",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ishii Lock",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Ishikari River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ishikari River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Jōganji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Jōganji River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Kanda River Sewer Network",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Kanda River Sewer Network",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "10px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0.2)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "4px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": "Katsura River",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"IBM Plex Mono\", \"IB Plex Sans JP\", monospace",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "11.5px",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#2f01f1",
+            "count": 22263
+          },
+          {
+            "hex": "#ababad",
+            "count": 1512
+          },
+          {
+            "hex": "#6e53db",
+            "count": 564
+          },
+          {
+            "hex": "#4f2be5",
+            "count": 504
+          },
+          {
+            "hex": "#cfd1d0",
+            "count": 425
+          },
+          {
+            "hex": "#8872da",
+            "count": 170
+          },
+          {
+            "hex": "#a69ad6",
+            "count": 137
+          },
+          {
+            "hex": "#c2c3bd",
+            "count": 25
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#2f01f1",
+            "count": 22263
+          },
+          {
+            "hex": "#ababad",
+            "count": 1512
+          },
+          {
+            "hex": "#6e53db",
+            "count": 564
+          },
+          {
+            "hex": "#4f2be5",
+            "count": 504
+          },
+          {
+            "hex": "#cfd1d0",
+            "count": 425
+          },
+          {
+            "hex": "#8872da",
+            "count": 170
+          },
+          {
+            "hex": "#a69ad6",
+            "count": 137
+          },
+          {
+            "hex": "#c2c3bd",
+            "count": 25
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

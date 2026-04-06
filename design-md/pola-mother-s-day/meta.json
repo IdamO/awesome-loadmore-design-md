@@ -1,0 +1,642 @@
+{
+  "slug": "pola-mother-s-day",
+  "title": "Pola - Mother's Day",
+  "liveUrl": "https://www.pola.co.jp/wecaremore/mothersday/",
+  "domain": "www.pola.co.jp",
+  "loadmoreUrl": "https://loadmo.re/posts/pola-mother-s-day",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/pola-mother-s-day",
+  "description": "Cute animation triggered while scrolling down the page.",
+  "credits": "mount inc.",
+  "added": "",
+  "tags": [
+    "tactile",
+    "animation"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/pola-mother-s-day/ebcf74f8f7-1661623759/0358-pola-mothersday-home-min-0-00-05-00-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/pola-mother-s-day/e9d93358d1-1661623771/0358-pola-mothersday-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:23:30.160Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "すべてのお母さんに、ありがとう。| ポーラ公式 エイジングケアと美白・化粧品",
+        "url": "https://www.pola.co.jp/special/o/wecaremore/mothersday/",
+        "body": {
+          "backgroundColor": "rgb(235, 235, 235)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "14px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "すべてのお母さんに、ありがとう。",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "当社は、お客さまのウェブ体験を向上させ、当社のアクセスを分析するためにCookieを使用します。",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "13.008px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.512px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Cookie設定",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "13.008px",
+          "fontWeight": "600",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "0.13008px",
+          "lineHeight": "15.6096px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "___",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "___\n  \n  <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-TQN5FN5\" height=\"0\" width=\"0\" style=\"display:none;",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(235, 235, 235)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "___",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h1",
+            "text": "すべてのお母さんに、ありがとう。",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "2029年ビジョン",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "18.3px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.3px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "企業情報",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "18.3px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "18.3px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "We Care More.世界を変える、心づかいを。POLA",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "p",
+            "text": "当社は、お客さまのウェブ体験を向上させ、当社のアクセスを分析するためにCookieを使用します。",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.512px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Cookie設定",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "600",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.13008px",
+            "lineHeight": "15.6096px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "了解",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "600",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.13008px",
+            "lineHeight": "15.6096px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(85, 85, 85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.144px",
+            "lineHeight": "38px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#ececec",
+            "count": 19709
+          },
+          {
+            "hex": "#e65232",
+            "count": 1543
+          },
+          {
+            "hex": "#da301c",
+            "count": 1092
+          },
+          {
+            "hex": "#f1a621",
+            "count": 1038
+          },
+          {
+            "hex": "#2258a5",
+            "count": 957
+          },
+          {
+            "hex": "#ef6f58",
+            "count": 503
+          },
+          {
+            "hex": "#1da1ab",
+            "count": 471
+          },
+          {
+            "hex": "#0e3c8b",
+            "count": 287
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#ececec",
+            "count": 19709
+          },
+          {
+            "hex": "#e65232",
+            "count": 1543
+          },
+          {
+            "hex": "#da301c",
+            "count": 1092
+          },
+          {
+            "hex": "#f1a621",
+            "count": 1038
+          },
+          {
+            "hex": "#2258a5",
+            "count": 957
+          },
+          {
+            "hex": "#ef6f58",
+            "count": 503
+          },
+          {
+            "hex": "#1da1ab",
+            "count": 471
+          },
+          {
+            "hex": "#0e3c8b",
+            "count": 287
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "すべてのお母さんに、ありがとう。| ポーラ公式 エイジングケアと美白・化粧品",
+        "url": "https://www.pola.co.jp/special/o/wecaremore/mothersday/",
+        "body": {
+          "backgroundColor": "rgb(235, 235, 235)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "14px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "すべてのお母さんに、ありがとう。",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "当社は、お客さまのウェブ体験を向上させ、当社のアクセスを分析するためにCookieを使用します。",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "13.008px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "19.512px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Cookie設定",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "13.008px",
+          "fontWeight": "600",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "letterSpacing": "0.13008px",
+          "lineHeight": "15.6096px",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "___",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "14px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "___\n  \n  <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-TQN5FN5\" height=\"0\" width=\"0\" style=\"display:none;",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(235, 235, 235)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "___",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h1",
+            "text": "すべてのお母さんに、ありがとう。",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "2029年ビジョン",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "企業情報",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "We Care More.世界を変える、心づかいを。POLA",
+            "color": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, \"游ゴシック Medium\", \"Yu Gothic Medium\", 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "div",
+            "text": "当社は、お客さまのウェブ体験を向上させ、当社のアクセスを分析するためにCookieを使用します。Cookie設定  了解",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "p",
+            "text": "当社は、お客さまのウェブ体験を向上させ、当社のアクセスを分析するためにCookieを使用します。",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.512px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Cookie設定",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "600",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.13008px",
+            "lineHeight": "15.6096px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "了解",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "13.008px",
+            "fontWeight": "600",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.13008px",
+            "lineHeight": "15.6096px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(85, 85, 85)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.144px",
+            "lineHeight": "38px",
+            "display": "inline-block",
+            "position": "relative"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f1efef",
+            "count": 17336
+          },
+          {
+            "hex": "#e65232",
+            "count": 1834
+          },
+          {
+            "hex": "#030303",
+            "count": 1419
+          },
+          {
+            "hex": "#da311c",
+            "count": 1312
+          },
+          {
+            "hex": "#f0a621",
+            "count": 1289
+          },
+          {
+            "hex": "#2257a5",
+            "count": 1257
+          },
+          {
+            "hex": "#f07059",
+            "count": 587
+          },
+          {
+            "hex": "#1ca1ab",
+            "count": 566
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f1efef",
+            "count": 17336
+          },
+          {
+            "hex": "#e65232",
+            "count": 1834
+          },
+          {
+            "hex": "#030303",
+            "count": 1419
+          },
+          {
+            "hex": "#da311c",
+            "count": 1312
+          },
+          {
+            "hex": "#f0a621",
+            "count": 1289
+          },
+          {
+            "hex": "#2257a5",
+            "count": 1257
+          },
+          {
+            "hex": "#f07059",
+            "count": 587
+          },
+          {
+            "hex": "#1ca1ab",
+            "count": 566
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

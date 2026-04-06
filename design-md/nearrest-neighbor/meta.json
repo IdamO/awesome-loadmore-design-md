@@ -1,0 +1,906 @@
+{
+  "slug": "nearrest-neighbor",
+  "title": "Nearrest Neighbor",
+  "liveUrl": "https://near.rest/",
+  "domain": "near.rest",
+  "loadmoreUrl": "https://loadmo.re/posts/nearrest-neighbor",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/nearrest-neighbor",
+  "description": "Thesis virtual exhibition for UCLA students. They've brilliantly transitionned from an IRL to an online format.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "arts&culture",
+    "educational",
+    "tactile"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/nearrest-neighbor/1dbfc22f13-1606939679/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/nearrest-neighbor/4d91037b09-1605177906/nearrest.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:19:46.451Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "NEARREST NEIGHBOR",
+        "url": "https://near.rest/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "15px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Artist Navigation",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "21px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "You need to enable JavaScript to run this app.Skip to main contentArtist NavigationZeynep AbesGraham AkinsBerfin AtamanE",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to main content",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "21px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Arial Black",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Arial Blur",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Kyiv",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "You need to enable JavaScript to run this app.Skip to main contentArtist NavigationZeynep AbesGraham AkinsBerfin AtamanE",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to main content",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "nav",
+            "text": "Artist NavigationZeynep AbesGraham AkinsBerfin AtamanErin CooneyClara LeivasBen LerchinBlaine O'NeillMiles PeytonHirad S",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h2",
+            "text": "Artist Navigation",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Zeynep Abes",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Graham Akins",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Berfin Ataman",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Erin Cooney",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Clara Leivas",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ben Lerchin",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blaine O'Neill",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Miles Peyton",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hirad Sab",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dalena Tran",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Leming Zhong",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "NEARREST NEIGHBOR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Blur\"",
+            "fontSize": "187.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "201.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Site NavigationHomeInfo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h2",
+            "text": "Site Navigation",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#91acc8",
+            "count": 15643
+          },
+          {
+            "hex": "#020203",
+            "count": 5222
+          },
+          {
+            "hex": "#b3c3bc",
+            "count": 1637
+          },
+          {
+            "hex": "#a2b9bb",
+            "count": 1105
+          },
+          {
+            "hex": "#abc5ca",
+            "count": 725
+          },
+          {
+            "hex": "#eff1f3",
+            "count": 665
+          },
+          {
+            "hex": "#51596c",
+            "count": 322
+          },
+          {
+            "hex": "#647292",
+            "count": 281
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#91acc8",
+            "count": 15643
+          },
+          {
+            "hex": "#020203",
+            "count": 5222
+          },
+          {
+            "hex": "#b3c3bc",
+            "count": 1637
+          },
+          {
+            "hex": "#a2b9bb",
+            "count": 1105
+          },
+          {
+            "hex": "#abc5ca",
+            "count": 725
+          },
+          {
+            "hex": "#eff1f3",
+            "count": 665
+          },
+          {
+            "hex": "#51596c",
+            "count": 322
+          },
+          {
+            "hex": "#647292",
+            "count": 281
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "NEARREST NEIGHBOR",
+        "url": "https://near.rest/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "15px"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "Artist Navigation",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "21px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "You need to enable JavaScript to run this app.Skip to main contentArtist NavigationZeynep AbesGraham AkinsBerfin AtamanE",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "15px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to main content",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": "21px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "25.2px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": true,
+        "fonts": [
+          {
+            "family": "Arial Black",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Arial Blur",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Kyiv",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "You need to enable JavaScript to run this app.Skip to main contentArtist NavigationZeynep AbesGraham AkinsBerfin AtamanE",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "15px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to main content",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "nav",
+            "text": "Artist NavigationZeynep AbesGraham AkinsBerfin AtamanErin CooneyClara LeivasBen LerchinBlaine O'NeillMiles PeytonHirad S",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "h2",
+            "text": "Artist Navigation",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Zeynep Abes",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Graham Akins",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Berfin Ataman",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Erin Cooney",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Clara Leivas",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Ben Lerchin",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Blaine O'Neill",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Miles Peyton",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Hirad Sab",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Dalena Tran",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Leming Zhong",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": "21px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "25.2px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "NEARREST NEIGHBOR",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Blur\"",
+            "fontSize": "50.7px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "54.6px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "nav",
+            "text": "Site NavigationHomeInfo",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "fixed"
+          },
+          {
+            "tag": "h2",
+            "text": "Site Navigation",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Info",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Arial Black\", Gadget, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "36px",
+            "display": "inline",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#92acc7",
+            "count": 12333
+          },
+          {
+            "hex": "#010101",
+            "count": 8937
+          },
+          {
+            "hex": "#d4dbd6",
+            "count": 1110
+          },
+          {
+            "hex": "#9fb8bd",
+            "count": 1043
+          },
+          {
+            "hex": "#afc6c9",
+            "count": 813
+          },
+          {
+            "hex": "#b0c2bc",
+            "count": 763
+          },
+          {
+            "hex": "#778aad",
+            "count": 304
+          },
+          {
+            "hex": "#4d586c",
+            "count": 297
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#92acc7",
+            "count": 12333
+          },
+          {
+            "hex": "#010101",
+            "count": 8937
+          },
+          {
+            "hex": "#d4dbd6",
+            "count": 1110
+          },
+          {
+            "hex": "#9fb8bd",
+            "count": 1043
+          },
+          {
+            "hex": "#afc6c9",
+            "count": 813
+          },
+          {
+            "hex": "#b0c2bc",
+            "count": 763
+          },
+          {
+            "hex": "#778aad",
+            "count": 304
+          },
+          {
+            "hex": "#4d586c",
+            "count": 297
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

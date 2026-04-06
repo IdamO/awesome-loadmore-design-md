@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PoolSide FM Design Preview (Dark)</title>
+<style>
+  :root {
+    --bg: #0f0f10;
+    --fg: #f7f7f7;
+    --accent: #aba8a2;
+    --card: #18181b;
+    --border: rgba(255,255,255,0.12);
+    --font-sans: Pixolde;
+    --font-mono: Perfect DOS VGA 437;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 40px 20px 80px; }
+  .hero { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 20px; align-items: start; }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 24px;
+  }
+  .eyebrow { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; opacity: .72; }
+  h1 { font-size: clamp(40px, 7vw, 84px); line-height: .96; margin: 10px 0 16px; }
+  p { max-width: 62ch; }
+  .buttons { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+  .btn {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn--accent { background: var(--accent); color: #0a0a0a; border-color: transparent; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 24px; }
+  .swatch { border-radius: 18px; overflow: hidden; border: 1px solid var(--border); }
+  .swatch .chip { height: 82px; }
+  .swatch .meta { padding: 12px 14px; font-family: var(--font-mono); font-size: 12px; }
+  .shots { display: grid; grid-template-columns: 1fr 320px; gap: 20px; margin-top: 28px; }
+  img { width: 100%; display: block; border-radius: 18px; border: 1px solid var(--border); }
+  .small { font-size: 13px; opacity: .72; }
+  @media (max-width: 900px) {
+    .hero, .shots, .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <div class="eyebrow">loadmo.re design archive</div>
+        <h1>PoolSide FM</h1>
+        <p>Travel trough this happy place with nostalgic graphics and retro sounds.</p>
+        <div class="buttons">
+          <a class="btn btn--accent" href="https://poolside.fm">Visit live site</a>
+          <a class="btn" href="https://loadmo.re/posts/poolside-fm">Open loadmo.re entry</a>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Fonts</div>
+        <p>Pixolde<br>Perfect DOS VGA 437<br>Pixelated Times New Roman<br>ITC Garamond<br>ITC Garamond Std<br>ChiKareGo2</p>
+        <div class="eyebrow">Tags</div>
+        <p class="small">music · retro · default-aesthetics</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="swatch"><div class="chip" style="background:#f3d2d1"></div><div class="meta">#f3d2d1</div></div><div class="swatch"><div class="chip" style="background:#cebcb9"></div><div class="meta">#cebcb9</div></div><div class="swatch"><div class="chip" style="background:#aba8a2"></div><div class="meta">#aba8a2</div></div><div class="swatch"><div class="chip" style="background:#cfc0bd"></div><div class="meta">#cfc0bd</div></div><div class="swatch"><div class="chip" style="background:#0b0b0c"></div><div class="meta">#0b0b0c</div></div><div class="swatch"><div class="chip" style="background:#a2cdaa"></div><div class="meta">#a2cdaa</div></div><div class="swatch"><div class="chip" style="background:#696664"></div><div class="meta">#696664</div></div><div class="swatch"><div class="chip" style="background:#a08f79"></div><div class="meta">#a08f79</div></div>
+    </section>
+
+    <section class="shots">
+      <div class="panel">
+        <div class="eyebrow">Web capture</div>
+        <img alt="PoolSide FM desktop" src="./screenshots/desktop.jpg">
+      </div>
+      <div class="panel">
+        <div class="eyebrow">Mobile capture</div>
+        <img alt="PoolSide FM mobile" src="./screenshots/mobile.jpg">
+      </div>
+    </section>
+  </div>
+</body>
+</html>

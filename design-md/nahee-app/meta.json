@@ -1,0 +1,197 @@
+{
+  "slug": "nahee-app",
+  "title": "Nahee App",
+  "liveUrl": "https://nahee.app/",
+  "domain": "nahee.app",
+  "loadmoreUrl": "https://loadmo.re/posts/nahee-app",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/nahee-app",
+  "description": "Artist/Teacher/Programmer Nahee Kim performs under the name “nahee.app”. This website is both an experiment and a portfolio, with a very novel navigation.",
+  "credits": "Nahee Kim",
+  "added": "",
+  "tags": [
+    "animation",
+    "colorful",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/nahee-app/1d01136eec-1625575169/0176-nahee-app-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/nahee-app/b5f2917c25-1625575191/0176-nahee-app-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:19:05.931Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://nahee.app/\nCall log:\n\u001b[2m  - navigating to \"https://nahee.app/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#e0d6f1",
+            "count": 21964
+          },
+          {
+            "hex": "#9f98ac",
+            "count": 2018
+          },
+          {
+            "hex": "#b8b0c6",
+            "count": 865
+          },
+          {
+            "hex": "#c4bbd2",
+            "count": 572
+          },
+          {
+            "hex": "#837c8e",
+            "count": 85
+          },
+          {
+            "hex": "#645e6c",
+            "count": 53
+          },
+          {
+            "hex": "#7b7485",
+            "count": 40
+          },
+          {
+            "hex": "#3b3641",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e0d6f1",
+            "count": 21964
+          },
+          {
+            "hex": "#9f98ac",
+            "count": 2018
+          },
+          {
+            "hex": "#b8b0c6",
+            "count": 865
+          },
+          {
+            "hex": "#c4bbd2",
+            "count": 572
+          },
+          {
+            "hex": "#837c8e",
+            "count": 85
+          },
+          {
+            "hex": "#645e6c",
+            "count": 53
+          },
+          {
+            "hex": "#7b7485",
+            "count": 40
+          },
+          {
+            "hex": "#3b3641",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/nahee-app/1d01136eec-1625575169/0176-nahee-app-cover-home-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://nahee.app/\nCall log:\n\u001b[2m  - navigating to \"https://nahee.app/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#e0d6f1",
+            "count": 21964
+          },
+          {
+            "hex": "#9f98ac",
+            "count": 2018
+          },
+          {
+            "hex": "#b8b0c6",
+            "count": 865
+          },
+          {
+            "hex": "#c4bbd2",
+            "count": 572
+          },
+          {
+            "hex": "#837c8e",
+            "count": 85
+          },
+          {
+            "hex": "#645e6c",
+            "count": 53
+          },
+          {
+            "hex": "#7b7485",
+            "count": 40
+          },
+          {
+            "hex": "#3b3641",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e0d6f1",
+            "count": 21964
+          },
+          {
+            "hex": "#9f98ac",
+            "count": 2018
+          },
+          {
+            "hex": "#b8b0c6",
+            "count": 865
+          },
+          {
+            "hex": "#c4bbd2",
+            "count": 572
+          },
+          {
+            "hex": "#837c8e",
+            "count": 85
+          },
+          {
+            "hex": "#645e6c",
+            "count": 53
+          },
+          {
+            "hex": "#7b7485",
+            "count": 40
+          },
+          {
+            "hex": "#3b3641",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/nahee-app/1d01136eec-1625575169/0176-nahee-app-cover-home-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:40.368Z"
+  }
+}

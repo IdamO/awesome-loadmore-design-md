@@ -1,0 +1,195 @@
+{
+  "slug": "a-cold-wall-autumn-winter-2021",
+  "title": "A-COLD-WALL AUTUMN WINTER 2021",
+  "liveUrl": "https://aw21.a-cold-wall.com/",
+  "domain": "aw21.a-cold-wall.com",
+  "loadmoreUrl": "https://loadmo.re/posts/a-cold-wall-autumn-winter-2021",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/a-cold-wall-autumn-winter-2021",
+  "description": "Tactile website showing the AW21 lookbook, with glitch effects and sound design that reacts to browsing movements.",
+  "credits": "Bureau COOL",
+  "added": "",
+  "tags": [
+    "fashion"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/a-cold-wall-autumn-winter-2021/0a82f5c066-1641385034/0256-a-cold-wall-autumnwinter-2021-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/a-cold-wall-autumn-winter-2021/9aacb145e6-1641385061/0256-a-cold-wall-autumnwinter-2021-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:00:14.823Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://aw21.a-cold-wall.com/\nCall log:\n\u001b[2m  - navigating to \"https://aw21.a-cold-wall.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#110c0c",
+            "count": 16132
+          },
+          {
+            "hex": "#4d3417",
+            "count": 2258
+          },
+          {
+            "hex": "#694d20",
+            "count": 2191
+          },
+          {
+            "hex": "#8e6e2b",
+            "count": 1611
+          },
+          {
+            "hex": "#aca3a1",
+            "count": 1316
+          },
+          {
+            "hex": "#625b57",
+            "count": 786
+          },
+          {
+            "hex": "#ab9456",
+            "count": 670
+          },
+          {
+            "hex": "#d5ac4a",
+            "count": 636
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#110c0c",
+            "count": 16132
+          },
+          {
+            "hex": "#4d3417",
+            "count": 2258
+          },
+          {
+            "hex": "#694d20",
+            "count": 2191
+          },
+          {
+            "hex": "#8e6e2b",
+            "count": 1611
+          },
+          {
+            "hex": "#aca3a1",
+            "count": 1316
+          },
+          {
+            "hex": "#625b57",
+            "count": 786
+          },
+          {
+            "hex": "#ab9456",
+            "count": 670
+          },
+          {
+            "hex": "#d5ac4a",
+            "count": 636
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/a-cold-wall-autumn-winter-2021/0a82f5c066-1641385034/0256-a-cold-wall-autumnwinter-2021-home-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://aw21.a-cold-wall.com/\nCall log:\n\u001b[2m  - navigating to \"https://aw21.a-cold-wall.com/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#110c0c",
+            "count": 16132
+          },
+          {
+            "hex": "#4d3417",
+            "count": 2258
+          },
+          {
+            "hex": "#694d20",
+            "count": 2191
+          },
+          {
+            "hex": "#8e6e2b",
+            "count": 1611
+          },
+          {
+            "hex": "#aca3a1",
+            "count": 1316
+          },
+          {
+            "hex": "#625b57",
+            "count": 786
+          },
+          {
+            "hex": "#ab9456",
+            "count": 670
+          },
+          {
+            "hex": "#d5ac4a",
+            "count": 636
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#110c0c",
+            "count": 16132
+          },
+          {
+            "hex": "#4d3417",
+            "count": 2258
+          },
+          {
+            "hex": "#694d20",
+            "count": 2191
+          },
+          {
+            "hex": "#8e6e2b",
+            "count": 1611
+          },
+          {
+            "hex": "#aca3a1",
+            "count": 1316
+          },
+          {
+            "hex": "#625b57",
+            "count": 786
+          },
+          {
+            "hex": "#ab9456",
+            "count": 670
+          },
+          {
+            "hex": "#d5ac4a",
+            "count": 636
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/a-cold-wall-autumn-winter-2021/0a82f5c066-1641385034/0256-a-cold-wall-autumnwinter-2021-home-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:28.875Z"
+  }
+}

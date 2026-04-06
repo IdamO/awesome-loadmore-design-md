@@ -1,0 +1,758 @@
+{
+  "slug": "of-hundred",
+  "title": "Of Hundred",
+  "liveUrl": "https://ofhundred.com/",
+  "domain": "ofhundred.com",
+  "loadmoreUrl": "https://loadmo.re/posts/of-hundred",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/of-hundred",
+  "description": "Online radio show that curates various range of sounds.",
+  "credits": "David Rindlisbacher, Arne Spremberg",
+  "added": "",
+  "tags": [
+    "music",
+    "minimal"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/of-hundred/e21c336624-1621859766/0121-of-hundred-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/of-hundred/38d60e8486-1621859781/0121-of-hundred-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:21:15.477Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "/100 - A CERTAIN N° OF THINGS",
+        "url": "https://ofhundred.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 56, 49)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "037",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "76px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "53.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "main",
+          "text": "037SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA    ",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Prev",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Arial",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "50%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Prev",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "NHaasGroteskDSPro-95Blk",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Swiss721BT-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "main",
+            "text": "037SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA    ",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "037SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA    ",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "h2",
+            "text": "037",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "76px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "53.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA            SHINJI WAKASA       ",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "NHaasGroteskDSPro-95Blk, Helvetica, sans-serif",
+            "fontSize": "76px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(16, 16, 16)",
+            "backgroundColor": "rgb(238, 56, 49)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "footer",
+            "text": "PrevNextplayTHE CAUL – AND WHAT IS TIME IF NOT THAT JARRING QUESTION PAUL CELAN IN POETIC CONSTELLATIONS  WOVE; OR BORGE",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Prev",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Prev",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Next",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Next",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "play",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Grid",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "List",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "About",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfcfc",
+            "count": 24678
+          },
+          {
+            "hex": "#ebaba8",
+            "count": 434
+          },
+          {
+            "hex": "#ec5e5a",
+            "count": 236
+          },
+          {
+            "hex": "#ed322c",
+            "count": 184
+          },
+          {
+            "hex": "#ecc0bd",
+            "count": 28
+          },
+          {
+            "hex": "#ec423c",
+            "count": 25
+          },
+          {
+            "hex": "#ee817d",
+            "count": 9
+          },
+          {
+            "hex": "#e6bec1",
+            "count": 6
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfcfc",
+            "count": 24678
+          },
+          {
+            "hex": "#ebaba8",
+            "count": 434
+          },
+          {
+            "hex": "#ec5e5a",
+            "count": 236
+          },
+          {
+            "hex": "#ed322c",
+            "count": 184
+          },
+          {
+            "hex": "#ecc0bd",
+            "count": 28
+          },
+          {
+            "hex": "#ec423c",
+            "count": 25
+          },
+          {
+            "hex": "#ee817d",
+            "count": 9
+          },
+          {
+            "hex": "#e6bec1",
+            "count": 6
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "/100 - A CERTAIN N° OF THINGS",
+        "url": "https://ofhundred.com/",
+        "body": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(238, 56, 49)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "normal"
+        },
+        "heading": {
+          "tag": "h2",
+          "text": "037",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "76px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "53.2px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "main",
+          "text": "037SHINJI WAKASAEPISODEN°March 20260:000:00PrevNextplayTHE CAUL – AND WHAT IS TIME IF NOT THAT JARRING QUESTION PAUL CEL",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "Prev",
+          "color": "rgb(238, 56, 49)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Arial",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "borderRadius": "50%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "inline-block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Prev",
+          "color": "rgb(0, 0, 238)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "NHaasGroteskDSPro-95Blk",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Swiss721BT-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "main",
+            "text": "037SHINJI WAKASAEPISODEN°March 20260:000:00PrevNextplayTHE CAUL – AND WHAT IS TIME IF NOT THAT JARRING QUESTION PAUL CEL",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "037SHINJI WAKASA",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-flex",
+            "position": "relative"
+          },
+          {
+            "tag": "h2",
+            "text": "037",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "76px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "53.2px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "SHINJI WAKASA",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "NHaasGroteskDSPro-95Blk, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(16, 16, 16)",
+            "backgroundColor": "rgb(238, 56, 49)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "footer",
+            "text": "PrevNextplayTHE CAUL – AND WHAT IS TIME IF NOT THAT JARRING QUESTION PAUL CELAN IN POETIC CONSTELLATIONS  WOVE; OR BORGE",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Prev",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Prev",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Next",
+            "color": "rgb(0, 0, 238)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Swiss721BT-Regular, Helvetica, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "300",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Next",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "play",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "List",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "About",
+            "color": "rgb(238, 56, 49)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Arial",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "borderRadius": "50%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fdfbfb",
+            "count": 24692
+          },
+          {
+            "hex": "#eea9a7",
+            "count": 439
+          },
+          {
+            "hex": "#ed615c",
+            "count": 202
+          },
+          {
+            "hex": "#ed332d",
+            "count": 202
+          },
+          {
+            "hex": "#f1c0be",
+            "count": 29
+          },
+          {
+            "hex": "#ee817d",
+            "count": 18
+          },
+          {
+            "hex": "#ec413b",
+            "count": 16
+          },
+          {
+            "hex": "#e9bec0",
+            "count": 2
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fdfbfb",
+            "count": 24692
+          },
+          {
+            "hex": "#eea9a7",
+            "count": 439
+          },
+          {
+            "hex": "#ed615c",
+            "count": 202
+          },
+          {
+            "hex": "#ed332d",
+            "count": 202
+          },
+          {
+            "hex": "#f1c0be",
+            "count": 29
+          },
+          {
+            "hex": "#ee817d",
+            "count": 18
+          },
+          {
+            "hex": "#ec413b",
+            "count": 16
+          },
+          {
+            "hex": "#e9bec0",
+            "count": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

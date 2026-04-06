@@ -1,0 +1,30 @@
+# Liebermann Kiepe Reddemann Inspired Design System
+
+[DESIGN.md](./DESIGN.md) extracted from the public [Liebermann Kiepe Reddemann](https://liebermannkiepereddemann.de/) website, cross-referenced with [loadmo.re](https://loadmo.re/posts/liebermann-kiepe-reddemann). This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.
+
+## Files
+
+| File | Description |
+|------|-------------|
+| DESIGN.md | Full design-system reference with separate web/mobile guidance |
+| preview.html | Light preview page generated from the extracted tokens |
+| preview-dark.html | Dark preview page generated from the extracted tokens |
+| meta.json | Source metadata, capture checklist, extracted tokens |
+| screenshots/desktop.jpg | Live or archival desktop viewport capture |
+| screenshots/mobile.jpg | Live or archival mobile viewport capture |
+
+## Source Notes
+
+- Tags: default-aesthetics, minimal, portfolio
+- Credits: David Liebermann, Maximilian Kiepe ad Jana Reddemann
+- Added to loadmo.re: unknown
+- Capture status: ok
+- Archival fallback: no
+
+## Preview
+
+### Web
+![Liebermann Kiepe Reddemann desktop capture](./screenshots/desktop.jpg)
+
+### Mobile
+![Liebermann Kiepe Reddemann mobile capture](./screenshots/mobile.jpg)

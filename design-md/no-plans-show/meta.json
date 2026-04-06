@@ -1,0 +1,197 @@
+{
+  "slug": "no-plans-show",
+  "title": "No Plans Show",
+  "liveUrl": "https://noplans.show/",
+  "domain": "noplans.show",
+  "loadmoreUrl": "https://loadmo.re/posts/no-plans-show",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/no-plans-show",
+  "description": "No Plans turned their portfolio into a digital exhibition. By stretching the video recordings of their interfaces, it turns them into an abstract material.",
+  "credits": "No Plans",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "animation",
+    "glitches"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/no-plans-show/739621527b-1606940574/cover-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/no-plans-show/6e57eab258-1604597075/072-noplans-show.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:20:28.746Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://noplans.show/\nCall log:\n\u001b[2m  - navigating to \"https://noplans.show/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16769
+          },
+          {
+            "hex": "#010101",
+            "count": 3887
+          },
+          {
+            "hex": "#dc685f",
+            "count": 2001
+          },
+          {
+            "hex": "#a8a3a3",
+            "count": 1016
+          },
+          {
+            "hex": "#ab8e63",
+            "count": 726
+          },
+          {
+            "hex": "#af6c67",
+            "count": 550
+          },
+          {
+            "hex": "#ef8b97",
+            "count": 376
+          },
+          {
+            "hex": "#666465",
+            "count": 275
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16769
+          },
+          {
+            "hex": "#010101",
+            "count": 3887
+          },
+          {
+            "hex": "#dc685f",
+            "count": 2001
+          },
+          {
+            "hex": "#a8a3a3",
+            "count": 1016
+          },
+          {
+            "hex": "#ab8e63",
+            "count": 726
+          },
+          {
+            "hex": "#af6c67",
+            "count": 550
+          },
+          {
+            "hex": "#ef8b97",
+            "count": 376
+          },
+          {
+            "hex": "#666465",
+            "count": 275
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/no-plans-show/739621527b-1606940574/cover-min.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://noplans.show/\nCall log:\n\u001b[2m  - navigating to \"https://noplans.show/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16769
+          },
+          {
+            "hex": "#010101",
+            "count": 3887
+          },
+          {
+            "hex": "#dc685f",
+            "count": 2001
+          },
+          {
+            "hex": "#a8a3a3",
+            "count": 1016
+          },
+          {
+            "hex": "#ab8e63",
+            "count": 726
+          },
+          {
+            "hex": "#af6c67",
+            "count": 550
+          },
+          {
+            "hex": "#ef8b97",
+            "count": 376
+          },
+          {
+            "hex": "#666465",
+            "count": 275
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fcfcfc",
+            "count": 16769
+          },
+          {
+            "hex": "#010101",
+            "count": 3887
+          },
+          {
+            "hex": "#dc685f",
+            "count": 2001
+          },
+          {
+            "hex": "#a8a3a3",
+            "count": 1016
+          },
+          {
+            "hex": "#ab8e63",
+            "count": 726
+          },
+          {
+            "hex": "#af6c67",
+            "count": 550
+          },
+          {
+            "hex": "#ef8b97",
+            "count": 376
+          },
+          {
+            "hex": "#666465",
+            "count": 275
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/no-plans-show/739621527b-1606940574/cover-min.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:40.662Z"
+  }
+}

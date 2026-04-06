@@ -1,0 +1,328 @@
+{
+  "slug": "kris-ludi",
+  "title": "Kris Ludi",
+  "liveUrl": "http://krisludi.com/",
+  "domain": "krisludi.com",
+  "loadmoreUrl": "https://loadmo.re/posts/kris-ludi",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/kris-ludi",
+  "description": "A text as a website.",
+  "credits": "Samuel Weidmann",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "minimal",
+    "typography"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/kris-ludi/d263e57a10-1767802319/krisludi-hp-cover.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/kris-ludi/d9e6c52859-1767802332/krisludi-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:16:13.056Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Kris Lüdi",
+        "url": "https://www.krisludi.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Kris Lüdi",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "26.64px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.21312px",
+          "lineHeight": "33.3px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Kris Lüdi[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Kris Lüdi[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Kris Lüdi",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times New Roman\", Times, serif",
+            "fontSize": "26.64px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.21312px",
+            "lineHeight": "33.3px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 25239
+          },
+          {
+            "hex": "#caaa99",
+            "count": 110
+          },
+          {
+            "hex": "#b59e91",
+            "count": 80
+          },
+          {
+            "hex": "#a88b77",
+            "count": 55
+          },
+          {
+            "hex": "#8f7061",
+            "count": 50
+          },
+          {
+            "hex": "#6f5c4f",
+            "count": 36
+          },
+          {
+            "hex": "#58483a",
+            "count": 18
+          },
+          {
+            "hex": "#2d2b29",
+            "count": 12
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 25239
+          },
+          {
+            "hex": "#caaa99",
+            "count": 110
+          },
+          {
+            "hex": "#b59e91",
+            "count": 80
+          },
+          {
+            "hex": "#a88b77",
+            "count": 55
+          },
+          {
+            "hex": "#8f7061",
+            "count": 50
+          },
+          {
+            "hex": "#6f5c4f",
+            "count": 36
+          },
+          {
+            "hex": "#58483a",
+            "count": 18
+          },
+          {
+            "hex": "#2d2b29",
+            "count": 12
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Kris Lüdi",
+        "url": "https://www.krisludi.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "Kris Lüdi",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.16px",
+          "lineHeight": "25px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "Kris Lüdi[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "\"Times New Roman\", Times, serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "24px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Kris Lüdi[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Times New Roman\", Times, serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "Kris Lüdi",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Times New Roman\", Times, serif",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.16px",
+            "lineHeight": "25px",
+            "display": "block",
+            "position": "absolute"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fefefe",
+            "count": 24673
+          },
+          {
+            "hex": "#ccac9c",
+            "count": 282
+          },
+          {
+            "hex": "#b09c90",
+            "count": 218
+          },
+          {
+            "hex": "#a88b77",
+            "count": 138
+          },
+          {
+            "hex": "#8f7161",
+            "count": 122
+          },
+          {
+            "hex": "#695a52",
+            "count": 93
+          },
+          {
+            "hex": "#5c4a3a",
+            "count": 40
+          },
+          {
+            "hex": "#262424",
+            "count": 34
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fefefe",
+            "count": 24673
+          },
+          {
+            "hex": "#ccac9c",
+            "count": 282
+          },
+          {
+            "hex": "#b09c90",
+            "count": 218
+          },
+          {
+            "hex": "#a88b77",
+            "count": 138
+          },
+          {
+            "hex": "#8f7161",
+            "count": 122
+          },
+          {
+            "hex": "#695a52",
+            "count": 93
+          },
+          {
+            "hex": "#5c4a3a",
+            "count": 40
+          },
+          {
+            "hex": "#262424",
+            "count": 34
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

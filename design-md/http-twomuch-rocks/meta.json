@@ -1,0 +1,197 @@
+{
+  "slug": "http-twomuch-rocks",
+  "title": "Two Much Rocks",
+  "liveUrl": "http://twomuch.rocks",
+  "domain": "twomuch.rocks",
+  "loadmoreUrl": "https://loadmo.re/posts/http-twomuch-rocks",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/http-twomuch-rocks",
+  "description": "TwoMuch teamed up with illustrator Inga Ziemele to design this virtual garden. Pick and name your rock, then drop it on the grass among its peers.",
+  "credits": "Two Much Studios, Inga Ziemele",
+  "added": "",
+  "tags": [
+    "participative",
+    "illustration",
+    "playful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/http-twomuch-rocks/588a124e3b-1615822827/0209-two-much-rocks-cover-hp.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/http-twomuch-rocks/e80aad0429-1615822854/0209-two-much-rocks-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": false,
+    "mobileVisited": false,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "failed",
+    "capturedAt": "2026-04-06T20:30:18.483Z",
+    "desktop": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at http://twomuch.rocks/\nCall log:\n\u001b[2m  - navigating to \"http://twomuch.rocks/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#d0ced1",
+            "count": 9045
+          },
+          {
+            "hex": "#82c14e",
+            "count": 6425
+          },
+          {
+            "hex": "#a6a4a7",
+            "count": 5955
+          },
+          {
+            "hex": "#636363",
+            "count": 1819
+          },
+          {
+            "hex": "#1b1b1c",
+            "count": 1098
+          },
+          {
+            "hex": "#729f4d",
+            "count": 667
+          },
+          {
+            "hex": "#f8e10d",
+            "count": 305
+          },
+          {
+            "hex": "#adfecf",
+            "count": 286
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d0ced1",
+            "count": 9045
+          },
+          {
+            "hex": "#82c14e",
+            "count": 6425
+          },
+          {
+            "hex": "#a6a4a7",
+            "count": 5955
+          },
+          {
+            "hex": "#636363",
+            "count": 1819
+          },
+          {
+            "hex": "#1b1b1c",
+            "count": 1098
+          },
+          {
+            "hex": "#729f4d",
+            "count": 667
+          },
+          {
+            "hex": "#f8e10d",
+            "count": 305
+          },
+          {
+            "hex": "#adfecf",
+            "count": 286
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/http-twomuch-rocks/588a124e3b-1615822827/0209-two-much-rocks-cover-hp.jpg"
+      }
+    },
+    "mobile": {
+      "ok": false,
+      "errors": [
+        "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at http://twomuch.rocks/\nCall log:\n\u001b[2m  - navigating to \"http://twomuch.rocks/\", waiting until \"commit\"\u001b[22m\n"
+      ],
+      "analysis": {
+        "colors": [
+          {
+            "hex": "#d0ced1",
+            "count": 9045
+          },
+          {
+            "hex": "#82c14e",
+            "count": 6425
+          },
+          {
+            "hex": "#a6a4a7",
+            "count": 5955
+          },
+          {
+            "hex": "#636363",
+            "count": 1819
+          },
+          {
+            "hex": "#1b1b1c",
+            "count": 1098
+          },
+          {
+            "hex": "#729f4d",
+            "count": 667
+          },
+          {
+            "hex": "#f8e10d",
+            "count": 305
+          },
+          {
+            "hex": "#adfecf",
+            "count": 286
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#d0ced1",
+            "count": 9045
+          },
+          {
+            "hex": "#82c14e",
+            "count": 6425
+          },
+          {
+            "hex": "#a6a4a7",
+            "count": 5955
+          },
+          {
+            "hex": "#636363",
+            "count": 1819
+          },
+          {
+            "hex": "#1b1b1c",
+            "count": 1098
+          },
+          {
+            "hex": "#729f4d",
+            "count": 667
+          },
+          {
+            "hex": "#f8e10d",
+            "count": 305
+          },
+          {
+            "hex": "#adfecf",
+            "count": 286
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg",
+      "fallback": {
+        "type": "posterImage",
+        "source": "https://loadmo.re/media/pages/posts/http-twomuch-rocks/588a124e3b-1615822827/0209-two-much-rocks-cover-hp.jpg"
+      }
+    },
+    "fallbackUsed": true,
+    "fallbackSource": "posterImage",
+    "fallbackAt": "2026-04-06T21:50:36.808Z"
+  }
+}

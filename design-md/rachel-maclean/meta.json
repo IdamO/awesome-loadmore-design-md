@@ -1,0 +1,1098 @@
+{
+  "slug": "rachel-maclean",
+  "title": "Rachel Maclean",
+  "liveUrl": "http://www.rachelmaclean.com/",
+  "domain": "www.rachelmaclean.com",
+  "loadmoreUrl": "https://loadmo.re/posts/rachel-maclean",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/rachel-maclean",
+  "description": "Visit Rachel Maclean's colorful and playful world.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "retro",
+    "playful",
+    "portfolio"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/rachel-maclean/0071813e29-1631785485/0252-rachel-maclean-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/rachel-maclean/e9c8cb70ad-1631785500/0252-rachel-maclean-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:23:51.724Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Rachel Maclean",
+        "url": "https://www.rachelmaclean.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to Content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 179, 222)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "100%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Skip to Content\n      \n      \n\n\n\n    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {\n        .hea",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to Content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 179, 222)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "nav",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "19.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "footer",
+            "text": ".fe-66e05219a8cf5a0815234fa2 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-66e05219a8cf5a0815234fa2 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "mail@rachelmaclean.com\n    \n    \n\n\n  \n\n\n\n\n  #block-yui_3_17_2_1_1726235756412_27576 {--sqs-block-content-flex: 1;\n  }",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "mail@rachelmaclean.com",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "mail@rachelmaclean.com",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "24.64px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#162117",
+            "count": 13835
+          },
+          {
+            "hex": "#5bb591",
+            "count": 2946
+          },
+          {
+            "hex": "#2d9164",
+            "count": 2257
+          },
+          {
+            "hex": "#1f704b",
+            "count": 1673
+          },
+          {
+            "hex": "#115d36",
+            "count": 1623
+          },
+          {
+            "hex": "#8ccaac",
+            "count": 1492
+          },
+          {
+            "hex": "#71c2a1",
+            "count": 1224
+          },
+          {
+            "hex": "#4a9c77",
+            "count": 550
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#162117",
+            "count": 13835
+          },
+          {
+            "hex": "#5bb591",
+            "count": 2946
+          },
+          {
+            "hex": "#2d9164",
+            "count": 2257
+          },
+          {
+            "hex": "#1f704b",
+            "count": 1673
+          },
+          {
+            "hex": "#115d36",
+            "count": 1623
+          },
+          {
+            "hex": "#8ccaac",
+            "count": 1492
+          },
+          {
+            "hex": "#71c2a1",
+            "count": 1224
+          },
+          {
+            "hex": "#4a9c77",
+            "count": 550
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Rachel Maclean",
+        "url": "https://www.rachelmaclean.com/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to Content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 179, 222)",
+          "fontFamily": "\"Nunito Sans\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "100%",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Fredoka",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "italic",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "600",
+            "status": "loaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Nunito Sans",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "squarespace-ui-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "social-icon-font",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "0\n              \n            \n          \n        \n      \n\n      \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n    \n  \n\n  \n    \n  \n\n  \n    \n  \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "header",
+            "text": "Skip to Content\n      \n      \n\n\n\n    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {\n        .hea",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to Content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 179, 222)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "100%",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "nav",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "19.2px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "19.2px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "article",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-66e042c483e3f6457005642b {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "footer",
+            "text": ".fe-66e05219a8cf5a0815234fa2 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "section",
+            "text": ".fe-66e05219a8cf5a0815234fa2 {\n  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);\n  --cell-max-width: c",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "mail@rachelmaclean.com\n    \n    \n\n\n  \n\n\n\n\n  #block-yui_3_17_2_1_1726235756412_27576 {--sqs-block-content-flex: 1;\n  }",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "div",
+            "text": "mail@rachelmaclean.com",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "24px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "mail@rachelmaclean.com",
+            "color": "rgb(255, 179, 222)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Nunito Sans\"",
+            "fontSize": "19.984px",
+            "fontWeight": "600",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1a1d14",
+            "count": 13750
+          },
+          {
+            "hex": "#58b791",
+            "count": 3352
+          },
+          {
+            "hex": "#2d9364",
+            "count": 2642
+          },
+          {
+            "hex": "#8ccbae",
+            "count": 1333
+          },
+          {
+            "hex": "#1e724b",
+            "count": 1221
+          },
+          {
+            "hex": "#6fc2a0",
+            "count": 1199
+          },
+          {
+            "hex": "#165337",
+            "count": 1175
+          },
+          {
+            "hex": "#53251a",
+            "count": 928
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1a1d14",
+            "count": 13750
+          },
+          {
+            "hex": "#58b791",
+            "count": 3352
+          },
+          {
+            "hex": "#2d9364",
+            "count": 2642
+          },
+          {
+            "hex": "#8ccbae",
+            "count": 1333
+          },
+          {
+            "hex": "#1e724b",
+            "count": 1221
+          },
+          {
+            "hex": "#6fc2a0",
+            "count": 1199
+          },
+          {
+            "hex": "#165337",
+            "count": 1175
+          },
+          {
+            "hex": "#53251a",
+            "count": 928
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

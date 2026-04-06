@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-04-06T00:00:00.000Z",
+  "sites": [
+    {
+      "slug": "cyanbanister",
+      "title": "Cyan Banister",
+      "liveUrl": "https://cyanbanister.com/",
+      "domain": "cyanbanister.com",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://cyanbanister.com/",
+      "loadmoreUrl": "https://cyanbanister.com/",
+      "description": "Personal site with internet-native attitude, asymmetrical pacing, and a strong anti-template energy that feels more like a live artifact than a portfolio shell.",
+      "credits": "Cyan Banister",
+      "added": "Manual seed",
+      "tags": ["portfolio", "typography", "playful"]
+    },
+    {
+      "slug": "bruno-simon",
+      "title": "Bruno Simon",
+      "liveUrl": "https://bruno-simon.com/",
+      "domain": "bruno-simon.com",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://bruno-simon.com/",
+      "loadmoreUrl": "https://bruno-simon.com/",
+      "description": "A 3D portfolio that turns navigation into play. It is useful design fuel because the interface is inseparable from motion, physics, and personality.",
+      "credits": "Bruno Simon",
+      "added": "Manual seed",
+      "tags": ["3d-space", "playful", "portfolio"]
+    },
+    {
+      "slug": "camerons-world",
+      "title": "Cameron's World",
+      "liveUrl": "https://www.cameronsworld.net/",
+      "domain": "www.cameronsworld.net",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://www.cameronsworld.net/",
+      "loadmoreUrl": "https://www.cameronsworld.net/",
+      "description": "A maximal internet collage that treats nostalgia, GIF density, and hyperlink overload as an intentional visual system rather than noise.",
+      "credits": "Cameron Askin",
+      "added": "Manual seed",
+      "tags": ["retro", "net.art", "playful"]
+    },
+    {
+      "slug": "neal-fun",
+      "title": "Neal Fun",
+      "liveUrl": "https://neal.fun/",
+      "domain": "neal.fun",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://neal.fun/",
+      "loadmoreUrl": "https://neal.fun/",
+      "description": "A playful experiment hub that shows how educational interfaces can feel toy-like, crisp, and culturally current instead of institutional.",
+      "credits": "Neal Agarwal",
+      "added": "Manual seed",
+      "tags": ["educational", "playful", "game"]
+    }
+  ]
+}

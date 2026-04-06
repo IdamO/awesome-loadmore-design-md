@@ -1,0 +1,268 @@
+{
+  "slug": "hybrid-vigor",
+  "title": "Hybrid Vigor",
+  "liveUrl": "http://hybrid.vigor.bio/",
+  "domain": "hybrid.vigor.bio",
+  "loadmoreUrl": "https://loadmo.re/posts/hybrid-vigor",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/hybrid-vigor",
+  "description": "When picking 2 organisms, their settings are blend to create a new set of 6. So you start with a very diverse set and end up with more and more similar shapes.",
+  "credits": "Harm van den Dorpel",
+  "added": "",
+  "tags": [
+    "net.art",
+    "playful",
+    "colorful"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/hybrid-vigor/9975cd70f8-1625574059/0187-hybrid-vigor-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/hybrid-vigor/94367bbd88-1625574077/0187-hybrid-vigor-post-min.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": false,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:13:56.798Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Hybrid Vigor by Harm van den Dorpel, 2017 (Family Collection Dijkstra)",
+        "url": "http://hybrid.vigor.bio/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#fbfbf9",
+            "count": 19452
+          },
+          {
+            "hex": "#f35ca2",
+            "count": 1695
+          },
+          {
+            "hex": "#aeaccf",
+            "count": 1323
+          },
+          {
+            "hex": "#c8b4c9",
+            "count": 795
+          },
+          {
+            "hex": "#1b2aa1",
+            "count": 704
+          },
+          {
+            "hex": "#95a5ad",
+            "count": 575
+          },
+          {
+            "hex": "#6ba5a0",
+            "count": 563
+          },
+          {
+            "hex": "#5b62e6",
+            "count": 493
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#fbfbf9",
+            "count": 19452
+          },
+          {
+            "hex": "#f35ca2",
+            "count": 1695
+          },
+          {
+            "hex": "#aeaccf",
+            "count": 1323
+          },
+          {
+            "hex": "#c8b4c9",
+            "count": 795
+          },
+          {
+            "hex": "#1b2aa1",
+            "count": 704
+          },
+          {
+            "hex": "#95a5ad",
+            "count": 575
+          },
+          {
+            "hex": "#6ba5a0",
+            "count": 563
+          },
+          {
+            "hex": "#5b62e6",
+            "count": 493
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Hybrid Vigor by Harm van den Dorpel, 2017 (Family Collection Dijkstra)",
+        "url": "http://hybrid.vigor.bio/",
+        "body": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "body",
+          "text": "",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "fontFamily": "Times",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f7f3f8",
+            "count": 19474
+          },
+          {
+            "hex": "#dea1e0",
+            "count": 1317
+          },
+          {
+            "hex": "#9764e1",
+            "count": 1288
+          },
+          {
+            "hex": "#6d080c",
+            "count": 819
+          },
+          {
+            "hex": "#135a71",
+            "count": 757
+          },
+          {
+            "hex": "#28ae9c",
+            "count": 714
+          },
+          {
+            "hex": "#ca9bae",
+            "count": 679
+          },
+          {
+            "hex": "#222b5f",
+            "count": 552
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f7f3f8",
+            "count": 19474
+          },
+          {
+            "hex": "#dea1e0",
+            "count": 1317
+          },
+          {
+            "hex": "#9764e1",
+            "count": 1288
+          },
+          {
+            "hex": "#6d080c",
+            "count": 819
+          },
+          {
+            "hex": "#135a71",
+            "count": 757
+          },
+          {
+            "hex": "#28ae9c",
+            "count": 714
+          },
+          {
+            "hex": "#ca9bae",
+            "count": 679
+          },
+          {
+            "hex": "#222b5f",
+            "count": 552
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "slug": "ash-work",
+  "title": "Ash Work",
+  "liveUrl": "https://ash.work/",
+  "domain": "ash.work",
+  "loadmoreUrl": "https://loadmo.re/posts/ash-work",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/ash-work",
+  "description": "Play with the focus of a CGI image.",
+  "credits": "AshSeamus White",
+  "added": "",
+  "tags": [
+    "portfolio",
+    "3d"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/ash-work/61366a5a69-1736954710/ashwork-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/ash-work/8faed27a50-1736954719/ashwork-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:02:49.615Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "ASH.WORK",
+        "url": "https://ash.work/",
+        "body": {
+          "backgroundColor": "rgb(19, 19, 19)",
+          "color": "rgb(34, 34, 34)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "ABOUT",
+          "color": "rgb(242, 242, 242)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Univers LT Std\", sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "ASH.WORK",
+          "color": "rgb(242, 242, 242)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Univers LT Std\", sans-serif",
+          "fontSize": "20px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "20px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Univers LT Std",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Univers LT Std",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Univers LT Std",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "ABOUT",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ASH.WORK",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "PROJECTS",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "EMAIL",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "INSTAGRAM",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "20px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#5c6629",
+            "count": 8141
+          },
+          {
+            "hex": "#181914",
+            "count": 6368
+          },
+          {
+            "hex": "#646e4b",
+            "count": 3669
+          },
+          {
+            "hex": "#8d955f",
+            "count": 3486
+          },
+          {
+            "hex": "#798450",
+            "count": 1548
+          },
+          {
+            "hex": "#77842f",
+            "count": 942
+          },
+          {
+            "hex": "#a3a692",
+            "count": 833
+          },
+          {
+            "hex": "#3b441f",
+            "count": 613
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#5c6629",
+            "count": 8141
+          },
+          {
+            "hex": "#181914",
+            "count": 6368
+          },
+          {
+            "hex": "#646e4b",
+            "count": 3669
+          },
+          {
+            "hex": "#8d955f",
+            "count": 3486
+          },
+          {
+            "hex": "#798450",
+            "count": 1548
+          },
+          {
+            "hex": "#77842f",
+            "count": 942
+          },
+          {
+            "hex": "#a3a692",
+            "count": 833
+          },
+          {
+            "hex": "#3b441f",
+            "count": 613
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "ASH.WORK",
+        "url": "https://ash.work/",
+        "body": {
+          "backgroundColor": "rgb(19, 19, 19)",
+          "color": "rgb(34, 34, 34)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "16px"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "ABOUT",
+          "color": "rgb(242, 242, 242)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Univers LT Std\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "13px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "ASH.WORK",
+          "color": "rgb(242, 242, 242)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "\"Univers LT Std\", sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "700",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "13px",
+          "display": "block",
+          "position": "static"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Univers LT Std",
+            "style": "normal",
+            "weight": "700",
+            "status": "loaded"
+          },
+          {
+            "family": "Univers LT Std",
+            "style": "normal",
+            "weight": "300",
+            "status": "unloaded"
+          },
+          {
+            "family": "Univers LT Std",
+            "style": "italic",
+            "weight": "300",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "p",
+            "text": "ABOUT",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ASH.WORK",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "PROJECTS",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "EMAIL",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "INSTAGRAM",
+            "color": "rgb(242, 242, 242)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Univers LT Std\", sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "13px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#191a14",
+            "count": 8245
+          },
+          {
+            "hex": "#5b6527",
+            "count": 5362
+          },
+          {
+            "hex": "#5f6c4b",
+            "count": 5250
+          },
+          {
+            "hex": "#8d9462",
+            "count": 3139
+          },
+          {
+            "hex": "#a5a793",
+            "count": 1259
+          },
+          {
+            "hex": "#798554",
+            "count": 1181
+          },
+          {
+            "hex": "#3b441e",
+            "count": 683
+          },
+          {
+            "hex": "#c9caac",
+            "count": 481
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#191a14",
+            "count": 8245
+          },
+          {
+            "hex": "#5b6527",
+            "count": 5362
+          },
+          {
+            "hex": "#5f6c4b",
+            "count": 5250
+          },
+          {
+            "hex": "#8d9462",
+            "count": 3139
+          },
+          {
+            "hex": "#a5a793",
+            "count": 1259
+          },
+          {
+            "hex": "#798554",
+            "count": 1181
+          },
+          {
+            "hex": "#3b441e",
+            "count": 683
+          },
+          {
+            "hex": "#c9caac",
+            "count": 481
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

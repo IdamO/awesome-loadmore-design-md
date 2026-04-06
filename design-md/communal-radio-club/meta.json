@@ -1,0 +1,528 @@
+{
+  "slug": "communal-radio-club",
+  "title": "Communal Radio Club",
+  "liveUrl": "https://communalradio.club/",
+  "domain": "communalradio.club",
+  "loadmoreUrl": "https://loadmo.re/posts/communal-radio-club",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/communal-radio-club",
+  "description": "Listen to live radio stations and enjoy quirky Web 1.0-style animations by clicking the blue jog dial. Leave your name on the listener list to mark your presence.",
+  "credits": "Halim Lee",
+  "added": "",
+  "tags": [
+    "music",
+    "participative",
+    "retro"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/communal-radio-club/36b035700a-1723186417/00018_communalradio-cover-hp-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/communal-radio-club/94f0428dca-1723186438/00018_communalradio-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:06:52.813Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "Communal Radio Club",
+        "url": "https://communalradio.club/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo",
+          "fontSize": "0px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo",
+          "fontSize": "0px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Menlo",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "MetamorBit",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FKGroteskMonoTrial-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FKGroteskSemiMonoTrial-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "Jazz",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Indie",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Dance",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Musical",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Pop",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Jukebox",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Communal Radio Club",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "inline-block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#070201",
+            "count": 15452
+          },
+          {
+            "hex": "#056206",
+            "count": 8591
+          },
+          {
+            "hex": "#4f090a",
+            "count": 948
+          },
+          {
+            "hex": "#f70301",
+            "count": 236
+          },
+          {
+            "hex": "#020ace",
+            "count": 211
+          },
+          {
+            "hex": "#981704",
+            "count": 62
+          },
+          {
+            "hex": "#03129b",
+            "count": 54
+          },
+          {
+            "hex": "#55490c",
+            "count": 46
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#070201",
+            "count": 15452
+          },
+          {
+            "hex": "#056206",
+            "count": 8591
+          },
+          {
+            "hex": "#4f090a",
+            "count": 948
+          },
+          {
+            "hex": "#f70301",
+            "count": 236
+          },
+          {
+            "hex": "#020ace",
+            "count": 211
+          },
+          {
+            "hex": "#981704",
+            "count": 62
+          },
+          {
+            "hex": "#03129b",
+            "count": 54
+          },
+          {
+            "hex": "#55490c",
+            "count": 46
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "Communal Radio Club",
+        "url": "https://communalradio.club/",
+        "body": {
+          "backgroundColor": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Times",
+          "fontSize": "16px",
+          "lineHeight": "normal"
+        },
+        "bodyText": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo",
+          "fontSize": "0px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "button": {
+          "tag": "button",
+          "text": "",
+          "color": "rgb(255, 255, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Menlo",
+          "fontSize": "0px",
+          "fontWeight": "400",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "display": "flex",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Menlo",
+            "style": "normal",
+            "weight": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "MetamorBit",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FKGroteskMonoTrial-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "FKGroteskSemiMonoTrial-Regular",
+            "style": "normal",
+            "weight": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "0px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Arial",
+            "fontSize": "13.3333px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "display": "flex",
+            "position": "absolute"
+          },
+          {
+            "tag": "button",
+            "text": "Communal Radio Club",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "▶",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "Jazz",
+            "color": "rgb(255, 255, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Menlo",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.324px",
+            "lineHeight": "normal",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#080101",
+            "count": 15402
+          },
+          {
+            "hex": "#c2c211",
+            "count": 6180
+          },
+          {
+            "hex": "#5d0606",
+            "count": 2061
+          },
+          {
+            "hex": "#8e0808",
+            "count": 526
+          },
+          {
+            "hex": "#b1af13",
+            "count": 524
+          },
+          {
+            "hex": "#c4ba11",
+            "count": 398
+          },
+          {
+            "hex": "#bec011",
+            "count": 256
+          },
+          {
+            "hex": "#1011d2",
+            "count": 253
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#080101",
+            "count": 15402
+          },
+          {
+            "hex": "#c2c211",
+            "count": 6180
+          },
+          {
+            "hex": "#5d0606",
+            "count": 2061
+          },
+          {
+            "hex": "#8e0808",
+            "count": 526
+          },
+          {
+            "hex": "#b1af13",
+            "count": 524
+          },
+          {
+            "hex": "#c4ba11",
+            "count": 398
+          },
+          {
+            "hex": "#bec011",
+            "count": 256
+          },
+          {
+            "hex": "#1011d2",
+            "count": 253
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}

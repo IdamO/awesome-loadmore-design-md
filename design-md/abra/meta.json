@@ -1,0 +1,1226 @@
+{
+  "slug": "abra",
+  "title": "ABRA",
+  "liveUrl": "http://www.abra.paris/x1.0/indexm.php",
+  "domain": "www.abra.paris",
+  "loadmoreUrl": "https://loadmo.re/posts/abra",
+  "sourceLabel": "loadmo.re",
+  "sourceUrl": "https://loadmo.re/posts/abra",
+  "description": "Retro interface for this footwear brand.",
+  "credits": "",
+  "added": "",
+  "tags": [
+    "fashion",
+    "e-commerce"
+  ],
+  "posterImage": "https://loadmo.re/media/pages/posts/abra/41b4261fa8-1635516817/192-abra-cover-home-min.jpg",
+  "previewVideo": "https://loadmo.re/media/pages/posts/abra/ab36c7f522-1635516840/0192-abra-post.mp4",
+  "captureChecklist": {
+    "loadmoreMetadataParsed": true,
+    "desktopVisited": true,
+    "mobileVisited": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontsExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "ok",
+    "capturedAt": "2026-04-06T20:01:00.954Z",
+    "desktop": {
+      "ok": true,
+      "analysis": {
+        "mode": "desktop",
+        "title": "404 Not Found – ABRA",
+        "url": "https://abra.paris/x1.0/indexm.php",
+        "body": {
+          "backgroundColor": "rgb(198, 199, 194)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "14.4px",
+          "lineHeight": "17.28px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "404 Page Not Found",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The page you requested does not exist.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "button": {
+          "tag": "button",
+          "text": "SHOP",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.72px",
+          "lineHeight": "17.28px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "450",
+            "status": "loaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "GTStandard-M",
+            "style": "normal",
+            "weight": "600",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to content\n\n  .cart-popup {\n    box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);\n  }\n  \n    \n      Just added",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(198, 199, 194)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "SHOP\n        \n\n        \n          \n            \n              \n                \n                  \n                    \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "nav",
+            "text": "SHOP\n        \n\n        \n          \n            \n              \n                \n                  \n                    \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "flex",
+            "position": "static"
+          },
+          {
+            "tag": "button",
+            "text": "SHOP",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Collection",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Stockists",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "LOGIN\n                Log in",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "BAG\n            Cart\n            \n               (0)\n              items",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "404 Page Not Found\n    The page you requested does not exist.\n    \n      Continue shopping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "404 Page Not Found",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The page you requested does not exist.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Continue shopping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Continue shopping",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.96px",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "SHOPCOLLECTIONSTOCKISTSABOUTLOGIN\n                  \n        \n          \n                      INSTAGRAMCONTACTTERMS OF ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(198, 199, 194)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.72px",
+            "lineHeight": "17.28px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "SHOPCOLLECTIONSTOCKISTSABOUTLOGIN",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SHOP",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COLLECTION",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "STOCKISTS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ABOUT",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "LOGIN",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "INSTAGRAMCONTACTTERMS OF SERVICEDELIVERY & RETURNSPRIVACY POLICY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "INSTAGRAM",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CONTACT",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "TERMS OF SERVICE",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "DELIVERY & RETURNS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "PRIVACY POLICY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.55px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#c6c7c2",
+            "count": 24734
+          },
+          {
+            "hex": "#a8a9a4",
+            "count": 501
+          },
+          {
+            "hex": "#171717",
+            "count": 174
+          },
+          {
+            "hex": "#555554",
+            "count": 98
+          },
+          {
+            "hex": "#c1c2bd",
+            "count": 72
+          },
+          {
+            "hex": "#bfc0bb",
+            "count": 15
+          },
+          {
+            "hex": "#d2d3cd",
+            "count": 3
+          },
+          {
+            "hex": "#81827f",
+            "count": 3
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#c6c7c2",
+            "count": 24734
+          },
+          {
+            "hex": "#a8a9a4",
+            "count": 501
+          },
+          {
+            "hex": "#171717",
+            "count": 174
+          },
+          {
+            "hex": "#555554",
+            "count": 98
+          },
+          {
+            "hex": "#c1c2bd",
+            "count": 72
+          },
+          {
+            "hex": "#bfc0bb",
+            "count": 15
+          },
+          {
+            "hex": "#d2d3cd",
+            "count": 3
+          },
+          {
+            "hex": "#81827f",
+            "count": 3
+          }
+        ]
+      },
+      "screenshot": "screenshots/desktop.jpg"
+    },
+    "mobile": {
+      "ok": true,
+      "analysis": {
+        "mode": "mobile",
+        "title": "404 Not Found – ABRA",
+        "url": "https://abra.paris/x1.0/indexm.php",
+        "body": {
+          "backgroundColor": "rgb(198, 199, 194)",
+          "color": "rgb(0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "13.65px",
+          "lineHeight": "16.38px"
+        },
+        "heading": {
+          "tag": "h1",
+          "text": "404 Page Not Found",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "bodyText": {
+          "tag": "p",
+          "text": "The page you requested does not exist.",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6px",
+          "lineHeight": "18px",
+          "display": "block",
+          "position": "static"
+        },
+        "link": {
+          "tag": "a",
+          "text": "Skip to content",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "fontFamily": "Geist, sans-serif",
+          "fontSize": "13.65px",
+          "fontWeight": "100",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "letterSpacing": "0.6825px",
+          "lineHeight": "16.38px",
+          "display": "block",
+          "position": "absolute"
+        },
+        "sticky": false,
+        "fonts": [
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "400",
+            "status": "loaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "700",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          },
+          {
+            "family": "Geist",
+            "style": "normal",
+            "weight": "500",
+            "status": "unloaded"
+          }
+        ],
+        "sample": [
+          {
+            "tag": "body",
+            "text": "Skip to content\n\n  .cart-popup {\n    box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);\n  }\n  \n    \n      Just added",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(198, 199, 194)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "400",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Skip to content",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "absolute"
+          },
+          {
+            "tag": "header",
+            "text": "SHOP\n        \n\n        \n          \n            \n              \n                \n                  \n                    \n",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "BAG\n            Cart\n            \n               (0)\n              items",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.65px",
+            "lineHeight": "14px",
+            "display": "flex",
+            "position": "relative"
+          },
+          {
+            "tag": "main",
+            "text": "404 Page Not Found\n    The page you requested does not exist.\n    \n      Continue shopping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "h1",
+            "text": "404 Page Not Found",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "The page you requested does not exist.",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "Continue shopping",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "Continue shopping",
+            "color": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "100",
+            "borderRadius": "2px",
+            "boxShadow": "none",
+            "letterSpacing": "0.96px",
+            "lineHeight": "18px",
+            "display": "inline-block",
+            "position": "static"
+          },
+          {
+            "tag": "footer",
+            "text": "SHOPCOLLECTIONSTOCKISTSABOUTLOGIN\n                  \n        \n          \n                      INSTAGRAMCONTACTTERMS OF ",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(198, 199, 194)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "13.65px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.6825px",
+            "lineHeight": "16.38px",
+            "display": "block",
+            "position": "relative"
+          },
+          {
+            "tag": "p",
+            "text": "SHOPCOLLECTIONSTOCKISTSABOUTLOGIN",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "SHOP",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "COLLECTION",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "STOCKISTS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "ABOUT",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "LOGIN",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "p",
+            "text": "INSTAGRAMCONTACTTERMS OF SERVICEDELIVERY & RETURNSPRIVACY POLICY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "INSTAGRAM",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "CONTACT",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "TERMS OF SERVICE",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "DELIVERY & RETURNS",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "a",
+            "text": "PRIVACY POLICY",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.5px",
+            "lineHeight": "18px",
+            "display": "inline",
+            "position": "static"
+          },
+          {
+            "tag": "input",
+            "text": "",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "fontFamily": "Geist, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "100",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "letterSpacing": "0.55px",
+            "lineHeight": "18px",
+            "display": "block",
+            "position": "static"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#c6c7c2",
+            "count": 22759
+          },
+          {
+            "hex": "#a4a5a1",
+            "count": 1554
+          },
+          {
+            "hex": "#070707",
+            "count": 659
+          },
+          {
+            "hex": "#6e6f6c",
+            "count": 381
+          },
+          {
+            "hex": "#c1c2bd",
+            "count": 156
+          },
+          {
+            "hex": "#81827d",
+            "count": 48
+          },
+          {
+            "hex": "#bfc0bb",
+            "count": 32
+          },
+          {
+            "hex": "#7f807b",
+            "count": 11
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#c6c7c2",
+            "count": 22759
+          },
+          {
+            "hex": "#a4a5a1",
+            "count": 1554
+          },
+          {
+            "hex": "#070707",
+            "count": 659
+          },
+          {
+            "hex": "#6e6f6c",
+            "count": 381
+          },
+          {
+            "hex": "#c1c2bd",
+            "count": 156
+          },
+          {
+            "hex": "#81827d",
+            "count": 48
+          },
+          {
+            "hex": "#bfc0bb",
+            "count": 32
+          },
+          {
+            "hex": "#7f807b",
+            "count": 11
+          }
+        ]
+      },
+      "screenshot": "screenshots/mobile.jpg"
+    }
+  }
+}
