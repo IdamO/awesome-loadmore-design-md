@@ -193,5 +193,149 @@
     "fallbackUsed": true,
     "fallbackSource": "posterImage",
     "fallbackAt": "2026-04-06T21:50:33.137Z"
+  },
+  "designGuidance": {
+    "captureMode": "archival-fallback",
+    "worldSystems": [
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 4,
+        "reason": "tags include playful; archetype affinity: toy loop microgame; archival visual bias"
+      },
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "score": 4,
+        "reason": "tags include playful; archetype affinity: toy loop microgame"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "toy_loop_microgame",
+        "name": "Toy Loop Microgame",
+        "confidence": 0.7,
+        "reason": "tags include playful; tags include participative",
+        "refs": [
+          "labyrinth",
+          "smack-dat-ass",
+          "world-two",
+          "cloudwatching"
+        ]
+      },
+      "interactionModel": "One simple rule, immediate feedback, short mastery loop, replayable in under a minute.",
+      "navigationModel": "The loop is the page; everything else supports replay or escalation.",
+      "stateModel": "Instruction or teaser -> play loop -> reward or reveal -> reset.",
+      "inputModes": [
+        "tap",
+        "drag"
+      ],
+      "engineHints": [
+        "Use Canvas or DOM plus Matter.js only when physics is the core joke or toy mechanic.",
+        "Use a tight game loop and extremely obvious hit areas.",
+        "Use light audio cues or haptics after intent to reinforce the loop.",
+        "Treat the screenshots as composition evidence and the archetype as the implementation bias; do not overfit absent live behavior."
+      ],
+      "motionRecipe": [
+        "Prefer instant response plus elastic decay.",
+        "Show state pops or score pops clearly.",
+        "Make reset or replay feel ceremonial enough that users want another round."
+      ],
+      "mobileFallback": "Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.",
+      "implementationNotes": [
+        "This entry relies on archival fallback captures, so use the visual direction literally and the interaction model heuristically.",
+        "Explain the rule through interaction, not a paragraph.",
+        "Keep the mastery loop short and replayable.",
+        "If the toy is the hook, let it start above the fold.",
+        "Live DOM analysis was sparse, so the description and tags carry more weight than sampled interface tokens."
+      ],
+      "antiPatterns": [
+        "Do not add unrelated content sections that dilute the loop.",
+        "Do not make users precision-drag tiny targets on mobile.",
+        "Do not hide the reset or replay mechanic."
+      ],
+      "validationChecklist": [
+        "The rule is clear after one attempt.",
+        "The loop completes quickly and invites replay.",
+        "Mobile keeps the same toy, not a broken imitation of desktop controls.",
+        "Before shipping, manually verify any interaction that the capture could not prove live.",
+        "Cross-check screenshots against the description so the interaction model does not drift away from the source premise."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "tags include playful",
+        "tags include participative"
+      ],
+      "schema": {
+        "interactionModelId": "toy_loop_microgame",
+        "coreVerbs": [
+          "play",
+          "drag",
+          "reset"
+        ],
+        "inputs": [
+          "tap",
+          "drag"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "high",
+          "cadence": "continuous",
+          "triggers": [
+            "pointer",
+            "physics"
+          ],
+          "transitions": [
+            "shuffle",
+            "pop",
+            "reset"
+          ],
+          "physics": "heavy"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "scale",
+            "occlusion"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "play",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "elastic",
+            "inertial"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "canvas2d",
+          "complexity": "high",
+          "requiredApis": [
+            "canvas"
+          ],
+          "fallbacks": [
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Collage Core page with a secondary cue from Playable Poster using the Toy Loop Microgame interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #ef7689, #f1fdc7, #e7d9b3, drive the page through tap, drag, and implement the mobile fallback as: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.",
+    "summary": "Collage Core + Toy Loop Microgame. One simple rule, immediate feedback, short mastery loop, replayable in under a minute."
   }
 }

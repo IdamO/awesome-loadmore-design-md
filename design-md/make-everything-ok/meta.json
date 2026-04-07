@@ -228,5 +228,151 @@
     "fallbackUsed": true,
     "fallbackSource": "posterImage",
     "fallbackAt": "2026-04-06T21:50:39.776Z"
+  },
+  "designGuidance": {
+    "captureMode": "archival-fallback",
+    "worldSystems": [
+      {
+        "slug": "cozy-desktop",
+        "name": "Cozy Desktop",
+        "score": 8,
+        "reason": "tags include default-aesthetics; archetype affinity: retro tool emulator"
+      },
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 1,
+        "reason": "archival visual bias"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "retro_tool_emulator",
+        "name": "Retro Tool Emulator",
+        "confidence": 0.88,
+        "reason": "tags include default-aesthetics; description mentions make; title mentions make",
+        "refs": [
+          "make-word-art",
+          "orb-farm",
+          "paint-stx",
+          "mousing-around"
+        ]
+      },
+      "interactionModel": "The interface behaves like a remembered app: menus, presets, panels, export, and toy controls are the product.",
+      "navigationModel": "The utility surface is primary; menus, presets, and output views are the main navigation.",
+      "stateModel": "Pick tool or preset -> adjust parameters -> render or export -> reset or save.",
+      "inputModes": [
+        "tap",
+        "drag",
+        "type"
+      ],
+      "engineHints": [
+        "Use plain DOM and CSS for chrome, Canvas or SVG for outputs, and a client-side export pipeline if the tool creates artifacts.",
+        "Use bitmap or low-fi fonts only where they support the illusion.",
+        "Make panel swapping and render feedback clearer than the ornament.",
+        "Treat the screenshots as composition evidence and the archetype as the implementation bias; do not overfit absent live behavior."
+      ],
+      "motionRecipe": [
+        "Keep animation minimal and rely on press states, panel swaps, menu drops, and render feedback.",
+        "Use progress or export states to sell the utility fiction.",
+        "Avoid floaty transitions; remembered apps feel decisive."
+      ],
+      "mobileFallback": "Turn dense panels into a one-tool-at-a-time inspector or wizard while preserving the visual chrome.",
+      "implementationNotes": [
+        "This entry relies on archival fallback captures, so use the visual direction literally and the interaction model heuristically.",
+        "Keep the tool affordances obvious enough that users can generate output immediately.",
+        "Export or save flow should feel like part of the charm, not plumbing.",
+        "Use nostalgia as structure, not as a skin pasted over generic controls."
+      ],
+      "antiPatterns": [
+        "Do not mimic a tool so literally that it becomes unusable.",
+        "Do not cram the desktop layout unchanged onto mobile.",
+        "Do not spend all the effort on chrome while the output feels generic."
+      ],
+      "validationChecklist": [
+        "The core generate or edit loop is obvious.",
+        "Preset, render, or export states read clearly.",
+        "Mobile isolates one tool region at a time.",
+        "Before shipping, manually verify any interaction that the capture could not prove live."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "tags include default-aesthetics",
+        "description mentions make",
+        "title mentions make"
+      ],
+      "schema": {
+        "interactionModelId": "retro_tool_emulator",
+        "coreVerbs": [
+          "edit",
+          "preset",
+          "export"
+        ],
+        "inputs": [
+          "tap",
+          "drag",
+          "type"
+        ],
+        "navigation": {
+          "structure": "hub",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer",
+            "keyboard"
+          ],
+          "transitions": [
+            "cut",
+            "menu-drop",
+            "panel-swap"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "flat",
+          "camera": "fixed",
+          "depthCues": [
+            "scale"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "customize",
+          "persistence": "saved"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [
+            "pixel",
+            "desktop-ui",
+            "default-html"
+          ],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "medium",
+          "requiredApis": [
+            "canvas"
+          ],
+          "fallbacks": [
+            "wizard-flow",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Cozy Desktop page with a secondary cue from Collage Core using the Retro Tool Emulator interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #e7e7e8, #f5f5f5, #d9d9dc, drive the page through tap, drag, type, and implement the mobile fallback as: Turn dense panels into a one-tool-at-a-time inspector or wizard while preserving the visual chrome.",
+    "summary": "Cozy Desktop + Retro Tool Emulator. The interface behaves like a remembered app: menus, presets, panels, export, and toy controls are the product."
   }
 }

@@ -392,5 +392,143 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "score": 5,
+        "reason": "tags include photography; archetype affinity: portfolio artifact"
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "score": 3,
+        "reason": "tags include photography; tags include portfolio; archetype affinity: portfolio artifact"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "portfolio_artifact",
+        "name": "Portfolio Artifact",
+        "confidence": 0.93,
+        "reason": "tags include portfolio; tags include photography; description mentions studio",
+        "refs": [
+          "cyanbanister",
+          "harley-weir",
+          "developments",
+          "infringe"
+        ]
+      },
+      "interactionModel": "Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object.",
+      "navigationModel": "The author voice or project sequence leads; navigation stays secondary and quiet.",
+      "stateModel": "Arrival -> authored sequence of text, image, or projects -> contact or archive state.",
+      "inputModes": [
+        "scroll",
+        "tap",
+        "hover"
+      ],
+      "engineHints": [
+        "Use semantic HTML or React with strong layout composition; reach for motion only where it changes pacing.",
+        "Use sticky framing or asymmetric grids when they reinforce the author voice.",
+        "Keep navigation spare and let the work or writing lead."
+      ],
+      "motionRecipe": [
+        "Use restrained reveals and occasional viewpoint shifts.",
+        "Let typography and image sequencing do more work than animation.",
+        "Use one irrational but coherent move to keep the page from feeling templated."
+      ],
+      "mobileFallback": "Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+      "implementationNotes": [
+        "Keep one strong authorial decision intact across breakpoints.",
+        "Use type, pacing, and framing as the identity before relying on motion.",
+        "If the site feels like a normal portfolio shell, push one layer further.",
+        "The capture suggests anchored framing or sticky context; preserve that orientation device in the rebuild."
+      ],
+      "antiPatterns": [
+        "Do not genericize the layout into a startup case-study template.",
+        "Do not overbuild components where one-off composition is the point.",
+        "Do not erase eccentricity in the mobile layout."
+      ],
+      "validationChecklist": [
+        "The author voice is visible within three seconds.",
+        "Projects or writing feel sequenced, not dumped into a grid.",
+        "Mobile preserves the same voice without literal layout copying."
+      ],
+      "validationPriority": "low",
+      "evidence": [
+        "tags include portfolio",
+        "tags include photography",
+        "description mentions studio"
+      ],
+      "schema": {
+        "interactionModelId": "portfolio_artifact",
+        "coreVerbs": [
+          "read",
+          "browse",
+          "contact"
+        ],
+        "inputs": [
+          "scroll",
+          "tap",
+          "hover"
+        ],
+        "navigation": {
+          "structure": "linear",
+          "wayfinding": "ambient",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "event-driven",
+          "triggers": [
+            "scroll",
+            "pointer"
+          ],
+          "transitions": [
+            "fade",
+            "crop-shift"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "scale",
+            "occlusion"
+          ],
+          "hud": "none"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "none"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "low",
+          "requiredApis": [],
+          "fallbacks": [
+            "single-column",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Portfolio Artifact interaction model. Keep ItalianGaramondW01-Roma as the voice anchor, preserve the palette around #fdfdfd, #1f1c1e, #a6a3a5, drive the page through scroll, tap, hover, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+    "summary": "Luxury Archive + Portfolio Artifact. Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object."
   }
 }

@@ -192,5 +192,150 @@
     "fallbackUsed": true,
     "fallbackSource": "posterImage",
     "fallbackAt": "2026-04-06T21:50:44.192Z"
+  },
+  "designGuidance": {
+    "captureMode": "archival-fallback",
+    "worldSystems": [
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "score": 6,
+        "reason": "tags include 3d-space; archetype affinity: scroll scrub instrument"
+      },
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 1,
+        "reason": "archival visual bias"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "scroll_scrub_instrument",
+        "name": "Scroll Scrub Instrument",
+        "confidence": 0.78,
+        "reason": "description mentions scroll; title mentions scroll",
+        "refs": [
+          "amanda-yeah-piano-scrollbar-piano",
+          "jazz-keys",
+          "the-road"
+        ]
+      },
+      "interactionModel": "Map scroll position to notes, frames, or parameter changes so the page behaves like a score or sequencer.",
+      "navigationModel": "Scroll is the transport; sections behave like tracks or cues.",
+      "stateModel": "Scroll offset -> note or frame change -> visible indicator -> optional audio decay.",
+      "inputModes": [
+        "scroll",
+        "tap"
+      ],
+      "engineHints": [
+        "Use GSAP ScrollTrigger or motion/react scroll values to map scroll position to discrete states.",
+        "Keep the media side effect opt-in and lightweight on mobile.",
+        "Use SVG or DOM overlays to show the scrub position clearly.",
+        "Treat the screenshots as composition evidence and the archetype as the implementation bias; do not overfit absent live behavior."
+      ],
+      "motionRecipe": [
+        "Tie transforms directly to scrub progress instead of free-running timelines.",
+        "Use section snap or chapter markers to help users re-find the melody or state.",
+        "Keep auxiliary motion secondary to the scrub itself."
+      ],
+      "mobileFallback": "Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.",
+      "implementationNotes": [
+        "This entry relies on archival fallback captures, so use the visual direction literally and the interaction model heuristically.",
+        "Keep the mapping between scroll distance and output legible; hidden ratios feel broken.",
+        "Provide re-entry points so users can replay the interaction without hunting.",
+        "On mobile, reduce precision requirements and preserve the idea rather than the literal desktop mechanic.",
+        "Live DOM analysis was sparse, so the description and tags carry more weight than sampled interface tokens."
+      ],
+      "antiPatterns": [
+        "Do not bury the scrub mechanism inside a normal content page.",
+        "Do not use heavy inertia that makes the scroll-to-state mapping feel mushy.",
+        "Do not enable surprise audio before user intent."
+      ],
+      "validationChecklist": [
+        "Scroll position clearly maps to a note, frame, or state change.",
+        "Replay and return paths are obvious.",
+        "Mobile keeps the same concept without precision overload.",
+        "Before shipping, manually verify any interaction that the capture could not prove live.",
+        "Cross-check screenshots against the description so the interaction model does not drift away from the source premise."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "description mentions scroll",
+        "title mentions scroll"
+      ],
+      "schema": {
+        "interactionModelId": "scroll_scrub_instrument",
+        "coreVerbs": [
+          "scroll",
+          "scrub",
+          "sequence"
+        ],
+        "inputs": [
+          "scroll",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "linear",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "tempo-linked",
+          "triggers": [
+            "scroll"
+          ],
+          "transitions": [
+            "scrub",
+            "snap",
+            "fade"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "rail",
+          "depthCues": [
+            "scale",
+            "perspective"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "compose",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "reactive",
+          "triggers": [
+            "scroll"
+          ],
+          "controls": [
+            "mute",
+            "play-pause"
+          ],
+          "sync": "tight"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "webaudio"
+          ],
+          "fallbacks": [
+            "mute-first",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Club Instrument page with a secondary cue from Collage Core using the Scroll Scrub Instrument interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #0f1016, #172b55, #aa88b0, drive the page through scroll, tap, and implement the mobile fallback as: Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.",
+    "summary": "Club Instrument + Scroll Scrub Instrument. Map scroll position to notes, frames, or parameter changes so the page behaves like a score or sequencer."
   }
 }

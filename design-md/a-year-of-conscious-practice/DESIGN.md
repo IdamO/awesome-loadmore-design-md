@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Collage Core - tags include colorful; archetype affinity: collage field
+- Secondary: Playable Poster - tags include colorful; archetype affinity: collage field; large display type
+
+### Interaction Archetype
+- Archetype: Collage Field (58% confidence)
+- Why: tags include colorful; large display type
+- Core verbs: scan, hover, collect
+- Inputs: scroll, hover, tap
+
+## 3. Color Palette & Roles
 
 - Color 1: #ebecec - canvas / dominant background
 - Color 2: #bbb9a6 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #141116 - supporting surface or hover state
 - Color 8: #7194c9 - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: LyonText
@@ -35,62 +47,112 @@ Key Characteristics:
 - Body sample: 16px / weight 400 / line-height normal
 - Button sample: n/a / weight n/a
 
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward transparent backgrounds with inherit text.
-- Links inherit rgb(0, 0, 0) as the interaction signal.
-- Border radius trends: 0px.
-- Shadow language: minimal / none detected.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps LyonText in control.
-
 ## 5. Layout Principles
 
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#ebecec) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (online-magazine, colorful, clean-ui) imply the site is intentionally non-generic.
+- Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: rgb(255, 255, 255) 0px -4px 0px 0px inset.
-- Radius cue: 0%.
-- Contrast cue: dark text on light surfaces with accent interruptions.
+- Primary model: collage_field
+- Navigation structure: map / wayfinding ambient / friction high
+- Navigation model: Users browse clusters or islands of content rather than a clean linear document.
+- State model: Field at rest -> hover or focus cluster -> reveal linked artifact -> continue browsing.
+- Must-keep mechanic: The page behaves like a field of scraps, hyperlinks, stickers, and media fragments; discovery comes from scanning and touching layers.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: medium
+- Cadence: continuous
+- Triggers: pointer, scroll, time
+- Transition types: shuffle, jitter, fade
+- Physics level: light
+- Motion recipe:
+  - Use layered reveals, jitter, and hover swaps selectively.
+  - Let movement imply depth between scraps rather than simulating real 3D.
+  - Keep one stable composition anchor so the field does not turn into noise.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: parallax
+- Depth cues: scale, occlusion, blur
+- HUD layering: overlay
+- Render tier: dom
+- Primary depth cue in capture: rgb(255, 255, 255) 0px -4px 0px 0px inset
+
+## 9. Participation & State
+
+- Participation mode: browse
+- Persistence: ephemeral
+- Inputs to preserve: scroll, hover, tap
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: medium
+- Required APIs: none
+- Must-have mechanics:
+  - Keep one hierarchy anchor such as a headline, map, or rail so the collage stays legible.
+  - Treat every scrap as part of one composition, not a random sticker dump.
+  - Use link states and media swaps as the interaction language.
+- Nice-to-have embellishments:
+  - tags include colorful
+  - large display type
+- Mobile fallback: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
+- Fallback path: guided-feed, reduced-motion
+- Manual validation:
+  - One anchor element keeps the field navigable.
+  - Linked scraps clearly advertise interaction.
+  - Mobile preserves density through chapters instead of raw chaos.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use LyonText consistently for headlines and interface labels.
 - Keep the palette anchored to #ebecec, #bbb9a6, and #fc4712.
 - Preserve the experimental posture signaled by the loadmo.re tags: online-magazine, colorful, clean-ui.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by A year of Conscious Practice. Keep the palette centered on #ebecec, #bbb9a6, and #fc4712. Use LyonText for headlines, preserve the restrained minimalism mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep LyonText as the voice anchor, preserve the palette around #ebecec, #bbb9a6, #fc4712, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/a-year-of-conscious-practice)
 - Live site: http://ayearofconsciouspractice.com/
 - Credits: Dexter Edwards, Son La Pham
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

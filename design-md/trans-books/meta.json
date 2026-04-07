@@ -2886,5 +2886,145 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "score": 5,
+        "reason": "archetype affinity: scroll scrub instrument"
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "score": 4,
+        "reason": "description mentions edition"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "scroll_scrub_instrument",
+        "name": "Scroll Scrub Instrument",
+        "confidence": 0.66,
+        "reason": "description mentions scroll",
+        "refs": [
+          "amanda-yeah-piano-scrollbar-piano",
+          "jazz-keys",
+          "the-road"
+        ]
+      },
+      "interactionModel": "Map scroll position to notes, frames, or parameter changes so the page behaves like a score or sequencer.",
+      "navigationModel": "Scroll is the transport; sections behave like tracks or cues.",
+      "stateModel": "Scroll offset -> note or frame change -> visible indicator -> optional audio decay.",
+      "inputModes": [
+        "scroll",
+        "tap"
+      ],
+      "engineHints": [
+        "Use GSAP ScrollTrigger or motion/react scroll values to map scroll position to discrete states.",
+        "Keep the media side effect opt-in and lightweight on mobile.",
+        "Use SVG or DOM overlays to show the scrub position clearly."
+      ],
+      "motionRecipe": [
+        "Tie transforms directly to scrub progress instead of free-running timelines.",
+        "Use section snap or chapter markers to help users re-find the melody or state.",
+        "Keep auxiliary motion secondary to the scrub itself."
+      ],
+      "mobileFallback": "Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.",
+      "implementationNotes": [
+        "Keep the mapping between scroll distance and output legible; hidden ratios feel broken.",
+        "Provide re-entry points so users can replay the interaction without hunting.",
+        "On mobile, reduce precision requirements and preserve the idea rather than the literal desktop mechanic.",
+        "The capture suggests anchored framing or sticky context; preserve that orientation device in the rebuild."
+      ],
+      "antiPatterns": [
+        "Do not bury the scrub mechanism inside a normal content page.",
+        "Do not use heavy inertia that makes the scroll-to-state mapping feel mushy.",
+        "Do not enable surprise audio before user intent."
+      ],
+      "validationChecklist": [
+        "Scroll position clearly maps to a note, frame, or state change.",
+        "Replay and return paths are obvious.",
+        "Mobile keeps the same concept without precision overload."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "description mentions scroll"
+      ],
+      "schema": {
+        "interactionModelId": "scroll_scrub_instrument",
+        "coreVerbs": [
+          "scroll",
+          "scrub",
+          "sequence"
+        ],
+        "inputs": [
+          "scroll",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "linear",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "tempo-linked",
+          "triggers": [
+            "scroll"
+          ],
+          "transitions": [
+            "scrub",
+            "snap",
+            "fade"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "rail",
+          "depthCues": [
+            "scale",
+            "perspective"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "compose",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "reactive",
+          "triggers": [
+            "scroll"
+          ],
+          "controls": [
+            "mute",
+            "play-pause"
+          ],
+          "sync": "tight"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "webaudio"
+          ],
+          "fallbacks": [
+            "mute-first",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Club Instrument page with a secondary cue from Fan Shrine using the Scroll Scrub Instrument interaction model. Keep slick as the voice anchor, preserve the palette around #000000, #e4e4e5, #a4a4a5, drive the page through scroll, tap, and implement the mobile fallback as: Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.",
+    "summary": "Club Instrument + Scroll Scrub Instrument. Map scroll position to notes, frames, or parameter changes so the page behaves like a score or sequencer."
   }
 }

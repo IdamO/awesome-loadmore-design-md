@@ -1,9 +1,11 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { buildDesignOsData, classifyCaptureMode, enrichMeta, palette, primaryFonts } from './lib/design-os.mjs';
 import { DESIGN_DIR, ROOT, ensureDir, readJson, titleCase, writeJson, writeText } from './lib/utils.mjs';
 
 const COLLECTION_DIR = path.join(ROOT, 'collections');
 const INDEX_FILE = path.join(ROOT, 'data', 'agent-index.json');
+const DESIGN_OS_FILE = path.join(ROOT, 'data', 'design-os.json');
 const AGENTS_FILE = path.join(ROOT, 'AGENTS.md');
 
 async function listSiteDirs() {
@@ -13,26 +15,6 @@ async function listSiteDirs() {
 
 function uniq(items) {
   return [...new Set(items.filter(Boolean))];
-}
-
-function getFonts(meta) {
-  const fonts = [
-    ...(meta.capture?.desktop?.analysis?.fonts || []),
-    ...(meta.capture?.mobile?.analysis?.fonts || [])
-  ]
-    .map((font) => font.family?.replace(/^"|"$/g, ''))
-    .filter(Boolean);
-  return uniq(fonts).slice(0, 8);
-}
-
-function getPalette(meta) {
-  const colors = [
-    ...(meta.capture?.desktop?.analysis?.colors || []),
-    ...(meta.capture?.mobile?.analysis?.colors || [])
-  ]
-    .map((color) => color?.hex)
-    .filter(Boolean);
-  return uniq(colors).slice(0, 8);
 }
 
 function score(tags, weights) {
@@ -67,7 +49,6 @@ function musicTechScore(tags) {
     colorful: 2,
     '3d-space': 1,
     animation: 1,
-    net: 0,
     'net.art': 1,
     typography: 1,
     tactile: 1,
@@ -136,15 +117,6 @@ function editorialScore(tags) {
   });
 }
 
-function classifyCapture(meta) {
-  const hasDesktop = Boolean(meta.capture?.desktop?.screenshot);
-  const hasMobile = Boolean(meta.capture?.mobile?.screenshot);
-  if (meta.capture?.fallbackUsed && hasDesktop && hasMobile) return 'archival-fallback';
-  if (meta.capture?.status === 'ok' && hasDesktop && hasMobile) return 'live';
-  if ((meta.capture?.status === 'ok' || meta.capture?.fallbackUsed) && (hasDesktop || hasMobile)) return 'mixed';
-  return 'incomplete';
-}
-
 function primaryMood(tags) {
   const ordered = [
     ['music', 'music-led'],
@@ -185,17 +157,15 @@ function avoidIf(item) {
 }
 
 function quickPrompt(item) {
-  const palette = item.palette.slice(0, 3).join(', ') || 'the extracted palette';
-  const font = item.fonts[0] || 'the extracted primary typeface';
-  const mode = item.captureMode === 'live' ? 'Use the live screenshots as the source of truth.' : 'Use the archival screenshots as mood direction, not literal UX.';
-  return `Start from ${item.title}. Preserve its ${item.primaryMood} energy, use ${font} as the voice anchor, keep the palette centered on ${palette}, and adapt it for ${item.recommendedFor[0] || 'a bold internet-native product page'}. ${mode}`;
+  return item.implementationPrompt;
 }
 
 function makeItem(meta) {
-  const tags = meta.tags || [];
-  const fonts = getFonts(meta);
-  const palette = getPalette(meta);
-  const captureMode = classifyCapture(meta);
+  const enriched = meta.designGuidance ? meta : enrichMeta(meta);
+  const tags = enriched.tags || [];
+  const fonts = primaryFonts(enriched);
+  const colors = palette(enriched).map((color) => color.hex);
+  const captureMode = classifyCaptureMode(enriched);
   const scores = {
     weird: weirdScore(tags),
     musicTech: musicTechScore(tags),
@@ -205,23 +175,33 @@ function makeItem(meta) {
     editorial: editorialScore(tags)
   };
   const item = {
-    slug: meta.slug,
-    title: meta.title || titleCase(meta.slug),
-    path: `design-md/${meta.slug}`,
-    designPath: `design-md/${meta.slug}/DESIGN.md`,
-    readmePath: `design-md/${meta.slug}/README.md`,
-    previewLight: `design-md/${meta.slug}/preview.html`,
-    previewDark: `design-md/${meta.slug}/preview-dark.html`,
-    liveUrl: meta.liveUrl,
-    sourceLabel: meta.sourceLabel || 'loadmo.re',
-    sourceUrl: meta.sourceUrl || meta.loadmoreUrl || meta.liveUrl,
-    description: meta.description || '',
+    slug: enriched.slug,
+    title: enriched.title || titleCase(enriched.slug),
+    path: `design-md/${enriched.slug}`,
+    designPath: `design-md/${enriched.slug}/DESIGN.md`,
+    readmePath: `design-md/${enriched.slug}/README.md`,
+    previewLight: `design-md/${enriched.slug}/preview.html`,
+    previewDark: `design-md/${enriched.slug}/preview-dark.html`,
+    liveUrl: enriched.liveUrl,
+    sourceLabel: enriched.sourceLabel || 'loadmo.re',
+    sourceUrl: enriched.sourceUrl || enriched.loadmoreUrl || enriched.liveUrl,
+    description: enriched.description || '',
     tags,
     fonts,
-    palette,
+    palette: colors,
     captureMode,
     primaryMood: primaryMood(tags),
-    scores
+    scores,
+    worldSystems: enriched.designGuidance?.worldSystems || [],
+    mechanics: {
+      archetype: enriched.designGuidance?.mechanics?.archetype || null,
+      inputModes: enriched.designGuidance?.mechanics?.inputModes || [],
+      interactionModel: enriched.designGuidance?.mechanics?.interactionModel || '',
+      mobileFallback: enriched.designGuidance?.mechanics?.mobileFallback || '',
+      validationPriority: enriched.designGuidance?.mechanics?.validationPriority || 'medium',
+      schema: enriched.designGuidance?.mechanics?.schema || {}
+    },
+    implementationPrompt: enriched.designGuidance?.implementationPrompt || ''
   };
   item.recommendedFor = useCases(item);
   item.avoidIf = avoidIf(item);
@@ -231,7 +211,10 @@ function makeItem(meta) {
     ...tags,
     item.primaryMood,
     ...item.recommendedFor,
-    ...(meta.domain ? [meta.domain] : [])
+    ...(item.worldSystems || []).map((world) => world.name),
+    item.mechanics.archetype?.name,
+    item.mechanics.schema?.interactionModelId,
+    ...(enriched.domain ? [enriched.domain] : [])
   ]);
   return item;
 }
@@ -244,11 +227,13 @@ function top(items, key, count = 24, filterFn = () => true) {
 }
 
 function row(item) {
-  return `| [${item.title}](../${item.path}/) | ${item.tags.slice(0, 4).join(', ')} | ${item.captureMode} | ${item.quickPrompt} |`;
+  const world = item.worldSystems[0]?.name || 'Unknown world';
+  const archetype = item.mechanics.archetype?.name || 'Unknown archetype';
+  return `| [${item.title}](../${item.path}/) | ${world} / ${archetype} | ${item.captureMode} | ${item.quickPrompt} |`;
 }
 
 function buildCollectionDoc({ title, description, items }) {
-  return `# ${title}\n\n${description}\n\n| Site | Signals | Capture | Why it matters |\n|---|---|---|---|\n${items.map(row).join('\n')}\n`;
+  return `# ${title}\n\n${description}\n\n| Site | World / Mechanics | Capture | Why it matters |\n|---|---|---|---|\n${items.map(row).join('\n')}\n`;
 }
 
 function buildComboRecipes(recipes) {
@@ -263,22 +248,27 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 ## First pass
 
 1. Open \`playbooks/scene-kit.md\` first when the task is net-new design, not imitation.
-2. Open \`data/design-os.json\` for machine-readable world, motion, type, and asset guidance.
-3. Open \`data/agent-index.json\` for machine-readable filtering and ranking of source references.
-4. Filter for \`captureMode: "live"\` when you need interaction truth. Use \`archival-fallback\` when you need visual attitude more than verified UX.
-5. Prioritize the docs in \`playbooks/\` and \`collections/\` for music-tech, fashion, culture-tech, and anti-B2B directions.
-6. Pick 1 dominant world system, 1 secondary interaction reference, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
+2. Open \`playbooks/interaction-archetypes.md\` to choose the actual mechanic before styling.
+3. Open \`playbooks/validation-rubric.md\` before shipping anything interaction-heavy.
+4. Open \`data/design-os.json\` for machine-readable world, motion, type, and archetype guidance.
+5. Open \`data/agent-index.json\` for machine-readable filtering and ranking of source references.
+6. Filter for \`captureMode: "live"\` when you need interaction truth. Use \`archival-fallback\` when you need visual attitude more than verified UX.
+7. Filter by \`mechanics.archetype.id\`, \`mechanics.schema.spatial.mode\`, \`mechanics.schema.sound.mode\`, and \`mechanics.validationPriority\` before picking references.
+8. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
 
 ## Recommended selection logic
 
-- For a bold product launch: sort by \`scores.genZPop\` and \`scores.weird\`.
-- For music tooling or artist-facing products: sort by \`scores.musicTech\`.
-- For fashion, editorial, or culture worlds: sort by \`scores.fashionCulture\` and \`scores.editorial\`.
+- For a bold product launch: sort by \`scores.genZPop\` and \`scores.weird\`, then pick a \`playable_poster\` or \`collage_field\` mechanic.
+- For music tooling or artist-facing products: sort by \`scores.musicTech\`, then filter to \`club_instrument\` or \`scroll_scrub_instrument\`.
+- For fashion, editorial, or culture worlds: sort by \`scores.fashionCulture\` and \`scores.editorial\`, then decide between \`editorial_archive_index\`, \`portfolio_artifact\`, or \`commerce_shrine_stage\`.
+- For spatial work: filter to \`mechanics.schema.spatial.mode != "flat"\` and prioritize \`captureMode: "live"\`.
 - For anti-corporate energy: sort by \`scores.weird\`, then exclude entries with \`clean-ui\` or \`e-commerce\`.
 
 ## Design OS docs
 
 - \`playbooks/scene-kit.md\`
+- \`playbooks/interaction-archetypes.md\`
+- \`playbooks/validation-rubric.md\`
 - \`playbooks/world-systems.md\`
 - \`playbooks/motion-grammar.md\`
 - \`playbooks/type-systems.md\`
@@ -385,6 +375,7 @@ const recipes = [
   }
 ].filter((recipe) => recipe.base && recipe.interaction && recipe.editorial);
 
+await writeJson(DESIGN_OS_FILE, buildDesignOsData());
 await writeJson(INDEX_FILE, {
   summary,
   collections: Object.fromEntries(Object.entries(collections).map(([key, value]) => [key, value.map((item) => item.slug)])),

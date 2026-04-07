@@ -1838,5 +1838,146 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 8,
+        "reason": "tags include colorful; archetype affinity: collage field"
+      },
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "score": 4,
+        "reason": "tags include colorful; archetype affinity: collage field; large display type"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "collage_field",
+        "name": "Collage Field",
+        "confidence": 0.58,
+        "reason": "tags include colorful; large display type",
+        "refs": [
+          "camerons-world",
+          "hybrid-vigor",
+          "finger-walking",
+          "hallo-internet"
+        ]
+      },
+      "interactionModel": "The page behaves like a field of scraps, hyperlinks, stickers, and media fragments; discovery comes from scanning and touching layers.",
+      "navigationModel": "Users browse clusters or islands of content rather than a clean linear document.",
+      "stateModel": "Field at rest -> hover or focus cluster -> reveal linked artifact -> continue browsing.",
+      "inputModes": [
+        "scroll",
+        "hover",
+        "tap"
+      ],
+      "engineHints": [
+        "Use ordinary DOM layering first; only add Canvas or WebGL for background texture, not for the whole experience.",
+        "Use sprite or GIF assets as materials inside a disciplined z-order system.",
+        "Use hover swaps, link states, and offset scroll rather than overbuilt component abstractions."
+      ],
+      "motionRecipe": [
+        "Use layered reveals, jitter, and hover swaps selectively.",
+        "Let movement imply depth between scraps rather than simulating real 3D.",
+        "Keep one stable composition anchor so the field does not turn into noise."
+      ],
+      "mobileFallback": "Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.",
+      "implementationNotes": [
+        "Keep one hierarchy anchor such as a headline, map, or rail so the collage stays legible.",
+        "Treat every scrap as part of one composition, not a random sticker dump.",
+        "Use link states and media swaps as the interaction language."
+      ],
+      "antiPatterns": [
+        "Do not let the collage become unreadable on small screens.",
+        "Do not animate every layer continuously.",
+        "Do not remove the hyperlink density that gives the field its energy."
+      ],
+      "validationChecklist": [
+        "One anchor element keeps the field navigable.",
+        "Linked scraps clearly advertise interaction.",
+        "Mobile preserves density through chapters instead of raw chaos."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "tags include colorful",
+        "large display type"
+      ],
+      "schema": {
+        "interactionModelId": "collage_field",
+        "coreVerbs": [
+          "scan",
+          "hover",
+          "collect"
+        ],
+        "inputs": [
+          "scroll",
+          "hover",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "map",
+          "wayfinding": "ambient",
+          "friction": "high"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "continuous",
+          "triggers": [
+            "pointer",
+            "scroll",
+            "time"
+          ],
+          "transitions": [
+            "shuffle",
+            "jitter",
+            "fade"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "parallax",
+          "depthCues": [
+            "scale",
+            "occlusion",
+            "blur"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": [
+            "jitter"
+          ]
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "guided-feed",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep LyonText as the voice anchor, preserve the palette around #ebecec, #bbb9a6, #fc4712, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.",
+    "summary": "Collage Core + Collage Field. The page behaves like a field of scraps, hyperlinks, stickers, and media fragments; discovery comes from scanning and touching layers."
   }
 }

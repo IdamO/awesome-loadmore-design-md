@@ -2828,5 +2828,142 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "score": 12,
+        "reason": "tags include fashion; description mentions collection; archetype affinity: commerce shrine stage"
+      },
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "score": 8,
+        "reason": "tags include fashion; tags include minimal; description mentions collection"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "commerce_shrine_stage",
+        "name": "Commerce Shrine Stage",
+        "confidence": 0.6,
+        "reason": "tags include fashion; description mentions collection",
+        "refs": [
+          "online-ceramics",
+          "issued-by-bottega",
+          "martine-rose",
+          "country-music"
+        ]
+      },
+      "interactionModel": "Objects are treated like collectibles or relics; product rails, badges, and states carry as much narrative weight as the checkout.",
+      "navigationModel": "Browse objects first, then enter detail or purchase state without losing the collection context.",
+      "stateModel": "Collection browse -> featured object focus -> detail/purchase -> return to collection.",
+      "inputModes": [
+        "scroll",
+        "tap",
+        "hover"
+      ],
+      "engineHints": [
+        "Use server-rendered product data or commerce primitives under heavily authored cards and rails.",
+        "Keep product metadata, release status, and edition cues visible in the browsing view.",
+        "Use hover or selection states to deepen object presence before checkout."
+      ],
+      "motionRecipe": [
+        "Use hover lift, collectible flips, and ambient drift around featured objects.",
+        "Keep cart or checkout transitions legible and calm.",
+        "Treat release counters and stock states like part of the scene."
+      ],
+      "mobileFallback": "Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.",
+      "implementationNotes": [
+        "Preserve collection logic in the browse state so the page feels like a shrine, not a commodity grid.",
+        "Use release, edition, or provenance metadata as part of the emotional pitch.",
+        "Make cart and checkout states calmer than the browsing world."
+      ],
+      "antiPatterns": [
+        "Do not flatten the page into a normal storefront once products appear.",
+        "Do not hide pricing or size details until too late.",
+        "Do not let the shrine fiction block purchase clarity."
+      ],
+      "validationChecklist": [
+        "Product browse feels collectible before it feels transactional.",
+        "Release or edition state is visible in the browse view.",
+        "Mobile keeps the collection context while making checkout simpler."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "tags include fashion",
+        "description mentions collection"
+      ],
+      "schema": {
+        "interactionModelId": "commerce_shrine_stage",
+        "coreVerbs": [
+          "browse",
+          "collect",
+          "buy"
+        ],
+        "inputs": [
+          "scroll",
+          "tap",
+          "hover"
+        ],
+        "navigation": {
+          "structure": "hub",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer",
+            "scroll"
+          ],
+          "transitions": [
+            "hover-lift",
+            "fade",
+            "flip"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "scale",
+            "lighting"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "customize",
+          "persistence": "saved"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "single-column-collection",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Commerce Shrine Stage interaction model. Keep Inter as the voice anchor, preserve the palette around #e6e8e4, #281a0e, #9cae99, drive the page through scroll, tap, hover, and implement the mobile fallback as: Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.",
+    "summary": "Fan Shrine + Commerce Shrine Stage. Objects are treated like collectibles or relics; product rails, badges, and states carry as much narrative weight as the checkout."
   }
 }

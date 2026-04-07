@@ -1,29 +1,12 @@
+import { classifyCaptureMode, enrichMeta, palette, primaryFonts } from './design-os.mjs';
 import { isDark, titleCase } from './utils.mjs';
 
 function hexOr(color, fallback) {
   return color?.hex || fallback;
 }
 
-function primaryFonts(meta) {
-  const fonts = [...(meta.capture?.desktop?.analysis?.fonts || []), ...(meta.capture?.mobile?.analysis?.fonts || [])]
-    .map((font) => font.family?.replace(/^"|"$/g, ''))
-    .filter(Boolean);
-  return [...new Set(fonts)].slice(0, 6);
-}
-
-function palette(meta) {
-  const colors = [
-    ...(meta.capture?.desktop?.analysis?.colors || []),
-    ...(meta.capture?.mobile?.analysis?.colors || [])
-  ];
-  const seen = new Set();
-  const out = [];
-  for (const color of colors) {
-    if (seen.has(color.hex)) continue;
-    seen.add(color.hex);
-    out.push(color);
-  }
-  return out.slice(0, 8);
+function listOr(items, fallback) {
+  return items?.length ? items.join(', ') : fallback;
 }
 
 function tagMood(tags = []) {
@@ -42,21 +25,26 @@ function tagMood(tags = []) {
 }
 
 export function buildDesignMarkdown(meta) {
-  const colors = palette(meta);
-  const fonts = primaryFonts(meta);
+  const source = meta.designGuidance ? meta : enrichMeta(meta);
+  const colors = palette(source);
+  const fonts = primaryFonts(source);
   const lead = colors[0]?.hex || '#111111';
   const second = colors[1]?.hex || '#ffffff';
   const accent = colors[2]?.hex || '#7c3aed';
   const darkMode = isDark(lead);
-  const title = meta.title || titleCase(meta.slug);
-  const sourceLabel = meta.sourceLabel || 'loadmo.re';
-  const sourceUrl = meta.sourceUrl || meta.loadmoreUrl;
-  const description = meta.description || `${title} is featured in the design archive.`;
-  const desktop = meta.capture?.desktop?.analysis;
-  const mobile = meta.capture?.mobile?.analysis;
+  const title = source.title || titleCase(source.slug);
+  const sourceLabel = source.sourceLabel || 'loadmo.re';
+  const sourceUrl = source.sourceUrl || source.loadmoreUrl;
+  const description = source.description || `${title} is featured in the design archive.`;
+  const desktop = source.capture?.desktop?.analysis;
+  const mobile = source.capture?.mobile?.analysis;
   const heading = desktop?.heading || mobile?.heading;
   const bodyText = desktop?.bodyText || mobile?.bodyText;
   const button = desktop?.button || mobile?.button;
+  const worldSystems = source.designGuidance?.worldSystems || [];
+  const mechanics = source.designGuidance?.mechanics || {};
+  const schema = mechanics.schema || {};
+  const captureMode = source.designGuidance?.captureMode || classifyCaptureMode(source);
   const colorLines = colors.length
     ? colors.map((item, index) => `- Color ${index + 1}: ${item.hex} - ${index === 0 ? 'canvas / dominant background' : index === 1 ? 'primary text or opposing surface' : index === 2 ? 'accent / interactive signal' : 'supporting surface or hover state'}`).join('\n')
     : '- No stable palette extracted from the live page. Use the archival poster and screenshots as the visual source of truth.';
@@ -68,7 +56,7 @@ export function buildDesignMarkdown(meta) {
 
 ## 1. Visual Theme & Atmosphere
 
-${title} reads as ${tagMood(meta.tags)}. The live capture resolves to a ${darkMode ? 'dark' : 'light'}-leaning system built around ${lead}, ${second}, and accent notes from ${accent}. ${description}
+${title} reads as ${tagMood(source.tags)}. The live capture resolves to a ${darkMode ? 'dark' : 'light'}-leaning system built around ${lead}, ${second}, and accent notes from ${accent}. ${description}
 
 Desktop and mobile stay aligned but not identical: the desktop capture emphasizes ${desktop?.sticky ? 'anchored chrome and fixed-position framing' : 'a looser scroll narrative'}, while mobile compresses the same language into tighter interaction zones. The site's type system centers ${fonts[0] || 'a bespoke stack'}, which becomes the fastest way to reproduce the feel.
 
@@ -79,11 +67,22 @@ Key Characteristics:
 - Desktop posture: ${desktop?.sticky ? 'fixed/sticky framing' : 'flowing document rhythm'}
 - Mobile posture: ${mobile?.sticky ? 'sticky, app-like chrome' : 'single-column immersive scroll'}
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+${worldSystems.map((world, index) => `- ${index === 0 ? 'Primary' : 'Secondary'}: ${world.name} - ${world.reason || 'best fit based on tags and mechanics'}`).join('\n') || '- Primary: Playable Poster - fallback world for experimental staging'}
+
+### Interaction Archetype
+- Archetype: ${mechanics.archetype?.name || 'Portfolio Artifact'} (${mechanics.archetype?.confidence ? `${Math.round(mechanics.archetype.confidence * 100)}% confidence` : 'heuristic'})
+- Why: ${mechanics.archetype?.reason || 'No mechanics inference available.'}
+- Core verbs: ${listOr(schema.coreVerbs, listOr(mechanics.inputModes, 'scroll, tap'))}
+- Inputs: ${listOr(schema.inputs, listOr(mechanics.inputModes, 'scroll, tap'))}
+
+## 3. Color Palette & Roles
 
 ${colorLines}
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 ${fontLines}
@@ -93,103 +92,155 @@ ${fontLines}
 - Body sample: ${bodyText?.fontSize || 'n/a'} / weight ${bodyText?.fontWeight || 'n/a'} / line-height ${bodyText?.lineHeight || 'normal'}
 - Button sample: ${button?.fontSize || 'n/a'} / weight ${button?.fontWeight || 'n/a'}
 
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward ${button?.backgroundColor || 'transparent'} backgrounds with ${button?.color || 'inherit'} text.
-- Links inherit ${desktop?.link?.color || mobile?.link?.color || accent} as the interaction signal.
-- Border radius trends: ${desktop?.button?.borderRadius || mobile?.button?.borderRadius || '0px'}.
-- Shadow language: ${desktop?.button?.boxShadow || mobile?.button?.boxShadow || 'minimal / none detected'}.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps ${fonts[0] || 'the primary stack'} in control.
-
 ## 5. Layout Principles
 
 - Use a ${desktop?.sticky ? 'framed viewport with anchored navigation' : 'free-flowing vertical canvas'} on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (${lead}) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (${meta.tags.join(', ') || 'none'}) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (${source.tags.join(', ') || 'none'}) imply the site is intentionally non-generic.
+- Buttons tend toward ${button?.backgroundColor || 'transparent'} backgrounds with ${button?.color || 'inherit'} text, and links inherit ${desktop?.link?.color || mobile?.link?.color || accent} as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: ${desktop?.button?.boxShadow || desktop?.sample?.find((item) => item.boxShadow && item.boxShadow !== 'none')?.boxShadow || 'flat surfaces / contrast-only separation'}.
-- Radius cue: ${desktop?.sample?.find((item) => item.borderRadius && item.borderRadius !== '0px')?.borderRadius || 'square corners dominate'}.
-- Contrast cue: ${darkMode ? 'light text on dark surfaces' : 'dark text on light surfaces'} with accent interruptions.
+- Primary model: ${schema.interactionModelId || mechanics.archetype?.id || 'portfolio_artifact'}
+- Navigation structure: ${schema.navigation?.structure || 'linear'} / wayfinding ${schema.navigation?.wayfinding || 'explicit'} / friction ${schema.navigation?.friction || 'low'}
+- Navigation model: ${mechanics.navigationModel || 'Users move through one authored document flow.'}
+- State model: ${mechanics.stateModel || 'Idle -> interaction -> detail -> return'}
+- Must-keep mechanic: ${mechanics.interactionModel || 'No explicit mechanic inferred.'}
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: ${schema.motion?.density || 'medium'}
+- Cadence: ${schema.motion?.cadence || 'event-driven'}
+- Triggers: ${listOr(schema.motion?.triggers, 'pointer')}
+- Transition types: ${listOr(schema.motion?.transitions, 'fade')}
+- Physics level: ${schema.motion?.physics || 'none'}
+- Motion recipe:
+${(mechanics.motionRecipe || []).map((step) => `  - ${step}`).join('\n') || '  - Keep motion structural, not decorative.'}
+
+## 8. Spatial Model
+
+- Space type: ${schema.spatial?.mode || 'flat'}
+- Camera behavior: ${schema.spatial?.camera || 'fixed'}
+- Depth cues: ${listOr(schema.spatial?.depthCues, 'scale')}
+- HUD layering: ${schema.spatial?.hud || 'overlay'}
+- Render tier: ${schema.implementation?.renderTier || 'dom'}
+- Primary depth cue in capture: ${desktop?.button?.boxShadow || desktop?.sample?.find((item) => item.boxShadow && item.boxShadow !== 'none')?.boxShadow || 'flat surfaces / contrast-only separation'}
+
+## 9. Participation & State
+
+- Participation mode: ${schema.participation?.mode || 'none'}
+- Persistence: ${schema.participation?.persistence || 'none'}
+- Inputs to preserve: ${listOr(mechanics.inputModes, 'scroll, tap')}
+- Reset/save posture: ${schema.participation?.persistence === 'saved' ? 'Persist enough state that revisits feel intentional.' : 'Default to resettable, lightweight state changes.'}
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: ${schema.sound?.mode || 'none'}
+- Audio triggers: ${listOr(schema.sound?.triggers, 'none')}
+- Controls: ${listOr(schema.sound?.controls, 'none')}
+- Sync: ${schema.sound?.sync || 'none'}
+- Required APIs or platform hooks: ${listOr(schema.implementation?.requiredApis, 'none')}
+
+## 11. Implementation Checklist
+
+- Complexity: ${schema.implementation?.complexity || mechanics.validationPriority || 'medium'}
+- Required APIs: ${listOr(schema.implementation?.requiredApis, 'none')}
+- Must-have mechanics:
+${(mechanics.implementationNotes || []).map((item) => `  - ${item}`).join('\n') || '  - Preserve the primary interaction model.'}
+- Nice-to-have embellishments:
+${(mechanics.evidence || []).map((item) => `  - ${item}`).join('\n') || '  - Use the screenshots for composition detail.'}
+- Mobile fallback: ${mechanics.mobileFallback || 'Keep the same idea with fewer simultaneous interactions.'}
+- Fallback path: ${listOr(schema.implementation?.fallbacks, captureMode === 'archival-fallback' ? 'static-poster, reduced-motion' : 'reduced-motion')}
+- Manual validation:
+${(mechanics.validationChecklist || []).map((item) => `  - ${item}`).join('\n') || '  - Validate the main interaction before shipping.'}
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use ${fonts[0] || 'the primary extracted font'} consistently for headlines and interface labels.
 - Keep the palette anchored to ${lead}, ${second}, and ${accent}.
-- Preserve the experimental posture signaled by the loadmo.re tags: ${meta.tags.join(', ') || 'unclassified'}.
+- Preserve the experimental posture signaled by the loadmo.re tags: ${source.tags.join(', ') || 'unclassified'}.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
-- Desktop capture uses ${meta.capture?.desktop?.screenshot ? 'screenshots/desktop.jpg' : 'no successful live desktop screenshot'} as the visual baseline.
-- Mobile capture uses ${meta.capture?.mobile?.screenshot ? 'screenshots/mobile.jpg' : 'no successful live mobile screenshot'} as the mobile baseline.
+- Desktop capture uses ${source.capture?.desktop?.screenshot ? 'screenshots/desktop.jpg' : 'no successful live desktop screenshot'} as the visual baseline.
+- Mobile capture uses ${source.capture?.mobile?.screenshot ? 'screenshots/mobile.jpg' : 'no successful live mobile screenshot'} as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: ${mechanics.mobileFallback || 'compress the same world into a tighter single-column stage'}.
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by ${title}. Keep the palette centered on ${lead}, ${second}, and ${accent}. Use ${fonts[0] || 'the extracted primary font'} for headlines, preserve the ${tagMood(meta.tags)} mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> ${source.designGuidance?.implementationPrompt || `Build a responsive landing page inspired by ${title}. Keep the palette centered on ${lead}, ${second}, and ${accent}. Use ${fonts[0] || 'the extracted primary font'} for headlines, preserve the ${tagMood(source.tags)} mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.`}
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: ${sourceLabel}${sourceUrl ? ` (${sourceUrl})` : ''}
-- Live site: ${meta.liveUrl}
-- Credits: ${meta.credits || 'not listed'}
-- Desktop capture: ${meta.capture?.desktop?.ok ? 'completed' : 'failed'}
-- Mobile capture: ${meta.capture?.mobile?.ok ? 'completed' : 'failed'}
-- Archival fallback: ${meta.capture?.fallbackUsed ? 'poster image used for missing screenshots' : 'not used'}
+- Live site: ${source.liveUrl}
+- Credits: ${source.credits || 'not listed'}
+- Capture mode: ${captureMode}
+- Desktop capture: ${source.capture?.desktop?.ok ? 'completed' : 'failed'}
+- Mobile capture: ${source.capture?.mobile?.ok ? 'completed' : 'failed'}
+- Archival fallback: ${source.capture?.fallbackUsed ? 'poster image used for missing screenshots' : 'not used'}
 `;
 }
 
 export function buildSiteReadme(meta) {
-  const title = meta.title || titleCase(meta.slug);
-  const sourceLabel = meta.sourceLabel || 'loadmo.re';
-  const sourceUrl = meta.sourceUrl || meta.loadmoreUrl || meta.liveUrl;
+  const source = meta.designGuidance ? meta : enrichMeta(meta);
+  const title = source.title || titleCase(source.slug);
+  const sourceLabel = source.sourceLabel || 'loadmo.re';
+  const sourceUrl = source.sourceUrl || source.loadmoreUrl || source.liveUrl;
   const sourcePhrase = sourceUrl ? `[${sourceLabel}](${sourceUrl})` : sourceLabel;
   return `# ${title} Inspired Design System
 
-[DESIGN.md](./DESIGN.md) extracted from the public [${title}](${meta.liveUrl}) website, cross-referenced with ${sourcePhrase}. This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.
+[DESIGN.md](./DESIGN.md) extracted from the public [${title}](${source.liveUrl}) website, cross-referenced with ${sourcePhrase}. This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.
 
 ## Files
 
 | File | Description |
 |------|-------------|
-| DESIGN.md | Full design-system reference with separate web/mobile guidance |
+| DESIGN.md | Full design-system reference with web/mobile guidance plus mechanics and implementation notes |
 | preview.html | Light preview page generated from the extracted tokens |
 | preview-dark.html | Dark preview page generated from the extracted tokens |
-| meta.json | Source metadata, capture checklist, extracted tokens |
+| meta.json | Source metadata, capture checklist, extracted tokens, inferred mechanics, and implementation prompt |
 | screenshots/desktop.jpg | Live or archival desktop viewport capture |
 | screenshots/mobile.jpg | Live or archival mobile viewport capture |
 
+## Mechanics Snapshot
+
+- World systems: ${(source.designGuidance?.worldSystems || []).map((item) => item.name).join(', ') || 'Playable Poster'}
+- Archetype: ${source.designGuidance?.mechanics?.archetype?.name || 'Portfolio Artifact'}
+- Inputs: ${listOr(source.designGuidance?.mechanics?.inputModes, 'scroll, tap')}
+- Mobile fallback: ${source.designGuidance?.mechanics?.mobileFallback || 'single-column authored fallback'}
+
 ## Source Notes
 
-- Tags: ${meta.tags.join(', ') || 'none'}
-- Credits: ${meta.credits || 'not listed'}
-- Added to loadmo.re: ${meta.added || 'unknown'}
-- Capture status: ${meta.capture?.status || 'unknown'}
-- Archival fallback: ${meta.capture?.fallbackUsed ? 'yes' : 'no'}
+- Tags: ${source.tags.join(', ') || 'none'}
+- Credits: ${source.credits || 'not listed'}
+- Added to loadmo.re: ${source.added || 'unknown'}
+- Capture status: ${source.capture?.status || 'unknown'}
+- Capture mode: ${source.designGuidance?.captureMode || classifyCaptureMode(source)}
+- Archival fallback: ${source.capture?.fallbackUsed ? 'yes' : 'no'}
 
 ## Preview
 
 ### Web
-${meta.capture?.desktop?.screenshot ? `![${title} desktop capture](./${meta.capture.desktop.screenshot})` : 'Desktop capture unavailable.'}
+${source.capture?.desktop?.screenshot ? `![${title} desktop capture](./${source.capture.desktop.screenshot})` : 'Desktop capture unavailable.'}
 
 ### Mobile
-${meta.capture?.mobile?.screenshot ? `![${title} mobile capture](./${meta.capture.mobile.screenshot})` : 'Mobile capture unavailable.'}
+${source.capture?.mobile?.screenshot ? `![${title} mobile capture](./${source.capture.mobile.screenshot})` : 'Mobile capture unavailable.'}
 `;
 }
 
@@ -333,9 +384,9 @@ Copy a DESIGN.md into your project, tell your AI agent to build in that visual l
 
 This repo mirrors the structure of [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), but the source material comes primarily from [loadmo.re](https://loadmo.re/) and is expanded with manually curated outliers that feel more internet-native than polished B2B SaaS defaults. Each entry includes:
 
-- DESIGN.md with web and mobile guidance
+- DESIGN.md with web, mobile, and implementation-mechanics guidance
 - preview.html and preview-dark.html
-- meta.json with extracted fonts, colors, and capture checklist
+- meta.json with extracted fonts, colors, capture checklist, world-system inference, and mechanics schema
 - Live or archival desktop + mobile screenshots
 
 ## Capture Checklist
@@ -356,6 +407,8 @@ If you are an AI coding agent, do not browse this repo manually folder by folder
 
 - \`AGENTS.md\` for the retrieval strategy
 - \`playbooks/scene-kit.md\` for the design philosophy layer
+- \`playbooks/interaction-archetypes.md\` for reusable implementation-grade mechanics
+- \`playbooks/validation-rubric.md\` for the manual QA sequence
 - \`playbooks/world-systems.md\` to choose a world like Club Instrument, Luxury Archive, Collage Core, Cozy Desktop, Playable Poster, or Fan Shrine
 - \`playbooks/motion-grammar.md\` so motion acts like brand, not garnish
 - \`playbooks/type-systems.md\` for type-role decisions and foundry direction
@@ -376,11 +429,12 @@ This repo now includes a design operating system on top of the site archive:
 
 - stable behavior underneath, authored worlds on top
 - a world-system layer for metaphor and composition
+- an interaction-archetype layer for implementation semantics
 - a motion grammar layer for temporal identity
 - a type-system layer for voice and contrast
 - an asset-forge layer for scribbles, scans, stickers, chromes, and generated material
 
-If you are building net-new work, choose one dominant world from \`playbooks/world-systems.md\`, one secondary interaction cue, one typography authority cue, and one material pack.
+If you are building net-new work, choose one dominant world from \`playbooks/world-systems.md\`, one dominant interaction archetype from \`playbooks/interaction-archetypes.md\`, one typography authority cue, and one material pack.
 
 ## Collection
 

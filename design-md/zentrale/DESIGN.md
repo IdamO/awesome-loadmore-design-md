@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Cozy Desktop - description mentions windows; archetype affinity: desktop shell world
+- Secondary: Fan Shrine - description mentions shop
+
+### Interaction Archetype
+- Archetype: Desktop Shell World (96% confidence)
+- Why: description mentions windows; description mentions window
+- Core verbs: open, drag, shuffle
+- Inputs: drag, tap, click
+
+## 3. Color Palette & Roles
 
 - Color 1: #fefdfd - canvas / dominant background
 - Color 2: #f6e7e7 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #efc0be - supporting surface or hover state
 - Color 8: #ecbec0 - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: am-controls
@@ -35,62 +47,112 @@ Key Characteristics:
 - Body sample: 31.68px / weight 400 / line-height 34.848px
 - Button sample: n/a / weight n/a
 
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward transparent backgrounds with inherit text.
-- Links inherit rgb(255, 0, 0) as the interaction signal.
-- Border radius trends: 0px.
-- Shadow language: minimal / none detected.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps am-controls in control.
-
 ## 5. Layout Principles
 
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fefdfd) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (minimal, graphic-design) imply the site is intentionally non-generic.
+- Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(255, 0, 0) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: flat surfaces / contrast-only separation.
-- Radius cue: square corners dominate.
-- Contrast cue: dark text on light surfaces with accent interruptions.
+- Primary model: desktop_shell_world
+- Navigation structure: hub / wayfinding ambient / friction medium
+- Navigation model: Users move between windows or objects instead of scrolling through one flat document.
+- State model: Shell at rest -> open or focus window -> inspect content -> shuffle or close.
+- Must-keep mechanic: Navigation happens through windows, icons, folders, panels, or desktop objects; the chrome is part of the fiction.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: medium
+- Cadence: event-driven
+- Triggers: pointer
+- Transition types: shuffle, snap, focus-lift
+- Physics level: light
+- Motion recipe:
+  - Use window open and close snaps.
+  - Use drag inertia sparingly and focus elevation clearly.
+  - Use subtle CRT or idle ambient loops only as background texture.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: occlusion, scale
+- HUD layering: overlay
+- Render tier: dom
+- Primary depth cue in capture: flat surfaces / contrast-only separation
+
+## 9. Participation & State
+
+- Participation mode: customize
+- Persistence: session
+- Inputs to preserve: drag, tap, click
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: high
+- Required APIs: none
+- Must-have mechanics:
+  - Make z-order, focus, and close states unambiguous.
+  - Keep the fiction warm and usable, not ironic.
+  - Use persistence selectively so revisits feel lived-in.
+- Nice-to-have embellishments:
+  - description mentions windows
+  - description mentions window
+- Mobile fallback: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.
+- Fallback path: stacked-shell, reduced-motion
+- Manual validation:
+  - Opening and focusing windows is intuitive.
+  - Desktop chrome supports the content instead of obscuring it.
+  - Mobile keeps the fiction without impossible drag behavior.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use am-controls consistently for headlines and interface labels.
 - Keep the palette anchored to #fefdfd, #f6e7e7, and #f3d8d8.
 - Preserve the experimental posture signaled by the loadmo.re tags: minimal, graphic-design.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Zentrale. Keep the palette centered on #fefdfd, #f6e7e7, and #f3d8d8. Use am-controls for headlines, preserve the restrained minimalism mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Cozy Desktop page with a secondary cue from Fan Shrine using the Desktop Shell World interaction model. Keep am-controls as the voice anchor, preserve the palette around #fefdfd, #f6e7e7, #f3d8d8, drive the page through drag, tap, click, and implement the mobile fallback as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/zentrale)
 - Live site: http://www.zentrale-karlsruhe.com/
 - Credits: not listed
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

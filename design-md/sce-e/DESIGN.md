@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Club Instrument - tags include sound-design; tags include playful; description mentions audio
+- Secondary: Collage Core - tags include colorful; tags include playful
+
+### Interaction Archetype
+- Archetype: Club Instrument (96% confidence)
+- Why: tags include sound-design; tags include playful; description mentions audio
+- Core verbs: trigger, press, mix
+- Inputs: tap, drag, press
+
+## 3. Color Palette & Roles
 
 - Color 1: #e8e3df - canvas / dominant background
 - Color 2: #030403 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #c2bcb9 - supporting surface or hover state
 - Color 8: #c8c2bc - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: __Noto_Sans_JP_a84b9a
@@ -33,23 +45,13 @@ Key Characteristics:
 - Support: __Noto_Sans_JP_Fallback_4f79c5
 - Support: __Inconsolata_482696
 - Support: __Inconsolata_Fallback_482696
+- Support: __Inconsolata_bf9c6d
+- Support: __Inconsolata_Fallback_bf9c6d
 
 ### Hierarchy Snapshot
 - Heading sample: n/a / weight n/a / letter-spacing normal
 - Body sample: 20px / weight 900 / line-height 28px
 - Button sample: 20px / weight 900
-
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(0, 0, 0) text.
-- Links inherit #a2a09d as the interaction signal.
-- Border radius trends: 0px.
-- Shadow language: none.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps __Noto_Sans_JP_a84b9a in control.
 
 ## 5. Layout Principles
 
@@ -57,44 +59,107 @@ Key Characteristics:
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#e8e3df) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (sound-design, colorful, playful) imply the site is intentionally non-generic.
+- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(0, 0, 0) text, and links inherit #a2a09d as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: none.
-- Radius cue: square corners dominate.
-- Contrast cue: dark text on light surfaces with accent interruptions.
+- Primary model: club_instrument
+- Navigation structure: single-scene / wayfinding explicit / friction low
+- Navigation model: The hero stage is primary; secondary controls tune the same live system instead of opening unrelated sections.
+- State model: Idle pulse -> active press/gesture -> audible or visual response -> decay/settle.
+- Must-keep mechanic: Single hero stage plus reactive controls; user input changes sound or system state immediately; the interface should feel like an instrument, not a dashboard.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: medium
+- Cadence: tempo-linked
+- Triggers: pointer, time
+- Transition types: pulse, meter-fill, glow
+- Physics level: light
+- Motion recipe:
+  - Keep one ambient pulse running behind the page.
+  - Tie meter fills, glows, or counters to direct user input.
+  - Use press feedback that resolves in under 180ms.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: scale, lighting
+- HUD layering: overlay
+- Render tier: mixed
+- Primary depth cue in capture: none
+
+## 9. Participation & State
+
+- Participation mode: compose
+- Persistence: ephemeral
+- Inputs to preserve: tap, drag, press
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: instrument
+- Audio triggers: press, drag
+- Controls: mute, play-pause
+- Sync: tight
+- Required APIs or platform hooks: webaudio
+
+## 11. Implementation Checklist
+
+- Complexity: high
+- Required APIs: webaudio
+- Must-have mechanics:
+  - Keep latency visibly and audibly tight; delayed response kills the instrument illusion.
+  - Treat meters, counters, or glows as live telemetry, not decoration.
+  - Gate autoplay and heavy audio initialization until the first explicit gesture.
+- Nice-to-have embellishments:
+  - tags include sound-design
+  - tags include playful
+  - description mentions audio
+- Mobile fallback: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
+- Fallback path: mute-first, reduced-motion
+- Manual validation:
+  - Gesture-to-sound response feels immediate after user intent.
+  - The main control loop is readable in one glance.
+  - Mobile keeps one clear control path rather than shrinking every panel.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use __Noto_Sans_JP_a84b9a consistently for headlines and interface labels.
 - Keep the palette anchored to #e8e3df, #030403, and #a2a09d.
 - Preserve the experimental posture signaled by the loadmo.re tags: sound-design, colorful, playful.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Sce.e. Keep the palette centered on #e8e3df, #030403, and #a2a09d. Use __Noto_Sans_JP_a84b9a for headlines, preserve the playful interaction, sonic pacing mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Club Instrument page with a secondary cue from Collage Core using the Club Instrument interaction model. Keep __Noto_Sans_JP_a84b9a as the voice anchor, preserve the palette around #e8e3df, #030403, #a2a09d, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/sce-e)
 - Live site: https://www.ssccee.com/
 - Credits: sce.e Akira Hayasaka
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

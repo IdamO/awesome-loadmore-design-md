@@ -618,5 +618,144 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "score": 8,
+        "reason": "description mentions reveal; archetype affinity: playable poster"
+      },
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 2,
+        "reason": "archetype affinity: playable poster"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "playable_poster",
+        "name": "Playable Poster",
+        "confidence": 0.55,
+        "reason": "description mentions reveal",
+        "refs": [
+          "design-your-own-hole",
+          "gt-flexa",
+          "smc-real-time",
+          "dinamo-typefaces"
+        ]
+      },
+      "interactionModel": "One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort.",
+      "navigationModel": "The page behaves like one campaign object or a short sequence of staged frames.",
+      "stateModel": "Poster at rest -> big reveal -> one interactive transformation -> rest or reset.",
+      "inputModes": [
+        "scroll",
+        "tap",
+        "hover"
+      ],
+      "engineHints": [
+        "Use motion/react or GSAP for bold but finite timelines.",
+        "Use SVG path animation and variable font APIs for draw-on or type-shift moments.",
+        "Keep the DOM shallow; the composition should feel authored, not modular."
+      ],
+      "motionRecipe": [
+        "Lead with one ceremonial entrance.",
+        "Use oversized type or graphic elements as moving actors, not background garnish.",
+        "Keep only one hero gesture alive on mobile."
+      ],
+      "mobileFallback": "Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.",
+      "implementationNotes": [
+        "Use scale, typography, and dead space aggressively; do not fill every region with content.",
+        "Keep the interaction count low and the conviction high.",
+        "If a visual move is the identity, it should land before the user sees the CTA."
+      ],
+      "antiPatterns": [
+        "Do not let the page collapse into a static poster with a button pasted on it.",
+        "Do not attach random microinteractions to every element.",
+        "Do not keep a desktop-only hover trick as the main story."
+      ],
+      "validationChecklist": [
+        "The hero gesture is obvious in under three seconds.",
+        "Desktop and mobile preserve the same campaign idea with different staging.",
+        "Typography remains part of the interaction system."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "description mentions reveal"
+      ],
+      "schema": {
+        "interactionModelId": "playable_poster",
+        "coreVerbs": [
+          "reveal",
+          "distort",
+          "stage"
+        ],
+        "inputs": [
+          "scroll",
+          "tap",
+          "hover"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "high",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer",
+            "time",
+            "scroll"
+          ],
+          "transitions": [
+            "morph",
+            "draw-on",
+            "shuffle"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "scale",
+            "occlusion"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "play",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "reduced-motion",
+            "static-poster"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Playable Poster page with a secondary cue from Collage Core using the Playable Poster interaction model. Keep ABCOracle as the voice anchor, preserve the palette around #151515, #646159, #a09b8e, drive the page through scroll, tap, hover, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.",
+    "summary": "Playable Poster + Playable Poster. One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort."
   }
 }

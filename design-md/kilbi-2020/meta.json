@@ -262,5 +262,153 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "score": 14,
+        "reason": "tags include music; description mentions music; archetype affinity: club instrument"
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "score": 2,
+        "reason": "tags include music"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "club_instrument",
+        "name": "Club Instrument",
+        "confidence": 0.96,
+        "reason": "tags include music; description mentions music; description mentions sing",
+        "refs": [
+          "jazz-keys",
+          "blob-opera",
+          "holodec-world",
+          "desktop-fm"
+        ]
+      },
+      "interactionModel": "Single hero stage plus reactive controls; user input changes sound or system state immediately; the interface should feel like an instrument, not a dashboard.",
+      "navigationModel": "The hero stage is primary; secondary controls tune the same live system instead of opening unrelated sections.",
+      "stateModel": "Idle pulse -> active press/gesture -> audible or visual response -> decay/settle.",
+      "inputModes": [
+        "tap",
+        "drag",
+        "press"
+      ],
+      "engineHints": [
+        "Use React or plain DOM for interface chrome, then add motion/react for low-latency control feedback.",
+        "Use Tone.js or Web Audio only after explicit user intent; mirror every sonic event with a visual state change.",
+        "Use Canvas or lightweight WebGL only for meters, glow, or waveform layers, not for the whole UI."
+      ],
+      "motionRecipe": [
+        "Keep one ambient pulse running behind the page.",
+        "Tie meter fills, glows, or counters to direct user input.",
+        "Use press feedback that resolves in under 180ms."
+      ],
+      "mobileFallback": "Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.",
+      "implementationNotes": [
+        "Keep latency visibly and audibly tight; delayed response kills the instrument illusion.",
+        "Treat meters, counters, or glows as live telemetry, not decoration.",
+        "Gate autoplay and heavy audio initialization until the first explicit gesture."
+      ],
+      "antiPatterns": [
+        "Do not turn the page into a fake DAW with tiny unreadable knobs.",
+        "Do not separate the sound event from the visual event.",
+        "Do not hide the primary interaction below the fold."
+      ],
+      "validationChecklist": [
+        "Gesture-to-sound response feels immediate after user intent.",
+        "The main control loop is readable in one glance.",
+        "Mobile keeps one clear control path rather than shrinking every panel."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "tags include music",
+        "description mentions music",
+        "description mentions sing"
+      ],
+      "schema": {
+        "interactionModelId": "club_instrument",
+        "coreVerbs": [
+          "trigger",
+          "press",
+          "mix"
+        ],
+        "inputs": [
+          "tap",
+          "drag",
+          "press"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "tempo-linked",
+          "triggers": [
+            "pointer",
+            "time"
+          ],
+          "transitions": [
+            "pulse",
+            "meter-fill",
+            "glow"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "scale",
+            "lighting"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "compose",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "instrument",
+          "triggers": [
+            "press",
+            "drag"
+          ],
+          "controls": [
+            "mute",
+            "play-pause"
+          ],
+          "sync": "tight"
+        },
+        "effects": {
+          "tactile": [
+            "elastic"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "webaudio"
+          ],
+          "fallbacks": [
+            "mute-first",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Club Instrument page with a secondary cue from Fan Shrine using the Club Instrument interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #fdfdfd, #e7e7e7, #939393, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.",
+    "summary": "Club Instrument + Club Instrument. Single hero stage plus reactive controls; user input changes sound or system state immediately; the interface should feel like an instrument, not a dashboard."
   }
 }

@@ -17,9 +17,9 @@ Copy a DESIGN.md into your project, tell your AI agent to build in that visual l
 
 This repo mirrors the structure of [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), but the source material comes primarily from [loadmo.re](https://loadmo.re/) and is expanded with manually curated outliers that feel more internet-native than polished B2B SaaS defaults. Each entry includes:
 
-- DESIGN.md with web and mobile guidance
+- DESIGN.md with web, mobile, and implementation-mechanics guidance
 - preview.html and preview-dark.html
-- meta.json with extracted fonts, colors, and capture checklist
+- meta.json with extracted fonts, colors, capture checklist, world-system inference, and mechanics schema
 - Live or archival desktop + mobile screenshots
 
 ## Capture Checklist
@@ -40,6 +40,8 @@ If you are an AI coding agent, do not browse this repo manually folder by folder
 
 - `AGENTS.md` for the retrieval strategy
 - `playbooks/scene-kit.md` for the design philosophy layer
+- `playbooks/interaction-archetypes.md` for reusable implementation-grade mechanics
+- `playbooks/validation-rubric.md` for the manual QA sequence
 - `playbooks/world-systems.md` to choose a world like Club Instrument, Luxury Archive, Collage Core, Cozy Desktop, Playable Poster, or Fan Shrine
 - `playbooks/motion-grammar.md` so motion acts like brand, not garnish
 - `playbooks/type-systems.md` for type-role decisions and foundry direction
@@ -60,11 +62,12 @@ This repo now includes a design operating system on top of the site archive:
 
 - stable behavior underneath, authored worlds on top
 - a world-system layer for metaphor and composition
+- an interaction-archetype layer for implementation semantics
 - a motion grammar layer for temporal identity
 - a type-system layer for voice and contrast
 - an asset-forge layer for scribbles, scans, stickers, chromes, and generated material
 
-If you are building net-new work, choose one dominant world from `playbooks/world-systems.md`, one secondary interaction cue, one typography authority cue, and one material pack.
+If you are building net-new work, choose one dominant world from `playbooks/world-systems.md`, one dominant interaction archetype from `playbooks/interaction-archetypes.md`, one typography authority cue, and one material pack.
 
 ## Collection
 

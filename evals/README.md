@@ -4,6 +4,7 @@ These builds test whether the repo can guide a fresh coding agent toward a stron
 
 ## Current evals
 
+- `manual-audit-2026-04-06.md` — representative human audit of the new mechanics layer across core archetypes
 - `blind-build-01` — SCENEKIT, built from a four-reference stack discovered by the worker agent
 - `blind-build-02` — RAVEHOUSE, built from a different three-reference stack discovered by a separate worker agent
 

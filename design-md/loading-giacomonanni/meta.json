@@ -263,5 +263,145 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "cozy-desktop",
+        "name": "Cozy Desktop",
+        "score": 10,
+        "reason": "tags include retro; archetype affinity: desktop shell world"
+      },
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 1,
+        "reason": "tags include retro"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "desktop_shell_world",
+        "name": "Desktop Shell World",
+        "confidence": 0.66,
+        "reason": "tags include retro",
+        "refs": [
+          "orb-farm",
+          "simone-s-computer",
+          "poolside-fm",
+          "communal-radio-club"
+        ]
+      },
+      "interactionModel": "Navigation happens through windows, icons, folders, panels, or desktop objects; the chrome is part of the fiction.",
+      "navigationModel": "Users move between windows or objects instead of scrolling through one flat document.",
+      "stateModel": "Shell at rest -> open or focus window -> inspect content -> shuffle or close.",
+      "inputModes": [
+        "drag",
+        "tap",
+        "click"
+      ],
+      "engineHints": [
+        "Use DOM windows with a z-index manager instead of drawing the entire system into canvas.",
+        "Constrain drag, persist window state locally when useful, and keep focus handling accessible.",
+        "Use sprite, bitmap, or icon assets to carry the fiction without sacrificing text clarity."
+      ],
+      "motionRecipe": [
+        "Use window open and close snaps.",
+        "Use drag inertia sparingly and focus elevation clearly.",
+        "Use subtle CRT or idle ambient loops only as background texture."
+      ],
+      "mobileFallback": "Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.",
+      "implementationNotes": [
+        "Make z-order, focus, and close states unambiguous.",
+        "Keep the fiction warm and usable, not ironic.",
+        "Use persistence selectively so revisits feel lived-in."
+      ],
+      "antiPatterns": [
+        "Do not make every window draggable on mobile.",
+        "Do not bury the content under chrome for the sake of the joke.",
+        "Do not simulate an entire OS when only a window metaphor is needed."
+      ],
+      "validationChecklist": [
+        "Opening and focusing windows is intuitive.",
+        "Desktop chrome supports the content instead of obscuring it.",
+        "Mobile keeps the fiction without impossible drag behavior."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "tags include retro"
+      ],
+      "schema": {
+        "interactionModelId": "desktop_shell_world",
+        "coreVerbs": [
+          "open",
+          "drag",
+          "shuffle"
+        ],
+        "inputs": [
+          "drag",
+          "tap",
+          "click"
+        ],
+        "navigation": {
+          "structure": "hub",
+          "wayfinding": "ambient",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer"
+          ],
+          "transitions": [
+            "shuffle",
+            "snap",
+            "focus-lift"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "layered-2d",
+          "camera": "fixed",
+          "depthCues": [
+            "occlusion",
+            "scale"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "customize",
+          "persistence": "session"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "inertial"
+          ],
+          "retro": [
+            "desktop-ui",
+            "flash-era"
+          ],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "high",
+          "requiredApis": [],
+          "fallbacks": [
+            "stacked-shell",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Cozy Desktop page with a secondary cue from Collage Core using the Desktop Shell World interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #dbdbdb, #141819, #5a625c, drive the page through drag, tap, click, and implement the mobile fallback as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.",
+    "summary": "Cozy Desktop + Desktop Shell World. Navigation happens through windows, icons, folders, panels, or desktop objects; the chrome is part of the fiction."
   }
 }

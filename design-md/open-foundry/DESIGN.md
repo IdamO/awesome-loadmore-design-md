@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Playable Poster - tags include typography; tags include graphic-design; archetype affinity: playable poster
+- Secondary: Collage Core - tags include graphic-design; archetype affinity: playable poster
+
+### Interaction Archetype
+- Archetype: Playable Poster (76% confidence)
+- Why: tags include typography; tags include graphic-design
+- Core verbs: reveal, distort, stage
+- Inputs: scroll, tap, hover
+
+## 3. Color Palette & Roles
 
 - Color 1: #f1f2f4 - canvas / dominant background
 - Color 2: #686968 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #4a4d34 - supporting surface or hover state
 - Color 8: #a19e9c - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: Mirage
@@ -33,23 +45,13 @@ Key Characteristics:
 - Support: archivo
 - Support: bagnard
 - Support: bluu-next
+- Support: cotham-sans
+- Support: cooper-hewitt
 
 ### Hierarchy Snapshot
 - Heading sample: 16px / weight 500 / letter-spacing normal
 - Body sample: 16px / weight 500 / line-height 29.44px
 - Button sample: 15px / weight 450
-
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward oklch(0.4 0.01 264 / 0.12) backgrounds with oklch(0.2 0.002 264) text.
-- Links inherit oklch(0.2 0.002 264) as the interaction signal.
-- Border radius trends: 16px.
-- Shadow language: none.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps Mirage in control.
 
 ## 5. Layout Principles
 
@@ -57,44 +59,106 @@ Key Characteristics:
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f1f2f4) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (graphic-design, typography) imply the site is intentionally non-generic.
+- Buttons tend toward oklch(0.4 0.01 264 / 0.12) backgrounds with oklch(0.2 0.002 264) text, and links inherit oklch(0.2 0.002 264) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: none.
-- Radius cue: 16px.
-- Contrast cue: dark text on light surfaces with accent interruptions.
+- Primary model: playable_poster
+- Navigation structure: single-scene / wayfinding explicit / friction low
+- Navigation model: The page behaves like one campaign object or a short sequence of staged frames.
+- State model: Poster at rest -> big reveal -> one interactive transformation -> rest or reset.
+- Must-keep mechanic: One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: high
+- Cadence: event-driven
+- Triggers: pointer, time, scroll
+- Transition types: morph, draw-on, shuffle
+- Physics level: light
+- Motion recipe:
+  - Lead with one ceremonial entrance.
+  - Use oversized type or graphic elements as moving actors, not background garnish.
+  - Keep only one hero gesture alive on mobile.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: scale, occlusion
+- HUD layering: overlay
+- Render tier: dom
+- Primary depth cue in capture: none
+
+## 9. Participation & State
+
+- Participation mode: none
+- Persistence: ephemeral
+- Inputs to preserve: scroll, tap, hover
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: medium
+- Required APIs: none
+- Must-have mechanics:
+  - Use scale, typography, and dead space aggressively; do not fill every region with content.
+  - Keep the interaction count low and the conviction high.
+  - If a visual move is the identity, it should land before the user sees the CTA.
+- Nice-to-have embellishments:
+  - tags include typography
+  - tags include graphic-design
+- Mobile fallback: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
+- Fallback path: reduced-motion, static-poster
+- Manual validation:
+  - The hero gesture is obvious in under three seconds.
+  - Desktop and mobile preserve the same campaign idea with different staging.
+  - Typography remains part of the interaction system.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use Mirage consistently for headlines and interface labels.
 - Keep the palette anchored to #f1f2f4, #686968, and #15220f.
 - Preserve the experimental posture signaled by the loadmo.re tags: graphic-design, typography.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Open Foundry. Keep the palette centered on #f1f2f4, #686968, and #15220f. Use Mirage for headlines, preserve the type-led composition mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Playable Poster page with a secondary cue from Collage Core using the Playable Poster interaction model. Keep Mirage as the voice anchor, preserve the palette around #f1f2f4, #686968, #15220f, drive the page through scroll, tap, hover, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/open-foundry)
 - Live site: https://open-foundry.com
 - Credits: not listed
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

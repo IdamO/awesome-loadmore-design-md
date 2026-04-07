@@ -338,5 +338,139 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "score": 4,
+        "reason": "tags include colorful; tags include tactile"
+      },
+      {
+        "slug": "collage-core",
+        "name": "Collage Core",
+        "score": 3,
+        "reason": "tags include colorful; tags include tactile"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "portfolio_artifact",
+        "name": "Portfolio Artifact",
+        "confidence": 0.66,
+        "reason": "tags include portfolio",
+        "refs": [
+          "cyanbanister",
+          "harley-weir",
+          "developments",
+          "infringe"
+        ]
+      },
+      "interactionModel": "Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object.",
+      "navigationModel": "The author voice or project sequence leads; navigation stays secondary and quiet.",
+      "stateModel": "Arrival -> authored sequence of text, image, or projects -> contact or archive state.",
+      "inputModes": [
+        "scroll",
+        "tap"
+      ],
+      "engineHints": [
+        "Use semantic HTML or React with strong layout composition; reach for motion only where it changes pacing.",
+        "Use sticky framing or asymmetric grids when they reinforce the author voice.",
+        "Keep navigation spare and let the work or writing lead."
+      ],
+      "motionRecipe": [
+        "Use restrained reveals and occasional viewpoint shifts.",
+        "Let typography and image sequencing do more work than animation.",
+        "Use one irrational but coherent move to keep the page from feeling templated."
+      ],
+      "mobileFallback": "Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+      "implementationNotes": [
+        "Keep one strong authorial decision intact across breakpoints.",
+        "Use type, pacing, and framing as the identity before relying on motion.",
+        "If the site feels like a normal portfolio shell, push one layer further."
+      ],
+      "antiPatterns": [
+        "Do not genericize the layout into a startup case-study template.",
+        "Do not overbuild components where one-off composition is the point.",
+        "Do not erase eccentricity in the mobile layout."
+      ],
+      "validationChecklist": [
+        "The author voice is visible within three seconds.",
+        "Projects or writing feel sequenced, not dumped into a grid.",
+        "Mobile preserves the same voice without literal layout copying."
+      ],
+      "validationPriority": "low",
+      "evidence": [
+        "tags include portfolio"
+      ],
+      "schema": {
+        "interactionModelId": "portfolio_artifact",
+        "coreVerbs": [
+          "read",
+          "browse",
+          "contact"
+        ],
+        "inputs": [
+          "scroll",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "linear",
+          "wayfinding": "ambient",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "event-driven",
+          "triggers": [
+            "scroll",
+            "pointer"
+          ],
+          "transitions": [
+            "fade",
+            "crop-shift"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "flat",
+          "camera": "fixed",
+          "depthCues": [
+            "scale"
+          ],
+          "hud": "none"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "none"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "elastic"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "low",
+          "requiredApis": [],
+          "fallbacks": [
+            "single-column",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Playable Poster page with a secondary cue from Collage Core using the Portfolio Artifact interaction model. Keep Geist Mono as the voice anchor, preserve the palette around #f7f4ee, #dfe1e5, #a6b9e3, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+    "summary": "Playable Poster + Portfolio Artifact. Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object."
   }
 }

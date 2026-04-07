@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: fixed/sticky framing
 - Mobile posture: sticky, app-like chrome
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Luxury Archive - tags include typography; archetype affinity: editorial archive index
+- Secondary: Playable Poster - tags include typography
+
+### Interaction Archetype
+- Archetype: Editorial Archive Index (76% confidence)
+- Why: tags include typography; description mentions search; sticky layout
+- Core verbs: browse, filter, open, scroll
+- Inputs: scroll, tap, filter, type
+
+## 3. Color Palette & Roles
 
 - Color 1: #f8f8f8 - canvas / dominant background
 - Color 2: #636162 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #883a22 - supporting surface or hover state
 - Color 8: #5e4723 - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: CookieRound
@@ -33,23 +45,13 @@ Key Characteristics:
 - Support: Rekord
 - Support: Rekord Symbols
 - Support: Karl Condensed
+- Support: Rekord Mono
+- Support: UFOSourceTypeGX
 
 ### Hierarchy Snapshot
 - Heading sample: n/a / weight n/a / letter-spacing normal
 - Body sample: 38px / weight 400 / line-height 40px
 - Button sample: 10px / weight 400
-
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(0, 0, 0) text.
-- Links inherit rgb(255, 255, 255) as the interaction signal.
-- Border radius trends: 5px.
-- Shadow language: none.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps CookieRound in control.
 
 ## 5. Layout Principles
 
@@ -57,44 +59,108 @@ Key Characteristics:
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f8f8f8) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (typography) imply the site is intentionally non-generic.
+- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(0, 0, 0) text, and links inherit rgb(255, 255, 255) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: none.
-- Radius cue: 21px.
-- Contrast cue: dark text on light surfaces with accent interruptions.
+- Primary model: editorial_archive_index
+- Navigation structure: hub / wayfinding explicit / friction low
+- Navigation model: Index first, then detail; users should always know how to get back to the collection view.
+- State model: Browse/filter -> hover or focus item -> inline or sidecar detail -> return to index context.
+- Must-keep mechanic: The index is the primary surface; filters, tags, and anchors drive navigation; detail emerges inline or in a sidecar.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: low
+- Cadence: event-driven
+- Triggers: pointer, scroll
+- Transition types: fade, morph, crop-shift
+- Physics level: none
+- Motion recipe:
+  - Use restrained fades and crop shifts rather than theatrical transitions.
+  - Preserve list context when opening detail views.
+  - Let sticky headers and current-section markers do most of the orientation work.
+
+## 8. Spatial Model
+
+- Space type: flat
+- Camera behavior: fixed
+- Depth cues: scale
+- HUD layering: overlay
+- Render tier: dom
+- Primary depth cue in capture: none
+
+## 9. Participation & State
+
+- Participation mode: browse
+- Persistence: session
+- Inputs to preserve: scroll, tap, filter, type
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: medium
+- Required APIs: none
+- Must-have mechanics:
+  - Treat filters and tags as navigation, not as a cosmetic afterthought.
+  - Preserve provenance, numbering, captions, and object metadata.
+  - Density is acceptable if the hierarchy stays calm.
+  - The capture suggests anchored framing or sticky context; preserve that orientation device in the rebuild.
+- Nice-to-have embellishments:
+  - tags include typography
+  - description mentions search
+  - sticky layout
+- Mobile fallback: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
+- Fallback path: reduced-motion
+- Manual validation:
+  - Users can recover their place in the index after opening detail.
+  - Filter state is legible and persistent.
+  - Mobile keeps archive logic without collapsing into generic cards.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use CookieRound consistently for headlines and interface labels.
 - Keep the palette anchored to #f8f8f8, #636162, and #9c9b9b.
 - Preserve the experimental posture signaled by the loadmo.re tags: typography.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Source Type. Keep the palette centered on #f8f8f8, #636162, and #9c9b9b. Use CookieRound for headlines, preserve the type-led composition mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Luxury Archive page with a secondary cue from Playable Poster using the Editorial Archive Index interaction model. Keep CookieRound as the voice anchor, preserve the palette around #f8f8f8, #636162, #9c9b9b, drive the page through scroll, tap, filter, type, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/source-type)
 - Live site: https://www.sourcetype.com/
 - Credits: Laurenz Brunner Ben Schwartz
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

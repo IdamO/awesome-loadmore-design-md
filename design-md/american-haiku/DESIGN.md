@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: fixed/sticky framing
 - Mobile posture: sticky, app-like chrome
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Fan Shrine - tags include portfolio; archetype affinity: portfolio artifact
+- Secondary: Luxury Archive - archetype affinity: portfolio artifact
+
+### Interaction Archetype
+- Archetype: Portfolio Artifact (76% confidence)
+- Why: tags include portfolio
+- Core verbs: read, browse, contact
+- Inputs: scroll, tap
+
+## 3. Color Palette & Roles
 
 - Color 1: #010101 - canvas / dominant background
 - Color 2: #262626 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #969696 - supporting surface or hover state
 - Color 8: #d2d2d2 - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: Neureal Mono
@@ -34,62 +46,112 @@ Key Characteristics:
 - Body sample: 18px / weight 400 / line-height 20px
 - Button sample: 14px / weight 400
 
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(255, 255, 255) text.
-- Links inherit rgb(255, 255, 255) as the interaction signal.
-- Border radius trends: 0px.
-- Shadow language: none.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps Neureal Mono in control.
-
 ## 5. Layout Principles
 
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#010101) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (portfolio, video) imply the site is intentionally non-generic.
+- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(255, 255, 255) text, and links inherit rgb(255, 255, 255) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: none.
-- Radius cue: square corners dominate.
-- Contrast cue: light text on dark surfaces with accent interruptions.
+- Primary model: portfolio_artifact
+- Navigation structure: linear / wayfinding ambient / friction low
+- Navigation model: The author voice or project sequence leads; navigation stays secondary and quiet.
+- State model: Arrival -> authored sequence of text, image, or projects -> contact or archive state.
+- Must-keep mechanic: Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: low
+- Cadence: event-driven
+- Triggers: scroll, pointer
+- Transition types: fade, crop-shift
+- Physics level: none
+- Motion recipe:
+  - Use restrained reveals and occasional viewpoint shifts.
+  - Let typography and image sequencing do more work than animation.
+  - Use one irrational but coherent move to keep the page from feeling templated.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: scale, occlusion
+- HUD layering: none
+- Render tier: dom
+- Primary depth cue in capture: none
+
+## 9. Participation & State
+
+- Participation mode: browse
+- Persistence: none
+- Inputs to preserve: scroll, tap
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: low
+- Required APIs: none
+- Must-have mechanics:
+  - Keep one strong authorial decision intact across breakpoints.
+  - Use type, pacing, and framing as the identity before relying on motion.
+  - If the site feels like a normal portfolio shell, push one layer further.
+  - The capture suggests anchored framing or sticky context; preserve that orientation device in the rebuild.
+- Nice-to-have embellishments:
+  - tags include portfolio
+- Mobile fallback: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
+- Fallback path: single-column, reduced-motion
+- Manual validation:
+  - The author voice is visible within three seconds.
+  - Projects or writing feel sequenced, not dumped into a grid.
+  - Mobile preserves the same voice without literal layout copying.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use Neureal Mono consistently for headlines and interface labels.
 - Keep the palette anchored to #010101, #262626, and #373737.
 - Preserve the experimental posture signaled by the loadmo.re tags: portfolio, video.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by American Haiku. Keep the palette centered on #010101, #262626, and #373737. Use Neureal Mono for headlines, preserve the experimental mobile-first composition mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Portfolio Artifact interaction model. Keep Neureal Mono as the voice anchor, preserve the palette around #010101, #262626, #373737, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/american-haiku)
 - Live site: https://americanhaiku.xyz
 - Credits: not listed
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

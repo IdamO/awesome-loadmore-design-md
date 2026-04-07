@@ -7,6 +7,8 @@ Use it when you are not trying to recreate a single reference, but to synthesize
 ## Start here
 
 - `scene-kit.md` — the top-level philosophy and assembly logic
+- `interaction-archetypes.md` — reusable implementation-grade mechanics
+- `validation-rubric.md` — the manual QA sequence for interaction-heavy references
 - `world-systems.md` — six visual worlds to build from
 - `motion-grammar.md` — how motion should behave, not just how it should look
 - `type-systems.md` — type roles, foundries, and pairings

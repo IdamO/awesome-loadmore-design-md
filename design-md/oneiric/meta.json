@@ -1103,5 +1103,150 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "score": 6,
+        "reason": "tags include online-magazine; archetype affinity: spatial exhibition world"
+      },
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "score": 1,
+        "reason": "tags include 3d-space"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "spatial_exhibition_world",
+        "name": "Spatial Exhibition World",
+        "confidence": 0.85,
+        "reason": "tags include 3d-space; description mentions 3d; sticky stage; sticky layout",
+        "refs": [
+          "art-code8",
+          "bids-for-survival",
+          "holodec-world",
+          "sacred-display"
+        ]
+      },
+      "interactionModel": "Camera-led exploration through a scene; hotspots reveal detail panes, routes, or chapters.",
+      "navigationModel": "Users move through viewpoints or object clusters; each hotspot opens structured detail instead of a modal pileup.",
+      "stateModel": "Idle scene -> hover/focus target -> selected object or viewpoint -> detail overlay -> return to scene.",
+      "inputModes": [
+        "scroll",
+        "drag",
+        "tap",
+        "hover"
+      ],
+      "engineHints": [
+        "Start with CSS 3D transforms for shallow shelf or stage depth; move to React Three Fiber only when objects need free rotation, lighting, or true spatial navigation.",
+        "Keep labels, captions, and calls to action in HTML overlays so they stay readable and indexable.",
+        "Use post-processing and parallax sparingly; the scene should clarify hierarchy, not become a demo reel."
+      ],
+      "motionRecipe": [
+        "Use slow camera drift or object breathing at rest.",
+        "Use hover parallax or focus lift to signal selectable objects.",
+        "Use fly-to or snap-to transitions between chapters instead of free-floating chaos."
+      ],
+      "mobileFallback": "Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.",
+      "implementationNotes": [
+        "Keep the camera shallow and legible; users should understand where they are after every move.",
+        "Use one authoritative detail layer so the 3D scene does not also carry dense copy.",
+        "Treat loading, texture size, and mobile fallback as product features, not cleanup.",
+        "The capture suggests anchored framing or sticky context; preserve that orientation device in the rebuild."
+      ],
+      "antiPatterns": [
+        "Do not hide critical navigation inside the 3D scene only.",
+        "Do not force full free-camera navigation on mobile.",
+        "Do not add dramatic lighting if the content wants editorial restraint."
+      ],
+      "validationChecklist": [
+        "Camera or viewpoint changes preserve orientation.",
+        "Hotspots open clear detail states instead of ambiguous overlays.",
+        "Mobile uses guided viewpoints rather than broken free-camera controls."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "tags include 3d-space",
+        "description mentions 3d",
+        "sticky stage",
+        "sticky layout"
+      ],
+      "schema": {
+        "interactionModelId": "spatial_exhibition_world",
+        "coreVerbs": [
+          "explore",
+          "focus",
+          "open"
+        ],
+        "inputs": [
+          "scroll",
+          "drag",
+          "tap",
+          "hover"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "ambient",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "ambient",
+          "triggers": [
+            "pointer",
+            "time"
+          ],
+          "transitions": [
+            "camera-travel",
+            "fade",
+            "focus-lift"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "3d-world",
+          "camera": "rail",
+          "depthCues": [
+            "perspective",
+            "occlusion",
+            "lighting"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "explore",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "webgl",
+          "complexity": "high",
+          "requiredApis": [
+            "webgl"
+          ],
+          "fallbacks": [
+            "guided-tour",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Luxury Archive page with a secondary cue from Club Instrument using the Spatial Exhibition World interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #111010, #5f5e5b, #5e5428, drive the page through scroll, drag, tap, hover, and implement the mobile fallback as: Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.",
+    "summary": "Luxury Archive + Spatial Exhibition World. Camera-led exploration through a scene; hotspots reveal detail panes, routes, or chapters."
   }
 }

@@ -1,8 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "coreRule": "Standardize behavior, vary worlds aggressively.",
   "startHere": [
     "playbooks/scene-kit.md",
+    "playbooks/interaction-archetypes.md",
+    "playbooks/validation-rubric.md",
     "playbooks/world-systems.md",
     "playbooks/motion-grammar.md",
     "playbooks/type-systems.md",
@@ -253,6 +255,511 @@
       "promptSeed": "Make buying feel like collecting a relic from a scene."
     }
   ],
+  "archetypes": [
+    {
+      "id": "club_instrument",
+      "name": "Club Instrument",
+      "useWhen": "music-tech, artist tools, audio-led launches",
+      "interactionModel": "Single hero stage plus reactive controls; user input changes sound or system state immediately; the interface should feel like an instrument, not a dashboard.",
+      "engineHints": [
+        "Use React or plain DOM for interface chrome, then add motion/react for low-latency control feedback.",
+        "Use Tone.js or Web Audio only after explicit user intent; mirror every sonic event with a visual state change.",
+        "Use Canvas or lightweight WebGL only for meters, glow, or waveform layers, not for the whole UI."
+      ],
+      "motionRecipe": [
+        "Keep one ambient pulse running behind the page.",
+        "Tie meter fills, glows, or counters to direct user input.",
+        "Use press feedback that resolves in under 180ms."
+      ],
+      "mobileFallback": "Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.",
+      "navigationModel": "The hero stage is primary; secondary controls tune the same live system instead of opening unrelated sections.",
+      "stateModel": "Idle pulse -> active press/gesture -> audible or visual response -> decay/settle.",
+      "defaultInputs": [
+        "tap",
+        "drag",
+        "press"
+      ],
+      "implementationNotes": [
+        "Keep latency visibly and audibly tight; delayed response kills the instrument illusion.",
+        "Treat meters, counters, or glows as live telemetry, not decoration.",
+        "Gate autoplay and heavy audio initialization until the first explicit gesture."
+      ],
+      "antiPatterns": [
+        "Do not turn the page into a fake DAW with tiny unreadable knobs.",
+        "Do not separate the sound event from the visual event.",
+        "Do not hide the primary interaction below the fold."
+      ],
+      "validationChecklist": [
+        "Gesture-to-sound response feels immediate after user intent.",
+        "The main control loop is readable in one glance.",
+        "Mobile keeps one clear control path rather than shrinking every panel."
+      ],
+      "validationPriority": "high",
+      "refs": [
+        "jazz-keys",
+        "blob-opera",
+        "holodec-world",
+        "desktop-fm"
+      ]
+    },
+    {
+      "id": "scroll_scrub_instrument",
+      "name": "Scroll Scrub Instrument",
+      "useWhen": "editorial demos where scrolling itself should produce media interaction",
+      "interactionModel": "Map scroll position to notes, frames, or parameter changes so the page behaves like a score or sequencer.",
+      "engineHints": [
+        "Use GSAP ScrollTrigger or motion/react scroll values to map scroll position to discrete states.",
+        "Keep the media side effect opt-in and lightweight on mobile.",
+        "Use SVG or DOM overlays to show the scrub position clearly."
+      ],
+      "motionRecipe": [
+        "Tie transforms directly to scrub progress instead of free-running timelines.",
+        "Use section snap or chapter markers to help users re-find the melody or state.",
+        "Keep auxiliary motion secondary to the scrub itself."
+      ],
+      "mobileFallback": "Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.",
+      "navigationModel": "Scroll is the transport; sections behave like tracks or cues.",
+      "stateModel": "Scroll offset -> note or frame change -> visible indicator -> optional audio decay.",
+      "defaultInputs": [
+        "scroll",
+        "tap"
+      ],
+      "implementationNotes": [
+        "Keep the mapping between scroll distance and output legible; hidden ratios feel broken.",
+        "Provide re-entry points so users can replay the interaction without hunting.",
+        "On mobile, reduce precision requirements and preserve the idea rather than the literal desktop mechanic."
+      ],
+      "antiPatterns": [
+        "Do not bury the scrub mechanism inside a normal content page.",
+        "Do not use heavy inertia that makes the scroll-to-state mapping feel mushy.",
+        "Do not enable surprise audio before user intent."
+      ],
+      "validationChecklist": [
+        "Scroll position clearly maps to a note, frame, or state change.",
+        "Replay and return paths are obvious.",
+        "Mobile keeps the same concept without precision overload."
+      ],
+      "validationPriority": "high",
+      "refs": [
+        "amanda-yeah-piano-scrollbar-piano",
+        "jazz-keys",
+        "the-road"
+      ]
+    },
+    {
+      "id": "spatial_exhibition_world",
+      "name": "Spatial Exhibition World",
+      "useWhen": "3D archives, digital exhibitions, worldbuilding, product storytelling with spatial stakes",
+      "interactionModel": "Camera-led exploration through a scene; hotspots reveal detail panes, routes, or chapters.",
+      "engineHints": [
+        "Start with CSS 3D transforms for shallow shelf or stage depth; move to React Three Fiber only when objects need free rotation, lighting, or true spatial navigation.",
+        "Keep labels, captions, and calls to action in HTML overlays so they stay readable and indexable.",
+        "Use post-processing and parallax sparingly; the scene should clarify hierarchy, not become a demo reel."
+      ],
+      "motionRecipe": [
+        "Use slow camera drift or object breathing at rest.",
+        "Use hover parallax or focus lift to signal selectable objects.",
+        "Use fly-to or snap-to transitions between chapters instead of free-floating chaos."
+      ],
+      "mobileFallback": "Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.",
+      "navigationModel": "Users move through viewpoints or object clusters; each hotspot opens structured detail instead of a modal pileup.",
+      "stateModel": "Idle scene -> hover/focus target -> selected object or viewpoint -> detail overlay -> return to scene.",
+      "defaultInputs": [
+        "scroll",
+        "drag",
+        "tap",
+        "hover"
+      ],
+      "implementationNotes": [
+        "Keep the camera shallow and legible; users should understand where they are after every move.",
+        "Use one authoritative detail layer so the 3D scene does not also carry dense copy.",
+        "Treat loading, texture size, and mobile fallback as product features, not cleanup."
+      ],
+      "antiPatterns": [
+        "Do not hide critical navigation inside the 3D scene only.",
+        "Do not force full free-camera navigation on mobile.",
+        "Do not add dramatic lighting if the content wants editorial restraint."
+      ],
+      "validationChecklist": [
+        "Camera or viewpoint changes preserve orientation.",
+        "Hotspots open clear detail states instead of ambiguous overlays.",
+        "Mobile uses guided viewpoints rather than broken free-camera controls."
+      ],
+      "validationPriority": "high",
+      "refs": [
+        "art-code8",
+        "bids-for-survival",
+        "holodec-world",
+        "sacred-display"
+      ]
+    },
+    {
+      "id": "playable_poster",
+      "name": "Playable Poster",
+      "useWhen": "campaigns, drops, type-led launches, event pages",
+      "interactionModel": "One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort.",
+      "engineHints": [
+        "Use motion/react or GSAP for bold but finite timelines.",
+        "Use SVG path animation and variable font APIs for draw-on or type-shift moments.",
+        "Keep the DOM shallow; the composition should feel authored, not modular."
+      ],
+      "motionRecipe": [
+        "Lead with one ceremonial entrance.",
+        "Use oversized type or graphic elements as moving actors, not background garnish.",
+        "Keep only one hero gesture alive on mobile."
+      ],
+      "mobileFallback": "Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.",
+      "navigationModel": "The page behaves like one campaign object or a short sequence of staged frames.",
+      "stateModel": "Poster at rest -> big reveal -> one interactive transformation -> rest or reset.",
+      "defaultInputs": [
+        "scroll",
+        "tap",
+        "hover"
+      ],
+      "implementationNotes": [
+        "Use scale, typography, and dead space aggressively; do not fill every region with content.",
+        "Keep the interaction count low and the conviction high.",
+        "If a visual move is the identity, it should land before the user sees the CTA."
+      ],
+      "antiPatterns": [
+        "Do not let the page collapse into a static poster with a button pasted on it.",
+        "Do not attach random microinteractions to every element.",
+        "Do not keep a desktop-only hover trick as the main story."
+      ],
+      "validationChecklist": [
+        "The hero gesture is obvious in under three seconds.",
+        "Desktop and mobile preserve the same campaign idea with different staging.",
+        "Typography remains part of the interaction system."
+      ],
+      "validationPriority": "medium",
+      "refs": [
+        "design-your-own-hole",
+        "gt-flexa",
+        "smc-real-time",
+        "dinamo-typefaces"
+      ]
+    },
+    {
+      "id": "editorial_archive_index",
+      "name": "Editorial Archive Index",
+      "useWhen": "publishing, curatorial tools, searchable collections, index-first sites",
+      "interactionModel": "The index is the primary surface; filters, tags, and anchors drive navigation; detail emerges inline or in a sidecar.",
+      "engineHints": [
+        "Use server-rendered HTML or React with fast client-side filtering.",
+        "Use sticky rails, filter chips, and FLIP-style list-to-detail transitions.",
+        "Treat metadata hierarchy as part of the interface, not supporting text."
+      ],
+      "motionRecipe": [
+        "Use restrained fades and crop shifts rather than theatrical transitions.",
+        "Preserve list context when opening detail views.",
+        "Let sticky headers and current-section markers do most of the orientation work."
+      ],
+      "mobileFallback": "Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.",
+      "navigationModel": "Index first, then detail; users should always know how to get back to the collection view.",
+      "stateModel": "Browse/filter -> hover or focus item -> inline or sidecar detail -> return to index context.",
+      "defaultInputs": [
+        "scroll",
+        "tap",
+        "filter"
+      ],
+      "implementationNotes": [
+        "Treat filters and tags as navigation, not as a cosmetic afterthought.",
+        "Preserve provenance, numbering, captions, and object metadata.",
+        "Density is acceptable if the hierarchy stays calm."
+      ],
+      "antiPatterns": [
+        "Do not hide the index under a cinematic hero.",
+        "Do not break back navigation when opening detail states.",
+        "Do not turn archive metadata into tiny unreadable footnotes."
+      ],
+      "validationChecklist": [
+        "Users can recover their place in the index after opening detail.",
+        "Filter state is legible and persistent.",
+        "Mobile keeps archive logic without collapsing into generic cards."
+      ],
+      "validationPriority": "medium",
+      "refs": [
+        "developments",
+        "and-shy-magazine",
+        "swiss-design-awards-2020",
+        "public-image"
+      ]
+    },
+    {
+      "id": "toy_loop_microgame",
+      "name": "Toy Loop Microgame",
+      "useWhen": "playful discovery, onboarding, campaign hooks, interaction-first art pieces",
+      "interactionModel": "One simple rule, immediate feedback, short mastery loop, replayable in under a minute.",
+      "engineHints": [
+        "Use Canvas or DOM plus Matter.js only when physics is the core joke or toy mechanic.",
+        "Use a tight game loop and extremely obvious hit areas.",
+        "Use light audio cues or haptics after intent to reinforce the loop."
+      ],
+      "motionRecipe": [
+        "Prefer instant response plus elastic decay.",
+        "Show state pops or score pops clearly.",
+        "Make reset or replay feel ceremonial enough that users want another round."
+      ],
+      "mobileFallback": "Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.",
+      "navigationModel": "The loop is the page; everything else supports replay or escalation.",
+      "stateModel": "Instruction or teaser -> play loop -> reward or reveal -> reset.",
+      "defaultInputs": [
+        "tap",
+        "drag"
+      ],
+      "implementationNotes": [
+        "Explain the rule through interaction, not a paragraph.",
+        "Keep the mastery loop short and replayable.",
+        "If the toy is the hook, let it start above the fold."
+      ],
+      "antiPatterns": [
+        "Do not add unrelated content sections that dilute the loop.",
+        "Do not make users precision-drag tiny targets on mobile.",
+        "Do not hide the reset or replay mechanic."
+      ],
+      "validationChecklist": [
+        "The rule is clear after one attempt.",
+        "The loop completes quickly and invites replay.",
+        "Mobile keeps the same toy, not a broken imitation of desktop controls."
+      ],
+      "validationPriority": "high",
+      "refs": [
+        "labyrinth",
+        "smack-dat-ass",
+        "world-two",
+        "cloudwatching"
+      ]
+    },
+    {
+      "id": "desktop_shell_world",
+      "name": "Desktop Shell World",
+      "useWhen": "weird default interfaces, retro portals, collectible navigation, community worlds",
+      "interactionModel": "Navigation happens through windows, icons, folders, panels, or desktop objects; the chrome is part of the fiction.",
+      "engineHints": [
+        "Use DOM windows with a z-index manager instead of drawing the entire system into canvas.",
+        "Constrain drag, persist window state locally when useful, and keep focus handling accessible.",
+        "Use sprite, bitmap, or icon assets to carry the fiction without sacrificing text clarity."
+      ],
+      "motionRecipe": [
+        "Use window open and close snaps.",
+        "Use drag inertia sparingly and focus elevation clearly.",
+        "Use subtle CRT or idle ambient loops only as background texture."
+      ],
+      "mobileFallback": "Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.",
+      "navigationModel": "Users move between windows or objects instead of scrolling through one flat document.",
+      "stateModel": "Shell at rest -> open or focus window -> inspect content -> shuffle or close.",
+      "defaultInputs": [
+        "drag",
+        "tap",
+        "click"
+      ],
+      "implementationNotes": [
+        "Make z-order, focus, and close states unambiguous.",
+        "Keep the fiction warm and usable, not ironic.",
+        "Use persistence selectively so revisits feel lived-in."
+      ],
+      "antiPatterns": [
+        "Do not make every window draggable on mobile.",
+        "Do not bury the content under chrome for the sake of the joke.",
+        "Do not simulate an entire OS when only a window metaphor is needed."
+      ],
+      "validationChecklist": [
+        "Opening and focusing windows is intuitive.",
+        "Desktop chrome supports the content instead of obscuring it.",
+        "Mobile keeps the fiction without impossible drag behavior."
+      ],
+      "validationPriority": "high",
+      "refs": [
+        "orb-farm",
+        "simone-s-computer",
+        "poolside-fm",
+        "communal-radio-club"
+      ]
+    },
+    {
+      "id": "retro_tool_emulator",
+      "name": "Retro Tool Emulator",
+      "useWhen": "fake utilities, generative toys, nostalgia-as-product, creator tools with strong personality",
+      "interactionModel": "The interface behaves like a remembered app: menus, presets, panels, export, and toy controls are the product.",
+      "engineHints": [
+        "Use plain DOM and CSS for chrome, Canvas or SVG for outputs, and a client-side export pipeline if the tool creates artifacts.",
+        "Use bitmap or low-fi fonts only where they support the illusion.",
+        "Make panel swapping and render feedback clearer than the ornament."
+      ],
+      "motionRecipe": [
+        "Keep animation minimal and rely on press states, panel swaps, menu drops, and render feedback.",
+        "Use progress or export states to sell the utility fiction.",
+        "Avoid floaty transitions; remembered apps feel decisive."
+      ],
+      "mobileFallback": "Turn dense panels into a one-tool-at-a-time inspector or wizard while preserving the visual chrome.",
+      "navigationModel": "The utility surface is primary; menus, presets, and output views are the main navigation.",
+      "stateModel": "Pick tool or preset -> adjust parameters -> render or export -> reset or save.",
+      "defaultInputs": [
+        "tap",
+        "drag",
+        "type"
+      ],
+      "implementationNotes": [
+        "Keep the tool affordances obvious enough that users can generate output immediately.",
+        "Export or save flow should feel like part of the charm, not plumbing.",
+        "Use nostalgia as structure, not as a skin pasted over generic controls."
+      ],
+      "antiPatterns": [
+        "Do not mimic a tool so literally that it becomes unusable.",
+        "Do not cram the desktop layout unchanged onto mobile.",
+        "Do not spend all the effort on chrome while the output feels generic."
+      ],
+      "validationChecklist": [
+        "The core generate or edit loop is obvious.",
+        "Preset, render, or export states read clearly.",
+        "Mobile isolates one tool region at a time."
+      ],
+      "validationPriority": "medium",
+      "refs": [
+        "make-word-art",
+        "orb-farm",
+        "paint-stx",
+        "mousing-around"
+      ]
+    },
+    {
+      "id": "collage_field",
+      "name": "Collage Field",
+      "useWhen": "net art, maximal hyperlink environments, nostalgia collages, layered campaign pages",
+      "interactionModel": "The page behaves like a field of scraps, hyperlinks, stickers, and media fragments; discovery comes from scanning and touching layers.",
+      "engineHints": [
+        "Use ordinary DOM layering first; only add Canvas or WebGL for background texture, not for the whole experience.",
+        "Use sprite or GIF assets as materials inside a disciplined z-order system.",
+        "Use hover swaps, link states, and offset scroll rather than overbuilt component abstractions."
+      ],
+      "motionRecipe": [
+        "Use layered reveals, jitter, and hover swaps selectively.",
+        "Let movement imply depth between scraps rather than simulating real 3D.",
+        "Keep one stable composition anchor so the field does not turn into noise."
+      ],
+      "mobileFallback": "Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.",
+      "navigationModel": "Users browse clusters or islands of content rather than a clean linear document.",
+      "stateModel": "Field at rest -> hover or focus cluster -> reveal linked artifact -> continue browsing.",
+      "defaultInputs": [
+        "scroll",
+        "hover",
+        "tap"
+      ],
+      "implementationNotes": [
+        "Keep one hierarchy anchor such as a headline, map, or rail so the collage stays legible.",
+        "Treat every scrap as part of one composition, not a random sticker dump.",
+        "Use link states and media swaps as the interaction language."
+      ],
+      "antiPatterns": [
+        "Do not let the collage become unreadable on small screens.",
+        "Do not animate every layer continuously.",
+        "Do not remove the hyperlink density that gives the field its energy."
+      ],
+      "validationChecklist": [
+        "One anchor element keeps the field navigable.",
+        "Linked scraps clearly advertise interaction.",
+        "Mobile preserves density through chapters instead of raw chaos."
+      ],
+      "validationPriority": "medium",
+      "refs": [
+        "camerons-world",
+        "hybrid-vigor",
+        "finger-walking",
+        "hallo-internet"
+      ]
+    },
+    {
+      "id": "portfolio_artifact",
+      "name": "Portfolio Artifact",
+      "useWhen": "personal sites, studios, artists, and authored portfolios that should feel like artifacts instead of templates",
+      "interactionModel": "Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object.",
+      "engineHints": [
+        "Use semantic HTML or React with strong layout composition; reach for motion only where it changes pacing.",
+        "Use sticky framing or asymmetric grids when they reinforce the author voice.",
+        "Keep navigation spare and let the work or writing lead."
+      ],
+      "motionRecipe": [
+        "Use restrained reveals and occasional viewpoint shifts.",
+        "Let typography and image sequencing do more work than animation.",
+        "Use one irrational but coherent move to keep the page from feeling templated."
+      ],
+      "mobileFallback": "Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+      "navigationModel": "The author voice or project sequence leads; navigation stays secondary and quiet.",
+      "stateModel": "Arrival -> authored sequence of text, image, or projects -> contact or archive state.",
+      "defaultInputs": [
+        "scroll",
+        "tap"
+      ],
+      "implementationNotes": [
+        "Keep one strong authorial decision intact across breakpoints.",
+        "Use type, pacing, and framing as the identity before relying on motion.",
+        "If the site feels like a normal portfolio shell, push one layer further."
+      ],
+      "antiPatterns": [
+        "Do not genericize the layout into a startup case-study template.",
+        "Do not overbuild components where one-off composition is the point.",
+        "Do not erase eccentricity in the mobile layout."
+      ],
+      "validationChecklist": [
+        "The author voice is visible within three seconds.",
+        "Projects or writing feel sequenced, not dumped into a grid.",
+        "Mobile preserves the same voice without literal layout copying."
+      ],
+      "validationPriority": "low",
+      "refs": [
+        "cyanbanister",
+        "harley-weir",
+        "developments",
+        "infringe"
+      ]
+    },
+    {
+      "id": "commerce_shrine_stage",
+      "name": "Commerce Shrine Stage",
+      "useWhen": "drops, fashion commerce, merch worlds, edition-led product storytelling",
+      "interactionModel": "Objects are treated like collectibles or relics; product rails, badges, and states carry as much narrative weight as the checkout.",
+      "engineHints": [
+        "Use server-rendered product data or commerce primitives under heavily authored cards and rails.",
+        "Keep product metadata, release status, and edition cues visible in the browsing view.",
+        "Use hover or selection states to deepen object presence before checkout."
+      ],
+      "motionRecipe": [
+        "Use hover lift, collectible flips, and ambient drift around featured objects.",
+        "Keep cart or checkout transitions legible and calm.",
+        "Treat release counters and stock states like part of the scene."
+      ],
+      "mobileFallback": "Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.",
+      "navigationModel": "Browse objects first, then enter detail or purchase state without losing the collection context.",
+      "stateModel": "Collection browse -> featured object focus -> detail/purchase -> return to collection.",
+      "defaultInputs": [
+        "scroll",
+        "tap",
+        "hover"
+      ],
+      "implementationNotes": [
+        "Preserve collection logic in the browse state so the page feels like a shrine, not a commodity grid.",
+        "Use release, edition, or provenance metadata as part of the emotional pitch.",
+        "Make cart and checkout states calmer than the browsing world."
+      ],
+      "antiPatterns": [
+        "Do not flatten the page into a normal storefront once products appear.",
+        "Do not hide pricing or size details until too late.",
+        "Do not let the shrine fiction block purchase clarity."
+      ],
+      "validationChecklist": [
+        "Product browse feels collectible before it feels transactional.",
+        "Release or edition state is visible in the browse view.",
+        "Mobile keeps the collection context while making checkout simpler."
+      ],
+      "validationPriority": "medium",
+      "refs": [
+        "online-ceramics",
+        "issued-by-bottega",
+        "martine-rose",
+        "country-music"
+      ]
+    }
+  ],
   "motionRoles": [
     {
       "name": "ambient",
@@ -330,9 +837,17 @@
       "animate selectively"
     ]
   },
+  "validationRubric": [
+    "Classify whether the entry is live, mixed, or archival before trusting interaction details.",
+    "Pick one dominant world system and one dominant interaction archetype before composing.",
+    "Write down the primary inputs, state changes, and mobile fallback before building.",
+    "Verify that motion explains orientation or input, not just atmosphere.",
+    "If the source is archival or visually sparse, rebuild mechanics from description plus archetype instead of copying blindly."
+  ],
   "shippingTest": [
     "The page reads as a specific world in three seconds.",
     "Motion feels structural, not attached at the end.",
-    "The design would not be mistaken for default B2B SaaS."
+    "The design would not be mistaken for default B2B SaaS.",
+    "The interaction model is obvious enough that another agent can implement it without guessing."
   ]
 }

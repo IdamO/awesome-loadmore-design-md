@@ -578,5 +578,141 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "cozy-desktop",
+        "name": "Cozy Desktop",
+        "score": 5,
+        "reason": "tags include default-aesthetics; tags include portfolio"
+      },
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "score": 3,
+        "reason": "tags include minimal; archetype affinity: portfolio artifact"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "portfolio_artifact",
+        "name": "Portfolio Artifact",
+        "confidence": 0.68,
+        "reason": "tags include portfolio; tags include minimal",
+        "refs": [
+          "cyanbanister",
+          "harley-weir",
+          "developments",
+          "infringe"
+        ]
+      },
+      "interactionModel": "Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object.",
+      "navigationModel": "The author voice or project sequence leads; navigation stays secondary and quiet.",
+      "stateModel": "Arrival -> authored sequence of text, image, or projects -> contact or archive state.",
+      "inputModes": [
+        "scroll",
+        "tap"
+      ],
+      "engineHints": [
+        "Use semantic HTML or React with strong layout composition; reach for motion only where it changes pacing.",
+        "Use sticky framing or asymmetric grids when they reinforce the author voice.",
+        "Keep navigation spare and let the work or writing lead."
+      ],
+      "motionRecipe": [
+        "Use restrained reveals and occasional viewpoint shifts.",
+        "Let typography and image sequencing do more work than animation.",
+        "Use one irrational but coherent move to keep the page from feeling templated."
+      ],
+      "mobileFallback": "Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+      "implementationNotes": [
+        "Keep one strong authorial decision intact across breakpoints.",
+        "Use type, pacing, and framing as the identity before relying on motion.",
+        "If the site feels like a normal portfolio shell, push one layer further."
+      ],
+      "antiPatterns": [
+        "Do not genericize the layout into a startup case-study template.",
+        "Do not overbuild components where one-off composition is the point.",
+        "Do not erase eccentricity in the mobile layout."
+      ],
+      "validationChecklist": [
+        "The author voice is visible within three seconds.",
+        "Projects or writing feel sequenced, not dumped into a grid.",
+        "Mobile preserves the same voice without literal layout copying."
+      ],
+      "validationPriority": "low",
+      "evidence": [
+        "tags include portfolio",
+        "tags include minimal"
+      ],
+      "schema": {
+        "interactionModelId": "portfolio_artifact",
+        "coreVerbs": [
+          "read",
+          "browse",
+          "contact"
+        ],
+        "inputs": [
+          "scroll",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "linear",
+          "wayfinding": "ambient",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "event-driven",
+          "triggers": [
+            "scroll",
+            "pointer"
+          ],
+          "transitions": [
+            "fade",
+            "crop-shift"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "flat",
+          "camera": "fixed",
+          "depthCues": [
+            "scale"
+          ],
+          "hud": "none"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "none"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [
+            "default-html",
+            "desktop-ui"
+          ],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "low",
+          "requiredApis": [],
+          "fallbacks": [
+            "single-column",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Cozy Desktop page with a secondary cue from Luxury Archive using the Portfolio Artifact interaction model. Keep TimesNewArial as the voice anchor, preserve the palette around #fefefe, #e9e9e9, #d7d6e9, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.",
+    "summary": "Cozy Desktop + Portfolio Artifact. Asymmetrical document flow, authored modules, and selective reveals make the portfolio itself feel like a designed object."
   }
 }

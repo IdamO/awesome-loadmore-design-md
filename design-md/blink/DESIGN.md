@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Playable Poster - description mentions reveal; archetype affinity: playable poster
+- Secondary: Collage Core - archetype affinity: playable poster
+
+### Interaction Archetype
+- Archetype: Playable Poster (55% confidence)
+- Why: description mentions reveal
+- Core verbs: reveal, distort, stage
+- Inputs: scroll, tap, hover
+
+## 3. Color Palette & Roles
 
 - Color 1: #151515 - canvas / dominant background
 - Color 2: #646159 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #413e3a - supporting surface or hover state
 - Color 8: #c2bbab - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: ABCOracle
@@ -35,62 +47,111 @@ Key Characteristics:
 - Body sample: 40px / weight 700 / line-height 40px
 - Button sample: 16px / weight 700
 
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(240, 231, 211) text.
-- Links inherit rgb(240, 231, 211) as the interaction signal.
-- Border radius trends: 20px.
-- Shadow language: none.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps ABCOracle in control.
-
 ## 5. Layout Principles
 
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#151515) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (participative) imply the site is intentionally non-generic.
+- Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(240, 231, 211) text, and links inherit rgb(240, 231, 211) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: none.
-- Radius cue: 20px.
-- Contrast cue: light text on dark surfaces with accent interruptions.
+- Primary model: playable_poster
+- Navigation structure: single-scene / wayfinding explicit / friction low
+- Navigation model: The page behaves like one campaign object or a short sequence of staged frames.
+- State model: Poster at rest -> big reveal -> one interactive transformation -> rest or reset.
+- Must-keep mechanic: One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: high
+- Cadence: event-driven
+- Triggers: pointer, time, scroll
+- Transition types: morph, draw-on, shuffle
+- Physics level: light
+- Motion recipe:
+  - Lead with one ceremonial entrance.
+  - Use oversized type or graphic elements as moving actors, not background garnish.
+  - Keep only one hero gesture alive on mobile.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: scale, occlusion
+- HUD layering: overlay
+- Render tier: dom
+- Primary depth cue in capture: none
+
+## 9. Participation & State
+
+- Participation mode: play
+- Persistence: ephemeral
+- Inputs to preserve: scroll, tap, hover
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: none
+
+## 11. Implementation Checklist
+
+- Complexity: medium
+- Required APIs: none
+- Must-have mechanics:
+  - Use scale, typography, and dead space aggressively; do not fill every region with content.
+  - Keep the interaction count low and the conviction high.
+  - If a visual move is the identity, it should land before the user sees the CTA.
+- Nice-to-have embellishments:
+  - description mentions reveal
+- Mobile fallback: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
+- Fallback path: reduced-motion, static-poster
+- Manual validation:
+  - The hero gesture is obvious in under three seconds.
+  - Desktop and mobile preserve the same campaign idea with different staging.
+  - Typography remains part of the interaction system.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use ABCOracle consistently for headlines and interface labels.
 - Keep the palette anchored to #151515, #646159, and #a09b8e.
 - Preserve the experimental posture signaled by the loadmo.re tags: participative.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Blink. Keep the palette centered on #151515, #646159, and #a09b8e. Use ABCOracle for headlines, preserve the experimental mobile-first composition mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Playable Poster page with a secondary cue from Collage Core using the Playable Poster interaction model. Keep ABCOracle as the voice anchor, preserve the palette around #151515, #646159, #a09b8e, drive the page through scroll, tap, hover, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/blink)
 - Live site: https://blink-uncommonpractice.vercel.app/m/S0lgAO6SDh
 - Credits: Uncommon PracticeArtem LyustikThomas Byttebier
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used

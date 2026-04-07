@@ -3438,5 +3438,133 @@
       },
       "screenshot": "screenshots/mobile.jpg"
     }
+  },
+  "designGuidance": {
+    "captureMode": "live",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "score": 7,
+        "reason": "tags include online-magazine; archetype affinity: editorial archive index"
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "editorial_archive_index",
+        "name": "Editorial Archive Index",
+        "confidence": 0.78,
+        "reason": "tags include online-magazine",
+        "refs": [
+          "developments",
+          "and-shy-magazine",
+          "swiss-design-awards-2020",
+          "public-image"
+        ]
+      },
+      "interactionModel": "The index is the primary surface; filters, tags, and anchors drive navigation; detail emerges inline or in a sidecar.",
+      "navigationModel": "Index first, then detail; users should always know how to get back to the collection view.",
+      "stateModel": "Browse/filter -> hover or focus item -> inline or sidecar detail -> return to index context.",
+      "inputModes": [
+        "scroll",
+        "tap",
+        "filter"
+      ],
+      "engineHints": [
+        "Use server-rendered HTML or React with fast client-side filtering.",
+        "Use sticky rails, filter chips, and FLIP-style list-to-detail transitions.",
+        "Treat metadata hierarchy as part of the interface, not supporting text."
+      ],
+      "motionRecipe": [
+        "Use restrained fades and crop shifts rather than theatrical transitions.",
+        "Preserve list context when opening detail views.",
+        "Let sticky headers and current-section markers do most of the orientation work."
+      ],
+      "mobileFallback": "Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.",
+      "implementationNotes": [
+        "Treat filters and tags as navigation, not as a cosmetic afterthought.",
+        "Preserve provenance, numbering, captions, and object metadata.",
+        "Density is acceptable if the hierarchy stays calm."
+      ],
+      "antiPatterns": [
+        "Do not hide the index under a cinematic hero.",
+        "Do not break back navigation when opening detail states.",
+        "Do not turn archive metadata into tiny unreadable footnotes."
+      ],
+      "validationChecklist": [
+        "Users can recover their place in the index after opening detail.",
+        "Filter state is legible and persistent.",
+        "Mobile keeps archive logic without collapsing into generic cards."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "tags include online-magazine"
+      ],
+      "schema": {
+        "interactionModelId": "editorial_archive_index",
+        "coreVerbs": [
+          "browse",
+          "filter",
+          "open"
+        ],
+        "inputs": [
+          "scroll",
+          "tap",
+          "filter"
+        ],
+        "navigation": {
+          "structure": "hub",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer",
+            "scroll"
+          ],
+          "transitions": [
+            "fade",
+            "morph",
+            "crop-shift"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "flat",
+          "camera": "fixed",
+          "depthCues": [
+            "scale"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "session"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build this as a Luxury Archive page using the Editorial Archive Index interaction model. Keep EB Garamond as the voice anchor, preserve the palette around #faf7f3, #205ada, #a2a3a7, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.",
+    "summary": "Luxury Archive + Editorial Archive Index. The index is the primary surface; filters, tags, and anchors drive navigation; detail emerges inline or in a sidecar."
   }
 }

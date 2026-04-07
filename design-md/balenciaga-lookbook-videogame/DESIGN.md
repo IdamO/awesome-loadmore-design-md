@@ -13,7 +13,19 @@ Key Characteristics:
 - Desktop posture: flowing document rhythm
 - Mobile posture: single-column immersive scroll
 
-## 2. Color Palette & Roles
+## 2. World Systems & Archetype
+
+### World Systems
+- Primary: Fan Shrine - tags include fashion; description mentions collection
+- Secondary: Luxury Archive - tags include fashion; description mentions collection
+
+### Interaction Archetype
+- Archetype: Toy Loop Microgame (96% confidence)
+- Why: description mentions game; title mentions game
+- Core verbs: play, drag, reset
+- Inputs: tap, drag
+
+## 3. Color Palette & Roles
 
 - Color 1: #070313 - canvas / dominant background
 - Color 2: #5a5761 - primary text or opposing surface
@@ -24,7 +36,7 @@ Key Characteristics:
 - Color 7: #bebdc1 - supporting surface or hover state
 - Color 8: #7b7883 - supporting surface or hover state
 
-## 3. Typography Rules
+## 4. Typography Rules
 
 ### Font Families
 - Primary: UniversLTCYR-55Roman
@@ -33,23 +45,13 @@ Key Characteristics:
 - Support: MYingHeiPRC-W7
 - Support: TazuganeGothicStdN-Regular
 - Support: TazuganeGothicStdN-Bold
+- Support: YDGothic520
+- Support: YDGothic550
 
 ### Hierarchy Snapshot
 - Heading sample: n/a / weight n/a / letter-spacing normal
 - Body sample: 10px / weight 400 / line-height normal
 - Button sample: n/a / weight n/a
-
-## 4. Component Stylings
-
-### Web
-- Buttons tend toward transparent backgrounds with inherit text.
-- Links inherit rgb(0, 0, 0) as the interaction signal.
-- Border radius trends: 0px.
-- Shadow language: minimal / none detected.
-
-### Mobile
-- Mobile preserves the same palette while reducing surface area and increasing gesture weight.
-- Recreate the mobile feel with oversized tap targets, single-column pacing, and typography that keeps UniversLTCYR-55Roman in control.
 
 ## 5. Layout Principles
 
@@ -57,44 +59,106 @@ Key Characteristics:
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#070313) carry the atmosphere instead of layering multiple competing surfaces.
 - Preserve asymmetry when present - the archive tags (fashion, 3d) imply the site is intentionally non-generic.
+- Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
-## 6. Depth & Elevation
+## 6. Interaction Mechanics
 
-- Primary depth cue: flat surfaces / contrast-only separation.
-- Radius cue: 8px.
-- Contrast cue: light text on dark surfaces with accent interruptions.
+- Primary model: toy_loop_microgame
+- Navigation structure: single-scene / wayfinding explicit / friction medium
+- Navigation model: The loop is the page; everything else supports replay or escalation.
+- State model: Instruction or teaser -> play loop -> reward or reveal -> reset.
+- Must-keep mechanic: One simple rule, immediate feedback, short mastery loop, replayable in under a minute.
 
-## 7. Do's and Don'ts
+## 7. Motion System
+
+- Density: high
+- Cadence: continuous
+- Triggers: pointer, physics
+- Transition types: shuffle, pop, reset
+- Physics level: heavy
+- Motion recipe:
+  - Prefer instant response plus elastic decay.
+  - Show state pops or score pops clearly.
+  - Make reset or replay feel ceremonial enough that users want another round.
+
+## 8. Spatial Model
+
+- Space type: layered-2d
+- Camera behavior: fixed
+- Depth cues: scale, occlusion
+- HUD layering: overlay
+- Render tier: canvas2d
+- Primary depth cue in capture: flat surfaces / contrast-only separation
+
+## 9. Participation & State
+
+- Participation mode: play
+- Persistence: ephemeral
+- Inputs to preserve: tap, drag
+- Reset/save posture: Default to resettable, lightweight state changes.
+
+## 10. Sound & Sensor Behavior
+
+- Audio role: none
+- Audio triggers: none
+- Controls: none
+- Sync: none
+- Required APIs or platform hooks: canvas
+
+## 11. Implementation Checklist
+
+- Complexity: high
+- Required APIs: canvas
+- Must-have mechanics:
+  - Explain the rule through interaction, not a paragraph.
+  - Keep the mastery loop short and replayable.
+  - If the toy is the hook, let it start above the fold.
+- Nice-to-have embellishments:
+  - description mentions game
+  - title mentions game
+- Mobile fallback: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.
+- Fallback path: reduced-motion
+- Manual validation:
+  - The rule is clear after one attempt.
+  - The loop completes quickly and invites replay.
+  - Mobile keeps the same toy, not a broken imitation of desktop controls.
+
+## 12. Do's and Don'ts
 
 ### Do
 - Use UniversLTCYR-55Roman consistently for headlines and interface labels.
 - Keep the palette anchored to #070313, #5a5761, and #efefef.
 - Preserve the experimental posture signaled by the loadmo.re tags: fashion, 3d.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
+- Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
 ### Don't
 - Don't genericize the interface into a default SaaS landing page.
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
+- Don't ignore the mobile fallback just because the desktop interaction is more fun.
+- Don't copy screenshots literally when the repo only has archival capture evidence.
 
-## 8. Responsive Behavior
+## 13. Responsive Behavior
 
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
+- Implement mobile as: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
-## 9. Agent Prompt Guide
+## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build a responsive landing page inspired by Balenciaga Lookbook Videogame. Keep the palette centered on #070313, #5a5761, and #efefef. Use UniversLTCYR-55Roman for headlines, preserve the editorial fashion energy mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.
+> Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Toy Loop Microgame interaction model. Keep UniversLTCYR-55Roman as the voice anchor, preserve the palette around #070313, #5a5761, #efefef, drive the page through tap, drag, and implement the mobile fallback as: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.
 
-## 10. Source Capture & Validation
+## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/balenciaga-lookbook-videogame)
 - Live site: https://videogame.balenciaga.com/
 - Credits: not listed
+- Capture mode: live
 - Desktop capture: completed
 - Mobile capture: completed
 - Archival fallback: not used
