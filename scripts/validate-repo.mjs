@@ -12,7 +12,7 @@ const expected = [...loadmore.posts, ...(manual.sites || [])].filter((item) => i
 const failures = [];
 let withDesktop = 0;
 let withMobile = 0;
-let liveOk = 0;
+let liveOnly = 0;
 let fallbackUsed = 0;
 
 for (const item of expected) {
@@ -22,8 +22,8 @@ for (const item of expected) {
     failures.push(`${item.slug}: missing meta.json`);
     continue;
   }
-  if (meta.capture?.status === 'ok') liveOk += 1;
   if (meta.capture?.fallbackUsed) fallbackUsed += 1;
+  else if (meta.capture?.status === 'ok') liveOnly += 1;
   for (const file of ['DESIGN.md', 'README.md', 'preview.html', 'preview-dark.html']) {
     try {
       await fs.access(path.join(dir, file));
@@ -51,7 +51,7 @@ for (const item of expected) {
 
 const summary = {
   totalExpected: expected.length,
-  liveOk,
+  liveOnly,
   fallbackUsed,
   withDesktop,
   withMobile,
@@ -66,7 +66,7 @@ try {
   failures.push('root README.md missing');
 }
 
-for (const file of ['README.md', 'AGENTS.md', 'data/agent-index.json', 'collections/gen-z-pop.md', 'collections/music-tech.md', 'collections/fashion-culture.md', 'collections/culture-tech.md', 'collections/anti-b2b.md', 'collections/combo-recipes.md']) {
+for (const file of ['README.md', 'AGENTS.md', 'data/agent-index.json', 'data/design-os.json', 'collections/gen-z-pop.md', 'collections/music-tech.md', 'collections/fashion-culture.md', 'collections/culture-tech.md', 'collections/anti-b2b.md', 'collections/combo-recipes.md', 'playbooks/README.md', 'playbooks/scene-kit.md', 'playbooks/world-systems.md', 'playbooks/motion-grammar.md', 'playbooks/type-systems.md', 'playbooks/asset-forge.md', 'playbooks/component-philosophy.md', 'evals/README.md']) {
   try {
     await fs.access(path.join(ROOT, file));
   } catch {

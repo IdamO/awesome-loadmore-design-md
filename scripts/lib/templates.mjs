@@ -355,13 +355,32 @@ Every entry tries to complete the same checklist:
 If you are an AI coding agent, do not browse this repo manually folder by folder first. Start here:
 
 - \`AGENTS.md\` for the retrieval strategy
-- \`data/agent-index.json\` for machine-readable filtering and ranking
+- \`playbooks/scene-kit.md\` for the design philosophy layer
+- \`playbooks/world-systems.md\` to choose a world like Club Instrument, Luxury Archive, Collage Core, Cozy Desktop, Playable Poster, or Fan Shrine
+- \`playbooks/motion-grammar.md\` so motion acts like brand, not garnish
+- \`playbooks/type-systems.md\` for type-role decisions and foundry direction
+- \`playbooks/asset-forge.md\` to turn generated material into designed surfaces
+- \`playbooks/component-philosophy.md\` to separate behavior primitives from visual authorship
+- \`data/design-os.json\` for machine-readable world, motion, type, and asset guidance
+- \`data/agent-index.json\` for machine-readable filtering and ranking of source references
 - \`collections/gen-z-pop.md\` for loud internet-native references
 - \`collections/music-tech.md\` for rhythm, tools, and artist-facing surfaces
 - \`collections/fashion-culture.md\` for editorial and taste-led worlds
 - \`collections/culture-tech.md\` for publishing, archives, and curatorial products
 - \`collections/anti-b2b.md\` when enterprise defaults would flatten the idea
 - \`collections/combo-recipes.md\` for pre-mixed reference stacks that agents can recombine
+
+## Design OS
+
+This repo now includes a design operating system on top of the site archive:
+
+- stable behavior underneath, authored worlds on top
+- a world-system layer for metaphor and composition
+- a motion grammar layer for temporal identity
+- a type-system layer for voice and contrast
+- an asset-forge layer for scribbles, scans, stickers, chromes, and generated material
+
+If you are building net-new work, choose one dominant world from \`playbooks/world-systems.md\`, one secondary interaction cue, one typography authority cue, and one material pack.
 
 ## Collection
 

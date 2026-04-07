@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "coreRule": "Standardize behavior, vary worlds aggressively.",
+  "startHere": [
+    "playbooks/scene-kit.md",
+    "playbooks/world-systems.md",
+    "playbooks/motion-grammar.md",
+    "playbooks/type-systems.md",
+    "playbooks/asset-forge.md",
+    "playbooks/component-philosophy.md"
+  ],
+  "worldSystems": [
+    {
+      "slug": "club-instrument",
+      "name": "Club Instrument",
+      "bestFor": [
+        "music-tech",
+        "artist-tools",
+        "reactive launch pages"
+      ],
+      "metaphors": [
+        "sequencer",
+        "control surface",
+        "instrument panel"
+      ],
+      "refs": [
+        "jazz-keys",
+        "blob-opera",
+        "holodec-world",
+        "intimacy-machine",
+        "desktop-fm",
+        "yaeji"
+      ],
+      "motion": [
+        "pulse",
+        "meter fill",
+        "tempo-linked reveal"
+      ],
+      "materials": [
+        "dark chrome",
+        "signal glow",
+        "wave lines",
+        "display numerals"
+      ],
+      "scenePrimitives": [
+        "HeroStage",
+        "LiveMeter",
+        "DropClock",
+        "ArtifactRail"
+      ],
+      "promptSeed": "Build this like a release instrument, not a dashboard."
+    },
+    {
+      "slug": "luxury-archive",
+      "name": "Luxury Archive",
+      "bestFor": [
+        "culture-tech",
+        "fashion",
+        "editorial products"
+      ],
+      "metaphors": [
+        "reading room",
+        "accession index",
+        "catalog object"
+      ],
+      "refs": [
+        "harley-weir",
+        "developments",
+        "animals-as-objects",
+        "infringe",
+        "publication-studio",
+        "williams-college-museum-of-art"
+      ],
+      "motion": [
+        "restrained fade",
+        "crop shift",
+        "image breathing"
+      ],
+      "materials": [
+        "warm paper",
+        "labels",
+        "rules",
+        "caption systems"
+      ],
+      "scenePrimitives": [
+        "ArchiveIndex",
+        "StoryFrame",
+        "RoomNav",
+        "ScrapNote"
+      ],
+      "promptSeed": "Make it feel curated and expensive, but still digitally alive."
+    },
+    {
+      "slug": "collage-core",
+      "name": "Collage Core",
+      "bestFor": [
+        "campaign pages",
+        "youth culture launches",
+        "anti-template surfaces"
+      ],
+      "metaphors": [
+        "poster wall",
+        "xerox stack",
+        "mixed media board"
+      ],
+      "refs": [
+        "camerons-world",
+        "hybrid-vigor",
+        "finger-walking",
+        "glossary-of-undisciplined-design",
+        "hallo-internet",
+        "make-word-art"
+      ],
+      "motion": [
+        "layered reveal",
+        "jitter",
+        "scrap drag"
+      ],
+      "materials": [
+        "torn masks",
+        "scans",
+        "tape",
+        "stickers",
+        "halftones"
+      ],
+      "scenePrimitives": [
+        "ScrapNote",
+        "TickerBand",
+        "ArtifactRail",
+        "CapsuleTile"
+      ],
+      "promptSeed": "Build like a collage editor with hierarchy, not a random sticker explosion."
+    },
+    {
+      "slug": "cozy-desktop",
+      "name": "Cozy Desktop",
+      "bestFor": [
+        "community tools",
+        "soft productivity",
+        "playful archives"
+      ],
+      "metaphors": [
+        "bedroom desktop",
+        "notes board",
+        "draggable windows"
+      ],
+      "refs": [
+        "simone-s-computer",
+        "hallo-internet",
+        "communal-radio-club",
+        "glossary-of-undisciplined-design",
+        "orb-farm"
+      ],
+      "motion": [
+        "drag",
+        "snap-back",
+        "window shuffle"
+      ],
+      "materials": [
+        "notes",
+        "desktop chrome",
+        "folder labels",
+        "lo-fi icons"
+      ],
+      "scenePrimitives": [
+        "RoomNav",
+        "ArchiveIndex",
+        "ScrapNote",
+        "ArtifactRail"
+      ],
+      "promptSeed": "Make it feel lived in, navigable, and collectible."
+    },
+    {
+      "slug": "playable-poster",
+      "name": "Playable Poster",
+      "bestFor": [
+        "launches",
+        "drops",
+        "events",
+        "single-purpose campaign pages"
+      ],
+      "metaphors": [
+        "interactive poster",
+        "moving flyer",
+        "campaign object"
+      ],
+      "refs": [
+        "design-your-own-hole",
+        "gt-flexa",
+        "gt-maru-typeface",
+        "colour-mapper",
+        "circuits-of-truth",
+        "smc-real-time"
+      ],
+      "motion": [
+        "big reveal",
+        "draw-on svg",
+        "poster-scale transitions"
+      ],
+      "materials": [
+        "huge type",
+        "graphic marks",
+        "badges",
+        "field colors"
+      ],
+      "scenePrimitives": [
+        "HeroStage",
+        "TickerBand",
+        "DropClock",
+        "StoryFrame"
+      ],
+      "promptSeed": "Treat the page itself as the campaign artifact."
+    },
+    {
+      "slug": "fan-shrine",
+      "name": "Fan Shrine",
+      "bestFor": [
+        "artist pages",
+        "edition drops",
+        "merch worlds",
+        "fandom-led commerce"
+      ],
+      "metaphors": [
+        "shrine",
+        "merch table",
+        "collectible shelf"
+      ],
+      "refs": [
+        "online-ceramics",
+        "communal-radio-club",
+        "country-music",
+        "the-wisdom-of-the-third-wave",
+        "issued-by-bottega",
+        "martine-rose"
+      ],
+      "motion": [
+        "collectible flip",
+        "hover enlarge",
+        "ambient drift"
+      ],
+      "materials": [
+        "tags",
+        "edition labels",
+        "stamps",
+        "product cards"
+      ],
+      "scenePrimitives": [
+        "CapsuleTile",
+        "ArtifactRail",
+        "StoryFrame",
+        "DropClock"
+      ],
+      "promptSeed": "Make buying feel like collecting a relic from a scene."
+    }
+  ],
+  "motionRoles": [
+    {
+      "name": "ambient",
+      "duration": "8s-20s",
+      "purpose": "keep the page alive at rest"
+    },
+    {
+      "name": "intent",
+      "duration": "120ms-280ms",
+      "purpose": "confirm hover, tap, drag, scrub"
+    },
+    {
+      "name": "ceremonial",
+      "duration": "400ms-1200ms",
+      "purpose": "hero, section, or mode entry"
+    },
+    {
+      "name": "navigational",
+      "duration": "220ms-520ms",
+      "purpose": "preserve spatial understanding"
+    },
+    {
+      "name": "decay",
+      "duration": "180ms-600ms",
+      "purpose": "settle, dismiss, or release state"
+    }
+  ],
+  "libraries": {
+    "behaviorPrimitives": [
+      "Radix Primitives",
+      "Base UI",
+      "Ariakit"
+    ],
+    "motion": [
+      "motion/react",
+      "GSAP",
+      "Lenis"
+    ],
+    "interactiveGraphics": [
+      "Rive",
+      "Rough.js",
+      "p5.js"
+    ],
+    "physicsAndSound": [
+      "Matter.js",
+      "Tone.js"
+    ]
+  },
+  "typeRoles": [
+    "authority",
+    "workhorse",
+    "freak",
+    "utility"
+  ],
+  "assetForge": {
+    "generate": [
+      "paper textures",
+      "scribble sets",
+      "stickers",
+      "scan noise",
+      "halftones",
+      "warped stills",
+      "metallic gradients"
+    ],
+    "avoid": [
+      "full page layouts",
+      "final ui screens",
+      "complete icon systems"
+    ],
+    "workflow": [
+      "generate many",
+      "curate hard",
+      "crop/mask/redraw",
+      "combine with authored svg",
+      "animate selectively"
+    ]
+  },
+  "shippingTest": [
+    "The page reads as a specific world in three seconds.",
+    "Motion feels structural, not attached at the end.",
+    "The design would not be mistaken for default B2B SaaS."
+  ]
+}
