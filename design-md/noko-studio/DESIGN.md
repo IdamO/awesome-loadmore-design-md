@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: reveal, distort, stage
 - Inputs: scroll, tap, hover
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fefefe - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fefefe) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (playful, minimal) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (playful, minimal) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with color(display-p3 0 0 0) text, and links inherit color(display-p3 0 0 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -123,7 +125,7 @@ Key Characteristics:
 ### Do
 - Use Tex consistently for headlines and interface labels.
 - Keep the palette anchored to #fefefe, #9e9e9e, and #6b6b6b.
-- Preserve the experimental posture signaled by the loadmo.re tags: playful, minimal.
+- Preserve the experimental posture signaled by the archive tags: playful, minimal.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

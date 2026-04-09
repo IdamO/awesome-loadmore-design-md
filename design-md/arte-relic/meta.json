@@ -1,0 +1,539 @@
+{
+  "slug": "arte-relic",
+  "title": "Relic",
+  "liveUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+  "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+  "sourceKind": "arte-poster",
+  "description": "Relic is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "colorful",
+    "tactile",
+    "arte-aesthetic"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-9645728.png?v=1763817116",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-5088637.png?v=1763817117",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-1863392.png?v=1763817118",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-8417910.png?v=1763817116"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {
+    "title": "assets/layers/title.png",
+    "text-left": "assets/layers/text-left.png",
+    "text-mid": "assets/layers/text-mid.png",
+    "text-right": "assets/layers/text-right.png",
+    "object-top": "assets/layers/object-top.png",
+    "object-bottom-left": "assets/layers/object-bottom-left.png",
+    "object-bottom-right": "assets/layers/object-bottom-right.png",
+    "object-detail": "assets/layers/object-detail.png",
+    "footer": "assets/layers/footer.png"
+  },
+  "rawTags": [
+    "black",
+    "hardware"
+  ],
+  "collectionHandles": [
+    "aesthetic"
+  ],
+  "collectionTitles": [
+    "Aesthetic"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15688293515599,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "aesthetic"
+    ],
+    "productPage": "https://arte-collective.com/collections/aesthetic/products/relic",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-9645728.png?v=1763817116",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-5088637.png?v=1763817117",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-1863392.png?v=1763817118",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-8417910.png?v=1763817116"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "artifact-monolith",
+    "familyName": "Artifact Monolith Stage",
+    "previewScene": "monolith",
+    "roles": {
+      "bg": "#1c1c1c",
+      "fg": "#e6e6e6",
+      "accent": "#34302f",
+      "surface": "#222121",
+      "glow": "#b5b0ac"
+    },
+    "energy": "industrial relic suspended in a browser vault",
+    "aura": "Relic should feel like a sacred object from Aesthetic, with the entire poster composition expanded into a shallow 3D archive room.",
+    "heroCopy": "FINGERPRING S60 SECTOR A",
+    "depthModel": "The full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers.",
+    "motionHooks": [
+      "ambient drift",
+      "hover lift",
+      "card rail reveal",
+      "specimen pulse"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Hero Chamber",
+        "note": "Relic establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Evidence Orbit",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Material Notes",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Exit Rail",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Silent by default; let motion and light carry the atmosphere.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "RELIC",
+      "Black",
+      "Hardware",
+      "Aesthetic",
+      "Sacred Object",
+      "Evidence Orbit"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Ultra Condensed Grotesk Display (approx)"
+          },
+          {
+            "family": "Bitmap Mono Caption (approx)"
+          },
+          {
+            "family": "Signal Sans Labels (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#222121",
+            "count": 5736
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 5116
+          },
+          {
+            "hex": "#242323",
+            "count": 5004
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4901
+          },
+          {
+            "hex": "#524f4e",
+            "count": 4480
+          },
+          {
+            "hex": "#34302f",
+            "count": 3309
+          },
+          {
+            "hex": "#1c1c1c",
+            "count": 2204
+          },
+          {
+            "hex": "#b5b0ac",
+            "count": 1650
+          }
+        ],
+        "heading": {
+          "fontSize": "112px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.065em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#34302f",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(52, 48, 47, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#1c1c1c"
+        },
+        "link": {
+          "color": "#34302f"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(52, 48, 47, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#222121",
+            "count": 5736
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 5116
+          },
+          {
+            "hex": "#242323",
+            "count": 5004
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4901
+          },
+          {
+            "hex": "#524f4e",
+            "count": 4480
+          },
+          {
+            "hex": "#34302f",
+            "count": 3309
+          },
+          {
+            "hex": "#1c1c1c",
+            "count": 2204
+          },
+          {
+            "hex": "#b5b0ac",
+            "count": 1650
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "RELIC"
+          ],
+          "bodyLines": [
+            "FINGERPRING S60 SECTOR A"
+          ]
+        },
+        "posterBrightness": 0.4279,
+        "posterContrast": 0.333
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Ultra Condensed Grotesk Display (approx)"
+          },
+          {
+            "family": "Bitmap Mono Caption (approx)"
+          },
+          {
+            "family": "Signal Sans Labels (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#222121",
+            "count": 5736
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 5116
+          },
+          {
+            "hex": "#242323",
+            "count": 5004
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4901
+          },
+          {
+            "hex": "#524f4e",
+            "count": 4480
+          },
+          {
+            "hex": "#34302f",
+            "count": 3309
+          },
+          {
+            "hex": "#1c1c1c",
+            "count": 2204
+          },
+          {
+            "hex": "#b5b0ac",
+            "count": 1650
+          }
+        ],
+        "heading": {
+          "fontSize": "72px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.065em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#34302f",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(52, 48, 47, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#1c1c1c"
+        },
+        "link": {
+          "color": "#34302f"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(52, 48, 47, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#222121",
+            "count": 5736
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 5116
+          },
+          {
+            "hex": "#242323",
+            "count": 5004
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4901
+          },
+          {
+            "hex": "#524f4e",
+            "count": 4480
+          },
+          {
+            "hex": "#34302f",
+            "count": 3309
+          },
+          {
+            "hex": "#1c1c1c",
+            "count": 2204
+          },
+          {
+            "hex": "#b5b0ac",
+            "count": 1650
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "RELIC"
+          ],
+          "bodyLines": [
+            "FINGERPRING S60 SECTOR A"
+          ]
+        },
+        "posterBrightness": 0.4279,
+        "posterContrast": 0.333
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "reason": "The poster reads like an object accessioned into a high-contrast digital chamber."
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "reason": "The browser version should feel collectible and tactile rather than informational."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "spatial_exhibition_world",
+        "name": "Spatial Exhibition World",
+        "confidence": 0.93,
+        "reason": "The poster wants to become one hero object inside a shallow 3D room with hotspot detail and object focus.",
+        "refs": [
+          "stripe-press",
+          "the-lost-lionesses",
+          "oneiric"
+        ]
+      },
+      "interactionModel": "Explode the full poster across the viewport: the headline becomes architecture, the background copy becomes the room, and the hardware collage becomes floating evidence layers that react to scroll, drag, and hover.",
+      "navigationModel": "Users move through one full-poster chamber where the title plane, copy field, and evidence layers each open supporting notes without leaving the composition.",
+      "stateModel": "Idle hum -> title and copy field wake -> evidence layers separate in depth -> note rail opens -> return to the full composition.",
+      "inputModes": [
+        "scroll",
+        "drag",
+        "hover",
+        "tap"
+      ],
+      "engineHints": [
+        "Use CSS 3D transforms to split the poster into title planes, copy fields, and floating object layers before escalating to WebGL.",
+        "Keep text in DOM overlays; the poster crop should be the texture, not the only readable surface.",
+        "Use subtle inertial drag and a tight snap-back when the card recenters."
+      ],
+      "motionRecipe": [
+        "Run a slow ambient camera drift across the full poster field at rest.",
+        "Lift extracted evidence layers forward on hover or pointer proximity.",
+        "Animate note cards and title planes on springy rails instead of fading them flat."
+      ],
+      "mobileFallback": "Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.",
+      "implementationNotes": [
+        "Do not use the framed product photo in the final surface; decompose the poster into title, copy field, object cluster, and note rails.",
+        "The poster should fill the viewport first; extracted depth layers should feel like pieces of the same artifact, not pasted cards.",
+        "The object cluster must feel heavy and collectible, not like a random floating image."
+      ],
+      "antiPatterns": [
+        "Do not flatten the poster into a hero image with text beside it.",
+        "Do not add more than one competing hero object.",
+        "Do not overload the chamber with generic glass cards."
+      ],
+      "validationChecklist": [
+        "The full poster composition reads as a spatial room within three seconds.",
+        "Drag and hover create a clear depth response without losing the poster logic.",
+        "Mobile keeps the same poster-world ritual, not a shrunken desktop scene."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "Sacred Object",
+        "Evidence Orbit",
+        "RELIC"
+      ],
+      "schema": {
+        "interactionModelId": "spatial_exhibition_world",
+        "coreVerbs": [
+          "explore",
+          "focus",
+          "open",
+          "orbit"
+        ],
+        "inputs": [
+          "scroll",
+          "drag",
+          "hover",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "ambient",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "ambient",
+          "triggers": [
+            "pointer",
+            "time",
+            "scroll"
+          ],
+          "transitions": [
+            "camera-travel",
+            "focus-lift",
+            "card-rail"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "3d-object",
+          "camera": "orbit",
+          "depthCues": [
+            "perspective",
+            "occlusion",
+            "shadow",
+            "lighting"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "explore",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic",
+            "inertial"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "css-3d"
+          ],
+          "fallbacks": [
+            "guided-tour",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Relic\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #1c1c1c, #e6e6e6, and #34302f, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.",
+    "summary": "Luxury Archive + Spatial Exhibition World. Explode the full poster across the viewport: the headline becomes architecture, the background copy becomes the room, and the hardware collage becomes floating evidence layers that react to scroll, drag, and hover."
+  }
+}

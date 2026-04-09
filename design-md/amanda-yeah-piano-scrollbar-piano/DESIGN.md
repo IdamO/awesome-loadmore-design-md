@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: scroll, scrub, sequence
 - Inputs: scroll, tap
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #e3fcd4 - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#e3fcd4) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (playful, sound-design, colorful) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (playful, sound-design, colorful) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(66, 255, 198) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -126,7 +128,7 @@ Key Characteristics:
 ### Do
 - Use Solide Mirage consistently for headlines and interface labels.
 - Keep the palette anchored to #e3fcd4, #ecfba4, and #f7ff6e.
-- Preserve the experimental posture signaled by the loadmo.re tags: playful, sound-design, colorful.
+- Preserve the experimental posture signaled by the archive tags: playful, sound-design, colorful.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: explore, focus, open
 - Inputs: scroll, drag, tap, hover
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fd330f - canvas / dominant background
@@ -56,7 +58,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fd330f) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (arts&culture, 3d-space, digital-exhibition) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (arts&culture, 3d-space, digital-exhibition) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgba(16, 16, 16, 0.3) text, and links inherit rgb(255, 255, 255) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -130,7 +132,7 @@ Key Characteristics:
 ### Do
 - Use BasisGrotesquePro-Regular-Web consistently for headlines and interface labels.
 - Keep the palette anchored to #fd330f, #fdfaf9, and #f5a798.
-- Preserve the experimental posture signaled by the loadmo.re tags: arts&culture, 3d-space, digital-exhibition.
+- Preserve the experimental posture signaled by the archive tags: arts&culture, 3d-space, digital-exhibition.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

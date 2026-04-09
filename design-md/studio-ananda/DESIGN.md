@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: browse, filter, open
 - Inputs: scroll, tap, filter
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #908b90 - canvas / dominant background
@@ -57,7 +59,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#908b90) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (online-magazine, colorful, arts&culture) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (online-magazine, colorful, arts&culture) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(255, 255, 255) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -130,7 +132,7 @@ Key Characteristics:
 ### Do
 - Use ortica-bold consistently for headlines and interface labels.
 - Keep the palette anchored to #908b90, #9a788f, and #938b64.
-- Preserve the experimental posture signaled by the loadmo.re tags: online-magazine, colorful, arts&culture.
+- Preserve the experimental posture signaled by the archive tags: online-magazine, colorful, arts&culture.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

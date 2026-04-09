@@ -1,0 +1,573 @@
+{
+  "slug": "arte-neural-spectrum",
+  "title": "Neural Spectrum",
+  "liveUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+  "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+  "sourceKind": "arte-poster",
+  "description": "Neural Spectrum is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "colorful",
+    "playful",
+    "sound-design",
+    "arte-aesthetic"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8746790.png?v=1763817118",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5729355.png?v=1763817119",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5968513.png?v=1763817118",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-4957280.png?v=1763817121"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {},
+  "rawTags": [
+    "Blue",
+    "Body",
+    "Brain",
+    "Mind",
+    "Neural"
+  ],
+  "collectionHandles": [
+    "aesthetic"
+  ],
+  "collectionTitles": [
+    "Aesthetic"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15688773763407,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "aesthetic"
+    ],
+    "productPage": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8746790.png?v=1763817118",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5729355.png?v=1763817119",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5968513.png?v=1763817118",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-4957280.png?v=1763817121"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "signal-slab",
+    "familyName": "Signal Slab Field",
+    "previewScene": "signal",
+    "roles": {
+      "bg": "#16171c",
+      "fg": "#e6e6e6",
+      "accent": "#3e2d5c",
+      "surface": "#191c27",
+      "glow": "#e2e3e3"
+    },
+    "energy": "reactive signal architecture built from the poster itself",
+    "aura": "Neural Spectrum should feel like a live control poster whose full composition becomes a responsive HUD field instead of flat merch storytelling.",
+    "heroCopy": "om Q 9° == 0",
+    "depthModel": "The whole poster becomes a tilted HUD field, with title planes, copy grids, and object fragments separated into translucent depth rails.",
+    "motionHooks": [
+      "scanline drift",
+      "pointer wake",
+      "panel snap",
+      "grid pulse"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Signal Stage",
+        "note": "Neural Spectrum establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Diagnostic Rail",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Memory Stack",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Action Loop",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Soft synth ticks or filtered clicks after user gesture; silence before intent.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "NEURAL SPECTRUM",
+      "Blue",
+      "Body",
+      "Brain",
+      "Mind",
+      "Neural"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Condensed Display Grotesk (approx)"
+          },
+          {
+            "family": "Pixel Mono Console (approx)"
+          },
+          {
+            "family": "Utility Sans Narrow (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1c1e23",
+            "count": 8530
+          },
+          {
+            "hex": "#222128",
+            "count": 5042
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4543
+          },
+          {
+            "hex": "#e2e3e3",
+            "count": 3943
+          },
+          {
+            "hex": "#737683",
+            "count": 3670
+          },
+          {
+            "hex": "#3e2d5c",
+            "count": 2950
+          },
+          {
+            "hex": "#16171c",
+            "count": 2304
+          },
+          {
+            "hex": "#191c27",
+            "count": 1418
+          }
+        ],
+        "heading": {
+          "fontSize": "98px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.055em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#3e2d5c",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(62, 45, 92, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#16171c"
+        },
+        "link": {
+          "color": "#3e2d5c"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(62, 45, 92, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1c1e23",
+            "count": 8530
+          },
+          {
+            "hex": "#222128",
+            "count": 5042
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4543
+          },
+          {
+            "hex": "#e2e3e3",
+            "count": 3943
+          },
+          {
+            "hex": "#737683",
+            "count": 3670
+          },
+          {
+            "hex": "#3e2d5c",
+            "count": 2950
+          },
+          {
+            "hex": "#16171c",
+            "count": 2304
+          },
+          {
+            "hex": "#191c27",
+            "count": 1418
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "oO ~~ Q 9 ---0",
+            "~ \\ \\ ve",
+            "Se \\ ,",
+            "EN \\ ie /",
+            "on. \\ \\ s 1 joe",
+            ". ‘ 1 7"
+          ],
+          "bodyLines": [
+            "om Q 9° == 0",
+            "A . \\ see",
+            "XN \\ Ex /",
+            "(ora . ue \\ ri oe",
+            "~~ \\ \\ - 1 1",
+            "\\ x » T U",
+            "\\ \\ AS ‘ !",
+            "= x — = ‘ !",
+            "Dee /",
+            "a s “oe —"
+          ]
+        },
+        "posterBrightness": 0.3712,
+        "posterContrast": 0.3283
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Condensed Display Grotesk (approx)"
+          },
+          {
+            "family": "Pixel Mono Console (approx)"
+          },
+          {
+            "family": "Utility Sans Narrow (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1c1e23",
+            "count": 8530
+          },
+          {
+            "hex": "#222128",
+            "count": 5042
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4543
+          },
+          {
+            "hex": "#e2e3e3",
+            "count": 3943
+          },
+          {
+            "hex": "#737683",
+            "count": 3670
+          },
+          {
+            "hex": "#3e2d5c",
+            "count": 2950
+          },
+          {
+            "hex": "#16171c",
+            "count": 2304
+          },
+          {
+            "hex": "#191c27",
+            "count": 1418
+          }
+        ],
+        "heading": {
+          "fontSize": "66px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.055em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#3e2d5c",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(62, 45, 92, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#16171c"
+        },
+        "link": {
+          "color": "#3e2d5c"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(62, 45, 92, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1c1e23",
+            "count": 8530
+          },
+          {
+            "hex": "#222128",
+            "count": 5042
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4543
+          },
+          {
+            "hex": "#e2e3e3",
+            "count": 3943
+          },
+          {
+            "hex": "#737683",
+            "count": 3670
+          },
+          {
+            "hex": "#3e2d5c",
+            "count": 2950
+          },
+          {
+            "hex": "#16171c",
+            "count": 2304
+          },
+          {
+            "hex": "#191c27",
+            "count": 1418
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "oO ~~ Q 9 ---0",
+            "~ \\ \\ ve",
+            "Se \\ ,",
+            "EN \\ ie /",
+            "on. \\ \\ s 1 joe",
+            ". ‘ 1 7"
+          ],
+          "bodyLines": [
+            "om Q 9° == 0",
+            "A . \\ see",
+            "XN \\ Ex /",
+            "(ora . ue \\ ri oe",
+            "~~ \\ \\ - 1 1",
+            "\\ x » T U",
+            "\\ \\ AS ‘ !",
+            "= x — = ‘ !",
+            "Dee /",
+            "a s “oe —"
+          ]
+        },
+        "posterBrightness": 0.3712,
+        "posterContrast": 0.3283
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "reason": "The web version should feel like a responsive system, not a static poster pinned to the wall."
+      },
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "reason": "Oversized type and one clear ritual keep the poster energy intact."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "club_instrument",
+        "name": "Club Instrument",
+        "confidence": 0.9,
+        "reason": "The poster language wants to become a reactive field of signals, meters, panels, and pressure-sensitive motion.",
+        "refs": [
+          "osk",
+          "jazz-keys",
+          "blob-opera"
+        ]
+      },
+      "interactionModel": "Turn the full poster into a responsive signal field: pointer movement shifts grids, tap reveals diagnostic panels, and drag scrubs the title, copy, and object fragments through layered depth planes.",
+      "navigationModel": "The whole poster is the system surface; telemetry rails and notes emerge from the composition instead of sitting beside it.",
+      "stateModel": "Idle scan -> title and grid wake-up -> panel pulse -> scrubbed depth shift -> settle back into the full poster field.",
+      "inputModes": [
+        "hover",
+        "tap",
+        "drag",
+        "scroll"
+      ],
+      "engineHints": [
+        "Use CSS transforms plus Canvas accents to split the poster into reactive scan lines, pulse grids, and numeric rails.",
+        "Map every interaction to a visible system response in under 180ms.",
+        "Keep panel density high, but reserve one dominant hero surface."
+      ],
+      "motionRecipe": [
+        "Animate scanlines or grids continuously at low amplitude.",
+        "Use pointer proximity to shift panels in z-space.",
+        "Pulse labels and counters in sync with the accent color instead of generic hover fades."
+      ],
+      "mobileFallback": "Collapse to one active hero slab, two stacked telemetry rails, and tap-to-cycle data states instead of precision hover behavior.",
+      "implementationNotes": [
+        "The poster should become the whole system surface, not a background image with UI pasted on top.",
+        "Use lighting, scanlines, and layered panels to create depth without drowning the typography.",
+        "Let the accent color drive both signal and CTA emphasis."
+      ],
+      "antiPatterns": [
+        "Do not turn the concept into a generic dashboard grid.",
+        "Do not use tiny unreadable cards to fake technical depth.",
+        "Do not rely on hover as the only interactive cue."
+      ],
+      "validationChecklist": [
+        "Users can feel the full poster field react immediately to pointer or touch.",
+        "The title, copy field, and object fragments remain legible while panels animate around them.",
+        "Mobile preserves the reactive feeling with fewer surfaces."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "Reactive Grid",
+        "Signal Stack",
+        "oO ~~ Q 9 ---0",
+        "~ \\ \\ ve"
+      ],
+      "schema": {
+        "interactionModelId": "club_instrument",
+        "coreVerbs": [
+          "pulse",
+          "scrub",
+          "reveal",
+          "tune"
+        ],
+        "inputs": [
+          "hover",
+          "tap",
+          "drag",
+          "scroll"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "high",
+          "cadence": "tempo-linked",
+          "triggers": [
+            "pointer",
+            "time",
+            "scroll"
+          ],
+          "transitions": [
+            "pulse",
+            "scrub",
+            "panel-shift",
+            "glow"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "2.5d",
+          "camera": "perspective",
+          "depthCues": [
+            "perspective",
+            "lighting",
+            "occlusion"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "compose",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "reactive",
+          "triggers": [
+            "pointer",
+            "press"
+          ],
+          "controls": [
+            "mute"
+          ],
+          "sync": "tight"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic",
+            "elastic"
+          ],
+          "retro": [
+            "scanline",
+            "pixel"
+          ],
+          "glitch": [
+            "channel-split",
+            "data-jitter"
+          ]
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "canvas"
+          ],
+          "fallbacks": [
+            "mute-first",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Neural Spectrum\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #16171c, #e6e6e6, and #3e2d5c, use Condensed Display Grotesk (approx) for the hero voice and Pixel Mono Console (approx) for metadata, build the page as a Club Instrument surface with Club Instrument mechanics, and stage the desktop hero as the whole poster becomes a tilted hud field, with title planes, copy grids, and object fragments separated into translucent depth rails. Mobile fallback: Collapse to one active hero slab, two stacked telemetry rails, and tap-to-cycle data states instead of precision hover behavior.",
+    "summary": "Club Instrument + Club Instrument. Turn the full poster into a responsive signal field: pointer movement shifts grids, tap reveals diagnostic panels, and drag scrubs the title, copy, and object fragments through layered depth planes."
+  }
+}

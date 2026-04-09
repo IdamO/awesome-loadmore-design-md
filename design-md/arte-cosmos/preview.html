@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cosmos Poster Concept Preview</title>
+<style>
+  :root {
+    --bg: #262d3f;
+    --fg: #e6e6e6;
+    --accent: #344265;
+    --glow: #d8d1d3;
+    --display: "Arial Narrow", "Helvetica Neue Condensed", "Helvetica Neue", sans-serif;
+    --body: "Helvetica Neue", Arial, sans-serif;
+    --mono: "IBM Plex Mono", "SFMono-Regular", monospace;
+    --poster: url('assets/poster-crop.jpg');
+    --mx: 0.5;
+    --my: 0.5;
+  }
+  * { box-sizing: border-box; }
+  html, body { min-height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--body);
+    overflow-x: hidden;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,255,255,.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.02) 1px, transparent 1px);
+    background-size: 100% 3px, 3px 100%;
+    mix-blend-mode: soft-light;
+    opacity: .15;
+    pointer-events: none;
+    z-index: 20;
+  }
+  .poster-world {
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+    isolation: isolate;
+    background:
+      radial-gradient(circle at 14% 18%, color-mix(in srgb, var(--glow) 16%, transparent), transparent 28%),
+      radial-gradient(circle at 82% 14%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 24%),
+      linear-gradient(180deg, color-mix(in srgb, var(--bg) 86%, #000), var(--bg));
+  }
+  .bg-layer,
+  .object-plane,
+  .face-field,
+  .face-halo,
+  .mesh,
+  .scan-grid,
+  .geo-plane,
+  .geo-fog,
+  .lightbox-strips,
+  .orbital-field,
+  .orbital-haze,
+  .copy-cloud,
+  .geo-outline {
+    position: absolute;
+    pointer-events: none;
+  }
+  .headline-cluster,
+  .signal-rail,
+  .lightbox-header,
+  .micro-bottom,
+  .depth-anchors,
+  .signal-notes,
+  .geometry-rail,
+  .orbital-hooks,
+  .phrase-stack {
+    position: relative;
+    z-index: 3;
+  }
+  .micro-top,
+  .micro-bottom,
+  .signal-notes,
+  .geometry-rail,
+  .orbital-hooks {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    font-family: var(--mono);
+    font-size: 11px;
+    line-height: 1.45;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .micro-top span,
+  .micro-bottom span {
+    opacity: .76;
+  }
+  .signal-notes span,
+  .geometry-rail span,
+  .orbital-hooks span,
+  .anchor-tag {
+    padding: 10px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(255,255,255,.08);
+    background: rgba(255,255,255,.04);
+    backdrop-filter: blur(12px);
+  }
+  .headline-cluster,
+  .signal-rail,
+  .lightbox-header {
+    padding: 26px 26px 0;
+  }
+  .headline-cluster h1,
+  .signal-rail h1,
+  .lightbox-header h1 {
+    margin: 14px 0 0;
+    font-family: var(--display);
+    font-size: clamp(88px, 16vw, 280px);
+    line-height: .82;
+    letter-spacing: -.08em;
+    text-transform: uppercase;
+  }
+  .headline-cluster p,
+  .signal-rail p,
+  .headline-orbital p {
+    margin: 14px 0 0;
+    max-width: 34ch;
+    font-size: clamp(15px, 1.8vw, 21px);
+    line-height: 1.55;
+    color: color-mix(in srgb, var(--fg) 86%, var(--bg));
+  }
+  .micro-bottom {
+    position: absolute;
+    left: 24px;
+    right: 24px;
+    bottom: 24px;
+    justify-content: space-between;
+    z-index: 4;
+  }
+
+  .family-artifact .bg-copy {
+    inset: -12%;
+    background: var(--poster) center 54% / cover no-repeat;
+    filter: blur(24px) contrast(1.14) brightness(.42) saturate(.8);
+    opacity: .42;
+    transform: translate3d(calc((var(--mx) - .5) * -38px), calc((var(--my) - .5) * -28px), 0) scale(1.18);
+  }
+  .family-artifact .bg-grain {
+    inset: 0;
+    background:
+      linear-gradient(90deg, rgba(0,0,0,.40), rgba(0,0,0,.14) 46%, rgba(0,0,0,.54)),
+      radial-gradient(circle at 62% 48%, rgba(255,255,255,.08), transparent 28%),
+      linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+  }
+  .family-artifact .artifact-text-lanes,
+  .family-artifact .artifact-title-stack,
+  .family-artifact .artifact-footer-ink,
+  .family-artifact .object-cluster {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .family-artifact .ink-column,
+  .family-artifact .artifact-title,
+  .family-artifact .artifact-footer-ink,
+  .family-artifact .object-plane {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: none;
+  }
+  .family-artifact .ink-column {
+    top: -4vh;
+    height: 108vh;
+    background-size: contain;
+    mix-blend-mode: screen;
+    filter: blur(.12px) contrast(1.08);
+    opacity: .24;
+  }
+  .family-artifact .ink-column-a {
+    left: -4vw;
+    width: 34vw;
+    background-image: var(--artifact-text-left);
+    transform: translate3d(calc((var(--mx) - .5) * -34px), calc((var(--my) - .5) * -12px), -90px) rotateY(-7deg);
+  }
+  .family-artifact .ink-column-b {
+    left: 28vw;
+    width: 34vw;
+    background-image: var(--artifact-text-mid);
+    opacity: .30;
+    transform: translate3d(calc((var(--mx) - .5) * -10px), calc((var(--my) - .5) * -8px), -30px);
+  }
+  .family-artifact .ink-column-c {
+    right: -2vw;
+    width: 32vw;
+    background-image: var(--artifact-text-right);
+    transform: translate3d(calc((var(--mx) - .5) * 30px), calc((var(--my) - .5) * -14px), -70px) rotateY(6deg);
+  }
+  .family-artifact .artifact-title {
+    left: 4vw;
+    background-image: var(--artifact-title);
+    background-size: contain;
+    mix-blend-mode: screen;
+    z-index: 3;
+  }
+  .family-artifact .artifact-title-main {
+    top: 4vh;
+    width: 82vw;
+    height: 20vw;
+    max-height: 290px;
+    filter: drop-shadow(0 26px 70px rgba(0,0,0,.36));
+    transform: translate3d(calc((var(--mx) - .5) * -24px), calc((var(--my) - .5) * -10px), 120px);
+  }
+  .family-artifact .artifact-title-ghost {
+    top: 8vh;
+    left: 12vw;
+    width: 86vw;
+    height: 22vw;
+    max-height: 320px;
+    opacity: .18;
+    filter: blur(1.2px);
+    transform: translate3d(calc((var(--mx) - .5) * 22px), calc((var(--my) - .5) * 8px), 40px);
+  }
+  .family-artifact .artifact-caption {
+    max-width: min(32vw, 420px);
+    padding-top: 28px;
+  }
+  .family-artifact .artifact-caption h1 {
+    display: none;
+  }
+  .family-artifact .object-cluster {
+    z-index: 3;
+    transform-style: preserve-3d;
+  }
+  .family-artifact .object-plane {
+    background-size: contain;
+    filter: drop-shadow(0 24px 60px rgba(0,0,0,.42));
+  }
+  .family-artifact .plane-main {
+    left: 45%;
+    top: 26%;
+    width: min(31vw, 430px);
+    height: min(21vw, 290px);
+    background-image: var(--artifact-object-top);
+    transform: rotateY(calc((var(--mx) - .5) * 18deg)) rotateX(calc((var(--my) - .5) * -10deg)) translate3d(0, 0, 150px);
+  }
+  .family-artifact .plane-disc {
+    left: 56%;
+    top: 49%;
+    width: min(20vw, 280px);
+    height: min(16vw, 220px);
+    background-image: var(--artifact-object-bottom-right);
+    transform: rotateY(calc((var(--mx) - .5) * -16deg)) translate3d(0, 0, 220px);
+  }
+  .family-artifact .plane-chip {
+    left: 39%;
+    top: 55%;
+    width: min(12vw, 170px);
+    height: min(18vw, 250px);
+    background-image: var(--artifact-object-bottom-left);
+    transform: rotateY(calc((var(--mx) - .5) * 10deg)) translate3d(0, 0, 100px);
+  }
+  .family-artifact .plane-detail {
+    left: 59.5%;
+    top: 38%;
+    width: min(8vw, 110px);
+    height: min(10vw, 140px);
+    background-image: var(--artifact-object-detail);
+    opacity: .76;
+    transform: rotateY(calc((var(--mx) - .5) * -16deg)) translate3d(0, 0, 280px);
+  }
+  .family-artifact .artifact-footer-ink {
+    left: 32vw;
+    bottom: 3.8vh;
+    width: 36vw;
+    height: 4.4vw;
+    min-height: 36px;
+    max-height: 72px;
+    background-image: var(--artifact-footer);
+    background-size: contain;
+    mix-blend-mode: screen;
+    opacity: .56;
+    z-index: 2;
+  }
+  .family-signal {
+    background:
+      radial-gradient(circle at 72% 44%, color-mix(in srgb, var(--glow) 22%, transparent), transparent 20%),
+      linear-gradient(90deg, color-mix(in srgb, #09120d 88%, var(--bg)) 0%, color-mix(in srgb, #0f1d15 94%, var(--bg)) 36%, color-mix(in srgb, var(--bg) 80%, black) 100%);
+  }
+  .family-signal .bg-dark {
+    inset: 0;
+    background: linear-gradient(90deg, rgba(5,9,8,.82) 0%, rgba(5,9,8,.68) 36%, rgba(5,9,8,.08) 72%);
+    z-index: 1;
+  }
+  .family-signal .face-field {
+    inset: -6% -10% -8% 26%;
+    background: var(--poster) 78% center / 130% no-repeat;
+    filter: contrast(1.14) saturate(.9) brightness(1.02);
+    opacity: .82;
+    transform: translate3d(calc((var(--mx) - .5) * 20px), calc((var(--my) - .5) * -18px), 0) scale(1.06);
+    z-index: 1;
+  }
+  .family-signal .face-halo {
+    inset: 0 0 0 34%;
+    background:
+      radial-gradient(circle at 58% 46%, color-mix(in srgb, var(--glow) 32%, transparent), transparent 16%),
+      radial-gradient(circle at 62% 54%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 30%);
+    mix-blend-mode: screen;
+    opacity: .7;
+    z-index: 2;
+  }
+  .family-signal .scan-grid {
+    inset: 0;
+    background-image:
+      repeating-linear-gradient(180deg, rgba(255,255,255,.06) 0 1px, transparent 1px 7px),
+      repeating-linear-gradient(90deg, rgba(255,255,255,.04) 0 1px, transparent 1px 22px);
+    opacity: .18;
+    z-index: 2;
+  }
+  .family-signal .mesh {
+    inset: 10% 8% 10% 34%;
+    border-radius: 50%;
+    opacity: .32;
+    z-index: 2;
+  }
+  .family-signal .mesh-a {
+    background: repeating-radial-gradient(circle at 50% 50%, transparent 0 12px, rgba(255,255,255,.08) 12px 13px);
+  }
+  .family-signal .mesh-b {
+    inset: 14% 2% 18% 46%;
+    background: repeating-linear-gradient(90deg, transparent 0 16px, rgba(255,255,255,.06) 16px 18px);
+    mix-blend-mode: screen;
+    transform: skewY(-8deg);
+  }
+  .family-signal .signal-rail {
+    max-width: min(34vw, 480px);
+    padding-top: 34px;
+  }
+  .family-signal .signal-rail h1 {
+    font-size: clamp(54px, 9vw, 136px);
+  }
+  .family-signal .signal-notes {
+    position: absolute;
+    right: 24px;
+    bottom: 88px;
+    width: min(340px, 28vw);
+    justify-content: flex-end;
+  }
+
+  .family-geometry .geo-fog {
+    inset: -10%;
+    background: var(--poster) center / cover no-repeat;
+    filter: blur(30px) saturate(.78) brightness(.9);
+    opacity: .28;
+  }
+  .family-geometry .geo-plane {
+    background-image: var(--poster);
+    background-repeat: no-repeat;
+    border: 1px solid rgba(255,255,255,.08);
+    box-shadow: 0 24px 90px rgba(0,0,0,.28);
+  }
+  .family-geometry .geo-back {
+    inset: 12% 28% 18% 12%;
+    background-size: 142%;
+    background-position: 48% 44%;
+    opacity: .2;
+    transform: rotate(-8deg);
+  }
+  .family-geometry .geo-mid {
+    left: 46%;
+    top: 14%;
+    width: min(30vw, 420px);
+    height: min(52vw, 660px);
+    background-size: 220%;
+    background-position: 70% 28%;
+    clip-path: polygon(18% 0%, 100% 10%, 84% 100%, 0% 88%, 0% 16%);
+    transform: rotateY(-12deg) rotateX(8deg) translate3d(0, 0, 120px);
+  }
+  .family-geometry .geo-front {
+    left: 18%;
+    top: 56%;
+    width: min(24vw, 320px);
+    height: min(20vw, 250px);
+    background-size: 250%;
+    background-position: 42% 84%;
+    clip-path: polygon(4% 20%, 100% 0%, 88% 100%, 0% 84%);
+    transform: rotateY(12deg) translate3d(0, 0, 180px);
+  }
+  .family-geometry .geo-outline {
+    left: 4vw;
+    top: 8vh;
+    font-family: var(--display);
+    font-size: clamp(120px, 22vw, 420px);
+    line-height: .82;
+    letter-spacing: -.08em;
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255,255,255,.18);
+    opacity: .42;
+    z-index: 1;
+  }
+  .family-geometry .headline-geometry {
+    max-width: min(42vw, 520px);
+  }
+  .family-geometry .geometry-rail {
+    position: absolute;
+    left: 24px;
+    bottom: 88px;
+    width: min(560px, 44vw);
+  }
+
+  .family-lightbox {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--bg) 96%, black), var(--bg));
+  }
+  .family-lightbox .lightbox-paper {
+    inset: 0;
+    background: var(--poster) center / cover no-repeat;
+    filter: grayscale(1) blur(18px) contrast(.9) brightness(.46);
+    opacity: .12;
+  }
+  .family-lightbox .lightbox-strips {
+    inset: 0;
+    background-image: var(--poster);
+    background-repeat: no-repeat;
+    opacity: .16;
+    mix-blend-mode: screen;
+  }
+  .family-lightbox .lightbox-strips-a {
+    background-size: cover;
+    background-position: center;
+    clip-path: polygon(0 0, 100% 0, 100% 16%, 0 26%);
+  }
+  .family-lightbox .lightbox-strips-b {
+    background-size: cover;
+    background-position: center;
+    clip-path: polygon(0 68%, 100% 54%, 100% 100%, 0 100%);
+  }
+  .family-lightbox .lightbox-header h1 {
+    font-size: clamp(54px, 10vw, 132px);
+    max-width: 10ch;
+  }
+  .family-lightbox .phrase-stack {
+    display: grid;
+    gap: clamp(14px, 2.2vh, 24px);
+    padding: 6vh 6vw 18vh;
+    margin-top: 2vh;
+  }
+  .family-lightbox .phrase-row {
+    display: flex;
+    gap: .2em;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: var(--display);
+    font-size: clamp(44px, 7vw, 118px);
+    line-height: .88;
+    letter-spacing: -.06em;
+    transform: translateX(calc((var(--row) % 2) * 4vw));
+  }
+  .family-lightbox .redaction {
+    display: inline-block;
+    min-width: clamp(112px, 16vw, 280px);
+    height: .7em;
+    border-radius: .14em;
+    background:
+      linear-gradient(180deg, rgba(255,255,255,.84), rgba(236,236,232,.94)),
+      repeating-linear-gradient(90deg, rgba(0,0,0,.06) 0 6px, transparent 6px 18px);
+    box-shadow: 0 14px 36px rgba(0,0,0,.28);
+    transform: rotate(calc((var(--row) - 3) * 1.1deg)) translateY(.06em);
+  }
+  .family-lightbox .redaction-wide {
+    min-width: clamp(160px, 22vw, 340px);
+  }
+  .family-lightbox .phrase-title .phrase-word {
+    font-size: 1.12em;
+  }
+
+  .family-orbital {
+    background:
+      radial-gradient(circle at 70% 42%, color-mix(in srgb, var(--glow) 18%, transparent), transparent 20%),
+      radial-gradient(circle at 24% 20%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 20%),
+      linear-gradient(180deg, color-mix(in srgb, var(--bg) 84%, #020202), var(--bg));
+  }
+  .family-orbital .orbital-haze {
+    inset: -10%;
+    background: var(--poster) center / cover no-repeat;
+    filter: blur(44px) saturate(.92) brightness(.82);
+    opacity: .34;
+  }
+  .family-orbital .orbital-deep {
+    inset: 0;
+    background-image: var(--poster);
+    background-size: cover;
+    background-position: center;
+    opacity: .16;
+    mix-blend-mode: screen;
+  }
+  .family-orbital .orbital-orb {
+    right: -8%;
+    top: 8%;
+    width: min(64vw, 920px);
+    height: min(64vw, 920px);
+    border-radius: 50%;
+    background-image: var(--poster);
+    background-size: cover;
+    background-position: 68% 48%;
+    opacity: .82;
+    box-shadow: 0 0 140px color-mix(in srgb, var(--glow) 28%, transparent);
+  }
+  .family-orbital .orbital-ring {
+    right: 14%;
+    top: 20%;
+    width: min(34vw, 480px);
+    height: min(34vw, 480px);
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,.18);
+    box-shadow: 0 0 0 24px rgba(255,255,255,.03), 0 0 0 54px rgba(255,255,255,.02);
+    opacity: .48;
+  }
+  .family-orbital .headline-orbital {
+    max-width: min(38vw, 520px);
+    padding-top: 6vh;
+  }
+  .family-orbital .orbital-hooks {
+    position: absolute;
+    left: 24px;
+    bottom: 88px;
+    width: min(460px, 36vw);
+  }
+
+  @media (max-width: 980px) {
+    .micro-bottom {
+      gap: 8px;
+      justify-content: flex-start;
+    }
+    .family-artifact .headline-cluster,
+    .family-signal .signal-rail,
+    .family-geometry .headline-geometry,
+    .family-orbital .headline-orbital {
+      max-width: none;
+      padding-right: 24px;
+    }
+    .family-artifact .artifact-title-main { width: 92vw; height: 24vw; }
+    .family-artifact .artifact-title-ghost { width: 96vw; height: 26vw; left: 8vw; }
+    .family-artifact .artifact-caption { max-width: 44vw; }
+    .family-artifact .plane-main { left: 34%; top: 40%; width: 50vw; height: 34vw; }
+    .family-artifact .plane-disc { left: 56%; top: 62%; width: 28vw; height: 20vw; }
+    .family-artifact .plane-chip { left: 18%; top: 66%; width: 20vw; height: 28vw; }
+    .family-signal .signal-notes,
+    .family-geometry .geometry-rail,
+    .family-orbital .orbital-hooks {
+      position: static;
+      padding: 0 24px 24px;
+      width: auto;
+      justify-content: flex-start;
+    }
+    .family-signal .face-field { inset: 20% -24% 12% 14%; }
+    .family-signal .mesh { inset: 26% 4% 22% 24%; }
+    .family-geometry .geo-mid { left: 34%; top: 32%; width: 54vw; height: 72vw; }
+    .family-geometry .geo-front { left: 12%; top: 66%; width: 34vw; height: 28vw; }
+    .family-orbital .orbital-orb { right: -24%; top: 26%; width: 82vw; height: 82vw; }
+    .family-orbital .orbital-ring { right: 10%; top: 42%; width: 42vw; height: 42vw; }
+    .family-lightbox .phrase-stack { padding-left: 24px; padding-right: 24px; }
+  }
+
+  @media (max-width: 620px) {
+    .headline-cluster,
+    .signal-rail,
+    .lightbox-header { padding-left: 18px; padding-right: 18px; }
+    .micro-bottom { left: 18px; right: 18px; bottom: 18px; }
+    .headline-cluster h1,
+    .signal-rail h1,
+    .lightbox-header h1 { font-size: clamp(54px, 18vw, 102px); }
+    .family-artifact .artifact-title-main { width: 98vw; height: 30vw; left: 2vw; top: 4vh; }
+    .family-artifact .artifact-title-ghost { width: 104vw; height: 32vw; left: 6vw; top: 7vh; }
+    .family-artifact .artifact-caption { max-width: 56vw; }
+    .family-artifact .plane-main { left: 18%; top: 44%; width: 64vw; height: 38vw; }
+    .family-artifact .plane-disc { left: 54%; top: 70%; width: 34vw; height: 22vw; }
+    .family-artifact .plane-chip { left: 10%; top: 72%; width: 22vw; height: 30vw; }
+    .family-signal .signal-notes,
+    .family-geometry .geometry-rail,
+    .family-orbital .orbital-hooks { padding-left: 18px; padding-right: 18px; padding-bottom: 82px; }
+    .family-signal .face-field { inset: 28% -34% 16% 2%; opacity: .7; }
+    .family-signal .mesh { inset: 36% -12% 26% 26%; opacity: .2; }
+    .family-geometry .geo-outline { left: 18px; top: 14vh; font-size: clamp(82px, 28vw, 170px); }
+    .family-geometry .geo-mid { left: 18%; top: 48%; width: 68vw; height: 88vw; }
+    .family-geometry .geo-front { left: 8%; top: 76%; width: 36vw; height: 28vw; }
+    .family-lightbox .phrase-stack { gap: 12px; padding-top: 24px; padding-bottom: 94px; }
+    .family-lightbox .phrase-row { font-size: clamp(32px, 12vw, 58px); transform: none; }
+    .family-lightbox .redaction { min-width: clamp(72px, 22vw, 130px); }
+    .family-orbital .orbital-orb { right: -42%; top: 34%; width: 100vw; height: 100vw; }
+    .family-orbital .orbital-ring { right: 0; top: 56%; width: 54vw; height: 54vw; }
+  }
+</style>
+</head>
+<body>
+
+    <main class="poster-world family-orbital">
+      <div class="bg-layer orbital-haze"></div>
+      <div class="orbital-field orbital-deep"></div>
+      <div class="orbital-field orbital-orb"></div>
+      <div class="orbital-field orbital-ring"></div>
+      <header class="headline-cluster headline-orbital">
+        <div class="micro-top"><span>Aesthetic</span><span>blue</span><span>cosmos</span><span>grey</span><span>stellar</span><span>white</span><span>COSMOS</span></div>
+        <h1>Cosmos</h1>
+        <p>Cosmos should feel like a drifting internet relic whose full poster composition becomes a shallow-depth, glow-rail field.</p>
+      </header>
+      <div class="orbital-hooks"><span class="anchor-tag anchor-1">ambient drift</span><span class="anchor-tag anchor-2">parallax wake</span><span class="anchor-tag anchor-3">caption bloom</span><span class="anchor-tag anchor-4">halo pulse</span><span class="anchor-tag anchor-5">Orbit Stage</span></div>
+      <footer class="micro-bottom">
+        <span>Orbital Atmosphere Field</span>
+        <span>Spatial Exhibition World</span>
+        <span>Optional soft synth bed after user intent; silence is acceptable if the motion already feels alive.</span>
+      </footer>
+    </main>
+<script>
+  const world = document.querySelector('.poster-world');
+  if (world) {
+    world.addEventListener('pointermove', (event) => {
+      const rect = world.getBoundingClientRect();
+      world.style.setProperty('--mx', ((event.clientX - rect.left) / rect.width).toFixed(3));
+      world.style.setProperty('--my', ((event.clientY - rect.top) / rect.height).toFixed(3));
+    });
+    world.addEventListener('pointerleave', () => {
+      world.style.setProperty('--mx', '0.5');
+      world.style.setProperty('--my', '0.5');
+    });
+  }
+</script>
+</body>
+</html>

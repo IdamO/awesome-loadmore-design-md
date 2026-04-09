@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: trigger, press, mix
 - Inputs: tap, drag, press
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fdfcfc - canvas / dominant background
@@ -52,7 +54,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fdfcfc) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (music, minimal) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (music, minimal) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(255, 255, 255) backgrounds with rgb(238, 56, 49) text, and links inherit rgb(0, 0, 238) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -123,7 +125,7 @@ Key Characteristics:
 ### Do
 - Use NHaasGroteskDSPro-95Blk consistently for headlines and interface labels.
 - Keep the palette anchored to #fdfcfc, #ebaba8, and #ec5e5a.
-- Preserve the experimental posture signaled by the loadmo.re tags: music, minimal.
+- Preserve the experimental posture signaled by the archive tags: music, minimal.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

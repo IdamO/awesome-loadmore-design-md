@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: browse, collect, buy
 - Inputs: scroll, tap, hover
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fcfafa - canvas / dominant background
@@ -55,7 +57,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fcfafa) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (e-commerce, fashion, default-aesthetics) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (e-commerce, fashion, default-aesthetics) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(0, 0, 0) backgrounds with rgb(255, 255, 255) text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -125,7 +127,7 @@ Key Characteristics:
 ### Do
 - Use GTStandard-M consistently for headlines and interface labels.
 - Keep the palette anchored to #fcfafa, #5e615e, and #18171b.
-- Preserve the experimental posture signaled by the loadmo.re tags: e-commerce, fashion, default-aesthetics.
+- Preserve the experimental posture signaled by the archive tags: e-commerce, fashion, default-aesthetics.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

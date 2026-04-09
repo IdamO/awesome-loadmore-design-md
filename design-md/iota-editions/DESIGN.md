@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: reveal, distort, stage, drag
 - Inputs: scroll, tap, hover, drag
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #ffffff - canvas / dominant background
@@ -46,7 +48,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#ffffff) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (portfolio, animation) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (portfolio, animation) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(0, 0, 0) text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -119,7 +121,7 @@ Key Characteristics:
 ### Do
 - Use Sentinel Light consistently for headlines and interface labels.
 - Keep the palette anchored to #ffffff, #000000, and #7c3aed.
-- Preserve the experimental posture signaled by the loadmo.re tags: portfolio, animation.
+- Preserve the experimental posture signaled by the archive tags: portfolio, animation.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

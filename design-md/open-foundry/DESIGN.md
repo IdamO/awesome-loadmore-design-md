@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: reveal, distort, stage
 - Inputs: scroll, tap, hover
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f1f2f4 - canvas / dominant background
@@ -58,7 +60,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f1f2f4) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (graphic-design, typography) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (graphic-design, typography) imply the system is intentionally non-generic.
 - Buttons tend toward oklch(0.4 0.01 264 / 0.12) backgrounds with oklch(0.2 0.002 264) text, and links inherit oklch(0.2 0.002 264) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -128,7 +130,7 @@ Key Characteristics:
 ### Do
 - Use Mirage consistently for headlines and interface labels.
 - Keep the palette anchored to #f1f2f4, #686968, and #15220f.
-- Preserve the experimental posture signaled by the loadmo.re tags: graphic-design, typography.
+- Preserve the experimental posture signaled by the archive tags: graphic-design, typography.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

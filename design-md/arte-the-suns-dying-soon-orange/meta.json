@@ -1,0 +1,534 @@
+{
+  "slug": "arte-the-suns-dying-soon-orange",
+  "title": "The Sun's Dying Soon - Orange",
+  "liveUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+  "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+  "sourceKind": "arte-poster",
+  "description": "The Sun's Dying Soon - Orange is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "minimal",
+    "arts&culture",
+    "editorial",
+    "arte-minimalism"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2060613.png?v=1763817195",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-5237634.png?v=1763817196",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-7600553.jpg?v=1763817193",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2476277.png?v=1763817194"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {},
+  "rawTags": [
+    "beige",
+    "orange",
+    "sun"
+  ],
+  "collectionHandles": [
+    "minimalism"
+  ],
+  "collectionTitles": [
+    "Minimalism"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15755412373839,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "minimalism"
+    ],
+    "productPage": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2060613.png?v=1763817195",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-5237634.png?v=1763817196",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-7600553.jpg?v=1763817193",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2476277.png?v=1763817194"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "quiet-lightbox",
+    "familyName": "Quiet Lightbox",
+    "previewScene": "lightbox",
+    "roles": {
+      "bg": "#e6e6e6",
+      "fg": "#b07a69",
+      "accent": "#b07a69",
+      "surface": "#e4e4e4",
+      "glow": "#e3d6c4"
+    },
+    "energy": "quiet editorial manifesto with slow depth and controlled whitespace",
+    "aura": "The Sun's Dying Soon - Orange should feel like a text artifact stretched into a calm browser field, where bars and phrases become the whole interaction surface.",
+    "heroCopy": "The#",
+    "depthModel": "The full poster becomes a phrase stack and bar field, with subtle lift, shadow, and spatial drift instead of a framed room.",
+    "motionHooks": [
+      "light sweep",
+      "micro tilt",
+      "caption rise",
+      "shadow drift"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Lightbox Stage",
+        "note": "The Sun's Dying Soon - Orange establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Caption Step",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Material Margin",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Exit Marker",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "No sound; preserve stillness.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "THE SUN'S DYING SOON - ORANGE",
+      "Beige",
+      "Orange",
+      "Sun",
+      "Minimalism",
+      "The*"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Editorial Grotesk Display (approx)"
+          },
+          {
+            "family": "Quiet Sans Text (approx)"
+          },
+          {
+            "family": "Caption Mono (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e8dbc8",
+            "count": 7484
+          },
+          {
+            "hex": "#e6d8c6",
+            "count": 5118
+          },
+          {
+            "hex": "#b07a69",
+            "count": 5107
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4541
+          },
+          {
+            "hex": "#e3d6c4",
+            "count": 4512
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 3379
+          },
+          {
+            "hex": "#e6dbc8",
+            "count": 1574
+          },
+          {
+            "hex": "#e8e0d2",
+            "count": 685
+          }
+        ],
+        "heading": {
+          "fontSize": "96px",
+          "fontWeight": "780",
+          "letterSpacing": "-0.04em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "16px",
+          "fontWeight": "450",
+          "lineHeight": "1.65"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "650",
+          "backgroundColor": "#b07a69",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(176, 122, 105, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#e6e6e6"
+        },
+        "link": {
+          "color": "#b07a69"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(176, 122, 105, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e8dbc8",
+            "count": 7484
+          },
+          {
+            "hex": "#e6d8c6",
+            "count": 5118
+          },
+          {
+            "hex": "#b07a69",
+            "count": 5107
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4541
+          },
+          {
+            "hex": "#e3d6c4",
+            "count": 4512
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 3379
+          },
+          {
+            "hex": "#e6dbc8",
+            "count": 1574
+          },
+          {
+            "hex": "#e8e0d2",
+            "count": 685
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "The*",
+            "»2. “~ t",
+            "The *",
+            "»2. “~ $"
+          ],
+          "bodyLines": [
+            "The#",
+            "Suns",
+            "Dying"
+          ]
+        },
+        "posterBrightness": 0.7978,
+        "posterContrast": 0.174
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Editorial Grotesk Display (approx)"
+          },
+          {
+            "family": "Quiet Sans Text (approx)"
+          },
+          {
+            "family": "Caption Mono (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e8dbc8",
+            "count": 7484
+          },
+          {
+            "hex": "#e6d8c6",
+            "count": 5118
+          },
+          {
+            "hex": "#b07a69",
+            "count": 5107
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4541
+          },
+          {
+            "hex": "#e3d6c4",
+            "count": 4512
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 3379
+          },
+          {
+            "hex": "#e6dbc8",
+            "count": 1574
+          },
+          {
+            "hex": "#e8e0d2",
+            "count": 685
+          }
+        ],
+        "heading": {
+          "fontSize": "60px",
+          "fontWeight": "780",
+          "letterSpacing": "-0.04em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "450",
+          "lineHeight": "1.65"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "650",
+          "backgroundColor": "#b07a69",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(176, 122, 105, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#e6e6e6"
+        },
+        "link": {
+          "color": "#b07a69"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(176, 122, 105, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e8dbc8",
+            "count": 7484
+          },
+          {
+            "hex": "#e6d8c6",
+            "count": 5118
+          },
+          {
+            "hex": "#b07a69",
+            "count": 5107
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4541
+          },
+          {
+            "hex": "#e3d6c4",
+            "count": 4512
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 3379
+          },
+          {
+            "hex": "#e6dbc8",
+            "count": 1574
+          },
+          {
+            "hex": "#e8e0d2",
+            "count": 685
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "The*",
+            "»2. “~ t",
+            "The *",
+            "»2. “~ $"
+          ],
+          "bodyLines": [
+            "The#",
+            "Suns",
+            "Dying"
+          ]
+        },
+        "posterBrightness": 0.7978,
+        "posterContrast": 0.174
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "reason": "The translation should feel edited, calm, and deliberately paced."
+      },
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "reason": "The page behaves like an authored text artifact rather than a neutral product shell."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "playable_poster",
+        "name": "Playable Poster",
+        "confidence": 0.85,
+        "reason": "The poster wants its text bars, negative space, and caption rhythm turned into the whole browser composition, not a generic scrolling layout.",
+        "refs": [
+          "source-type",
+          "ntgent",
+          "design-your-own-hole"
+        ]
+      },
+      "interactionModel": "Turn the full poster into a typographic manifesto field: bars become interface slabs, key words become oversized live type, and small drag or scroll shifts the whole statement in depth.",
+      "navigationModel": "One calm phrase stack plus sparse notes; movement is deliberate and minimal.",
+      "stateModel": "Still field -> slight viewpoint shift -> one phrase or bar lifts -> next caption appears -> field settles.",
+      "inputModes": [
+        "scroll",
+        "drag",
+        "tap"
+      ],
+      "engineHints": [
+        "Use shallow CSS perspective and soft shadows so the bars feel physical without becoming skeuomorphic.",
+        "Keep transitions slower and quieter than the default poster set.",
+        "Preserve negative space aggressively and let the phrase stack do most of the work."
+      ],
+      "motionRecipe": [
+        "Move the field by a few degrees only.",
+        "Use slow opacity ramps and light sweeps instead of big transforms.",
+        "Let one phrase or bar rise after the field settles."
+      ],
+      "mobileFallback": "Keep a single phrase stack, reveal one note at a time, and use swipe or tap to move between manifesto beats.",
+      "implementationNotes": [
+        "Do not replace the calm with generic minimal SaaS spacing; keep the manifesto-like stillness.",
+        "One motion layer is enough as long as it feels expensive.",
+        "Preserve the full poster field as the dominant artifact and keep all labels secondary.",
+        "If the poster contains bars or strike-through elements, those should become the primary interface slabs."
+      ],
+      "antiPatterns": [
+        "Do not over-animate a quiet composition.",
+        "Do not flood the scene with cards just because there is empty space.",
+        "Do not switch to a cheerful accent-heavy palette if the poster is subdued."
+      ],
+      "validationChecklist": [
+        "The field feels calm and spatial, and the poster still owns the entire browser.",
+        "Small motion changes are readable and intentional.",
+        "Mobile keeps the same stillness with fewer moving parts."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "Manifesto Grid",
+        "Brush Rail",
+        "The*",
+        "»2. “~ t"
+      ],
+      "schema": {
+        "interactionModelId": "playable_poster",
+        "coreVerbs": [
+          "focus",
+          "glide",
+          "read"
+        ],
+        "inputs": [
+          "scroll",
+          "drag",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "low",
+          "cadence": "ambient",
+          "triggers": [
+            "pointer",
+            "scroll",
+            "time"
+          ],
+          "transitions": [
+            "light-sweep",
+            "fade",
+            "glide"
+          ],
+          "physics": "none"
+        },
+        "spatial": {
+          "mode": "2.5d",
+          "camera": "rail",
+          "depthCues": [
+            "shadow",
+            "soft-perspective",
+            "blur"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "browse",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "guided-tour",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"The Sun's Dying Soon - Orange\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #e6e6e6, #b07a69, and #b07a69, use Editorial Grotesk Display (approx) for the hero voice and Quiet Sans Text (approx) for metadata, build the page as a Luxury Archive surface with Playable Poster mechanics, and stage the desktop hero as the full poster becomes a phrase stack and bar field, with subtle lift, shadow, and spatial drift instead of a framed room. Mobile fallback: Keep a single phrase stack, reveal one note at a time, and use swipe or tap to move between manifesto beats.",
+    "summary": "Luxury Archive + Playable Poster. Turn the full poster into a typographic manifesto field: bars become interface slabs, key words become oversized live type, and small drag or scroll shifts the whole statement in depth."
+  }
+}

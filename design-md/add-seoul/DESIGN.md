@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: browse, collect, buy
 - Inputs: scroll, tap, hover, drag
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #1c1e17 - canvas / dominant background
@@ -54,7 +56,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#1c1e17) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (e-commerce, fashion, tactile) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (e-commerce, fashion, tactile) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit #8c8b87 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -125,7 +127,7 @@ Key Characteristics:
 ### Do
 - Use themify consistently for headlines and interface labels.
 - Keep the palette anchored to #1c1e17, #ffffff, and #8c8b87.
-- Preserve the experimental posture signaled by the loadmo.re tags: e-commerce, fashion, tactile.
+- Preserve the experimental posture signaled by the archive tags: e-commerce, fashion, tactile.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

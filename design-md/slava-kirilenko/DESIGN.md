@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: read, browse, contact
 - Inputs: scroll, tap, type
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fafafa - canvas / dominant background
@@ -52,7 +54,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fafafa) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (portfolio, typography, clean-ui) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (portfolio, typography, clean-ui) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -123,7 +125,7 @@ Key Characteristics:
 ### Do
 - Use Futura consistently for headlines and interface labels.
 - Keep the palette anchored to #fafafa, #6f6e6d, and #a29f9f.
-- Preserve the experimental posture signaled by the loadmo.re tags: portfolio, typography, clean-ui.
+- Preserve the experimental posture signaled by the archive tags: portfolio, typography, clean-ui.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

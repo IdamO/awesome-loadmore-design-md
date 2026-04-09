@@ -13,8 +13,11 @@ async function run(label, command, args) {
 }
 
 await run('crawl', 'node', ['scripts/crawl-loadmore.mjs']);
+await run('crawl:arte', 'node', ['scripts/crawl-arte-collective.mjs']);
 await run('capture', 'node', ['scripts/capture-sites.mjs', ...extraArgs]);
 await run('fallback', 'node', ['scripts/fill-fallback-captures.mjs']);
+await run('synthesize:arte', 'node', ['scripts/synthesize-arte-posters.mjs']);
 await run('generate', 'node', ['scripts/generate-site-files.mjs']);
+await run('render:concepts', 'node', ['scripts/render-concept-previews.mjs']);
 await run('index', 'node', ['scripts/build-agent-index.mjs']);
 await run('validate', 'node', ['scripts/validate-repo.mjs']);

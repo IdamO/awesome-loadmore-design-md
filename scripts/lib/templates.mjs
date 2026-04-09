@@ -1,3 +1,4 @@
+import { buildArtePosterPreviewHtml, buildArteTranslationBlock } from './arte-preview.mjs';
 import { classifyCaptureMode, enrichMeta, palette, primaryFonts } from './design-os.mjs';
 import { isDark, titleCase } from './utils.mjs';
 
@@ -24,6 +25,10 @@ function tagMood(tags = []) {
   return moods.slice(0, 3).join(', ');
 }
 
+function isArtePoster(meta) {
+  return meta?.sourceKind === 'arte-poster';
+}
+
 export function buildDesignMarkdown(meta) {
   const source = meta.designGuidance ? meta : enrichMeta(meta);
   const colors = palette(source);
@@ -44,6 +49,8 @@ export function buildDesignMarkdown(meta) {
   const worldSystems = source.designGuidance?.worldSystems || [];
   const mechanics = source.designGuidance?.mechanics || {};
   const schema = mechanics.schema || {};
+  const artePoster = isArtePoster(source);
+  const translationBlock = isArtePoster(source) ? buildArteTranslationBlock(source) : '';
   const captureMode = source.designGuidance?.captureMode || classifyCaptureMode(source);
   const colorLines = colors.length
     ? colors.map((item, index) => `- Color ${index + 1}: ${item.hex} - ${index === 0 ? 'canvas / dominant background' : index === 1 ? 'primary text or opposing surface' : index === 2 ? 'accent / interactive signal' : 'supporting surface or hover state'}`).join('\n')
@@ -56,7 +63,7 @@ export function buildDesignMarkdown(meta) {
 
 ## 1. Visual Theme & Atmosphere
 
-${title} reads as ${tagMood(source.tags)}. The live capture resolves to a ${darkMode ? 'dark' : 'light'}-leaning system built around ${lead}, ${second}, and accent notes from ${accent}. ${description}
+${title} reads as ${tagMood(source.tags)}. The ${artePoster ? 'concept capture' : 'live capture'} resolves to a ${darkMode ? 'dark' : 'light'}-leaning system built around ${lead}, ${second}, and accent notes from ${accent}. ${description}
 
 Desktop and mobile stay aligned but not identical: the desktop capture emphasizes ${desktop?.sticky ? 'anchored chrome and fixed-position framing' : 'a looser scroll narrative'}, while mobile compresses the same language into tighter interaction zones. The site's type system centers ${fonts[0] || 'a bespoke stack'}, which becomes the fastest way to reproduce the feel.
 
@@ -78,6 +85,8 @@ ${worldSystems.map((world, index) => `- ${index === 0 ? 'Primary' : 'Secondary'}
 - Core verbs: ${listOr(schema.coreVerbs, listOr(mechanics.inputModes, 'scroll, tap'))}
 - Inputs: ${listOr(schema.inputs, listOr(mechanics.inputModes, 'scroll, tap'))}
 
+${translationBlock ? `${translationBlock}\n` : ''}
+
 ## 3. Color Palette & Roles
 
 ${colorLines}
@@ -97,7 +106,7 @@ ${fontLines}
 - Use a ${desktop?.sticky ? 'framed viewport with anchored navigation' : 'free-flowing vertical canvas'} on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (${lead}) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (${source.tags.join(', ') || 'none'}) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (${source.tags.join(', ') || 'none'}) imply the system is intentionally non-generic.
 - Buttons tend toward ${button?.backgroundColor || 'transparent'} backgrounds with ${button?.color || 'inherit'} text, and links inherit ${desktop?.link?.color || mobile?.link?.color || accent} as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -160,7 +169,7 @@ ${(mechanics.validationChecklist || []).map((item) => `  - ${item}`).join('\n') 
 ### Do
 - Use ${fonts[0] || 'the primary extracted font'} consistently for headlines and interface labels.
 - Keep the palette anchored to ${lead}, ${second}, and ${accent}.
-- Preserve the experimental posture signaled by the loadmo.re tags: ${source.tags.join(', ') || 'unclassified'}.
+- Preserve the experimental posture signaled by the archive tags: ${source.tags.join(', ') || 'unclassified'}.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
@@ -169,7 +178,7 @@ ${(mechanics.validationChecklist || []).map((item) => `  - ${item}`).join('\n') 
 - Don't introduce rounded, pastel, or glassmorphism defaults unless the captured site already does.
 - Don't replace the extracted font stack with Inter/Roboto/system as the main voice unless no custom stack loaded.
 - Don't ignore the mobile fallback just because the desktop interaction is more fun.
-- Don't copy screenshots literally when the repo only has archival capture evidence.
+- Don't ${artePoster ? 'rebuild the framed product mockup or storefront chrome literally.' : 'copy screenshots literally when the repo only has archival capture evidence.'}
 
 ## 13. Responsive Behavior
 
@@ -177,7 +186,7 @@ ${(mechanics.validationChecklist || []).map((item) => `  - ${item}`).join('\n') 
 - Mobile capture uses ${source.capture?.mobile?.screenshot ? 'screenshots/mobile.jpg' : 'no successful live mobile screenshot'} as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
 - Implement mobile as: ${mechanics.mobileFallback || 'compress the same world into a tighter single-column stage'}.
-- If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
+- ${artePoster ? 'Use the isolated poster crop as the visual source of truth, not the Shopify frame mockup.' : 'If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.'}
 
 ## 14. Agent Prompt Guide
 
@@ -203,9 +212,14 @@ export function buildSiteReadme(meta) {
   const sourceLabel = source.sourceLabel || 'loadmo.re';
   const sourceUrl = source.sourceUrl || source.loadmoreUrl || source.liveUrl;
   const sourcePhrase = sourceUrl ? `[${sourceLabel}](${sourceUrl})` : sourceLabel;
+  const intro = isArtePoster(source)
+    ? `[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [${title}](${source.liveUrl}). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, and motion rules.`
+    : `[DESIGN.md](./DESIGN.md) extracted from the public [${title}](${source.liveUrl}) website, cross-referenced with ${sourcePhrase}. This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.`;
+  const desktopLabel = isArtePoster(source) ? 'Concept desktop render' : 'Live or archival desktop viewport capture';
+  const mobileLabel = isArtePoster(source) ? 'Concept mobile render' : 'Live or archival mobile viewport capture';
   return `# ${title} Inspired Design System
 
-[DESIGN.md](./DESIGN.md) extracted from the public [${title}](${source.liveUrl}) website, cross-referenced with ${sourcePhrase}. This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.
+${intro}
 
 ## Files
 
@@ -215,8 +229,8 @@ export function buildSiteReadme(meta) {
 | preview.html | Light preview page generated from the extracted tokens |
 | preview-dark.html | Dark preview page generated from the extracted tokens |
 | meta.json | Source metadata, capture checklist, extracted tokens, inferred mechanics, and implementation prompt |
-| screenshots/desktop.jpg | Live or archival desktop viewport capture |
-| screenshots/mobile.jpg | Live or archival mobile viewport capture |
+| screenshots/desktop.jpg | ${desktopLabel} |
+| screenshots/mobile.jpg | ${mobileLabel} |
 
 ## Mechanics Snapshot
 
@@ -233,6 +247,7 @@ export function buildSiteReadme(meta) {
 - Capture status: ${source.capture?.status || 'unknown'}
 - Capture mode: ${source.designGuidance?.captureMode || classifyCaptureMode(source)}
 - Archival fallback: ${source.capture?.fallbackUsed ? 'yes' : 'no'}
+${isArtePoster(source) ? `- Poster collections: ${(source.collectionTitles || []).join(', ') || 'unknown'}\n- Poster crop asset: ${source.posterCrop || 'assets/poster-crop.jpg'}` : ''}
 
 ## Preview
 
@@ -245,6 +260,9 @@ ${source.capture?.mobile?.screenshot ? `![${title} mobile capture](./${source.ca
 }
 
 export function buildPreviewHtml(meta, dark = false) {
+  if (isArtePoster(meta)) {
+    return buildArtePosterPreviewHtml(meta, dark);
+  }
   const title = meta.title || titleCase(meta.slug);
   const colors = palette(meta);
   const fonts = primaryFonts(meta);
@@ -365,6 +383,7 @@ export function buildPreviewHtml(meta, dark = false) {
 export function buildRootReadme({ total, tags, entries }) {
   const liveCount = entries.filter((entry) => entry.capture?.status === 'ok').length;
   const fallbackCount = entries.filter((entry) => entry.capture?.fallbackUsed).length;
+  const conceptCount = entries.filter((entry) => entry.sourceKind === 'arte-poster').length;
   return `<div align="center">
   <strong>Curated collection of DESIGN.md files extracted from loadmo.re plus hand-picked internet-native outliers.</strong>
   <br />
@@ -373,6 +392,7 @@ export function buildRootReadme({ total, tags, entries }) {
 ![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-${total}-10b981?style=classic)
 ![Live Captures](https://img.shields.io/badge/live%20captures-${liveCount}-0ea5e9?style=classic)
 ![Archival Fallbacks](https://img.shields.io/badge/archival%20fallbacks-${fallbackCount}-f59e0b?style=classic)
+![Poster Concepts](https://img.shields.io/badge/poster%20concepts-${conceptCount}-f97316?style=classic)
 ![Tags](https://img.shields.io/badge/primary%20tags-${tags.length}-6366f1?style=classic)
 </div>
 
@@ -382,7 +402,7 @@ Copy a DESIGN.md into your project, tell your AI agent to build in that visual l
 
 ## What is this?
 
-This repo mirrors the structure of [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), but the source material comes primarily from [loadmo.re](https://loadmo.re/) and is expanded with manually curated outliers that feel more internet-native than polished B2B SaaS defaults. Each entry includes:
+This repo mirrors the structure of [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), but the source material comes primarily from [loadmo.re](https://loadmo.re/) and is expanded with manually curated outliers plus poster-derived web concepts that feel more internet-native than polished B2B SaaS defaults. Each entry includes:
 
 - DESIGN.md with web, mobile, and implementation-mechanics guidance
 - preview.html and preview-dark.html
@@ -413,6 +433,7 @@ If you are an AI coding agent, do not browse this repo manually folder by folder
 - \`playbooks/motion-grammar.md\` so motion acts like brand, not garnish
 - \`playbooks/type-systems.md\` for type-role decisions and foundry direction
 - \`playbooks/asset-forge.md\` to turn generated material into designed surfaces
+- \`playbooks/poster-to-website.md\` when the source is static art that needs a browser-native interaction model
 - \`playbooks/component-philosophy.md\` to separate behavior primitives from visual authorship
 - \`data/design-os.json\` for machine-readable world, motion, type, and asset guidance
 - \`data/agent-index.json\` for machine-readable filtering and ranking of source references

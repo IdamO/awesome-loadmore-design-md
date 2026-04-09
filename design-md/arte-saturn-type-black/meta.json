@@ -1,0 +1,555 @@
+{
+  "slug": "arte-saturn-type-black",
+  "title": "Type Saturn - Black",
+  "liveUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+  "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+  "sourceKind": "arte-poster",
+  "description": "Type Saturn - Black is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "colorful",
+    "arte-aesthetic"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-8181909.png?v=1763817405",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-1355114.png?v=1763817404",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-3941018.png?v=1763817403",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-9564319.png?v=1763817403"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {},
+  "rawTags": [
+    "black",
+    "red",
+    "typography",
+    "white"
+  ],
+  "collectionHandles": [
+    "aesthetic"
+  ],
+  "collectionTitles": [
+    "Aesthetic"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15637228388687,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "aesthetic"
+    ],
+    "productPage": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-8181909.png?v=1763817405",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-1355114.png?v=1763817404",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-3941018.png?v=1763817403",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-9564319.png?v=1763817403"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "geometry-chamber",
+    "familyName": "Geometry Chamber",
+    "previewScene": "geometry",
+    "roles": {
+      "bg": "#0d0c0b",
+      "fg": "#e7e7e7",
+      "accent": "#12100f",
+      "surface": "#12100f",
+      "glow": "#e4e4e4"
+    },
+    "energy": "extruded type and poster geometry staged as a precise browser object",
+    "aura": "Type Saturn - Black should feel like a spatial type specimen whose full poster composition has been pushed into browser depth, not a flat print inside a grid.",
+    "heroCopy": "° Saturn’",
+    "depthModel": "The full poster becomes a field of duplicated type planes, offset in z, with one narrow refraction rail cutting through the scene.",
+    "motionHooks": [
+      "entrance extrusion",
+      "refraction wake",
+      "tilt response",
+      "caption slide"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Poster Volume",
+        "note": "Type Saturn - Black establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Refraction Strip",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Label Stack",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Release Marker",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Silent by default; the geometry and easing should carry the drama.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "TYPE SATURN - BLACK",
+      "Black",
+      "Red",
+      "Typography",
+      "White",
+      "Aesthetic"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Extended Geometric Sans (approx)"
+          },
+          {
+            "family": "Condensed Label Sans (approx)"
+          },
+          {
+            "family": "Micro Mono (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e4e4e4",
+            "count": 6381
+          },
+          {
+            "hex": "#161514",
+            "count": 4786
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 4498
+          },
+          {
+            "hex": "#12100f",
+            "count": 4282
+          },
+          {
+            "hex": "#3a3939",
+            "count": 3774
+          },
+          {
+            "hex": "#0d0c0b",
+            "count": 3380
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 3025
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 2274
+          }
+        ],
+        "heading": {
+          "fontSize": "102px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.045em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#12100f",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(18, 16, 15, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#0d0c0b"
+        },
+        "link": {
+          "color": "#12100f"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(18, 16, 15, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e4e4e4",
+            "count": 6381
+          },
+          {
+            "hex": "#161514",
+            "count": 4786
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 4498
+          },
+          {
+            "hex": "#12100f",
+            "count": 4282
+          },
+          {
+            "hex": "#3a3939",
+            "count": 3774
+          },
+          {
+            "hex": "#0d0c0b",
+            "count": 3380
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 3025
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 2274
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "GQ)",
+            ": Saturn P",
+            "Saturn® Saturn®",
+            "Satiirn® Satiirn® Catirn®",
+            "Saturn®"
+          ],
+          "bodyLines": [
+            "° Saturn’",
+            "Saturn® Saturn",
+            "(o) (0) ®",
+            "Saturn® Saturn® Saturn",
+            "Saturn® Saturn® Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn’ Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn® Saturn® Saturn” Saturn”",
+            "Saturn® Saturn® Saturn® Saturn’ Saturn” Saturn’ Saturn’ Saturn” Saturn’ Saturn’",
+            "Saturn® Saturn” Saturn® Saturn® Saturn’ Saturn® Saturn® Saturn® Saturn® Saturn® Saturn’"
+          ]
+        },
+        "posterBrightness": 0.3747,
+        "posterContrast": 0.3543
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Extended Geometric Sans (approx)"
+          },
+          {
+            "family": "Condensed Label Sans (approx)"
+          },
+          {
+            "family": "Micro Mono (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#e4e4e4",
+            "count": 6381
+          },
+          {
+            "hex": "#161514",
+            "count": 4786
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 4498
+          },
+          {
+            "hex": "#12100f",
+            "count": 4282
+          },
+          {
+            "hex": "#3a3939",
+            "count": 3774
+          },
+          {
+            "hex": "#0d0c0b",
+            "count": 3380
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 3025
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 2274
+          }
+        ],
+        "heading": {
+          "fontSize": "68px",
+          "fontWeight": "800",
+          "letterSpacing": "-0.045em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#12100f",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(18, 16, 15, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#0d0c0b"
+        },
+        "link": {
+          "color": "#12100f"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(18, 16, 15, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#e4e4e4",
+            "count": 6381
+          },
+          {
+            "hex": "#161514",
+            "count": 4786
+          },
+          {
+            "hex": "#1f1c1b",
+            "count": 4498
+          },
+          {
+            "hex": "#12100f",
+            "count": 4282
+          },
+          {
+            "hex": "#3a3939",
+            "count": 3774
+          },
+          {
+            "hex": "#0d0c0b",
+            "count": 3380
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 3025
+          },
+          {
+            "hex": "#9c9c9b",
+            "count": 2274
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "GQ)",
+            ": Saturn P",
+            "Saturn® Saturn®",
+            "Satiirn® Satiirn® Catirn®",
+            "Saturn®"
+          ],
+          "bodyLines": [
+            "° Saturn’",
+            "Saturn® Saturn",
+            "(o) (0) ®",
+            "Saturn® Saturn® Saturn",
+            "Saturn® Saturn® Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn’ Saturn® Saturn®",
+            "Saturn® Saturn® Saturn® Saturn® Saturn® Saturn® Saturn” Saturn”",
+            "Saturn® Saturn® Saturn® Saturn’ Saturn” Saturn’ Saturn’ Saturn” Saturn’ Saturn’",
+            "Saturn® Saturn” Saturn® Saturn® Saturn’ Saturn® Saturn® Saturn® Saturn® Saturn® Saturn’"
+          ]
+        },
+        "posterBrightness": 0.3747,
+        "posterContrast": 0.3543
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "reason": "The poster composition should stay bold and singular even after it becomes interactive."
+      },
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "reason": "Structured labels and controlled negative space keep the result from becoming noise."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "playable_poster",
+        "name": "Playable Poster",
+        "confidence": 0.88,
+        "reason": "The poster wants to become an authored 3D type composition with a small number of high-conviction transforms.",
+        "refs": [
+          "design-your-own-hole",
+          "gt-flexa",
+          "smc-real-time"
+        ]
+      },
+      "interactionModel": "Extrude the full poster into a typographic chamber: drag rotates type planes, hover activates refraction layers, and scroll reveals staggered strata pulled from the composition.",
+      "navigationModel": "One full-poster composition with staged type volumes and a disciplined lower content rail.",
+      "stateModel": "Poster field at rest -> depth wake-up -> refraction reveal -> caption rail -> reset.",
+      "inputModes": [
+        "hover",
+        "drag",
+        "scroll",
+        "tap"
+      ],
+      "engineHints": [
+        "Use CSS 3D transforms and blurred clones to simulate extrusion before reaching for WebGL.",
+        "Treat the headline as a moving object in space, not just text overlay.",
+        "Keep the scene sparse so one geometric move dominates."
+      ],
+      "motionRecipe": [
+        "Run one ceremonial entrance with the headline or poster plane.",
+        "Use hover to activate refraction layers and depth shadows.",
+        "Move type planes on slightly different easing curves to preserve dimensionality."
+      ],
+      "mobileFallback": "Split the chamber into stacked scenes with one tilt response and one caption rail instead of maintaining full desktop depth.",
+      "implementationNotes": [
+        "Do not flatten the poster typography into a normal hero block.",
+        "Keep at least one negative-space zone completely clean so the geometry can breathe.",
+        "Use the accent color sparingly as a precision edge, not a flood fill."
+      ],
+      "antiPatterns": [
+        "Do not add more than one dramatic transform family.",
+        "Do not use generic floating blobs when the poster language is geometric.",
+        "Do not let supporting copy compete with the headline volume."
+      ],
+      "validationChecklist": [
+        "The full poster geometry reads as deliberate depth rather than random skew.",
+        "The headline remains the dominant actor before any CTA appears.",
+        "Mobile preserves one strong volumetric move."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "Type Volume",
+        "Refraction Rail",
+        "GQ)",
+        ": Saturn P"
+      ],
+      "schema": {
+        "interactionModelId": "playable_poster",
+        "coreVerbs": [
+          "reveal",
+          "tilt",
+          "extrude",
+          "stage"
+        ],
+        "inputs": [
+          "hover",
+          "drag",
+          "scroll",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "event-driven",
+          "triggers": [
+            "pointer",
+            "scroll",
+            "time"
+          ],
+          "transitions": [
+            "morph",
+            "depth-shift",
+            "refraction"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "2.5d",
+          "camera": "fixed",
+          "depthCues": [
+            "perspective",
+            "blur",
+            "shadow"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "play",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic"
+          ],
+          "retro": [],
+          "glitch": [
+            "chromatic-aberration"
+          ]
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "reduced-motion",
+            "static-poster"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Type Saturn - Black\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #0d0c0b, #e7e7e7, and #12100f, use Extended Geometric Sans (approx) for the hero voice and Condensed Label Sans (approx) for metadata, build the page as a Playable Poster surface with Playable Poster mechanics, and stage the desktop hero as the full poster becomes a field of duplicated type planes, offset in z, with one narrow refraction rail cutting through the scene. Mobile fallback: Split the chamber into stacked scenes with one tilt response and one caption rail instead of maintaining full desktop depth.",
+    "summary": "Playable Poster + Playable Poster. Extrude the full poster into a typographic chamber: drag rotates type planes, hover activates refraction layers, and scroll reveals staggered strata pulled from the composition."
+  }
+}

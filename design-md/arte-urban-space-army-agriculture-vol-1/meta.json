@@ -1,0 +1,546 @@
+{
+  "slug": "arte-urban-space-army-agriculture-vol-1",
+  "title": "Urban Space Army - Agriculture vol.1",
+  "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+  "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+  "sourceKind": "arte-poster",
+  "description": "Urban Space Army - Agriculture vol.1 is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "retro",
+    "playful",
+    "sound-design",
+    "culture-tech",
+    "arte-technology"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-6860308.png?v=1763817386",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-4812049.png?v=1763817386",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1905433.png?v=1763817385",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1802209.png?v=1763817386"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {},
+  "rawTags": [
+    "agriculture",
+    "futurist",
+    "green"
+  ],
+  "collectionHandles": [
+    "technology"
+  ],
+  "collectionTitles": [
+    "Technology"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15637217182031,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "technology"
+    ],
+    "productPage": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-6860308.png?v=1763817386",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-4812049.png?v=1763817386",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1905433.png?v=1763817385",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1802209.png?v=1763817386"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "signal-slab",
+    "familyName": "Signal Slab Field",
+    "previewScene": "signal",
+    "roles": {
+      "bg": "#1c281a",
+      "fg": "#e6e6e6",
+      "accent": "#009a4a",
+      "surface": "#20301d",
+      "glow": "#e2e2e2"
+    },
+    "energy": "reactive signal architecture built from the poster itself",
+    "aura": "Urban Space Army - Agriculture vol.1 should feel like a live control poster whose full composition becomes a responsive HUD field instead of flat merch storytelling.",
+    "heroCopy": "AGRICULTURE",
+    "depthModel": "The whole poster becomes a tilted HUD field, with title planes, copy grids, and object fragments separated into translucent depth rails.",
+    "motionHooks": [
+      "scanline drift",
+      "pointer wake",
+      "panel snap",
+      "grid pulse"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Signal Stage",
+        "note": "Urban Space Army - Agriculture vol.1 establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Diagnostic Rail",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Memory Stack",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Action Loop",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Soft synth ticks or filtered clicks after user gesture; silence before intent.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "URBAN SPACE ARMY - AGRICULTURE VOL.1",
+      "Agriculture",
+      "Futurist",
+      "Green",
+      "Technology",
+      "Reactive Grid"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Condensed Display Grotesk (approx)"
+          },
+          {
+            "family": "Pixel Mono Console (approx)"
+          },
+          {
+            "family": "Utility Sans Narrow (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#20301d",
+            "count": 10846
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4511
+          },
+          {
+            "hex": "#009a4a",
+            "count": 3914
+          },
+          {
+            "hex": "#e2e2e2",
+            "count": 3780
+          },
+          {
+            "hex": "#243722",
+            "count": 3522
+          },
+          {
+            "hex": "#009d4d",
+            "count": 3424
+          },
+          {
+            "hex": "#1c281a",
+            "count": 1779
+          },
+          {
+            "hex": "#41845e",
+            "count": 624
+          }
+        ],
+        "heading": {
+          "fontSize": "98px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.055em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#009a4a",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(0, 154, 74, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#1c281a"
+        },
+        "link": {
+          "color": "#009a4a"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(0, 154, 74, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#20301d",
+            "count": 10846
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4511
+          },
+          {
+            "hex": "#009a4a",
+            "count": 3914
+          },
+          {
+            "hex": "#e2e2e2",
+            "count": 3780
+          },
+          {
+            "hex": "#243722",
+            "count": 3522
+          },
+          {
+            "hex": "#009d4d",
+            "count": 3424
+          },
+          {
+            "hex": "#1c281a",
+            "count": 1779
+          },
+          {
+            "hex": "#41845e",
+            "count": 624
+          }
+        ],
+        "ocr": {
+          "titleLines": [],
+          "bodyLines": [
+            "AGRICULTURE",
+            "DIVISION",
+            "DEFEND OUR EARTH",
+            "PRAY FOR HUMANITY",
+            "JOIN US AT +333 222111"
+          ]
+        },
+        "posterBrightness": 0.4048,
+        "posterContrast": 0.3008
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Condensed Display Grotesk (approx)"
+          },
+          {
+            "family": "Pixel Mono Console (approx)"
+          },
+          {
+            "family": "Utility Sans Narrow (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#20301d",
+            "count": 10846
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4511
+          },
+          {
+            "hex": "#009a4a",
+            "count": 3914
+          },
+          {
+            "hex": "#e2e2e2",
+            "count": 3780
+          },
+          {
+            "hex": "#243722",
+            "count": 3522
+          },
+          {
+            "hex": "#009d4d",
+            "count": 3424
+          },
+          {
+            "hex": "#1c281a",
+            "count": 1779
+          },
+          {
+            "hex": "#41845e",
+            "count": 624
+          }
+        ],
+        "heading": {
+          "fontSize": "66px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.055em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.55"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#009a4a",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(0, 154, 74, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#1c281a"
+        },
+        "link": {
+          "color": "#009a4a"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(0, 154, 74, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#20301d",
+            "count": 10846
+          },
+          {
+            "hex": "#e6e6e6",
+            "count": 4511
+          },
+          {
+            "hex": "#009a4a",
+            "count": 3914
+          },
+          {
+            "hex": "#e2e2e2",
+            "count": 3780
+          },
+          {
+            "hex": "#243722",
+            "count": 3522
+          },
+          {
+            "hex": "#009d4d",
+            "count": 3424
+          },
+          {
+            "hex": "#1c281a",
+            "count": 1779
+          },
+          {
+            "hex": "#41845e",
+            "count": 624
+          }
+        ],
+        "ocr": {
+          "titleLines": [],
+          "bodyLines": [
+            "AGRICULTURE",
+            "DIVISION",
+            "DEFEND OUR EARTH",
+            "PRAY FOR HUMANITY",
+            "JOIN US AT +333 222111"
+          ]
+        },
+        "posterBrightness": 0.4048,
+        "posterContrast": 0.3008
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "club-instrument",
+        "name": "Club Instrument",
+        "reason": "The web version should feel like a responsive system, not a static poster pinned to the wall."
+      },
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "reason": "Oversized type and one clear ritual keep the poster energy intact."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "club_instrument",
+        "name": "Club Instrument",
+        "confidence": 0.9,
+        "reason": "The poster language wants to become a reactive field of signals, meters, panels, and pressure-sensitive motion.",
+        "refs": [
+          "osk",
+          "jazz-keys",
+          "blob-opera"
+        ]
+      },
+      "interactionModel": "Turn the full poster into a responsive signal field: pointer movement shifts grids, tap reveals diagnostic panels, and drag scrubs the title, copy, and object fragments through layered depth planes.",
+      "navigationModel": "The whole poster is the system surface; telemetry rails and notes emerge from the composition instead of sitting beside it.",
+      "stateModel": "Idle scan -> title and grid wake-up -> panel pulse -> scrubbed depth shift -> settle back into the full poster field.",
+      "inputModes": [
+        "hover",
+        "tap",
+        "drag",
+        "scroll"
+      ],
+      "engineHints": [
+        "Use CSS transforms plus Canvas accents to split the poster into reactive scan lines, pulse grids, and numeric rails.",
+        "Map every interaction to a visible system response in under 180ms.",
+        "Keep panel density high, but reserve one dominant hero surface."
+      ],
+      "motionRecipe": [
+        "Animate scanlines or grids continuously at low amplitude.",
+        "Use pointer proximity to shift panels in z-space.",
+        "Pulse labels and counters in sync with the accent color instead of generic hover fades."
+      ],
+      "mobileFallback": "Collapse to one active hero slab, two stacked telemetry rails, and tap-to-cycle data states instead of precision hover behavior.",
+      "implementationNotes": [
+        "The poster should become the whole system surface, not a background image with UI pasted on top.",
+        "Use lighting, scanlines, and layered panels to create depth without drowning the typography.",
+        "Let the accent color drive both signal and CTA emphasis."
+      ],
+      "antiPatterns": [
+        "Do not turn the concept into a generic dashboard grid.",
+        "Do not use tiny unreadable cards to fake technical depth.",
+        "Do not rely on hover as the only interactive cue."
+      ],
+      "validationChecklist": [
+        "Users can feel the full poster field react immediately to pointer or touch.",
+        "The title, copy field, and object fragments remain legible while panels animate around them.",
+        "Mobile preserves the reactive feeling with fewer surfaces."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "Reactive Grid",
+        "Signal Stack"
+      ],
+      "schema": {
+        "interactionModelId": "club_instrument",
+        "coreVerbs": [
+          "pulse",
+          "scrub",
+          "reveal",
+          "tune"
+        ],
+        "inputs": [
+          "hover",
+          "tap",
+          "drag",
+          "scroll"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "explicit",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "high",
+          "cadence": "tempo-linked",
+          "triggers": [
+            "pointer",
+            "time",
+            "scroll"
+          ],
+          "transitions": [
+            "pulse",
+            "scrub",
+            "panel-shift",
+            "glow"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "2.5d",
+          "camera": "perspective",
+          "depthCues": [
+            "perspective",
+            "lighting",
+            "occlusion"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "compose",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "reactive",
+          "triggers": [
+            "pointer",
+            "press"
+          ],
+          "controls": [
+            "mute"
+          ],
+          "sync": "tight"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic",
+            "elastic"
+          ],
+          "retro": [
+            "scanline",
+            "pixel"
+          ],
+          "glitch": [
+            "channel-split",
+            "data-jitter"
+          ]
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "canvas"
+          ],
+          "fallbacks": [
+            "mute-first",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Urban Space Army - Agriculture vol.1\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #1c281a, #e6e6e6, and #009a4a, use Condensed Display Grotesk (approx) for the hero voice and Pixel Mono Console (approx) for metadata, build the page as a Club Instrument surface with Club Instrument mechanics, and stage the desktop hero as the whole poster becomes a tilted hud field, with title planes, copy grids, and object fragments separated into translucent depth rails. Mobile fallback: Collapse to one active hero slab, two stacked telemetry rails, and tap-to-cycle data states instead of precision hover behavior.",
+    "summary": "Club Instrument + Club Instrument. Turn the full poster into a responsive signal field: pointer movement shifts grids, tap reveals diagnostic panels, and drag scrubs the title, copy, and object fragments through layered depth planes."
+  }
+}

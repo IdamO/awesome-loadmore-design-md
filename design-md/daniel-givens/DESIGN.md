@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: read, browse, contact
 - Inputs: scroll, tap
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f7f4ee - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f7f4ee) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (tactile, colorful, portfolio) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (tactile, colorful, portfolio) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(14, 77, 237) backgrounds with rgb(247, 245, 238) text, and links inherit #a6b9e3 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -120,7 +122,7 @@ Key Characteristics:
 ### Do
 - Use Geist Mono consistently for headlines and interface labels.
 - Keep the palette anchored to #f7f4ee, #dfe1e5, and #a6b9e3.
-- Preserve the experimental posture signaled by the loadmo.re tags: tactile, colorful, portfolio.
+- Preserve the experimental posture signaled by the archive tags: tactile, colorful, portfolio.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

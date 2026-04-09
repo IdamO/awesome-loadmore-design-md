@@ -1,0 +1,3330 @@
+{
+  "generatedAt": "2026-04-09T21:44:26.036Z",
+  "source": "https://arte-collective.com",
+  "collections": [
+    {
+      "handle": "aesthetic",
+      "title": "Aesthetic",
+      "url": "https://arte-collective.com/collections/aesthetic",
+      "jsonUrl": "https://arte-collective.com/collections/aesthetic/products.json?limit=250",
+      "count": 33
+    },
+    {
+      "handle": "technology",
+      "title": "Technology",
+      "url": "https://arte-collective.com/collections/technology",
+      "jsonUrl": "https://arte-collective.com/collections/technology/products.json?limit=250",
+      "count": 23
+    },
+    {
+      "handle": "minimalism",
+      "title": "Minimalism",
+      "url": "https://arte-collective.com/collections/minimalism",
+      "jsonUrl": "https://arte-collective.com/collections/minimalism/products.json?limit=250",
+      "count": 22
+    }
+  ],
+  "total": 76,
+  "posters": [
+    {
+      "slug": "arte-ai-matrix",
+      "sourceKind": "arte-poster",
+      "title": "AI Matrix",
+      "handle": "ai-matrix",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/ai-matrix",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/ai-matrix",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/ai-matrix",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795644924239,
+      "productType": "Poster",
+      "rawTags": [
+        "ai",
+        "green",
+        "hologram",
+        "matrix"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-9789935.png?v=1763816976",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-9888538.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-9582704.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-4404231.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-5804284.png?v=1763816974"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ai-matrix-9789935.png?v=1763816976",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-artifact",
+      "sourceKind": "arte-poster",
+      "title": "Artifact",
+      "handle": "artifact",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/artifact",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/artifact",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/artifact",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755486921039,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "monolith",
+        "yellow"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-8470377.png?v=1763817269",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-9695070.png?v=1763817268",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-6068954.png?v=1763817267",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-8644600.png?v=1763817267",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-5655814.png?v=1763817267"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/artifact-8470377.png?v=1763817269",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-ascend",
+      "sourceKind": "arte-poster",
+      "title": "Ascend",
+      "handle": "ascend",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/ascend",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/ascend",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/ascend",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688718483791,
+      "productType": "Poster",
+      "rawTags": [
+        "Black",
+        "orange",
+        "Space"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-5729991.png?v=1763817228",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-9037334.png?v=1763817231",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-9371430.png?v=1763817228",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-6510939.png?v=1763817230",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-1920446.png?v=1763817230"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ascend-5729991.png?v=1763817228",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-astral",
+      "sourceKind": "arte-poster",
+      "title": "Astral",
+      "handle": "astral",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/astral",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/astral",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/astral",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755266457935,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "blue",
+        "photography"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-9433750.png?v=1763817247",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-4391021.png?v=1763817246",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-6857883.png?v=1763817249",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-8938124.png?v=1763817249",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-3353817.png?v=1763817245"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/astral-9433750.png?v=1763817247",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-censor",
+      "sourceKind": "arte-poster",
+      "title": "Censor",
+      "handle": "censor",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/censor",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/censor",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/censor",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755280974159,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "black",
+        "earth",
+        "flat"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-9301600.png?v=1767360087",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-5719815.png?v=1767360086",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-3682637.png?v=1767360087",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-3205849.png?v=1767360084",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-2588080.png?v=1767360086"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/censor-9301600.png?v=1767360087",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-cloud",
+      "sourceKind": "arte-poster",
+      "title": "Cloud",
+      "handle": "cloud",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/cloud",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/cloud",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/cloud",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755291361615,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "photography",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic",
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Aesthetic",
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-5404594.png?v=1763817102",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-3679955.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-6484293.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-9295885.jpg?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-3493001.png?v=1763817100"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cloud-5404594.png?v=1763817102",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic, Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-code",
+      "sourceKind": "arte-poster",
+      "title": "Code",
+      "handle": "code",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/code",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/code",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/code",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795645940047,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "yellow"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-5130408.png?v=1763816982",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-1658783.png?v=1763816981",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-2894994.png?v=1763816983",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-1843552.png?v=1763816983",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-1379460.png?v=1763816980"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/code-5130408.png?v=1763816982",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-coding-brain",
+      "sourceKind": "arte-poster",
+      "title": "Coding brain",
+      "handle": "coding-brain",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/coding-brain",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/coding-brain",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/coding-brain",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688241578319,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "code",
+        "devellopers",
+        "red"
+      ],
+      "collectionHandles": [
+        "aesthetic",
+        "technology"
+      ],
+      "collectionTitles": [
+        "Aesthetic",
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-6239143.png?v=1763817268",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-1944847.png?v=1763817269",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-4902112.png?v=1763817265",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-5090929.png?v=1763817268",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-1732457.png?v=1763817267"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/coding-brain-6239143.png?v=1763817268",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic, Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-construct",
+      "sourceKind": "arte-poster",
+      "title": "Construct",
+      "handle": "construct",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/construct",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/construct",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/construct",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755474731343,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "blue",
+        "monolith"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-7457416.png?v=1763817087",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-8484319.png?v=1763817090",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-3552209.png?v=1763817089",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-5559880.png?v=1763817089",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-2925232.png?v=1763817089"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/construct-7457416.png?v=1763817087",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-cosmos",
+      "sourceKind": "arte-poster",
+      "title": "Cosmos",
+      "handle": "cosmos",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/cosmos",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/cosmos",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/cosmos",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637448556879,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "cosmos",
+        "grey",
+        "stellar",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-1117374.png?v=1763817206",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-3307597.png?v=1763817207",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-6951844.png?v=1763817205",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-3539006.png?v=1763817206",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-3049650.png?v=1763817205"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/cosmos-1117374.png?v=1763817206",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-ctrl-z",
+      "sourceKind": "arte-poster",
+      "title": "CTRL Z",
+      "handle": "ctrl-z",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/ctrl-z",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/ctrl-z",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/ctrl-z",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15800159699279,
+      "productType": "Poster",
+      "rawTags": [
+        "code",
+        "computer",
+        "dev",
+        "developers",
+        "informatic",
+        "orange",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ctrl-z-7858423.png?v=1763909365",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ctrl-z-2776657.png?v=1763909366",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ctrl-z-8983631.png?v=1763909364",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ctrl-z-2956360.png?v=1763909366",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_124.png?v=1763849182"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/ctrl-z-7858423.png?v=1763909365",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-drifters",
+      "sourceKind": "arte-poster",
+      "title": "Drifters",
+      "handle": "drifters",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/drifters",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/drifters",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/drifters",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688719073615,
+      "productType": "Poster",
+      "rawTags": [
+        "Blue",
+        "Body",
+        "Love",
+        "Space"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-8512798.png?v=1763817087",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-8445242.png?v=1763817088",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-3344155.png?v=1763817087",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-6920432.png?v=1763817088",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-3165108.png?v=1763817088"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/drifters-8512798.png?v=1763817087",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-pray-in-silence",
+      "sourceKind": "arte-poster",
+      "title": "Eclipse",
+      "handle": "pray-in-silence",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/pray-in-silence",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/pray-in-silence",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/pray-in-silence",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755613503823,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "eclipse",
+        "moon"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-4595026.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-4627542.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-2706546.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-2955129.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-1685361.png?v=1763816974"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/eclipse-4595026.png?v=1763816977",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-error-404",
+      "sourceKind": "arte-poster",
+      "title": "Error 404",
+      "handle": "error-404",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/error-404",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/error-404",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/error-404",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795637584207,
+      "productType": "Poster",
+      "rawTags": [
+        "404",
+        "blue",
+        "nerd"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-3173769.png?v=1763816976",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-3562534.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-9920251.png?v=1763816978",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-4948365.png?v=1763816976",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-9621525.png?v=1763816977"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/error-404-3173769.png?v=1763816976",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-essence-of-neptune",
+      "sourceKind": "arte-poster",
+      "title": "Essence of Neptune",
+      "handle": "essence-of-neptune",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/essence-of-neptune",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/essence-of-neptune",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/essence-of-neptune",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688722514255,
+      "productType": "Poster",
+      "rawTags": [
+        "Blue",
+        "Essence",
+        "Neptune",
+        "Red",
+        "White"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-4032511.png?v=1763817120",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-4137264.png?v=1763817119",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-8852011.png?v=1763817120",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-3883507.png?v=1763817118",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-4633174.png?v=1763817119"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/essence-of-neptune-4032511.png?v=1763817120",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-evolution",
+      "sourceKind": "arte-poster",
+      "title": "Evolution",
+      "handle": "evolution",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/evolution",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/evolution",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/evolution",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688245805391,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "evolution",
+        "tv"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-6919059.png?v=1763817098",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-9022402.png?v=1763817099",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-7525648.png?v=1763817097",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-2993899.png?v=1763817101",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-4255016.png?v=1763817098"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/evolution-6919059.png?v=1763817098",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-fix-one-bug-green",
+      "sourceKind": "arte-poster",
+      "title": "Fix one bug - Green",
+      "handle": "fix-one-bug-green",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-green",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-green",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-green",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795649478991,
+      "productType": "Poster",
+      "rawTags": [
+        "code",
+        "developers",
+        "green",
+        "grey"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-7130432.png?v=1763816998",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-2050479.png?v=1763816997",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-8931079.png?v=1763816998",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-9607033.png?v=1763816999",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-1441665.png?v=1763816997"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-green-7130432.png?v=1763816998",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-fix-one-bug-orange",
+      "sourceKind": "arte-poster",
+      "title": "Fix one bug - Orange",
+      "handle": "fix-one-bug-orange",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-orange",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-orange",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/fix-one-bug-orange",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795656294735,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "code",
+        "developers",
+        "orange"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-4683460.png?v=1763816978",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-5652633.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-4228685.png?v=1763816976",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-4875152.png?v=1763816977",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-9545103.png?v=1763816975"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/fix-one-bug-orange-4683460.png?v=1763816978",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-geometry-refraction-vol-1",
+      "sourceKind": "arte-poster",
+      "title": "Geometry refraction vol.1",
+      "handle": "geometry-refraction-vol-1",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755465654607,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "monolith"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-4181136.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-3004329.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-5119800.png?v=1763817099",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-8715362.png?v=1763817101"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-geometry-refraction-vol-2",
+      "sourceKind": "arte-poster",
+      "title": "Geometry refraction vol.2",
+      "handle": "geometry-refraction-vol-2",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-2",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-2",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-2",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755461689679,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "monolith",
+        "red"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-4416662.png?v=1763817272",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-1357831.png?v=1763817271",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-1887954.png?v=1763817272",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-6207880.png?v=1763817271",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-7430973.png?v=1763817270"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol2-4416662.png?v=1763817272",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-geometry-refraction-vol-3",
+      "sourceKind": "arte-poster",
+      "title": "Geometry refraction vol.3",
+      "handle": "geometry-refraction-vol-3",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-3",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-3",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-3",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755462377807,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "monolith",
+        "red"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-3511988.png?v=1763817264",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-1873963.png?v=1763817264",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-1991647.png?v=1763817263",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-9052539.png?v=1763817267",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-7680594.png?v=1763817265"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol3-3511988.png?v=1763817264",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-git-push-and-bye",
+      "sourceKind": "arte-poster",
+      "title": "Git push and bye",
+      "handle": "git-push-and-bye",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/git-push-and-bye",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/git-push-and-bye",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/git-push-and-bye",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15800163205455,
+      "productType": "Poster",
+      "rawTags": [
+        "code",
+        "computer",
+        "dev",
+        "developers",
+        "github",
+        "informatic",
+        "Purple"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/git-push-and-bye-3144177.png?v=1763909362",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/git-push-and-bye-4211446.png?v=1763909362",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/git-push-and-bye-2003866.png?v=1763909362",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/git-push-and-bye-2433247.png?v=1763909363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_124.png?v=1763849182",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_116.png?v=1763849185"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/git-push-and-bye-3144177.png?v=1763909362",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-grows-slowly",
+      "sourceKind": "arte-poster",
+      "title": "Grows Slowly",
+      "handle": "grows-slowly",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/grows-slowly",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/grows-slowly",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/grows-slowly",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755649548623,
+      "productType": "Poster",
+      "rawTags": [
+        "ecology",
+        "green"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-5391117.png?v=1763816998",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-1976287.png?v=1763816995",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-9030652.png?v=1763816997",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-9454496.png?v=1763816997",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-1665048.png?v=1763816995"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/grows-slowly-5391117.png?v=1763816998",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-hal-9000-problems",
+      "sourceKind": "arte-poster",
+      "title": "HAL 9000 = Problems",
+      "handle": "hal-9000-problems",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/hal-9000-problems",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/hal-9000-problems",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/hal-9000-problems",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755554488655,
+      "productType": "Poster",
+      "rawTags": [
+        "2001",
+        "black",
+        "red"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-9775114.png?v=1763817186",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-9807751.png?v=1763817186",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-1395312.png?v=1763817187",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-8002080.png?v=1763817188",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-2457565.png?v=1763817188"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/hal-9000-problems-9775114.png?v=1763817186",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18\" / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-language",
+      "sourceKind": "arte-poster",
+      "title": "Language",
+      "handle": "language",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/language",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/language",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/language",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637407891791,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "minimalist",
+        "white"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language-1069256.png?v=1767360160",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language-4309802.png?v=1767360158",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language-5738850.png?v=1767360159",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language-5647616.png?v=1767360157",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language.png?v=1767348263"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/language-1069256.png?v=1767360160",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-look-at-the-sky",
+      "sourceKind": "arte-poster",
+      "title": "Look at the sky",
+      "handle": "look-at-the-sky",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/look-at-the-sky",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/look-at-the-sky",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/look-at-the-sky",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688258486607,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "brown"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-2969448.png?v=1763817239",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-5239080.png?v=1763817239",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-5213428.png?v=1763817241",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-4989567.png?v=1763817241",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-4708361.png?v=1763817239"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-sky-2969448.png?v=1763817239",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-look-at-the-stars",
+      "sourceKind": "arte-poster",
+      "title": "Look at the Stars",
+      "handle": "look-at-the-stars",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/look-at-the-stars",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/look-at-the-stars",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/look-at-the-stars",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755602198863,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "sky",
+        "stars"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-5304505.png?v=1763816972",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-5990891.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-3013455.png?v=1763816975",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-4724356.png?v=1763816973",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-1551529.png?v=1763816972"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/look-at-the-stars-5304505.png?v=1763816972",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-lost-blue",
+      "sourceKind": "arte-poster",
+      "title": "Lost - Blue",
+      "handle": "lost-blue",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/lost-blue",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/lost-blue",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/lost-blue",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637403173199,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "nasa"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-7369540.png?v=1763817292",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-6869707.png?v=1763817290",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-8821802.png?v=1763817289",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-9114256.png?v=1763817291",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-2586186.png?v=1763817289"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-blue-7369540.png?v=1763817292",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-lost-brown",
+      "sourceKind": "arte-poster",
+      "title": "Lost - Brown",
+      "handle": "lost-brown",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/lost-brown",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/lost-brown",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/lost-brown",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637399273807,
+      "productType": "Poster",
+      "rawTags": [
+        "brown",
+        "nasa"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-9933602.png?v=1763817286",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-5921822.png?v=1763817288",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-5782525.png?v=1763817287",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-3175344.png?v=1763817287",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-3031713.png?v=1763817287"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-brown-9933602.png?v=1763817286",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-lost-green",
+      "sourceKind": "arte-poster",
+      "title": "Lost - Green",
+      "handle": "lost-green",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/lost-green",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/lost-green",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/lost-green",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637397340495,
+      "productType": "Poster",
+      "rawTags": [
+        "green",
+        "nasa"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-3850354.png?v=1763817296",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-1275083.png?v=1763817295",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-8409860.png?v=1763817294",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-7412537.png?v=1763817294",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-3168021.png?v=1763817296"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-green-3850354.png?v=1763817296",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-lost-orange",
+      "sourceKind": "arte-poster",
+      "title": "Lost - Orange",
+      "handle": "lost-orange",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/lost-orange",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/lost-orange",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/lost-orange",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637395997007,
+      "productType": "Poster",
+      "rawTags": [
+        "nasa",
+        "orange"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-7865599.png?v=1763817292",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-2123754.png?v=1763817295",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-7395581.png?v=1763817295",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-7672953.png?v=1763817294",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-4700398.png?v=1763817291"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-orange-7865599.png?v=1763817292",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-lost-yellow",
+      "sourceKind": "arte-poster",
+      "title": "Lost - Yellow",
+      "handle": "lost-yellow",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/lost-yellow",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/lost-yellow",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/lost-yellow",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637388853583,
+      "productType": "Poster",
+      "rawTags": [
+        "nasa",
+        "yellow"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-6329703.png?v=1763817292",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-2369387.png?v=1763817292",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-3108585.png?v=1763817292",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-2252331.png?v=1763817291",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-1675139.png?v=1763817291"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/lost-yellow-6329703.png?v=1763817292",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-low-oxygen",
+      "sourceKind": "arte-poster",
+      "title": "Low Oxygen",
+      "handle": "low-oxygen",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/low-oxygen",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/low-oxygen",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/low-oxygen",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637385544015,
+      "productType": "Poster",
+      "rawTags": [
+        "grey",
+        "science",
+        "typography"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-3630021.png?v=1763817272",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-7292889.png?v=1763817272",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-9578013.png?v=1763817274",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-8492973.png?v=1763817272",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-3455481.png?v=1763817272"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/low-oxygen-3630021.png?v=1763817272",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minds-expansion",
+      "sourceKind": "arte-poster",
+      "title": "Mind's Expansion",
+      "handle": "minds-expansion",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/minds-expansion",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/minds-expansion",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/minds-expansion",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688763801935,
+      "productType": "Poster",
+      "rawTags": [
+        "Blue",
+        "Body",
+        "Girl",
+        "Love",
+        "Mind",
+        "Space"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-9373619.png?v=1763817216",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-5991033.png?v=1763817214",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-2170201.png?v=1763817216",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-1064081.png?v=1763817214",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-9847126.png?v=1763817216"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minds-expansion-9373619.png?v=1763817216",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-blue-dream",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Blue Dream",
+      "handle": "minimal-space-blue-dream",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-dream",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-dream",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-dream",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637329379663,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "minimalism"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-6041945.png?v=1763817362",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-9700343.png?v=1763817361",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-3315948.png?v=1763817360",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-8063621.png?v=1763817359",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-5879372.png?v=1763817360"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-dream-6041945.png?v=1763817362",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-blue-love",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Blue Love",
+      "handle": "minimal-space-blue-love",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-love",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-love",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-blue-love",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637333705039,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "minimalist"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-4173740.png?v=1763817373",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-5751639.png?v=1763817373",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-7031659.png?v=1763817373",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-2303067.png?v=1763817372",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-6233228.png?v=1763817373"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-blue-love-4173740.png?v=1763817373",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-dark-horizon",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Dark Horizon",
+      "handle": "minimal-space-dark-horizon",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-dark-horizon",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-dark-horizon",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-dark-horizon",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637335343439,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "minimalism"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-9900725.png?v=1763817319",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-7612553.png?v=1763817319",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-9946218.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-6419973.png?v=1763817321",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-4286780.png?v=1763817319"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-dark-horizon-9900725.png?v=1763817319",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-green-gravity",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Green Gravity",
+      "handle": "minimal-space-green-gravity",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-green-gravity",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-green-gravity",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-green-gravity",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637338259791,
+      "productType": "Poster",
+      "rawTags": [
+        "green",
+        "minimalism"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-5288127.png?v=1763817444",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-2630741.png?v=1763817445",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-6637003.png?v=1763817443",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-6102225.png?v=1763817444",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-1531525.png?v=1763817446"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-green-gravity-5288127.png?v=1763817444",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-orange-explore",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Orange Explore",
+      "handle": "minimal-space-orange-explore",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-orange-explore",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-orange-explore",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-orange-explore",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637342224719,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "orange"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-6702307.png?v=1763817334",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-4236881.png?v=1763817334",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-7010456.png?v=1763817334",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-1963147.png?v=1763817335",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-8785384.png?v=1763817332"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-orange-explore-6702307.png?v=1763817334",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-peach-sunrise",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Peach Sunrise",
+      "handle": "minimal-space-peach-sunrise",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-peach-sunrise",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-peach-sunrise",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-peach-sunrise",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637345894735,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "orange"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-8852937.png?v=1763817381",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-3524480.png?v=1763817380",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-6208288.png?v=1763817382",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-3881679.png?v=1763817384",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-9614460.png?v=1763817383"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-peach-sunrise-8852937.png?v=1763817381",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-purple-space",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Purple Space",
+      "handle": "minimal-space-purple-space",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-purple-space",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-purple-space",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-purple-space",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637348876623,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "purple"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-8400111.png?v=1763817370",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-7139574.png?v=1763817371",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-9122648.png?v=1763817371",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-3562003.png?v=1763817369",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-6244367.png?v=1763817371"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-purple-space-8400111.png?v=1763817370",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-space-red",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Space Red",
+      "handle": "minimal-space-space-red",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-space-red",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-space-red",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-space-red",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637355430223,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "red"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-2045783.png?v=1763817392",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-4059526.png?v=1763817391",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-5486138.png?v=1763817392",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-2791707.png?v=1763817392",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-9645283.png?v=1763817393"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-space-red-2045783.png?v=1763817392",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-white-voyage",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - White Voyage",
+      "handle": "minimal-space-white-voyage",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637357789519,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "white"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5304629.png?v=1763817313",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-2946961.png?v=1763817312",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5915818.png?v=1763817313",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-9123000.png?v=1763817313"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-minimal-space-yellow-breathe",
+      "sourceKind": "arte-poster",
+      "title": "Minimal Space - Yellow Breathe",
+      "handle": "minimal-space-yellow-breathe",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-yellow-breathe",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-yellow-breathe",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-yellow-breathe",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637363032399,
+      "productType": "Poster",
+      "rawTags": [
+        "minimalism",
+        "yellow"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-1657867.png?v=1763817310",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-8415069.png?v=1763817310",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-3912812.png?v=1763817309",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-5317472.png?v=1763817308",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-7776292.png?v=1763817308"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-yellow-breathe-1657867.png?v=1763817310",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-monolith",
+      "sourceKind": "arte-poster",
+      "title": "Monolith",
+      "handle": "monolith",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/monolith",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/monolith",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/monolith",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637323481423,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "futurist",
+        "orange"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-5809997.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-7957619.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-2762831.png?v=1763817322",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-6054762.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-5347775.png?v=1763817321"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/monolith-5809997.png?v=1763817320",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-neural-spectrum",
+      "sourceKind": "arte-poster",
+      "title": "Neural Spectrum",
+      "handle": "neural-spectrum",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/neural-spectrum",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688773763407,
+      "productType": "Poster",
+      "rawTags": [
+        "Blue",
+        "Body",
+        "Brain",
+        "Mind",
+        "Neural"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8746790.png?v=1763817118",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5729355.png?v=1763817119",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-5968513.png?v=1763817118",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-4957280.png?v=1763817121"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/neural-spectrum-8523178.png?v=1763817119",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-no-second-earth-blue",
+      "sourceKind": "arte-poster",
+      "title": "No Second Earth - Blue",
+      "handle": "no-second-earth-blue",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-blue",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-blue",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-blue",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637322105167,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "minimalism"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-9517527.png?v=1763817353",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-3384461.png?v=1763817350",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-4126315.png?v=1763817351",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-9635955.png?v=1763817349",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-2304868.png?v=1763817352"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-blue-9517527.png?v=1763817353",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-no-second-earth-brown",
+      "sourceKind": "arte-poster",
+      "title": "No Second Earth - Brown",
+      "handle": "no-second-earth-brown",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-brown",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-brown",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-brown",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637320761679,
+      "productType": "Poster",
+      "rawTags": [
+        "brown",
+        "minimalist"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-9028303.png?v=1763817358",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-2399319.png?v=1763817359",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-2931527.png?v=1763817358",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-6030551.png?v=1763817360",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-2413253.png?v=1763817358"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-brown-9028303.png?v=1763817358",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-no-second-earth-green",
+      "sourceKind": "arte-poster",
+      "title": "No Second Earth - Green",
+      "handle": "no-second-earth-green",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-green",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-green",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/no-second-earth-green",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637319254351,
+      "productType": "Poster",
+      "rawTags": [
+        "green",
+        "planet"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-3731909.png?v=1763817340",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-9118934.png?v=1763817340",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-7398413.png?v=1763817338",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-9477699.png?v=1763817337",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-4179860.png?v=1763817337"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/no-second-earth-green-3731909.png?v=1763817340",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-normal-is-boring",
+      "sourceKind": "arte-poster",
+      "title": "Normal is boring",
+      "handle": "normal-is-boring",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/normal-is-boring",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/normal-is-boring",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/normal-is-boring",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637316141391,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "futurist",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-1296217.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-6970249.png?v=1763817323",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-5774902.png?v=1763817319",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-9548356.png?v=1763817320",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-1073651.png?v=1763817321"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/normal-is-boring-1296217.png?v=1763817320",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-relic",
+      "sourceKind": "arte-poster",
+      "title": "Relic",
+      "handle": "relic",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/relic",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688293515599,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "hardware"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-9645728.png?v=1763817116",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-5088637.png?v=1763817117",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-1863392.png?v=1763817118",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-8417910.png?v=1763817116"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/relic-6202312.png?v=1763817117",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-sleep-later-more-science",
+      "sourceKind": "arte-poster",
+      "title": "Sleep later, more Science",
+      "handle": "sleep-later-more-science",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/sleep-later-more-science",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/sleep-later-more-science",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/sleep-later-more-science",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755353784655,
+      "productType": "Poster",
+      "rawTags": [
+        "brown",
+        "coffee",
+        "REd"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-5915560.png?v=1763817122",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-3058109.png?v=1763817123",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-2939013.png?v=1763817121",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-2011823.jpg?v=1763817121",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-7112746.png?v=1763817120"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/sleep-later-more-science-5915560.png?v=1763817122",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-solar-subway",
+      "sourceKind": "arte-poster",
+      "title": "Solar Subway",
+      "handle": "solar-subway",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/solar-subway",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/solar-subway",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/solar-subway",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688301642063,
+      "productType": "Poster",
+      "rawTags": [
+        "solar system",
+        "subway"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-3677227.png?v=1763817219",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-8227177.png?v=1763817219",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-4695682.png?v=1763817220",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-1860296.png?v=1763817219",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-4367371.png?v=1763817218"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/solar-subway-3677227.png?v=1763817219",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-steel-machine-001",
+      "sourceKind": "arte-poster",
+      "title": "Steel Machine 001",
+      "handle": "steel-machine-001",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/steel-machine-001",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/steel-machine-001",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/steel-machine-001",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15800178147663,
+      "productType": "Poster",
+      "rawTags": [
+        "gold",
+        "gundam",
+        "machine",
+        "robot",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-001-9995217.png?v=1763909363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-001-4851642.png?v=1763909361",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-001-1063540.png?v=1763909362",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-001-2436302.png?v=1763909361",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_114.png?v=1763849205"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-001-9995217.png?v=1763909363",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-steel-machine-002",
+      "sourceKind": "arte-poster",
+      "title": "Steel Machine 002",
+      "handle": "steel-machine-002",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/steel-machine-002",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/steel-machine-002",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/steel-machine-002",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15800178278735,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "gold",
+        "gundam",
+        "machine",
+        "robot",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-002-6905906.png?v=1763909366",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-002-6415360.png?v=1763909367",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-002-1965499.png?v=1763909363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-002-4840134.png?v=1763909365",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_126.png?v=1763849209"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/steel-machine-002-6905906.png?v=1763909366",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-stellar",
+      "sourceKind": "arte-poster",
+      "title": "Stellar",
+      "handle": "stellar",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/stellar",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/stellar",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/stellar",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637256438095,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "photography",
+        "red"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-3120441.png?v=1763817367",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-2796785.png?v=1763817367",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-7137771.png?v=1763817367",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-3359812.png?v=1763817364",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-8092216.png?v=1763817367"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/stellar-3120441.png?v=1763817367",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-the-suns-dying-soon-blue",
+      "sourceKind": "arte-poster",
+      "title": "The Sun's Dying Soon - Blue",
+      "handle": "the-suns-dying-soon-blue",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-blue",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-blue",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-blue",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755375608143,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "blue",
+        "sun"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-1996897.png?v=1763817232",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-4955845.png?v=1763817231",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-5851933.png?v=1763817232",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-9686006.jpg?v=1763817231",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-2044903.png?v=1763817231"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-blue-1996897.png?v=1763817232",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-the-suns-dying-soon-green",
+      "sourceKind": "arte-poster",
+      "title": "The Sun's Dying Soon - Green",
+      "handle": "the-suns-dying-soon-green",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-green",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-green",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-green",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755402051919,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "green",
+        "sun"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-2815222.png?v=1763817096",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-3675133.png?v=1763817095",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-3185807.png?v=1763817096",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-4398409.jpg?v=1763817096",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-6111278.png?v=1763817093"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-green-2815222.png?v=1763817096",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-the-suns-dying-soon-orange",
+      "sourceKind": "arte-poster",
+      "title": "The Sun's Dying Soon - Orange",
+      "handle": "the-suns-dying-soon-orange",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755412373839,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "orange",
+        "sun"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2060613.png?v=1763817195",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-5237634.png?v=1763817196",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-7600553.jpg?v=1763817193",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2476277.png?v=1763817194"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-orange-2846548.png?v=1763817196",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-the-suns-dying-soon-red",
+      "sourceKind": "arte-poster",
+      "title": "The Sun's Dying Soon - Red",
+      "handle": "the-suns-dying-soon-red",
+      "liveUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-red",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-red",
+      "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-red",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15755424203087,
+      "productType": "Poster",
+      "rawTags": [
+        "beige",
+        "red",
+        "sun"
+      ],
+      "collectionHandles": [
+        "minimalism"
+      ],
+      "collectionTitles": [
+        "Minimalism"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-5374979.png?v=1763817100",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-6144967.png?v=1763817098",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-4672383.png?v=1763817099",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-9274894.jpg?v=1763817097",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-8820600.png?v=1763817096"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/the-suns-dying-soon-red-5374979.png?v=1763817100",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Minimalism). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-thermal-signatures",
+      "sourceKind": "arte-poster",
+      "title": "Thermal Signatures",
+      "handle": "thermal-signatures",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/thermal-signatures",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/thermal-signatures",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/thermal-signatures",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15688783102287,
+      "productType": "Poster",
+      "rawTags": [
+        "Black",
+        "Body",
+        "Orange",
+        "Red",
+        "Thermal",
+        "Yellow"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-4003546.png?v=1763817117",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-4755756.png?v=1763817117",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-9038177.png?v=1763817118",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-3059961.png?v=1763817116",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-7130112.png?v=1763817117"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/thermal-signatures-4003546.png?v=1763817117",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-time-human",
+      "sourceKind": "arte-poster",
+      "title": "TIME : HUMAN",
+      "handle": "time-human",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/time-human",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/time-human",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/time-human",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15800181981519,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "grey",
+        "human",
+        "machine",
+        "red",
+        "robot",
+        "time",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/time-human-4048742.png?v=1763909363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/time-human-2338888.png?v=1763909364",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/time-human-1410632.png?v=1763909363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/time-human-1552971.png?v=1763909364",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/Sizes_images_122.png?v=1763849212"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/time-human-4048742.png?v=1763909363",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-touch-grass",
+      "sourceKind": "arte-poster",
+      "title": "Touch Grass",
+      "handle": "touch-grass",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/touch-grass",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/touch-grass",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/touch-grass",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795657802063,
+      "productType": "Poster",
+      "rawTags": [
+        "blue",
+        "code",
+        "developers",
+        "green"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-4724253.png?v=1763816987",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-5869738.png?v=1763816985",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-5758611.png?v=1763816989",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-3136229.png?v=1763816989",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-1136773.png?v=1763816986"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/touch-grass-4724253.png?v=1763816987",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-turing-test",
+      "sourceKind": "arte-poster",
+      "title": "Turing test",
+      "handle": "turing-test",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/turing-test",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/turing-test",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/turing-test",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15795659342159,
+      "productType": "Poster",
+      "rawTags": [
+        "ai",
+        "black",
+        "code",
+        "developers"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-5601493.png?v=1763816999",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-6542863.png?v=1763816999",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-4154330.png?v=1763816998",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-4325388.png?v=1763816998",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-5614202.png?v=1763816996"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/turing-test-5601493.png?v=1763816999",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-saturn-type-black",
+      "sourceKind": "arte-poster",
+      "title": "Type Saturn - Black",
+      "handle": "saturn-type-black",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/saturn-type-black",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637228388687,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "red",
+        "typography",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-8181909.png?v=1763817405",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-1355114.png?v=1763817404",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-3941018.png?v=1763817403",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-9564319.png?v=1763817403"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-black-2351755.png?v=1763817404",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-type-saturn-grey",
+      "sourceKind": "arte-poster",
+      "title": "Type Saturn - Grey",
+      "handle": "type-saturn-grey",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-grey",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-grey",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-grey",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637230125391,
+      "productType": "Poster",
+      "rawTags": [
+        "grey",
+        "red",
+        "typography",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-5212622.png?v=1763817369",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-1172930.png?v=1763817366",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-9249238.png?v=1763817367",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-3530674.png?v=1763817368",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-4062404.png?v=1763817370"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-grey-5212622.png?v=1763817369",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-type-saturn-red",
+      "sourceKind": "arte-poster",
+      "title": "Type Saturn - Red",
+      "handle": "type-saturn-red",
+      "liveUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-red",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-red",
+      "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/type-saturn-red",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637229371727,
+      "productType": "Poster",
+      "rawTags": [
+        "black",
+        "red",
+        "typography",
+        "white"
+      ],
+      "collectionHandles": [
+        "aesthetic"
+      ],
+      "collectionTitles": [
+        "Aesthetic"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-8921056.png?v=1763817387",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-5386186.png?v=1763817387",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-5771764.png?v=1763817388",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-6478236.png?v=1763817387",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-5513831.png?v=1763817389"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/type-saturn-red-8921056.png?v=1763817387",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Aesthetic). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-agriculture-vol-1",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Agriculture vol.1",
+      "handle": "urban-space-army-agriculture-vol-1",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-1",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637217182031,
+      "productType": "Poster",
+      "rawTags": [
+        "agriculture",
+        "futurist",
+        "green"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-6860308.png?v=1763817386",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-4812049.png?v=1763817386",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1905433.png?v=1763817385",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-1802209.png?v=1763817386"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol1-7882631.png?v=1763817386",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-agriculture-vol-2",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Agriculture vol.2",
+      "handle": "urban-space-army-agriculture-vol-2",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-2",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-2",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-2",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637218591055,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "futurist",
+        "green",
+        "Sand",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-8852306.png?v=1763817440",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-8117270.png?v=1763817442",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-3978512.png?v=1763817442",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-6653019.png?v=1763817442",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-4923401.png?v=1763817442"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol2-8852306.png?v=1763817440",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-agriculture-vol-4",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Agriculture vol.4",
+      "handle": "urban-space-army-agriculture-vol-4",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-4",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-4",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-agriculture-vol-4",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637219869007,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "futurist",
+        "green",
+        "Sand",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-7058798.png?v=1763817377",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-1814548.png?v=1763817378",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-8697052.png?v=1763817379",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-9582849.png?v=1763817381",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-7334182.png?v=1763817379"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-agriculture-vol4-7058798.png?v=1763817377",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-military-vol-1",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Military vol.1",
+      "handle": "urban-space-army-military-vol-1",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-1",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-1",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-1",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637209612623,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "blue",
+        "futurist",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-6889215.png?v=1763817391",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-1887307.png?v=1763817391",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-2609856.png?v=1763817391",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-1306342.png?v=1763817391",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-5149958.png?v=1763817393"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol1-6889215.png?v=1763817391",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-military-vol-2",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Military vol.2",
+      "handle": "urban-space-army-military-vol-2",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-2",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-2",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-2",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637212234063,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "black",
+        "futurist"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-3325710.png?v=1763817439",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-1027008.png?v=1763817440",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-1029289.png?v=1763817440",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-8049045.png?v=1763817439",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-8081395.png?v=1763817439"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol2-3325710.png?v=1763817439",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-military-vol-3",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Military vol.3",
+      "handle": "urban-space-army-military-vol-3",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-3",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-3",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-3",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637214265679,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "black",
+        "blue",
+        "futurist",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-7217708.png?v=1763817379",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-1122542.png?v=1763817379",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-1956844.png?v=1763817380",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-2106445.png?v=1763817379",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-7702990.png?v=1763817378"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol3-7217708.png?v=1763817379",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-military-vol-4",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army - Military vol.4",
+      "handle": "urban-space-army-military-vol-4",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-4",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-4",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-4",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637214953807,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "black",
+        "blue",
+        "futurist"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-5385298.png?v=1763817383",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-1164417.png?v=1763817382",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-2048772.png?v=1763817382",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-9536219.png?v=1763817383",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-5669947.png?v=1763817382"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-military-vol4-5385298.png?v=1763817383",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-vol-1",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army vol.1",
+      "handle": "urban-space-army-vol-1",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-1",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-1",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-1",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637216362831,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "futurist",
+        "Sand",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-7062087.png?v=1763817377",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-5955635.png?v=1763817378",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-5859599.png?v=1763817377",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-6375580.png?v=1763817378",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-6022198.png?v=1763817377"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol1-7062087.png?v=1763817377",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    },
+    {
+      "slug": "arte-urban-space-army-vol-2",
+      "sourceKind": "arte-poster",
+      "title": "Urban Space Army vol.2",
+      "handle": "urban-space-army-vol-2",
+      "liveUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-2",
+      "domain": "arte-collective.com",
+      "sourceLabel": "Arte Collective",
+      "sourceUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-2",
+      "loadmoreUrl": "https://arte-collective.com/collections/technology/products/urban-space-army-vol-2",
+      "credits": "Arte Collective",
+      "added": "Arte Collective poster ingestion",
+      "vendor": "Arte Collective",
+      "productId": 15637217837391,
+      "productType": "Poster",
+      "rawTags": [
+        "Army",
+        "black",
+        "futurist",
+        "white"
+      ],
+      "collectionHandles": [
+        "technology"
+      ],
+      "collectionTitles": [
+        "Technology"
+      ],
+      "posterImages": [
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-5808712.png?v=1763817360",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-2148761.png?v=1763817363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-5374047.png?v=1763817363",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-5154134.png?v=1763817360",
+        "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-7933269.png?v=1763817362"
+      ],
+      "priceMin": "39.00",
+      "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/urban-space-army-vol2-5808712.png?v=1763817360",
+      "bodyHtml": "<p>Arte collective transforms scientific discoveries and the wonders of the universe into stunning contemporary art prints. Elevate your space with premium, aesthetic posters inspired by science, space, and technology. Perfect for curious minds, astronomy enthusiasts, and modern design lovers. Explore the collection now!</p>",
+      "variantTitles": [
+        "12″ x 18″ / Matte",
+        "20″ x 30″ / Matte",
+        "24\" x 36\" / Matte"
+      ],
+      "description": "Poster-derived concept source from Arte Collective (Technology). This entry translates the poster artwork itself into an imagined interactive website system instead of documenting the storefront page."
+    }
+  ]
+}

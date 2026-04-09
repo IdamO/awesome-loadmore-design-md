@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: open, drag, shuffle
 - Inputs: drag, tap, click
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f3d2d1 - canvas / dominant background
@@ -58,7 +60,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f3d2d1) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (music, retro, default-aesthetics) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (music, retro, default-aesthetics) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(0, 0, 0) backgrounds with rgb(0, 0, 0) text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -129,7 +131,7 @@ Key Characteristics:
 ### Do
 - Use Pixolde consistently for headlines and interface labels.
 - Keep the palette anchored to #f3d2d1, #cebcb9, and #aba8a2.
-- Preserve the experimental posture signaled by the loadmo.re tags: music, retro, default-aesthetics.
+- Preserve the experimental posture signaled by the archive tags: music, retro, default-aesthetics.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

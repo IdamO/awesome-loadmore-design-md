@@ -13,6 +13,7 @@ Use it when you are not trying to recreate a single reference, but to synthesize
 - `motion-grammar.md` — how motion should behave, not just how it should look
 - `type-systems.md` — type roles, foundries, and pairings
 - `asset-forge.md` — how to use generated visuals without shipping AI slop
+- `poster-to-website.md` — how to turn static posters and covers into browser-native interaction systems
 - `component-philosophy.md` — what to standardize and what to keep custom
 - `../data/design-os.json` — machine-readable version for coding agents
 

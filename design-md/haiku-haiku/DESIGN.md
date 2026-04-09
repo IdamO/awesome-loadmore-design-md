@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: browse, filter, open
 - Inputs: scroll, tap, filter
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #c71818 - canvas / dominant background
@@ -52,7 +54,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#c71818) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (participative, arts&culture) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (participative, arts&culture) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(204, 204, 204, 0.7) backgrounds with rgb(255, 255, 255) text, and links inherit #cb9d9d as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -123,7 +125,7 @@ Key Characteristics:
 ### Do
 - Use mabry-medium consistently for headlines and interface labels.
 - Keep the palette anchored to #c71818, #be1716, and #cb9d9d.
-- Preserve the experimental posture signaled by the loadmo.re tags: participative, arts&culture.
+- Preserve the experimental posture signaled by the archive tags: participative, arts&culture.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

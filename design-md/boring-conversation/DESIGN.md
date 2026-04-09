@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: open, drag, shuffle
 - Inputs: drag, tap, click
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f9faeb - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f9faeb) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (participative, default-aesthetics, minimal) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (participative, default-aesthetics, minimal) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(250, 250, 245) backgrounds with rgb(0, 0, 0) text, and links inherit #aaaa9a as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -122,7 +124,7 @@ Key Characteristics:
 ### Do
 - Use the primary extracted font consistently for headlines and interface labels.
 - Keep the palette anchored to #f9faeb, #d6d6b3, and #aaaa9a.
-- Preserve the experimental posture signaled by the loadmo.re tags: participative, default-aesthetics, minimal.
+- Preserve the experimental posture signaled by the archive tags: participative, default-aesthetics, minimal.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

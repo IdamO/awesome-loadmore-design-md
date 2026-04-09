@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: trigger, press, mix
 - Inputs: tap, drag, press
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f5f5f5 - canvas / dominant background
@@ -54,7 +56,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f5f5f5) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (tactile, illustration, sound-design) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (tactile, illustration, sound-design) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(255, 255, 255) backgrounds with rgb(0, 0, 0) text, and links inherit rgb(0, 0, 0) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -124,7 +126,7 @@ Key Characteristics:
 ### Do
 - Use Grotesk consistently for headlines and interface labels.
 - Keep the palette anchored to #f5f5f5, #a9a9a9, and #5c5c5c.
-- Preserve the experimental posture signaled by the loadmo.re tags: tactile, illustration, sound-design.
+- Preserve the experimental posture signaled by the archive tags: tactile, illustration, sound-design.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

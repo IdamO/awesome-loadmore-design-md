@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: read, browse, contact
 - Inputs: scroll, tap
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f1efef - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f1efef) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (default-aesthetics, portfolio, net.art) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (default-aesthetics, portfolio, net.art) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit #f99909 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -122,7 +124,7 @@ Key Characteristics:
 ### Do
 - Use Roboto Mono consistently for headlines and interface labels.
 - Keep the palette anchored to #f1efef, #dbf925, and #f99909.
-- Preserve the experimental posture signaled by the loadmo.re tags: default-aesthetics, portfolio, net.art.
+- Preserve the experimental posture signaled by the archive tags: default-aesthetics, portfolio, net.art.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

@@ -6,13 +6,16 @@
   "type": "module",
   "scripts": {
     "crawl": "node scripts/crawl-loadmore.mjs",
+    "crawl:arte": "node scripts/crawl-arte-collective.mjs",
     "capture": "node scripts/capture-sites.mjs",
     "fallback": "node scripts/fill-fallback-captures.mjs",
+    "synthesize:arte": "node scripts/synthesize-arte-posters.mjs",
     "generate": "node scripts/generate-site-files.mjs",
+    "render:concepts": "node scripts/render-concept-previews.mjs",
     "index": "node scripts/build-agent-index.mjs",
     "validate": "node scripts/validate-repo.mjs",
     "build": "node scripts/build-all.mjs",
-    "build:fast": "node scripts/capture-sites.mjs --concurrency=4 --limit=12 && node scripts/fill-fallback-captures.mjs && node scripts/generate-site-files.mjs && node scripts/build-agent-index.mjs && node scripts/validate-repo.mjs"
+    "build:fast": "node scripts/crawl-arte-collective.mjs && node scripts/synthesize-arte-posters.mjs && node scripts/capture-sites.mjs --concurrency=4 --limit=12 && node scripts/fill-fallback-captures.mjs && node scripts/generate-site-files.mjs && node scripts/render-concept-previews.mjs && node scripts/build-agent-index.mjs && node scripts/validate-repo.mjs"
   },
   "dependencies": {
     "cheerio": "^1.1.2",

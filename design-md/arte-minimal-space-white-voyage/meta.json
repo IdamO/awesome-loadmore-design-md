@@ -1,0 +1,554 @@
+{
+  "slug": "arte-minimal-space-white-voyage",
+  "title": "Minimal Space - White Voyage",
+  "liveUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+  "loadmoreUrl": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+  "sourceKind": "arte-poster",
+  "description": "Minimal Space - White Voyage is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "minimal",
+    "editorial",
+    "arte-minimalism"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5304629.png?v=1763817313",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-2946961.png?v=1763817312",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5915818.png?v=1763817313",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-9123000.png?v=1763817313"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {},
+  "rawTags": [
+    "minimalism",
+    "white"
+  ],
+  "collectionHandles": [
+    "minimalism"
+  ],
+  "collectionTitles": [
+    "Minimalism"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15637357789519,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "minimalism"
+    ],
+    "productPage": "https://arte-collective.com/collections/minimalism/products/minimal-space-white-voyage",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5562645.png?v=1763817313",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5304629.png?v=1763817313",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-2946961.png?v=1763817312",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-5915818.png?v=1763817313",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/minimal-space-white-voyage-9123000.png?v=1763817313"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "orbital-atmosphere",
+    "familyName": "Orbital Atmosphere Field",
+    "previewScene": "orbital",
+    "roles": {
+      "bg": "#454343",
+      "fg": "#fcfcfd",
+      "accent": "#454343",
+      "surface": "#b9b8b8",
+      "glow": "#b9b8b8"
+    },
+    "energy": "luminous atmosphere wrapped around one poster object",
+    "aura": "Minimal Space - White Voyage should feel like a drifting internet relic whose full poster composition becomes a shallow-depth, glow-rail field.",
+    "heroCopy": "<— —>",
+    "depthModel": "The full poster becomes the atmosphere, with title and texture layers drifting at different depths and slim orbital captions around the edges.",
+    "motionHooks": [
+      "ambient drift",
+      "parallax wake",
+      "caption bloom",
+      "halo pulse"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Orbit Stage",
+        "note": "Minimal Space - White Voyage establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Glow Rail",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Atmosphere Notes",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Signal Marker",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Optional soft synth bed after user intent; silence is acceptable if the motion already feels alive.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "MINIMAL SPACE - WHITE VOYAGE",
+      "Minimalism",
+      "White",
+      "EARTH MERCURY",
+      "HW \\",
+      "Orbit Stage"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Wide Grotesk Display (approx)"
+          },
+          {
+            "family": "Light Grotesk Text (approx)"
+          },
+          {
+            "family": "Mono Caption (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 14611
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6320
+          },
+          {
+            "hex": "#454343",
+            "count": 2770
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 2340
+          },
+          {
+            "hex": "#fcfcfd",
+            "count": 2144
+          },
+          {
+            "hex": "#b9b8b8",
+            "count": 1970
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 1787
+          },
+          {
+            "hex": "#f7f8f8",
+            "count": 458
+          }
+        ],
+        "heading": {
+          "fontSize": "108px",
+          "fontWeight": "860",
+          "letterSpacing": "-0.05em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#454343",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(69, 67, 67, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#454343"
+        },
+        "link": {
+          "color": "#454343"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(69, 67, 67, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 14611
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6320
+          },
+          {
+            "hex": "#454343",
+            "count": 2770
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 2340
+          },
+          {
+            "hex": "#fcfcfd",
+            "count": 2144
+          },
+          {
+            "hex": "#b9b8b8",
+            "count": 1970
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 1787
+          },
+          {
+            "hex": "#f7f8f8",
+            "count": 458
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "EARTH MERCURY",
+            "HW \\",
+            "<— —>",
+            "EARTH",
+            "MERCURY",
+            ") \\"
+          ],
+          "bodyLines": [
+            "<— —>",
+            "EARTH MERCURY",
+            "-— —",
+            "NEPTUNE VENUS",
+            "—— —",
+            "JUPITER MARS",
+            "URANUS SATURNE"
+          ]
+        },
+        "posterBrightness": 0.8733,
+        "posterContrast": 0.1971
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Wide Grotesk Display (approx)"
+          },
+          {
+            "family": "Light Grotesk Text (approx)"
+          },
+          {
+            "family": "Mono Caption (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f8f8f8",
+            "count": 14611
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6320
+          },
+          {
+            "hex": "#454343",
+            "count": 2770
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 2340
+          },
+          {
+            "hex": "#fcfcfd",
+            "count": 2144
+          },
+          {
+            "hex": "#b9b8b8",
+            "count": 1970
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 1787
+          },
+          {
+            "hex": "#f7f8f8",
+            "count": 458
+          }
+        ],
+        "heading": {
+          "fontSize": "70px",
+          "fontWeight": "860",
+          "letterSpacing": "-0.05em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#454343",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(69, 67, 67, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#454343"
+        },
+        "link": {
+          "color": "#454343"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(69, 67, 67, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#f8f8f8",
+            "count": 14611
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6320
+          },
+          {
+            "hex": "#454343",
+            "count": 2770
+          },
+          {
+            "hex": "#e7e7e7",
+            "count": 2340
+          },
+          {
+            "hex": "#fcfcfd",
+            "count": 2144
+          },
+          {
+            "hex": "#b9b8b8",
+            "count": 1970
+          },
+          {
+            "hex": "#f8f8f9",
+            "count": 1787
+          },
+          {
+            "hex": "#f7f8f8",
+            "count": 458
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "EARTH MERCURY",
+            "HW \\",
+            "<— —>",
+            "EARTH",
+            "MERCURY",
+            ") \\"
+          ],
+          "bodyLines": [
+            "<— —>",
+            "EARTH MERCURY",
+            "-— —",
+            "NEPTUNE VENUS",
+            "—— —",
+            "JUPITER MARS",
+            "URANUS SATURNE"
+          ]
+        },
+        "posterBrightness": 0.8733,
+        "posterContrast": 0.1971
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "playable-poster",
+        "name": "Playable Poster",
+        "reason": "The poster already behaves like a campaign artifact and should stay singular on the web."
+      },
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "reason": "The atmosphere needs enough structure to stay legible while drifting."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "spatial_exhibition_world",
+        "name": "Spatial Exhibition World",
+        "confidence": 0.89,
+        "reason": "The poster becomes strongest as a layered atmospheric chamber with shallow depth, orbiting labels, and slow camera travel.",
+        "refs": [
+          "the-lost-lionesses",
+          "oneiric",
+          "stripe-press"
+        ]
+      },
+      "interactionModel": "Treat the full poster like a luminous atmospheric field; scroll advances chapters, pointer drift shifts parallax layers, and tap opens captions floating inside the composition.",
+      "navigationModel": "A staged atmospheric chamber where the whole poster is the field and glow-rail chapters emerge from it.",
+      "stateModel": "Ambient drift -> parallax wake across the poster field -> caption bloom -> chapter shift -> settle.",
+      "inputModes": [
+        "scroll",
+        "hover",
+        "tap"
+      ],
+      "engineHints": [
+        "Use layered DOM planes, blur, and gradients to split the poster into a spatial field instead of treating it like a card.",
+        "Let the poster typography and texture become the atmosphere underneath labels, rings, or light bars.",
+        "Use one dominant glow color and keep everything else restrained."
+      ],
+      "motionRecipe": [
+        "Run slow atmospheric drift in the background at all times.",
+        "Shift foreground and background planes at different parallax speeds.",
+        "Use a soft bloom or halo when captions or chips become active."
+      ],
+      "mobileFallback": "Split the atmosphere into vertical scenes with one parallax hero object and one caption rail per section.",
+      "implementationNotes": [
+        "Do not paste the poster into a normal hero section and call it done; the full composition needs atmospheric depth.",
+        "Keep the motion slow enough to feel cinematic, not busy.",
+        "Preserve the palette hierarchy: dark field, light type, one glow accent."
+      ],
+      "antiPatterns": [
+        "Do not add random particles without a clear hierarchy.",
+        "Do not make the glow so strong that the poster disappears.",
+        "Do not turn the concept into a generic galaxy landing page."
+      ],
+      "validationChecklist": [
+        "The full poster field reads as depth, not as wallpaper with overlay text.",
+        "Parallax changes are noticeable but calm.",
+        "Mobile keeps one clear hero plane and one clear caption rail."
+      ],
+      "validationPriority": "medium",
+      "evidence": [
+        "Orbit Stage",
+        "Glow Rail",
+        "EARTH MERCURY",
+        "HW \\"
+      ],
+      "schema": {
+        "interactionModelId": "spatial_exhibition_world",
+        "coreVerbs": [
+          "glide",
+          "reveal",
+          "focus",
+          "drift"
+        ],
+        "inputs": [
+          "scroll",
+          "hover",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "ambient",
+          "friction": "low"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "ambient",
+          "triggers": [
+            "pointer",
+            "scroll",
+            "time"
+          ],
+          "transitions": [
+            "parallax",
+            "fade",
+            "glow-bloom"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "2.5d",
+          "camera": "rail",
+          "depthCues": [
+            "perspective",
+            "blur",
+            "glow",
+            "occlusion"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "explore",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "ambient",
+          "triggers": [
+            "entry",
+            "focus"
+          ],
+          "controls": [
+            "mute"
+          ],
+          "sync": "loose"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic"
+          ],
+          "retro": [],
+          "glitch": [
+            "soft-channel-split"
+          ]
+        },
+        "implementation": {
+          "renderTier": "dom",
+          "complexity": "medium",
+          "requiredApis": [],
+          "fallbacks": [
+            "guided-tour",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Minimal Space - White Voyage\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #454343, #fcfcfd, and #454343, use Wide Grotesk Display (approx) for the hero voice and Light Grotesk Text (approx) for metadata, build the page as a Playable Poster surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster becomes the atmosphere, with title and texture layers drifting at different depths and slim orbital captions around the edges. Mobile fallback: Split the atmosphere into vertical scenes with one parallax hero object and one caption rail per section.",
+    "summary": "Playable Poster + Spatial Exhibition World. Treat the full poster like a luminous atmospheric field; scroll advances chapters, pointer drift shifts parallax layers, and tap opens captions floating inside the composition."
+  }
+}

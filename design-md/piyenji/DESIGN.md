@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: scan, hover, collect
 - Inputs: scroll, hover, tap
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f7f7f8 - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f7f7f8) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (playful, default-aesthetics) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (playful, default-aesthetics) imply the system is intentionally non-generic.
 - Buttons tend toward transparent backgrounds with inherit text, and links inherit #a09fa3 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -125,7 +127,7 @@ Key Characteristics:
 ### Do
 - Use the primary extracted font consistently for headlines and interface labels.
 - Keep the palette anchored to #f7f7f8, #2d9df8, and #a09fa3.
-- Preserve the experimental posture signaled by the loadmo.re tags: playful, default-aesthetics.
+- Preserve the experimental posture signaled by the archive tags: playful, default-aesthetics.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

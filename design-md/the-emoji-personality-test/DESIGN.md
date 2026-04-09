@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: read, browse, contact
 - Inputs: scroll, tap
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #fefefe - canvas / dominant background
@@ -52,7 +54,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#fefefe) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (participative) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (participative) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(255, 255, 255) backgrounds with rgb(0, 0, 0) text, and links inherit #e3d8a7 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -121,7 +123,7 @@ Key Characteristics:
 ### Do
 - Use GT-Haptik consistently for headlines and interface labels.
 - Keep the palette anchored to #fefefe, #a3a4a3, and #e3d8a7.
-- Preserve the experimental posture signaled by the loadmo.re tags: participative.
+- Preserve the experimental posture signaled by the archive tags: participative.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

@@ -1,0 +1,545 @@
+{
+  "slug": "arte-geometry-refraction-vol-1",
+  "title": "Geometry refraction vol.1",
+  "liveUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+  "domain": "arte-collective.com",
+  "sourceLabel": "Arte Collective",
+  "sourceUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+  "loadmoreUrl": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+  "sourceKind": "arte-poster",
+  "description": "Geometry refraction vol.1 is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.",
+  "credits": "Arte Collective",
+  "added": "Arte Collective poster ingestion",
+  "tags": [
+    "poster-derived",
+    "3d-space",
+    "typography",
+    "animation",
+    "graphic-design",
+    "colorful",
+    "tactile",
+    "arte-aesthetic"
+  ],
+  "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+  "posterImages": [
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-4181136.png?v=1763817100",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-3004329.png?v=1763817100",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-5119800.png?v=1763817099",
+    "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-8715362.png?v=1763817101"
+  ],
+  "posterCrop": "assets/poster-crop.jpg",
+  "posterSource": "assets/poster-source.jpg",
+  "posterLayers": {
+    "title": "assets/layers/title.png",
+    "text-left": "assets/layers/text-left.png",
+    "text-mid": "assets/layers/text-mid.png",
+    "text-right": "assets/layers/text-right.png",
+    "object-top": "assets/layers/object-top.png",
+    "object-bottom-left": "assets/layers/object-bottom-left.png",
+    "object-bottom-right": "assets/layers/object-bottom-right.png",
+    "object-detail": "assets/layers/object-detail.png",
+    "footer": "assets/layers/footer.png"
+  },
+  "rawTags": [
+    "black",
+    "monolith"
+  ],
+  "collectionHandles": [
+    "aesthetic"
+  ],
+  "collectionTitles": [
+    "Aesthetic"
+  ],
+  "vendor": "Arte Collective",
+  "productId": 15755465654607,
+  "productType": "Poster",
+  "variantTitles": [
+    "12″ x 18″ / Matte",
+    "20″ x 30″ / Matte",
+    "24\" x 36\" / Matte"
+  ],
+  "conceptSource": {
+    "kind": "arte-collective-poster",
+    "collections": [
+      "aesthetic"
+    ],
+    "productPage": "https://arte-collective.com/collections/aesthetic/products/geometry-refraction-vol-1",
+    "posterImage": "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+    "posterImages": [
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-9351443.png?v=1763817100",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-4181136.png?v=1763817100",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-3004329.png?v=1763817100",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-5119800.png?v=1763817099",
+      "https://cdn.shopify.com/s/files/1/0960/6273/4671/files/geometry-refraction-vol1-8715362.png?v=1763817101"
+    ]
+  },
+  "websiteConcept": {
+    "familyId": "artifact-monolith",
+    "familyName": "Artifact Monolith Stage",
+    "previewScene": "monolith",
+    "roles": {
+      "bg": "#0f0e0d",
+      "fg": "#e8e8e8",
+      "accent": "#2c2826",
+      "surface": "#131211",
+      "glow": "#e4e4e4"
+    },
+    "energy": "industrial relic suspended in a browser vault",
+    "aura": "Geometry refraction vol.1 should feel like a sacred object from Aesthetic, with the entire poster composition expanded into a shallow 3D archive room.",
+    "heroCopy": "= =",
+    "depthModel": "The full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers.",
+    "motionHooks": [
+      "ambient drift",
+      "hover lift",
+      "card rail reveal",
+      "specimen pulse"
+    ],
+    "sectionBlueprint": [
+      {
+        "id": "01",
+        "title": "Hero Chamber",
+        "note": "Geometry refraction vol.1 establishes the hero object and immediate motion language."
+      },
+      {
+        "id": "02",
+        "title": "Evidence Orbit",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "03",
+        "title": "Material Notes",
+        "note": "Translate a distinct poster layer into a readable browser state."
+      },
+      {
+        "id": "04",
+        "title": "Exit Rail",
+        "note": "Close with a tight invitation instead of a generic CTA block."
+      }
+    ],
+    "soundDirection": "Silent by default; let motion and light carry the atmosphere.",
+    "posterAsset": "./assets/poster-crop.jpg",
+    "previewLabels": [
+      "GEOMETRY REFRACTION VOL.1",
+      "Black",
+      "Monolith",
+      "Aesthetic",
+      "TRANOULAR",
+      "Sacred Object"
+    ]
+  },
+  "captureChecklist": {
+    "desktopOpened": true,
+    "mobileOpened": true,
+    "desktopScreenshotSaved": true,
+    "mobileScreenshotSaved": true,
+    "fontFamiliesExtracted": true,
+    "colorPaletteExtracted": true
+  },
+  "capture": {
+    "status": "concept-derived",
+    "mode": "concept-derived",
+    "desktop": {
+      "ok": true,
+      "screenshot": "screenshots/desktop.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Ultra Condensed Grotesk Display (approx)"
+          },
+          {
+            "family": "Bitmap Mono Caption (approx)"
+          },
+          {
+            "family": "Signal Sans Labels (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1b1a18",
+            "count": 7330
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6846
+          },
+          {
+            "hex": "#131211",
+            "count": 4001
+          },
+          {
+            "hex": "#161515",
+            "count": 3554
+          },
+          {
+            "hex": "#0f0e0d",
+            "count": 2892
+          },
+          {
+            "hex": "#a39d8d",
+            "count": 2679
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 2636
+          },
+          {
+            "hex": "#2c2826",
+            "count": 2462
+          }
+        ],
+        "heading": {
+          "fontSize": "112px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.065em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#2c2826",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(44, 40, 38, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#0f0e0d"
+        },
+        "link": {
+          "color": "#2c2826"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(44, 40, 38, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1b1a18",
+            "count": 7330
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6846
+          },
+          {
+            "hex": "#131211",
+            "count": 4001
+          },
+          {
+            "hex": "#161515",
+            "count": 3554
+          },
+          {
+            "hex": "#0f0e0d",
+            "count": 2892
+          },
+          {
+            "hex": "#a39d8d",
+            "count": 2679
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 2636
+          },
+          {
+            "hex": "#2c2826",
+            "count": 2462
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "TRANOULAR"
+          ],
+          "bodyLines": [
+            "= =",
+            "Refraction",
+            "AN EQUATION BETWEEN",
+            "GLASS AND LIGHT."
+          ]
+        },
+        "posterBrightness": 0.3738,
+        "posterContrast": 0.3622
+      }
+    },
+    "mobile": {
+      "ok": true,
+      "screenshot": "screenshots/mobile.jpg",
+      "analysis": {
+        "fonts": [
+          {
+            "family": "Ultra Condensed Grotesk Display (approx)"
+          },
+          {
+            "family": "Bitmap Mono Caption (approx)"
+          },
+          {
+            "family": "Signal Sans Labels (approx)"
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#1b1a18",
+            "count": 7330
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6846
+          },
+          {
+            "hex": "#131211",
+            "count": 4001
+          },
+          {
+            "hex": "#161515",
+            "count": 3554
+          },
+          {
+            "hex": "#0f0e0d",
+            "count": 2892
+          },
+          {
+            "hex": "#a39d8d",
+            "count": 2679
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 2636
+          },
+          {
+            "hex": "#2c2826",
+            "count": 2462
+          }
+        ],
+        "heading": {
+          "fontSize": "72px",
+          "fontWeight": "900",
+          "letterSpacing": "-0.065em",
+          "textTransform": "uppercase"
+        },
+        "bodyText": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "lineHeight": "1.6"
+        },
+        "button": {
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "backgroundColor": "#2c2826",
+          "color": "#ffffff",
+          "boxShadow": "0 24px 80px rgba(44, 40, 38, 0.35)"
+        },
+        "body": {
+          "backgroundColor": "#0f0e0d"
+        },
+        "link": {
+          "color": "#2c2826"
+        },
+        "sticky": true,
+        "sample": [
+          {
+            "boxShadow": "0 32px 120px rgba(44, 40, 38, 0.28)"
+          }
+        ],
+        "screenshotPalette": [
+          {
+            "hex": "#1b1a18",
+            "count": 7330
+          },
+          {
+            "hex": "#e4e4e4",
+            "count": 6846
+          },
+          {
+            "hex": "#131211",
+            "count": 4001
+          },
+          {
+            "hex": "#161515",
+            "count": 3554
+          },
+          {
+            "hex": "#0f0e0d",
+            "count": 2892
+          },
+          {
+            "hex": "#a39d8d",
+            "count": 2679
+          },
+          {
+            "hex": "#e8e8e8",
+            "count": 2636
+          },
+          {
+            "hex": "#2c2826",
+            "count": 2462
+          }
+        ],
+        "ocr": {
+          "titleLines": [
+            "TRANOULAR"
+          ],
+          "bodyLines": [
+            "= =",
+            "Refraction",
+            "AN EQUATION BETWEEN",
+            "GLASS AND LIGHT."
+          ]
+        },
+        "posterBrightness": 0.3738,
+        "posterContrast": 0.3622
+      }
+    }
+  },
+  "designGuidance": {
+    "captureMode": "concept-derived",
+    "worldSystems": [
+      {
+        "slug": "luxury-archive",
+        "name": "Luxury Archive",
+        "reason": "The poster reads like an object accessioned into a high-contrast digital chamber."
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "reason": "The browser version should feel collectible and tactile rather than informational."
+      }
+    ],
+    "mechanics": {
+      "archetype": {
+        "id": "spatial_exhibition_world",
+        "name": "Spatial Exhibition World",
+        "confidence": 0.93,
+        "reason": "The poster wants to become one hero object inside a shallow 3D room with hotspot detail and object focus.",
+        "refs": [
+          "stripe-press",
+          "the-lost-lionesses",
+          "oneiric"
+        ]
+      },
+      "interactionModel": "Explode the full poster across the viewport: the headline becomes architecture, the background copy becomes the room, and the hardware collage becomes floating evidence layers that react to scroll, drag, and hover.",
+      "navigationModel": "Users move through one full-poster chamber where the title plane, copy field, and evidence layers each open supporting notes without leaving the composition.",
+      "stateModel": "Idle hum -> title and copy field wake -> evidence layers separate in depth -> note rail opens -> return to the full composition.",
+      "inputModes": [
+        "scroll",
+        "drag",
+        "hover",
+        "tap"
+      ],
+      "engineHints": [
+        "Use CSS 3D transforms to split the poster into title planes, copy fields, and floating object layers before escalating to WebGL.",
+        "Keep text in DOM overlays; the poster crop should be the texture, not the only readable surface.",
+        "Use subtle inertial drag and a tight snap-back when the card recenters."
+      ],
+      "motionRecipe": [
+        "Run a slow ambient camera drift across the full poster field at rest.",
+        "Lift extracted evidence layers forward on hover or pointer proximity.",
+        "Animate note cards and title planes on springy rails instead of fading them flat."
+      ],
+      "mobileFallback": "Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.",
+      "implementationNotes": [
+        "Do not use the framed product photo in the final surface; decompose the poster into title, copy field, object cluster, and note rails.",
+        "The poster should fill the viewport first; extracted depth layers should feel like pieces of the same artifact, not pasted cards.",
+        "The object cluster must feel heavy and collectible, not like a random floating image."
+      ],
+      "antiPatterns": [
+        "Do not flatten the poster into a hero image with text beside it.",
+        "Do not add more than one competing hero object.",
+        "Do not overload the chamber with generic glass cards."
+      ],
+      "validationChecklist": [
+        "The full poster composition reads as a spatial room within three seconds.",
+        "Drag and hover create a clear depth response without losing the poster logic.",
+        "Mobile keeps the same poster-world ritual, not a shrunken desktop scene."
+      ],
+      "validationPriority": "high",
+      "evidence": [
+        "Sacred Object",
+        "Evidence Orbit",
+        "TRANOULAR"
+      ],
+      "schema": {
+        "interactionModelId": "spatial_exhibition_world",
+        "coreVerbs": [
+          "explore",
+          "focus",
+          "open",
+          "orbit"
+        ],
+        "inputs": [
+          "scroll",
+          "drag",
+          "hover",
+          "tap"
+        ],
+        "navigation": {
+          "structure": "single-scene",
+          "wayfinding": "ambient",
+          "friction": "medium"
+        },
+        "motion": {
+          "density": "medium",
+          "cadence": "ambient",
+          "triggers": [
+            "pointer",
+            "time",
+            "scroll"
+          ],
+          "transitions": [
+            "camera-travel",
+            "focus-lift",
+            "card-rail"
+          ],
+          "physics": "light"
+        },
+        "spatial": {
+          "mode": "3d-object",
+          "camera": "orbit",
+          "depthCues": [
+            "perspective",
+            "occlusion",
+            "shadow",
+            "lighting"
+          ],
+          "hud": "overlay"
+        },
+        "participation": {
+          "mode": "explore",
+          "persistence": "ephemeral"
+        },
+        "sound": {
+          "mode": "none",
+          "triggers": [],
+          "controls": [],
+          "sync": "none"
+        },
+        "effects": {
+          "tactile": [
+            "magnetic",
+            "inertial"
+          ],
+          "retro": [],
+          "glitch": []
+        },
+        "implementation": {
+          "renderTier": "mixed",
+          "complexity": "high",
+          "requiredApis": [
+            "css-3d"
+          ],
+          "fallbacks": [
+            "guided-tour",
+            "reduced-motion"
+          ]
+        }
+      }
+    },
+    "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Geometry refraction vol.1\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #0f0e0d, #e8e8e8, and #2c2826, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.",
+    "summary": "Luxury Archive + Spatial Exhibition World. Explode the full poster across the viewport: the headline becomes architecture, the background copy becomes the room, and the hardware collage becomes floating evidence layers that react to scroll, drag, and hover."
+  }
+}

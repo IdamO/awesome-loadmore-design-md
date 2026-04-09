@@ -79,6 +79,8 @@ export function palette(meta) {
 }
 
 export function classifyCaptureMode(meta) {
+  if (meta.designGuidance?.captureMode) return meta.designGuidance.captureMode;
+  if (meta.capture?.mode) return meta.capture.mode;
   const hasDesktop = Boolean(meta.capture?.desktop?.screenshot);
   const hasMobile = Boolean(meta.capture?.mobile?.screenshot);
   if (meta.capture?.fallbackUsed && hasDesktop && hasMobile) return 'archival-fallback';

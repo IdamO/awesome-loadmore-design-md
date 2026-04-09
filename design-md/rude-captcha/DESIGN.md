@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: play, drag, reset
 - Inputs: tap, drag
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #7e7e7e - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#7e7e7e) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (playful, participative, photography) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (playful, participative, photography) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(156, 163, 175) backgrounds with rgb(255, 255, 255) text, and links inherit #9b9ea4 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -121,7 +123,7 @@ Key Characteristics:
 ### Do
 - Use Material Icons consistently for headlines and interface labels.
 - Keep the palette anchored to #7e7e7e, #f4f5f5, and #9b9ea4.
-- Preserve the experimental posture signaled by the loadmo.re tags: playful, participative, photography.
+- Preserve the experimental posture signaled by the archive tags: playful, participative, photography.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

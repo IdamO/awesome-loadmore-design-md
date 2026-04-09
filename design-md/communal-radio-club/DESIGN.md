@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: trigger, press, mix
 - Inputs: tap, drag, press
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #070201 - canvas / dominant background
@@ -54,7 +56,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#070201) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (music, participative, retro) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (music, participative, retro) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(255, 255, 0) text, and links inherit #4f090a as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -125,7 +127,7 @@ Key Characteristics:
 ### Do
 - Use Menlo consistently for headlines and interface labels.
 - Keep the palette anchored to #070201, #056206, and #4f090a.
-- Preserve the experimental posture signaled by the loadmo.re tags: music, participative, retro.
+- Preserve the experimental posture signaled by the archive tags: music, participative, retro.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

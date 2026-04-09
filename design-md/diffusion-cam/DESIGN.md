@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: trigger, press, mix
 - Inputs: tap, drag, press
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #d7e0c1 - canvas / dominant background
@@ -52,7 +54,7 @@ Key Characteristics:
 - Use a framed viewport with anchored navigation on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#d7e0c1) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (ai&generative, photography, participative) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (ai&generative, photography, participative) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgb(58, 74, 32) text, and links inherit rgb(58, 74, 32) as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -123,7 +125,7 @@ Key Characteristics:
 ### Do
 - Use Kode Mono consistently for headlines and interface labels.
 - Keep the palette anchored to #d7e0c1, #cdd7b8, and #a9b493.
-- Preserve the experimental posture signaled by the loadmo.re tags: ai&generative, photography, participative.
+- Preserve the experimental posture signaled by the archive tags: ai&generative, photography, participative.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

@@ -25,6 +25,8 @@ Key Characteristics:
 - Core verbs: explore, focus, open
 - Inputs: scroll, drag, tap, hover
 
+
+
 ## 3. Color Palette & Roles
 
 - Color 1: #f8f8f8 - canvas / dominant background
@@ -51,7 +53,7 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f8f8f8) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (3d-space, tactile, e-commerce) imply the site is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (3d-space, tactile, e-commerce) imply the system is intentionally non-generic.
 - Buttons tend toward rgb(0, 0, 0) backgrounds with rgb(255, 255, 255) text, and links inherit #a5a4a3 as the interaction signal.
 
 ## 6. Interaction Mechanics
@@ -122,7 +124,7 @@ Key Characteristics:
 ### Do
 - Use Azeret Mono consistently for headlines and interface labels.
 - Keep the palette anchored to #f8f8f8, #0a0a0a, and #a5a4a3.
-- Preserve the experimental posture signaled by the loadmo.re tags: 3d-space, tactile, e-commerce.
+- Preserve the experimental posture signaled by the archive tags: 3d-space, tactile, e-commerce.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 

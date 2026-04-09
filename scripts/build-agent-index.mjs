@@ -152,6 +152,7 @@ function avoidIf(item) {
   if (item.scores.weird >= 7) out.push('you need conservative enterprise trust cues');
   if (item.tags.includes('playful') || item.tags.includes('game')) out.push('you need dense productivity UI');
   if (item.captureMode === 'archival-fallback') out.push('you need verified live interaction patterns');
+  if (item.captureMode === 'concept-derived') out.push('you need proof of a real live site instead of a poster-derived concept');
   if (item.tags.includes('net.art')) out.push('you need strict conversion-first structure');
   return uniq(out).slice(0, 4);
 }
@@ -185,6 +186,8 @@ function makeItem(meta) {
     liveUrl: enriched.liveUrl,
     sourceLabel: enriched.sourceLabel || 'loadmo.re',
     sourceUrl: enriched.sourceUrl || enriched.loadmoreUrl || enriched.liveUrl,
+    sourceKind: enriched.sourceKind || 'website',
+    sourceCollections: enriched.collectionHandles || [],
     description: enriched.description || '',
     tags,
     fonts,
@@ -252,9 +255,10 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 3. Open \`playbooks/validation-rubric.md\` before shipping anything interaction-heavy.
 4. Open \`data/design-os.json\` for machine-readable world, motion, type, and archetype guidance.
 5. Open \`data/agent-index.json\` for machine-readable filtering and ranking of source references.
-6. Filter for \`captureMode: "live"\` when you need interaction truth. Use \`archival-fallback\` when you need visual attitude more than verified UX.
-7. Filter by \`mechanics.archetype.id\`, \`mechanics.schema.spatial.mode\`, \`mechanics.schema.sound.mode\`, and \`mechanics.validationPriority\` before picking references.
-8. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
+6. Open \`playbooks/poster-to-website.md\` when the source is static art and the job is to synthesize a browser-native interaction model.
+7. Filter for \`captureMode: "live"\` when you need interaction truth. Use \`archival-fallback\` when you need visual attitude more than verified UX. Use \`concept-derived\` when you need static-art-to-website translation patterns.
+8. Filter by \`mechanics.archetype.id\`, \`mechanics.schema.spatial.mode\`, \`mechanics.schema.sound.mode\`, and \`mechanics.validationPriority\` before picking references.
+9. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
 
 ## Recommended selection logic
 
@@ -273,6 +277,7 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 - \`playbooks/motion-grammar.md\`
 - \`playbooks/type-systems.md\`
 - \`playbooks/asset-forge.md\`
+- \`playbooks/poster-to-website.md\`
 - \`playbooks/component-philosophy.md\`
 - \`data/design-os.json\`
 
@@ -284,12 +289,16 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 - \`collections/culture-tech.md\`
 - \`collections/anti-b2b.md\`
 - \`collections/combo-recipes.md\`
+- \`collections/arte-aesthetic.md\`
+- \`collections/arte-technology.md\`
+- \`collections/arte-minimalism.md\`
 
 ## Current repo state
 
 - Total indexed sites: ${summary.total}
 - Live captures: ${summary.live}
 - Archival fallbacks: ${summary.fallback}
+- Poster concepts: ${summary.conceptDerived}
 - Minimum usable target met: ${summary.total >= 100 ? 'yes' : 'no'}
 `;
 }
@@ -308,6 +317,7 @@ const summary = {
   total: items.length,
   live: items.filter((item) => item.captureMode === 'live').length,
   fallback: items.filter((item) => item.captureMode === 'archival-fallback').length,
+  conceptDerived: items.filter((item) => item.captureMode === 'concept-derived').length,
   mixed: items.filter((item) => item.captureMode === 'mixed').length,
   incomplete: items.filter((item) => item.captureMode === 'incomplete').length
 };
@@ -317,6 +327,9 @@ const collections = {
   'music-tech': top(items, 'musicTech', 28, (item) => item.captureMode !== 'incomplete'),
   'fashion-culture': top(items, 'fashionCulture', 28, (item) => item.captureMode !== 'incomplete'),
   'culture-tech': top(items, 'cultureTech', 28, (item) => item.captureMode !== 'incomplete'),
+  'arte-aesthetic': items.filter((item) => item.sourceCollections.includes('aesthetic')).sort((a, b) => a.title.localeCompare(b.title)),
+  'arte-technology': items.filter((item) => item.sourceCollections.includes('technology')).sort((a, b) => a.title.localeCompare(b.title)),
+  'arte-minimalism': items.filter((item) => item.sourceCollections.includes('minimalism')).sort((a, b) => a.title.localeCompare(b.title)),
   'anti-b2b': items
     .filter((item) => item.captureMode !== 'incomplete')
     .filter((item) => !item.tags.includes('clean-ui'))
@@ -415,6 +428,21 @@ await writeText(path.join(COLLECTION_DIR, 'anti-b2b.md'), buildCollectionDoc({
   title: 'Anti-B2B Starter Pack',
   description: 'Use this when default SaaS instincts would kill the idea. These references bias toward weirdness, scene energy, and strong visual signatures.',
   items: collections['anti-b2b']
+}));
+await writeText(path.join(COLLECTION_DIR, 'arte-aesthetic.md'), buildCollectionDoc({
+  title: 'Arte Collective Aesthetic -> Website Concepts',
+  description: 'Poster-derived website systems from Arte Collective aesthetic posters. Use these when you need dreamy, object-like, or atmospheric browser worlds derived from static art rather than live-site captures.',
+  items: collections['arte-aesthetic']
+}));
+await writeText(path.join(COLLECTION_DIR, 'arte-technology.md'), buildCollectionDoc({
+  title: 'Arte Collective Technology -> Website Concepts',
+  description: 'Poster-derived website systems from Arte Collective technology posters. Use these for signal-rich, reactive, and machine-like interfaces that still feel authored.',
+  items: collections['arte-technology']
+}));
+await writeText(path.join(COLLECTION_DIR, 'arte-minimalism.md'), buildCollectionDoc({
+  title: 'Arte Collective Minimalism -> Website Concepts',
+  description: 'Poster-derived website systems from Arte Collective minimal posters. Use these when you need restraint, spatial calm, and strong negative space without falling into sterile SaaS minimalism.',
+  items: collections['arte-minimalism']
 }));
 await writeText(path.join(COLLECTION_DIR, 'combo-recipes.md'), buildComboRecipes(recipes));
 await writeText(AGENTS_FILE, buildAgentsMd(summary));
