@@ -1,6 +1,6 @@
 # The Sun's Dying Soon - Orange Inspired Design System
 
-[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [The Sun's Dying Soon - Orange](https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, and motion rules.
+[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [The Sun's Dying Soon - Orange](https://arte-collective.com/collections/minimalism/products/the-suns-dying-soon-orange). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, motion rules, and any variant transpositions baked into `meta.json`.
 
 ## Files
 

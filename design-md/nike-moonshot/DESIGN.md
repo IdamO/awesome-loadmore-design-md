@@ -147,6 +147,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Collage Core page with a secondary cue from Luxury Archive using the Collage Field interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #fefefe, #a9adaf, #accdcb, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/nike-moonshot)

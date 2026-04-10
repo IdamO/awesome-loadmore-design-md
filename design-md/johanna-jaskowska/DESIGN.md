@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Spatial Exhibition World interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #b8a6a2, #c8bab8, #938b89, drive the page through scroll, drag, tap, hover, filter, and implement the mobile fallback as: Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/johanna-jaskowska)

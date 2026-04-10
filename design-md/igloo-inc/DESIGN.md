@@ -148,6 +148,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page using the Club Instrument interaction model. Keep IBMPlexMono-Medium as the voice anchor, preserve the palette around #959aa6, #5b606f, #737886, drive the page through tap, drag, press, scroll, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/igloo-inc)

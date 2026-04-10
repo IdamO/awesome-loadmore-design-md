@@ -14,6 +14,7 @@ const force = args.get('force') === 'true';
 
 const WORLD_BY_SLUG = new Map(WORLD_SYSTEMS.map((item) => [item.slug, item]));
 const DATA_FILE = path.join(DATA_DIR, 'arte-posters.json');
+const OVERRIDES_FILE = path.join(DATA_DIR, 'arte-overrides.json');
 const PYTHON_HELPER = path.join(path.dirname(new URL(import.meta.url).pathname), 'lib', 'poster_vision.py');
 const LAYER_HELPER = path.join(path.dirname(new URL(import.meta.url).pathname), 'lib', 'poster_layers.py');
 
@@ -664,6 +665,60 @@ function captureChecklist() {
   };
 }
 
+function mergeMechanics(base = {}, override = {}) {
+  return {
+    ...base,
+    ...override,
+    archetype: override.archetype || base.archetype,
+    inputModes: override.inputModes || base.inputModes,
+    engineHints: override.engineHints || base.engineHints,
+    motionRecipe: override.motionRecipe || base.motionRecipe,
+    implementationNotes: override.implementationNotes || base.implementationNotes,
+    antiPatterns: override.antiPatterns || base.antiPatterns,
+    validationChecklist: override.validationChecklist || base.validationChecklist,
+    evidence: override.evidence || base.evidence,
+    schema: {
+      ...(base.schema || {}),
+      ...(override.schema || {}),
+      navigation: { ...(base.schema?.navigation || {}), ...(override.schema?.navigation || {}) },
+      motion: { ...(base.schema?.motion || {}), ...(override.schema?.motion || {}) },
+      spatial: { ...(base.schema?.spatial || {}), ...(override.schema?.spatial || {}) },
+      participation: { ...(base.schema?.participation || {}), ...(override.schema?.participation || {}) },
+      sound: { ...(base.schema?.sound || {}), ...(override.schema?.sound || {}) },
+      effects: { ...(base.schema?.effects || {}), ...(override.schema?.effects || {}) },
+      implementation: { ...(base.schema?.implementation || {}), ...(override.schema?.implementation || {}) }
+    }
+  };
+}
+
+function applyOverride(meta, override = {}) {
+  if (!override || !Object.keys(override).length) return meta;
+  return {
+    ...meta,
+    ...override,
+    conceptSource: { ...(meta.conceptSource || {}), ...(override.conceptSource || {}) },
+    websiteConcept: {
+      ...(meta.websiteConcept || {}),
+      ...(override.websiteConcept || {}),
+      roles: override.websiteConcept?.roles || meta.websiteConcept?.roles
+    },
+    designGuidance: {
+      ...(meta.designGuidance || {}),
+      ...(override.designGuidance || {}),
+      worldSystems: override.designGuidance?.worldSystems || meta.designGuidance?.worldSystems,
+      mechanics: mergeMechanics(meta.designGuidance?.mechanics || {}, override.designGuidance?.mechanics || {})
+    },
+    captureChecklist: { ...(meta.captureChecklist || {}), ...(override.captureChecklist || {}) },
+    capture: {
+      ...(meta.capture || {}),
+      ...(override.capture || {}),
+      desktop: { ...(meta.capture?.desktop || {}), ...(override.capture?.desktop || {}) },
+      mobile: { ...(meta.capture?.mobile || {}), ...(override.capture?.mobile || {}) }
+    },
+    musicTransposition: override.musicTransposition || meta.musicTransposition
+  };
+}
+
 function buildMeta(poster, vision, concept, layerPayload = null) {
   const description = `${poster.title} is treated here as a poster-derived website concept. The source is the Arte Collective poster, but the design guidance describes how to turn the art into a live browser world with depth, motion, and mobile behavior.`;
   return {
@@ -724,6 +779,7 @@ const payload = await readJson(DATA_FILE, null);
 if (!payload) {
   throw new Error('Missing arte-posters.json. Run npm run crawl:arte first.');
 }
+const overrides = await readJson(OVERRIDES_FILE, {});
 
 const posters = (payload.posters || []).filter((poster) => !onlySlug || poster.slug === onlySlug);
 let changed = 0;
@@ -747,7 +803,7 @@ for (const poster of posters) {
     const vision = analyzePoster(tempSource, cropOut, sourceOut);
     const concept = conceptForPoster(poster, vision);
     const layerPayload = generatePosterLayers(concept.websiteConcept.familyId, cropOut, path.join(dir, 'assets', 'layers'));
-    const meta = buildMeta(poster, vision, concept, layerPayload);
+    const meta = applyOverride(buildMeta(poster, vision, concept, layerPayload), overrides?.[poster.slug] || {});
     await writeJson(metaPath, meta);
     changed += 1;
     console.log(`Synthesized ${poster.slug}`);

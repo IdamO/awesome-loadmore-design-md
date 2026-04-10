@@ -153,6 +153,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Spatial Exhibition World interaction model. Keep Louize as the voice anchor, preserve the palette around #f3f3f3, #161616, #a0a1a2, drive the page through scroll, drag, tap, hover, and implement the mobile fallback as: Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/viennese-modernism)

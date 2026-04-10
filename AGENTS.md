@@ -12,7 +12,8 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 6. Open `playbooks/poster-to-website.md` when the source is static art and the job is to synthesize a browser-native interaction model.
 7. Filter for `captureMode: "live"` when you need interaction truth. Use `archival-fallback` when you need visual attitude more than verified UX. Use `concept-derived` when you need static-art-to-website translation patterns.
 8. Filter by `mechanics.archetype.id`, `mechanics.schema.spatial.mode`, `mechanics.schema.sound.mode`, and `mechanics.validationPriority` before picking references.
-9. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
+9. If an entry exposes `musicTransposition` or another variant block, treat that generated object kit and prompt as canonical for that domain-specific remix.
+10. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
 
 ## Recommended selection logic
 
@@ -49,8 +50,8 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 
 ## Current repo state
 
-- Total indexed sites: 465
-- Live captures: 334
+- Total indexed sites: 467
+- Live captures: 336
 - Archival fallbacks: 55
 - Poster concepts: 76
 - Minimum usable target met: yes

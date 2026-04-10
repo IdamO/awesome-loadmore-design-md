@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page with a secondary cue from Fan Shrine using the Club Instrument interaction model. Keep neue-haas-grotesk-display as the voice anchor, preserve the palette around #242424, #1b1b1b, #393939, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/holodec-world)

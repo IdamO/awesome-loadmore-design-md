@@ -154,6 +154,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Collage Core page with a secondary cue from Playable Poster using the Portfolio Artifact interaction model. Keep Helvetica Neue LT Std as the voice anchor, preserve the palette around #de0001, #261e19, #51302b, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/special-offer)

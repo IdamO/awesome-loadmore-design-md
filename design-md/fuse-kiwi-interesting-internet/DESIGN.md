@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Luxury Archive page with a secondary cue from Collage Core using the Editorial Archive Index interaction model. Keep Syne as the voice anchor, preserve the palette around #ededed, #1f201e, #92f54a, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/fuse-kiwi-interesting-internet)

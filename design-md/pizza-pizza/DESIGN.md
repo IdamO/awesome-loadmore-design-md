@@ -148,6 +148,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Playable Poster page with a secondary cue from Luxury Archive using the Portfolio Artifact interaction model. Keep ABC Diatype as the voice anchor, preserve the palette around #e6001c, #a10517, #1c0406, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/pizza-pizza)

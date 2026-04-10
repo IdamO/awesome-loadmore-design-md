@@ -147,6 +147,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Cozy Desktop page with a secondary cue from Luxury Archive using the Retro Tool Emulator interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #000000, #606060, #fdfdfd, drive the page through tap, drag, type, and implement the mobile fallback as: Turn dense panels into a one-tool-at-a-time inspector or wizard while preserving the visual chrome.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/ccamera)

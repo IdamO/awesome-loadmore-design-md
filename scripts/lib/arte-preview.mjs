@@ -159,22 +159,32 @@ function manifestoRows(meta) {
 
 function renderArtifact(meta) {
   const layers = meta.posterLayers || {};
+  const transposition = meta.musicTransposition || {};
+  const musicAssets = transposition.assets || {};
+  const heroCopy = transposition.heroCopy || meta.websiteConcept?.heroCopy || '';
+  const labelMarkup = (transposition.labels || [])
+    .slice(0, 4)
+    .map((label) => `<span>${escapeHtml(label)}</span>`)
+    .join('');
   const styleVars = [
     `--artifact-title:url('${layers.title || meta.posterCrop || './assets/poster-crop.jpg'}')`,
     `--artifact-text-left:url('${layers['text-left'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
     `--artifact-text-mid:url('${layers['text-mid'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
     `--artifact-text-right:url('${layers['text-right'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
-    `--artifact-object-top:url('${layers['object-top'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
-    `--artifact-object-bottom-left:url('${layers['object-bottom-left'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
-    `--artifact-object-bottom-right:url('${layers['object-bottom-right'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
-    `--artifact-object-detail:url('${layers['object-detail'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
+    `--artifact-object-top:url('${musicAssets.top || layers['object-top'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
+    `--artifact-object-bottom-left:url('${musicAssets.bottomLeft || layers['object-bottom-left'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
+    `--artifact-object-bottom-right:url('${musicAssets.bottomRight || layers['object-bottom-right'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
+    `--artifact-object-detail:url('${musicAssets.detail || layers['object-detail'] || meta.posterCrop || './assets/poster-crop.jpg'}')`,
     `--artifact-footer:url('${layers.footer || meta.posterCrop || './assets/poster-crop.jpg'}')`
   ].join(';');
+  const variantClass = transposition.assets ? ' has-music-variant' : '';
+  const footerCenter = transposition.name || meta.designGuidance?.mechanics?.archetype?.name || 'Spatial Exhibition World';
 
   return `
-    <main class="poster-world family-artifact" style="${styleVars}">
+    <main class="poster-world family-artifact${variantClass}" style="${styleVars}">
       <div class="bg-layer bg-copy"></div>
       <div class="bg-layer bg-grain"></div>
+      ${transposition.assets ? '<div class="artifact-pulse"></div>' : ''}
       <div class="artifact-text-lanes">
         <div class="ink-column ink-column-a"></div>
         <div class="ink-column ink-column-b"></div>
@@ -186,7 +196,8 @@ function renderArtifact(meta) {
       </div>
       <header class="headline-cluster artifact-caption">
         <div class="micro-top">${microRail(meta)}</div>
-        <p>${escapeHtml(meta.websiteConcept?.heroCopy || '')}</p>
+        ${labelMarkup ? `<div class="artifact-variant-rail">${labelMarkup}</div>` : ''}
+        <p>${escapeHtml(heroCopy)}</p>
       </header>
       <div class="object-cluster">
         <div class="object-plane plane-main"></div>
@@ -197,7 +208,7 @@ function renderArtifact(meta) {
       <div class="artifact-footer-ink"></div>
       <footer class="micro-bottom">
         <span>${escapeHtml(meta.websiteConcept?.familyName || 'Poster System')}</span>
-        <span>${escapeHtml(meta.designGuidance?.mechanics?.archetype?.name || 'Spatial Exhibition World')}</span>
+        <span>${escapeHtml(footerCenter)}</span>
         <span>${escapeHtml((meta.collectionTitles || []).join(' / '))}</span>
       </footer>
     </main>`;
@@ -307,6 +318,7 @@ function renderScene(meta) {
 export function buildArteTranslationBlock(meta) {
   const concept = meta.websiteConcept || {};
   const mechanics = meta.designGuidance?.mechanics || {};
+  const transposition = meta.musicTransposition || null;
   if (!concept.familyId) return '';
   const decomposition = {
     'artifact-monolith': 'Explode the poster into one headline wall, one text atmosphere, and one heavy object cluster. No rectangular poster survives inside the viewport.',
@@ -315,6 +327,13 @@ export function buildArteTranslationBlock(meta) {
     'quiet-lightbox': 'Turn the text lines and bars into the page architecture. The bars become interactive slabs and the phrase stack becomes navigation rhythm.',
     'orbital-atmosphere': 'Expand the orb, haze, or glow into the browser field so labels float inside the atmosphere instead of beside the poster.'
   };
+  const transpositionBlock = transposition
+    ? `\n- Variant transposition: ${transposition.name}
+- Variant summary: ${transposition.summary || 'Translate the poster into a different product world while keeping its aura and geometry.'}
+- Replacement object kit: ${Object.entries(transposition.assets || {}).map(([key, value]) => `${key} -> ${value}`).join(', ') || 'none'}
+- Variant labels: ${(transposition.labels || []).join(', ') || 'none'}
+- Variant prompt: ${transposition.prompt || 'none'}`
+    : '';
   return `### Poster-to-Website Translation
 - Family: ${concept.familyName}
 - Aura: ${concept.aura}
@@ -323,7 +342,7 @@ export function buildArteTranslationBlock(meta) {
 - Motion system: ${(concept.motionHooks || []).join(', ') || 'none'}
 - Spatial model: ${concept.depthModel || 'none'}
 - Sound direction: ${concept.soundDirection || 'none'}
-- Poster asset: ${meta.posterCrop || concept.posterAsset || 'assets/poster-crop.jpg'}`;
+- Poster asset: ${meta.posterCrop || concept.posterAsset || 'assets/poster-crop.jpg'}${transpositionBlock}`;
 }
 
 export function buildArtePosterPreviewHtml(meta, dark = false) {
@@ -566,8 +585,37 @@ export function buildArtePosterPreviewHtml(meta, dark = false) {
     max-width: min(32vw, 420px);
     padding-top: 28px;
   }
+  .family-artifact .artifact-variant-rail {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 8px 0 14px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: .22em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--glow) 76%, #f6eee2);
+  }
+  .family-artifact .artifact-variant-rail span {
+    padding: 6px 9px;
+    border: 1px solid rgba(245, 208, 165, .16);
+    background: linear-gradient(180deg, rgba(18, 18, 18, .64), rgba(18, 18, 18, .24));
+    box-shadow: 0 8px 28px rgba(0, 0, 0, .22);
+  }
   .family-artifact .artifact-caption h1 {
     display: none;
+  }
+  .family-artifact.has-music-variant .artifact-pulse {
+    inset: 22% 18% 12% 34%;
+    background:
+      radial-gradient(circle at 42% 38%, color-mix(in srgb, var(--glow) 26%, transparent), transparent 16%),
+      radial-gradient(circle at 58% 62%, rgba(230, 143, 52, .16), transparent 22%),
+      radial-gradient(circle at 62% 50%, rgba(255, 228, 193, .08), transparent 32%);
+    mix-blend-mode: screen;
+    filter: blur(8px);
+    opacity: .72;
+    z-index: 2;
+    transform: translate3d(calc((var(--mx) - .5) * 28px), calc((var(--my) - .5) * -18px), 40px);
   }
   .family-artifact .object-cluster {
     z-index: 3;
@@ -882,6 +930,7 @@ export function buildArtePosterPreviewHtml(meta, dark = false) {
     .family-artifact .artifact-title-main { width: 92vw; height: 24vw; }
     .family-artifact .artifact-title-ghost { width: 96vw; height: 26vw; left: 8vw; }
     .family-artifact .artifact-caption { max-width: 44vw; }
+    .family-artifact .artifact-variant-rail { gap: 6px; font-size: 9px; }
     .family-artifact .plane-main { left: 34%; top: 40%; width: 50vw; height: 34vw; }
     .family-artifact .plane-disc { left: 56%; top: 62%; width: 28vw; height: 20vw; }
     .family-artifact .plane-chip { left: 18%; top: 66%; width: 20vw; height: 28vw; }
@@ -913,6 +962,8 @@ export function buildArtePosterPreviewHtml(meta, dark = false) {
     .family-artifact .artifact-title-main { width: 98vw; height: 30vw; left: 2vw; top: 4vh; }
     .family-artifact .artifact-title-ghost { width: 104vw; height: 32vw; left: 6vw; top: 7vh; }
     .family-artifact .artifact-caption { max-width: 56vw; }
+    .family-artifact .artifact-variant-rail { margin: 6px 0 12px; gap: 5px; font-size: 8px; letter-spacing: .18em; }
+    .family-artifact .artifact-variant-rail span { padding: 5px 7px; }
     .family-artifact .plane-main { left: 18%; top: 44%; width: 64vw; height: 38vw; }
     .family-artifact .plane-disc { left: 54%; top: 70%; width: 34vw; height: 22vw; }
     .family-artifact .plane-chip { left: 10%; top: 72%; width: 22vw; height: 30vw; }

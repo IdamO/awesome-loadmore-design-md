@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Commerce Shrine Stage interaction model. Keep GT Haptik Black as the voice anchor, preserve the palette around #fefefe, #00fe01, #9cfa9c, drive the page through scroll, tap, hover, and implement the mobile fallback as: Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/nold-boards)

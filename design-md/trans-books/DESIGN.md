@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page with a secondary cue from Fan Shrine using the Scroll Scrub Instrument interaction model. Keep slick as the voice anchor, preserve the palette around #000000, #e4e4e5, #a4a4a5, drive the page through scroll, tap, and implement the mobile fallback as: Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/trans-books)

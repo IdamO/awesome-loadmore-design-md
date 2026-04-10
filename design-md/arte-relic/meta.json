@@ -535,5 +535,23 @@
     },
     "implementationPrompt": "Build a responsive website inspired by the Arte Collective poster \"Relic\". Ignore the room mockup and frame; isolate the poster art, keep the palette around #1c1c1c, #e6e6e6, and #34302f, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.",
     "summary": "Luxury Archive + Spatial Exhibition World. Explode the full poster across the viewport: the headline becomes architecture, the background copy becomes the room, and the hardware collage becomes floating evidence layers that react to scroll, drag, and hover."
+  },
+  "musicTransposition": {
+    "name": "Relic -> Music Archive",
+    "heroCopy": "FINGERPRINT 120 BPM SIDE A",
+    "summary": "Keep the Relic palette, typography, and archive anxiety, but swap the hard-drive artifact cluster for tape-transport music relics.",
+    "assets": {
+      "top": "assets/generated/music-top.png",
+      "bottomLeft": "assets/generated/music-bottom-left.png",
+      "bottomRight": "assets/generated/music-bottom-right.png",
+      "detail": "assets/generated/music-detail.png"
+    },
+    "labels": [
+      "music archive",
+      "side a",
+      "tape memory",
+      "cue sensor"
+    ],
+    "prompt": "Build the Relic poster as a music-tech browser world. Keep the monochrome archive typography, black-metal and amber palette, and shallow 3D poster decomposition, but replace the storage hardware with a reel transport, tape-memory module, cassette window, and cue transducer. The full poster still becomes the room: title as architecture, copy as atmosphere, music relics as the floating evidence stack."
   }
 }

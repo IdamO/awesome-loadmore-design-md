@@ -156,6 +156,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Cozy Desktop page with a secondary cue from Club Instrument using the Desktop Shell World interaction model. Keep Pixolde as the voice anchor, preserve the palette around #f3d2d1, #cebcb9, #aba8a2, drive the page through drag, tap, click, and implement the mobile fallback as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/poolside-fm)

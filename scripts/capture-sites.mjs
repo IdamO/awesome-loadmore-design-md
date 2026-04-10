@@ -73,7 +73,7 @@ print(json.dumps(result))
 }
 
 async function dismissOverlays(page) {
-  const patterns = [/accept/i, /agree/i, /close/i, /^x$/i, /dismiss/i, /continue/i, /enter/i, /start/i, /allow/i];
+  const patterns = [/accept/i, /agree/i, /close/i, /^x$/i, /dismiss/i, /continue with shop/i, /no thanks/i, /not now/i, /enter/i, /start/i, /allow/i];
   for (const pattern of patterns) {
     const locator = page.getByRole('button', { name: pattern }).first();
     try {
@@ -83,11 +83,51 @@ async function dismissOverlays(page) {
       }
     } catch {}
   }
+  const closeSelectors = [
+    'button[aria-label*="close" i]',
+    '[role="button"][aria-label*="close" i]',
+    'button[title*="close" i]',
+    '[role="button"][title*="close" i]',
+    'button[class*="close" i]',
+    '[role="button"][class*="close" i]',
+    'button[id*="close" i]'
+  ];
+  for (const selector of closeSelectors) {
+    const locator = page.locator(selector).first();
+    try {
+      if (await locator.isVisible({ timeout: 500 })) {
+        await locator.click({ timeout: 1200 });
+        await page.waitForTimeout(300);
+      }
+    } catch {}
+  }
+  try {
+    await page.keyboard.press('Escape');
+    await page.waitForTimeout(250);
+  } catch {}
 }
 
-async function analyzePage(page, mode) {
+async function dismissKnownSiteOverlays(page, site) {
+  if (site?.slug === 'fox-rockett-studio') {
+    try {
+      const accept = page.getByRole('button', { name: /accept/i }).first();
+      if (await accept.isVisible({ timeout: 800 })) {
+        await accept.click({ timeout: 1200 });
+        await page.waitForTimeout(400);
+      }
+    } catch {}
+    return;
+  }
   await dismissOverlays(page);
+}
+
+async function analyzePage(page, mode, site) {
+  await dismissKnownSiteOverlays(page, site);
   await page.waitForTimeout(settleMs);
+  await dismissKnownSiteOverlays(page, site);
+  if (site?.slug !== 'fox-rockett-studio') {
+    await page.waitForTimeout(500);
+  }
   const analysis = await page.evaluate((modeName) => {
     const sample = Array.from(document.querySelectorAll('body, main, section, article, nav, header, footer, h1, h2, h3, p, a, button, input, textarea, [role="button"], [class*="card"], [class*="button"]'))
       .filter((el) => {
@@ -168,8 +208,8 @@ async function captureVariant(browser, site, config) {
   const errors = [];
   try {
     await page.goto(site.liveUrl, { waitUntil: 'commit', timeout: 60000 });
-    await page.waitForTimeout(settleMs);
-    const analysis = await analyzePage(page, config.name);
+    await page.waitForTimeout(site.slug === 'fox-rockett-studio' ? 1000 : settleMs);
+    const analysis = await analyzePage(page, config.name, site);
     const shotsDir = path.join(site.siteDir, 'screenshots');
     await ensureDir(shotsDir);
     const screenshotPath = path.join(shotsDir, `${config.name}.jpg`);

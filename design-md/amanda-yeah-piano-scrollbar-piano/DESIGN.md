@@ -153,6 +153,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page with a secondary cue from Collage Core using the Scroll Scrub Instrument interaction model. Keep Solide Mirage as the voice anchor, preserve the palette around #e3fcd4, #ecfba4, #f7ff6e, drive the page through scroll, tap, and implement the mobile fallback as: Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/amanda-yeah-piano-scrollbar-piano)

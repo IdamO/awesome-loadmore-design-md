@@ -34,6 +34,11 @@ Key Characteristics:
 - Spatial model: The full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers.
 - Sound direction: Silent by default; let motion and light carry the atmosphere.
 - Poster asset: assets/poster-crop.jpg
+- Variant transposition: Relic -> Music Archive
+- Variant summary: Keep the Relic palette, typography, and archive anxiety, but swap the hard-drive artifact cluster for tape-transport music relics.
+- Replacement object kit: top -> assets/generated/music-top.png, bottomLeft -> assets/generated/music-bottom-left.png, bottomRight -> assets/generated/music-bottom-right.png, detail -> assets/generated/music-detail.png
+- Variant labels: music archive, side a, tape memory, cue sensor
+- Variant prompt: Build the Relic poster as a music-tech browser world. Keep the monochrome archive typography, black-metal and amber palette, and shallow 3D poster decomposition, but replace the storage hardware with a reel transport, tape-memory module, cassette window, and cue transducer. The full poster still becomes the room: title as architecture, copy as atmosphere, music relics as the floating evidence stack.
 
 
 ## 3. Color Palette & Roles
@@ -159,6 +164,11 @@ Key Characteristics:
 Use this when asking an AI coding agent to recreate the feel:
 
 > Build a responsive website inspired by the Arte Collective poster "Relic". Ignore the room mockup and frame; isolate the poster art, keep the palette around #1c1c1c, #e6e6e6, and #34302f, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.
+
+### Variant Prompt
+
+> Build the Relic poster as a music-tech browser world. Keep the monochrome archive typography, black-metal and amber palette, and shallow 3D poster decomposition, but replace the storage hardware with a reel transport, tape-memory module, cassette window, and cue transducer. The full poster still becomes the room: title as architecture, copy as atmosphere, music relics as the floating evidence stack. Keep the poster title architecture and text atmosphere intact, but swap the hero object stack for top -> assets/generated/music-top.png, bottomLeft -> assets/generated/music-bottom-left.png, bottomRight -> assets/generated/music-bottom-right.png, detail -> assets/generated/music-detail.png. Preserve the original aura, palette, and typography while making the new world legible in both desktop and mobile compositions.
+
 
 ## 15. Source Capture & Validation
 

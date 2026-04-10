@@ -46,6 +46,26 @@ Isolate the art. Then ask:
 - responsive collapse logic
 - optional sound role after user intent
 
+## Variant transpositions
+
+When the goal is not just "make the poster a website" but "make the poster a website for a different domain," do not keep the original hero object by default.
+
+Translate at the layer level:
+- keep the title architecture
+- keep the copy atmosphere
+- keep the palette hierarchy
+- keep the emotional temperature
+- replace the hero object cluster with a generated object kit from the new domain
+
+Typical examples:
+- storage relic -> music relic
+- science object -> fashion artifact
+- cosmic poster -> club flyer environment
+
+Rule: the new object kit should feel like it could have been the original poster's subject, not like unrelated props dropped on top.
+
+For repo entries that already define a domain remix, prefer the machine-readable variant block in `meta.json` such as `musicTransposition`. Those generated assets and prompts override the base object cluster for that remix.
+
 ## Scene families
 
 ### Artifact Monolith

@@ -152,6 +152,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page with a secondary cue from Collage Core using the Scroll Scrub Instrument interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #0f1016, #172b55, #aa88b0, drive the page through scroll, tap, and implement the mobile fallback as: Replace long scrub zones with a horizontal slider or stepped scenes while keeping audio opt-in.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/scrolling-the-arcane)

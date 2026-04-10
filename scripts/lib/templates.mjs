@@ -29,6 +29,18 @@ function isArtePoster(meta) {
   return meta?.sourceKind === 'arte-poster';
 }
 
+function buildAgentPrompts(source, title, lead, second, accent, fonts) {
+  const base = source.designGuidance?.implementationPrompt
+    || `Build a responsive landing page inspired by ${title}. Keep the palette centered on ${lead}, ${second}, and ${accent}. Use ${fonts[0] || 'the extracted primary font'} for headlines, preserve the ${tagMood(source.tags)} mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.`;
+  const transposition = source.musicTransposition;
+  if (!transposition) return { base, variant: '' };
+  const assets = Object.entries(transposition.assets || {})
+    .map(([key, value]) => `${key} -> ${value}`)
+    .join(', ');
+  const variant = `${transposition.prompt || transposition.summary || transposition.name} Keep the poster title architecture and text atmosphere intact, but swap the hero object stack for ${assets || 'the generated variant object kit'}. Preserve the original aura, palette, and typography while making the new world legible in both desktop and mobile compositions.`;
+  return { base, variant };
+}
+
 export function buildDesignMarkdown(meta) {
   const source = meta.designGuidance ? meta : enrichMeta(meta);
   const colors = palette(source);
@@ -51,6 +63,7 @@ export function buildDesignMarkdown(meta) {
   const schema = mechanics.schema || {};
   const artePoster = isArtePoster(source);
   const translationBlock = isArtePoster(source) ? buildArteTranslationBlock(source) : '';
+  const agentPrompts = buildAgentPrompts(source, title, lead, second, accent, fonts);
   const captureMode = source.designGuidance?.captureMode || classifyCaptureMode(source);
   const colorLines = colors.length
     ? colors.map((item, index) => `- Color ${index + 1}: ${item.hex} - ${index === 0 ? 'canvas / dominant background' : index === 1 ? 'primary text or opposing surface' : index === 2 ? 'accent / interactive signal' : 'supporting surface or hover state'}`).join('\n')
@@ -192,8 +205,13 @@ ${(mechanics.validationChecklist || []).map((item) => `  - ${item}`).join('\n') 
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> ${source.designGuidance?.implementationPrompt || `Build a responsive landing page inspired by ${title}. Keep the palette centered on ${lead}, ${second}, and ${accent}. Use ${fonts[0] || 'the extracted primary font'} for headlines, preserve the ${tagMood(source.tags)} mood, and treat desktop and mobile as distinct compositions rather than a single squashed layout.`}
+> ${agentPrompts.base}
 
+${agentPrompts.variant ? `### Variant Prompt
+
+> ${agentPrompts.variant}
+
+` : ''}
 ## 15. Source Capture & Validation
 
 - Source: ${sourceLabel}${sourceUrl ? ` (${sourceUrl})` : ''}
@@ -213,7 +231,7 @@ export function buildSiteReadme(meta) {
   const sourceUrl = source.sourceUrl || source.loadmoreUrl || source.liveUrl;
   const sourcePhrase = sourceUrl ? `[${sourceLabel}](${sourceUrl})` : sourceLabel;
   const intro = isArtePoster(source)
-    ? `[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [${title}](${source.liveUrl}). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, and motion rules.`
+    ? `[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [${title}](${source.liveUrl}). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, motion rules, and any variant transpositions baked into \`meta.json\`.`
     : `[DESIGN.md](./DESIGN.md) extracted from the public [${title}](${source.liveUrl}) website, cross-referenced with ${sourcePhrase}. This is not the official design system. The goal is to give an AI agent enough grounded design language to recreate the feel without flattening it into generic SaaS UI.`;
   const desktopLabel = isArtePoster(source) ? 'Concept desktop render' : 'Live or archival desktop viewport capture';
   const mobileLabel = isArtePoster(source) ? 'Concept mobile render' : 'Live or archival mobile viewport capture';

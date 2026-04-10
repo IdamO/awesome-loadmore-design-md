@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Luxury Archive page using the Editorial Archive Index interaction model. Keep gt-walsheim-regular as the voice anchor, preserve the palette around #eee9e4, #ceb296, #dcc7b3, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/williams-college-museum-of-art)

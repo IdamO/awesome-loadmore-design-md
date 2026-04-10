@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Playable Poster page with a secondary cue from Collage Core using the Playable Poster interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #fefefe, #ededf1, #cfd2d6, drive the page through scroll, tap, hover, drag, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/slingshot-camera)

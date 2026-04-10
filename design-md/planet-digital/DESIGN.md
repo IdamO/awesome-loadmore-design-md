@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Collage Core page with a secondary cue from Luxury Archive using the Collage Field interaction model. Keep swiper-icons as the voice anchor, preserve the palette around #f5f5f5, #2c9ced, #f9a261, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/planet-digital)

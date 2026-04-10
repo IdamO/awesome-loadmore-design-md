@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Playable Poster page with a secondary cue from Collage Core using the Toy Loop Microgame interaction model. Keep Roboto as the voice anchor, preserve the palette around #f8f6f3, #0b0b0a, #a8a6a1, drive the page through tap, drag, and implement the mobile fallback as: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.
 
+
 ## 15. Source Capture & Validation
 
 - Source: manual curation (https://neal.fun/)

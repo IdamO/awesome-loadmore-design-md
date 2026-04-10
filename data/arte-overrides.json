@@ -1,0 +1,22 @@
+{
+  "arte-relic": {
+    "musicTransposition": {
+      "name": "Relic -> Music Archive",
+      "heroCopy": "FINGERPRINT 120 BPM SIDE A",
+      "summary": "Keep the Relic palette, typography, and archive anxiety, but swap the hard-drive artifact cluster for tape-transport music relics.",
+      "assets": {
+        "top": "assets/generated/music-top.png",
+        "bottomLeft": "assets/generated/music-bottom-left.png",
+        "bottomRight": "assets/generated/music-bottom-right.png",
+        "detail": "assets/generated/music-detail.png"
+      },
+      "labels": [
+        "music archive",
+        "side a",
+        "tape memory",
+        "cue sensor"
+      ],
+      "prompt": "Build the Relic poster as a music-tech browser world. Keep the monochrome archive typography, black-metal and amber palette, and shallow 3D poster decomposition, but replace the storage hardware with a reel transport, tape-memory module, cassette window, and cue transducer. The full poster still becomes the room: title as architecture, copy as atmosphere, music relics as the floating evidence stack."
+    }
+  }
+}

@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Cozy Desktop page with a secondary cue from Luxury Archive using the Portfolio Artifact interaction model. Keep monument-mono as the voice anchor, preserve the palette around #020104, #9a41fd, #622aa2, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/vera-vandeseyp)

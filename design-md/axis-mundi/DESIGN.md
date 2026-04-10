@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep font as the voice anchor, preserve the palette around #e0e4e7, #a3a3a2, #2789fd, drive the page through scroll, hover, tap, filter, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/axis-mundi)

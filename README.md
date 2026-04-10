@@ -3,8 +3,8 @@
   <br />
   <br />
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-465-10b981?style=classic)
-![Live Captures](https://img.shields.io/badge/live%20captures-336-0ea5e9?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-467-10b981?style=classic)
+![Live Captures](https://img.shields.io/badge/live%20captures-338-0ea5e9?style=classic)
 ![Archival Fallbacks](https://img.shields.io/badge/archival%20fallbacks-55-f59e0b?style=classic)
 ![Poster Concepts](https://img.shields.io/badge/poster%20concepts-76-f97316?style=classic)
 ![Tags](https://img.shields.io/badge/primary%20tags-32-6366f1?style=classic)
@@ -279,8 +279,10 @@ If you are building net-new work, choose one dominant world from `playbooks/worl
 ### Graphic Design
 
 - [**Circuits of Truth**](./design-md/circuits-of-truth/) - Beautifully designed research project website about
+- [**Fox Rockett Studio**](./design-md/fox-rockett-studio/) - Design-asset storefront with poster-like product tiles, blunt condensed typography, and a creator-economy commerce rhythm that stays more editorial than SaaS.
 - [**Hackathon FWB**](./design-md/hackathon-fwb/) - Web3 hackathon website with a cool graphic layout.
 - [**Open Foundry**](./design-md/open-foundry/) - Curation of free fonts that look cool, with a sleek interface.
+- [**Savee Marketplace**](./design-md/savee-marketplace/) - Motion-template marketplace with high-density catalog pacing, direct commercial language, and enough graphic-design culture to be useful for motion-heavy launch surfaces.
 
 ### Illustration
 

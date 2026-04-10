@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Playable Poster page with a secondary cue from Collage Core using the Toy Loop Microgame interaction model. Keep Roobert as the voice anchor, preserve the palette around #777e84, #8e9498, #5d6263, drive the page through tap, drag, and implement the mobile fallback as: Keep only tap and drag; remove precision mechanics, shorten the loop, and enlarge hit targets.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/play-date)

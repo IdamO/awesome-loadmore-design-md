@@ -225,8 +225,37 @@
     max-width: min(32vw, 420px);
     padding-top: 28px;
   }
+  .family-artifact .artifact-variant-rail {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 8px 0 14px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: .22em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--glow) 76%, #f6eee2);
+  }
+  .family-artifact .artifact-variant-rail span {
+    padding: 6px 9px;
+    border: 1px solid rgba(245, 208, 165, .16);
+    background: linear-gradient(180deg, rgba(18, 18, 18, .64), rgba(18, 18, 18, .24));
+    box-shadow: 0 8px 28px rgba(0, 0, 0, .22);
+  }
   .family-artifact .artifact-caption h1 {
     display: none;
+  }
+  .family-artifact.has-music-variant .artifact-pulse {
+    inset: 22% 18% 12% 34%;
+    background:
+      radial-gradient(circle at 42% 38%, color-mix(in srgb, var(--glow) 26%, transparent), transparent 16%),
+      radial-gradient(circle at 58% 62%, rgba(230, 143, 52, .16), transparent 22%),
+      radial-gradient(circle at 62% 50%, rgba(255, 228, 193, .08), transparent 32%);
+    mix-blend-mode: screen;
+    filter: blur(8px);
+    opacity: .72;
+    z-index: 2;
+    transform: translate3d(calc((var(--mx) - .5) * 28px), calc((var(--my) - .5) * -18px), 40px);
   }
   .family-artifact .object-cluster {
     z-index: 3;
@@ -541,6 +570,7 @@
     .family-artifact .artifact-title-main { width: 92vw; height: 24vw; }
     .family-artifact .artifact-title-ghost { width: 96vw; height: 26vw; left: 8vw; }
     .family-artifact .artifact-caption { max-width: 44vw; }
+    .family-artifact .artifact-variant-rail { gap: 6px; font-size: 9px; }
     .family-artifact .plane-main { left: 34%; top: 40%; width: 50vw; height: 34vw; }
     .family-artifact .plane-disc { left: 56%; top: 62%; width: 28vw; height: 20vw; }
     .family-artifact .plane-chip { left: 18%; top: 66%; width: 20vw; height: 28vw; }
@@ -572,6 +602,8 @@
     .family-artifact .artifact-title-main { width: 98vw; height: 30vw; left: 2vw; top: 4vh; }
     .family-artifact .artifact-title-ghost { width: 104vw; height: 32vw; left: 6vw; top: 7vh; }
     .family-artifact .artifact-caption { max-width: 56vw; }
+    .family-artifact .artifact-variant-rail { margin: 6px 0 12px; gap: 5px; font-size: 8px; letter-spacing: .18em; }
+    .family-artifact .artifact-variant-rail span { padding: 5px 7px; }
     .family-artifact .plane-main { left: 18%; top: 44%; width: 64vw; height: 38vw; }
     .family-artifact .plane-disc { left: 54%; top: 70%; width: 34vw; height: 22vw; }
     .family-artifact .plane-chip { left: 10%; top: 72%; width: 22vw; height: 30vw; }
@@ -596,6 +628,7 @@
     <main class="poster-world family-artifact" style="--artifact-title:url('assets/layers/title.png');--artifact-text-left:url('assets/layers/text-left.png');--artifact-text-mid:url('assets/layers/text-mid.png');--artifact-text-right:url('assets/layers/text-right.png');--artifact-object-top:url('assets/layers/object-top.png');--artifact-object-bottom-left:url('assets/layers/object-bottom-left.png');--artifact-object-bottom-right:url('assets/layers/object-bottom-right.png');--artifact-object-detail:url('assets/layers/object-detail.png');--artifact-footer:url('assets/layers/footer.png')">
       <div class="bg-layer bg-copy"></div>
       <div class="bg-layer bg-grain"></div>
+      
       <div class="artifact-text-lanes">
         <div class="ink-column ink-column-a"></div>
         <div class="ink-column ink-column-b"></div>
@@ -607,6 +640,7 @@
       </div>
       <header class="headline-cluster artifact-caption">
         <div class="micro-top"><span>Technology</span><span>black</span><span>grey</span><span>human</span><span>machine</span><span>red</span><span>robot</span></div>
+        
         <p>~ 0®</p>
       </header>
       <div class="object-cluster">

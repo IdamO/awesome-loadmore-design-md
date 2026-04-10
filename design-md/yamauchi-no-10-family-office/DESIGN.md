@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page using the Club Instrument interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #070707, #4d4e4d, #959595, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/yamauchi-no-10-family-office)

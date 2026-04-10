@@ -1,6 +1,6 @@
 # Look at the Stars Inspired Design System
 
-[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [Look at the Stars](https://arte-collective.com/collections/minimalism/products/look-at-the-stars). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, and motion rules.
+[DESIGN.md](./DESIGN.md) derived from the Arte Collective poster [Look at the Stars](https://arte-collective.com/collections/minimalism/products/look-at-the-stars). This entry intentionally ignores the storefront chrome and instead translates the poster artwork into an imagined interactive website system with web/mobile guidance, spatial mechanics, motion rules, and any variant transpositions baked into `meta.json`.
 
 ## Files
 

@@ -2,19 +2,6 @@
   "generatedAt": "2026-04-06T00:00:00.000Z",
   "sites": [
     {
-      "slug": "cyanbanister",
-      "title": "Cyan Banister",
-      "liveUrl": "https://cyanbanister.com/",
-      "domain": "cyanbanister.com",
-      "sourceLabel": "manual curation",
-      "sourceUrl": "https://cyanbanister.com/",
-      "loadmoreUrl": "https://cyanbanister.com/",
-      "description": "Personal site with internet-native attitude, asymmetrical pacing, and a strong anti-template energy that feels more like a live artifact than a portfolio shell.",
-      "credits": "Cyan Banister",
-      "added": "Manual seed",
-      "tags": ["portfolio", "typography", "playful"]
-    },
-    {
       "slug": "bruno-simon",
       "title": "Bruno Simon",
       "liveUrl": "https://bruno-simon.com/",
@@ -25,7 +12,11 @@
       "description": "A 3D portfolio that turns navigation into play. It is useful design fuel because the interface is inseparable from motion, physics, and personality.",
       "credits": "Bruno Simon",
       "added": "Manual seed",
-      "tags": ["3d-space", "playful", "portfolio"]
+      "tags": [
+        "3d-space",
+        "playful",
+        "portfolio"
+      ]
     },
     {
       "slug": "camerons-world",
@@ -38,7 +29,46 @@
       "description": "A maximal internet collage that treats nostalgia, GIF density, and hyperlink overload as an intentional visual system rather than noise.",
       "credits": "Cameron Askin",
       "added": "Manual seed",
-      "tags": ["retro", "net.art", "playful"]
+      "tags": [
+        "retro",
+        "net.art",
+        "playful"
+      ]
+    },
+    {
+      "slug": "cyanbanister",
+      "title": "Cyan Banister",
+      "liveUrl": "https://cyanbanister.com/",
+      "domain": "cyanbanister.com",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://cyanbanister.com/",
+      "loadmoreUrl": "https://cyanbanister.com/",
+      "description": "Personal site with internet-native attitude, asymmetrical pacing, and a strong anti-template energy that feels more like a live artifact than a portfolio shell.",
+      "credits": "Cyan Banister",
+      "added": "Manual seed",
+      "tags": [
+        "portfolio",
+        "typography",
+        "playful"
+      ]
+    },
+    {
+      "slug": "fox-rockett-studio",
+      "title": "Fox Rockett Studio",
+      "liveUrl": "https://foxrockettstudio.com/",
+      "domain": "foxrockettstudio.com",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://foxrockettstudio.com/",
+      "loadmoreUrl": "https://foxrockettstudio.com/",
+      "description": "Design-asset storefront with poster-like product tiles, blunt condensed typography, and a creator-economy commerce rhythm that stays more editorial than SaaS.",
+      "credits": "Fox Rockett Studio",
+      "added": "Manual seed",
+      "tags": [
+        "graphic-design",
+        "typography",
+        "e-commerce",
+        "tactile"
+      ]
     },
     {
       "slug": "neal-fun",
@@ -51,7 +81,29 @@
       "description": "A playful experiment hub that shows how educational interfaces can feel toy-like, crisp, and culturally current instead of institutional.",
       "credits": "Neal Agarwal",
       "added": "Manual seed",
-      "tags": ["educational", "playful", "game"]
+      "tags": [
+        "educational",
+        "playful",
+        "game"
+      ]
+    },
+    {
+      "slug": "savee-marketplace",
+      "title": "Savee Marketplace",
+      "liveUrl": "https://marketplace.savee.com/",
+      "domain": "marketplace.savee.com",
+      "sourceLabel": "manual curation",
+      "sourceUrl": "https://marketplace.savee.com/",
+      "loadmoreUrl": "https://marketplace.savee.com/",
+      "description": "Motion-template marketplace with high-density catalog pacing, direct commercial language, and enough graphic-design culture to be useful for motion-heavy launch surfaces.",
+      "credits": "Savee",
+      "added": "Manual seed",
+      "tags": [
+        "graphic-design",
+        "animation",
+        "e-commerce",
+        "typography"
+      ]
     }
   ]
 }

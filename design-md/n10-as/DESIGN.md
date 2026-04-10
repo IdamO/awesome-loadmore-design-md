@@ -148,6 +148,7 @@ Use this when asking an AI coding agent to recreate the feel:
 
 > Build this as a Club Instrument page with a secondary cue from Cozy Desktop using the Club Instrument interaction model. Keep FixedsysExcelsior301Regular as the voice anchor, preserve the palette around #121315, #f0f1f1, #a2a2a3, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/n10-as)
