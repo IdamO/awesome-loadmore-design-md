@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Collage Core using the Editorial Archive Index interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #fefefe, #ebebeb, #d7d7d7, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/commune)

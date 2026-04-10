@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Playable Poster page with a secondary cue from Luxury Archive using the Playable Poster interaction model. Keep HyundaiSansText-Regular as the voice anchor, preserve the palette around #605d6b, #09090a, #122463, drive the page through scroll, tap, hover, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/world-on-a-wire)

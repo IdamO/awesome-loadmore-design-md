@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Playable Poster using the Portfolio Artifact interaction model. Keep Futura as the voice anchor, preserve the palette around #fafafa, #6f6e6d, #a29f9f, drive the page through scroll, tap, type, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/slava-kirilenko)

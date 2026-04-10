@@ -162,6 +162,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Urban Space Army - Military vol.1". Ignore the room mockup and frame; isolate the poster art, keep the palette around #324b58, #e5e5e5, and #3690c1, use Condensed Display Grotesk (approx) for the hero voice and Pixel Mono Console (approx) for metadata, build the page as a Club Instrument surface with Club Instrument mechanics, and stage the desktop hero as the whole poster becomes a tilted hud field, with title planes, copy grids, and object fragments separated into translucent depth rails. Mobile fallback: Collapse to one active hero slab, two stacked telemetry rails, and tap-to-cycle data states instead of precision hover behavior.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/technology/products/urban-space-army-military-vol-1)

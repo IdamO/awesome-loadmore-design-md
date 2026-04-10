@@ -162,6 +162,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "TIME : HUMAN". Ignore the room mockup and frame; isolate the poster art, keep the palette around #2f302f, #f3f3f3, and #ab494b, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/technology/products/time-human)

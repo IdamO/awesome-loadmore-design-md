@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Portfolio Artifact interaction model. Keep X as the voice anchor, preserve the palette around #f2f2f2, #fefe02, #11110f, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/rauno)

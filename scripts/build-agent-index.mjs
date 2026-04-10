@@ -117,6 +117,21 @@ function editorialScore(tags) {
   });
 }
 
+function assetCommerceScore(tags) {
+  return score(tags, {
+    'graphic-design': 4,
+    animation: 3,
+    typography: 3,
+    editorial: 2,
+    tactile: 2,
+    'e-commerce': 2,
+    fashion: 1,
+    'arts&culture': 1,
+    'clean-ui': -2,
+    minimal: -1
+  });
+}
+
 function primaryMood(tags) {
   const ordered = [
     ['music', 'music-led'],
@@ -141,6 +156,7 @@ function useCases(item) {
   if (item.scores.musicTech >= 5) out.push('music-tech launch pages');
   if (item.scores.fashionCulture >= 5) out.push('fashion or artist drops');
   if (item.scores.cultureTech >= 5) out.push('culture-tech products and editorial worlds');
+  if (item.scores.assetCommerce >= 6) out.push('design-asset drops and creative commerce');
   if (item.scores.genZPop >= 6) out.push('gen-z pop campaigns');
   if (item.scores.editorial >= 5) out.push('editorial storytelling and typography systems');
   if (item.scores.weird >= 6) out.push('anti-template landing pages');
@@ -172,6 +188,7 @@ function makeItem(meta) {
     musicTech: musicTechScore(tags),
     fashionCulture: fashionCultureScore(tags),
     cultureTech: cultureTechScore(tags),
+    assetCommerce: assetCommerceScore(tags),
     genZPop: genZPopScore(tags),
     editorial: editorialScore(tags)
   };
@@ -204,6 +221,7 @@ function makeItem(meta) {
       validationPriority: enriched.designGuidance?.mechanics?.validationPriority || 'medium',
       schema: enriched.designGuidance?.mechanics?.schema || {}
     },
+    agentAngles: enriched.designGuidance?.agentAngles || [],
     musicTransposition: enriched.musicTransposition || null,
     implementationPrompt: enriched.designGuidance?.implementationPrompt || ''
   };
@@ -219,6 +237,7 @@ function makeItem(meta) {
     item.musicTransposition?.name,
     item.musicTransposition?.summary,
     ...(item.musicTransposition?.labels || []),
+    ...(item.agentAngles || []),
     item.mechanics.archetype?.name,
     item.mechanics.schema?.interactionModelId,
     ...(enriched.domain ? [enriched.domain] : [])
@@ -270,6 +289,7 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 - For a bold product launch: sort by \`scores.genZPop\` and \`scores.weird\`, then pick a \`playable_poster\` or \`collage_field\` mechanic.
 - For music tooling or artist-facing products: sort by \`scores.musicTech\`, then filter to \`club_instrument\` or \`scroll_scrub_instrument\`.
 - For fashion, editorial, or culture worlds: sort by \`scores.fashionCulture\` and \`scores.editorial\`, then decide between \`editorial_archive_index\`, \`portfolio_artifact\`, or \`commerce_shrine_stage\`.
+- For design-asset drops, poster commerce, or template marketplaces: sort by \`scores.assetCommerce\`, then filter to \`commerce_shrine_stage\` or \`editorial_archive_index\`.
 - For spatial work: filter to \`mechanics.schema.spatial.mode != "flat"\` and prioritize \`captureMode: "live"\`.
 - For anti-corporate energy: sort by \`scores.weird\`, then exclude entries with \`clean-ui\` or \`e-commerce\`.
 
@@ -292,6 +312,7 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 - \`collections/music-tech.md\`
 - \`collections/fashion-culture.md\`
 - \`collections/culture-tech.md\`
+- \`collections/design-asset-commerce.md\`
 - \`collections/anti-b2b.md\`
 - \`collections/combo-recipes.md\`
 - \`collections/arte-aesthetic.md\`
@@ -332,6 +353,7 @@ const collections = {
   'music-tech': top(items, 'musicTech', 28, (item) => item.captureMode !== 'incomplete'),
   'fashion-culture': top(items, 'fashionCulture', 28, (item) => item.captureMode !== 'incomplete'),
   'culture-tech': top(items, 'cultureTech', 28, (item) => item.captureMode !== 'incomplete'),
+  'design-asset-commerce': top(items, 'assetCommerce', 28, (item) => item.captureMode !== 'incomplete'),
   'arte-aesthetic': items.filter((item) => item.sourceCollections.includes('aesthetic')).sort((a, b) => a.title.localeCompare(b.title)),
   'arte-technology': items.filter((item) => item.sourceCollections.includes('technology')).sort((a, b) => a.title.localeCompare(b.title)),
   'arte-minimalism': items.filter((item) => item.sourceCollections.includes('minimalism')).sort((a, b) => a.title.localeCompare(b.title)),
@@ -343,6 +365,14 @@ const collections = {
 };
 
 const recipes = [
+  {
+    name: 'Poster Commerce For Creators',
+    base: collections['design-asset-commerce'][0],
+    interaction: collections['design-asset-commerce'][1] || collections['design-asset-commerce'][0],
+    editorial: collections['culture-tech'][0],
+    useWhen: 'You need a creative asset drop, motion template launch, or merch-like commerce page that still feels authored.',
+    prompt: 'Build the page as a poster-commerce system: let the base define the wall of artifacts, borrow the second reference for commerce state behavior, and use the editorial reference to keep information hierarchy sharp.'
+  },
   {
     name: 'Music Tool, Not Dashboard',
     base: collections['music-tech'][0],
@@ -428,6 +458,11 @@ await writeText(path.join(COLLECTION_DIR, 'culture-tech.md'), buildCollectionDoc
   title: 'Culture-Tech Starter Pack',
   description: 'Use this for archives, publishing, curatorial tools, community surfaces, and digitally native culture products.',
   items: collections['culture-tech']
+}));
+await writeText(path.join(COLLECTION_DIR, 'design-asset-commerce.md'), buildCollectionDoc({
+  title: 'Design-Asset Commerce Starter Pack',
+  description: 'Use this for creative-asset drops, poster commerce, motion-template marketplaces, and storefronts that should feel like authored campaign walls instead of neutral e-commerce.',
+  items: collections['design-asset-commerce']
 }));
 await writeText(path.join(COLLECTION_DIR, 'anti-b2b.md'), buildCollectionDoc({
   title: 'Anti-B2B Starter Pack',

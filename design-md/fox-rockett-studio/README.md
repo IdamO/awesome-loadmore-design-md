@@ -15,14 +15,14 @@
 
 ## Mechanics Snapshot
 
-- World systems: Fan Shrine, Playable Poster
+- World systems: Playable Poster, Fan Shrine
 - Archetype: Commerce Shrine Stage
-- Inputs: scroll, tap, hover
-- Mobile fallback: Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.
+- Inputs: scroll, hover, tap
+- Mobile fallback: Keep the orange urgency band, one oversized hero statement, and a tight two-column poster shelf with lightweight sticky account/cart controls.
 
 ## Source Notes
 
-- Tags: graphic-design, typography, e-commerce, tactile
+- Tags: graphic-design, typography, e-commerce, tactile, animation
 - Credits: Fox Rockett Studio
 - Added to loadmo.re: Manual seed
 - Capture status: ok

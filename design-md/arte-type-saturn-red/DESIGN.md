@@ -162,6 +162,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Type Saturn - Red". Ignore the room mockup and frame; isolate the poster art, keep the palette around #892426, #e7e8e8, and #f13032, use Extended Geometric Sans (approx) for the hero voice and Condensed Label Sans (approx) for metadata, build the page as a Playable Poster surface with Playable Poster mechanics, and stage the desktop hero as the full poster becomes a field of duplicated type planes, offset in z, with one narrow refraction rail cutting through the scene. Mobile fallback: Split the chamber into stacked scenes with one tilt response and one caption rail instead of maintaining full desktop depth.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/aesthetic/products/type-saturn-red)

@@ -148,6 +148,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Club Instrument page with a secondary cue from Luxury Archive using the Club Instrument interaction model. Keep EB Garamond as the voice anchor, preserve the palette around #f2efe9, #b0ada8, #d3b1ac, drive the page through tap, drag, press, and implement the mobile fallback as: Collapse to one active control strip, one focal stage, and tap-to-trigger presets instead of a dense multi-panel control surface.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/glossary-of-time)

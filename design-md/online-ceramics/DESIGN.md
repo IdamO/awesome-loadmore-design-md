@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Commerce Shrine Stage interaction model. Keep myriad-pro as the voice anchor, preserve the palette around #dfe6ec, #95a1b1, #aab6c7, drive the page through scroll, tap, hover, and implement the mobile fallback as: Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/online-ceramics)

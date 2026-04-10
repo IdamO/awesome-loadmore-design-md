@@ -157,6 +157,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Editorial Archive Index interaction model. Keep archivoitalic as the voice anchor, preserve the palette around #d0d1d3, #0b0e0f, #615c58, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/infringe)

@@ -16,13 +16,13 @@
 ## Mechanics Snapshot
 
 - World systems: Playable Poster, Luxury Archive
-- Archetype: Playable Poster
-- Inputs: scroll, tap, hover
-- Mobile fallback: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
+- Archetype: Editorial Archive Index
+- Inputs: scroll, hover, tap
+- Mobile fallback: Collapse to a single-column poster feed with persistent category tabs, the bundle band pinned above the fold, and one emphasized card state at a time.
 
 ## Source Notes
 
-- Tags: graphic-design, animation, e-commerce, typography
+- Tags: graphic-design, animation, e-commerce, typography, editorial
 - Credits: Savee
 - Added to loadmo.re: Manual seed
 - Capture status: ok

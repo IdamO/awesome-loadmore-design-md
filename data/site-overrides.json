@@ -1,0 +1,311 @@
+{
+  "fox-rockett-studio": {
+    "tags": [
+      "graphic-design",
+      "typography",
+      "e-commerce",
+      "tactile",
+      "animation"
+    ],
+    "designGuidance": {
+      "captureMode": "live",
+      "worldSystems": [
+        {
+          "slug": "playable-poster",
+          "name": "Playable Poster",
+          "reason": "The category wall already behaves like a poster campaign grid, so the right move is to preserve the shelf of bold assets instead of flattening it into generic storefront chrome."
+        },
+        {
+          "slug": "fan-shrine",
+          "name": "Fan Shrine",
+          "reason": "Bundles and font packs read like collectible drops; the commerce state should feel like access to a specimen wall, not a commodity database."
+        }
+      ],
+      "mechanics": {
+        "archetype": {
+          "id": "commerce_shrine_stage",
+          "name": "Commerce Shrine Stage",
+          "confidence": 0.92,
+          "reason": "The site sells asset packs, but its real strength is a black-stage poster wall with countdown urgency, category specimens, and collectible purchase states.",
+          "refs": [
+            "online-ceramics",
+            "issued-by-bottega",
+            "martine-rose",
+            "country-music"
+          ]
+        },
+        "interactionModel": "Treat the homepage like a merch wall for design tools: the orange urgency band is a campaign rail, category cards behave like poster slabs, and bundle states feel like collectible editions rather than spreadsheet inventory.",
+        "navigationModel": "Users scan a single black stage first, then move between category posters, bundles, and purchase states without losing the wall-of-artifacts framing.",
+        "stateModel": "Urgency ticker -> hero statement -> category wall -> bundle focus -> add or choose -> return to the wall.",
+        "inputModes": [
+          "scroll",
+          "hover",
+          "tap"
+        ],
+        "engineHints": [
+          "Keep the promo band as a top-level campaign rail instead of burying it inside generic announcement chrome.",
+          "Use oversized poster tiles and hard contrast; do not soften the surface into premium SaaS minimalism.",
+          "Treat add-to-cart and choose states like edition badges on collectibles, not utilitarian buttons first."
+        ],
+        "motionRecipe": [
+          "Let the urgency band tick or drift subtly so the launch rhythm is always alive.",
+          "Lift poster tiles forward on hover with restrained scale and shadow instead of loud carousel tricks.",
+          "Snap bundle focus states into place quickly so the page feels merch-led, not dashboard-led."
+        ],
+        "mobileFallback": "Keep the orange urgency band, one oversized hero statement, and a tight two-column poster shelf with lightweight sticky account/cart controls.",
+        "implementationNotes": [
+          "The first screen should read as a black poster wall with a sale band before it reads as a shop.",
+          "Preserve the hard edges, condensed hierarchy, and specimen-like category cards.",
+          "Checkout cues should stay calm and secondary to the wall of artifacts."
+        ],
+        "antiPatterns": [
+          "Do not convert the page into a filter-heavy asset marketplace with sidebar chrome.",
+          "Do not replace the hard black/orange discipline with pastel creator-tool aesthetics.",
+          "Do not let CTA buttons visually overpower the poster specimens."
+        ],
+        "validationChecklist": [
+          "The homepage reads like a campaign wall for design artifacts in under three seconds.",
+          "The urgency rail and poster shelf feel connected rather than like separate marketing modules.",
+          "Mobile keeps the artifact-wall feeling instead of collapsing into a bland commerce list."
+        ],
+        "validationPriority": "high",
+        "evidence": [
+          "orange urgency band",
+          "black stage",
+          "poster-like category tiles",
+          "bundle drop logic"
+        ],
+        "schema": {
+          "interactionModelId": "commerce_shrine_stage",
+          "coreVerbs": [
+            "scan",
+            "collect",
+            "focus",
+            "buy"
+          ],
+          "inputs": [
+            "scroll",
+            "hover",
+            "tap"
+          ],
+          "navigation": {
+            "structure": "hub",
+            "wayfinding": "explicit",
+            "friction": "low"
+          },
+          "motion": {
+            "density": "medium",
+            "cadence": "event-driven",
+            "triggers": [
+              "pointer",
+              "scroll",
+              "time"
+            ],
+            "transitions": [
+              "countdown-tick",
+              "poster-lift",
+              "card-focus"
+            ],
+            "physics": "light"
+          },
+          "spatial": {
+            "mode": "layered-2d",
+            "camera": "fixed",
+            "depthCues": [
+              "scale",
+              "lighting",
+              "stacking"
+            ],
+            "hud": "overlay"
+          },
+          "participation": {
+            "mode": "customize",
+            "persistence": "saved"
+          },
+          "sound": {
+            "mode": "none",
+            "triggers": [],
+            "controls": [],
+            "sync": "none"
+          },
+          "effects": {
+            "tactile": [
+              "magnetic"
+            ],
+            "retro": [],
+            "glitch": []
+          },
+          "implementation": {
+            "renderTier": "dom",
+            "complexity": "medium",
+            "requiredApis": [],
+            "fallbacks": [
+              "two-column-shelf",
+              "reduced-motion"
+            ]
+          }
+        }
+      },
+      "implementationPrompt": "Build this as a Playable Poster commerce page with a secondary cue from Fan Shrine. Keep the black field, off-white typography, and orange urgency band as the core atmosphere. Treat category blocks like poster specimens on a merch wall, keep bundle states collectible instead of corporate, drive the page through scroll, hover, and tap, and make mobile feel like a compressed artifact shelf rather than a generic shop list.",
+      "summary": "Playable Poster + Commerce Shrine Stage. Fox Rockett Studio works because it behaves like a black-stage campaign wall for design artifacts, with countdown urgency and poster specimens doing most of the selling.",
+      "agentAngles": [
+        "Pull the orange promo band as a campaign rail, not a throwaway announcement bar.",
+        "Treat category cards as poster specimens arranged on a merch wall.",
+        "Keep purchase states subordinate to the collectible shelf instead of turning the page into commodity commerce."
+      ]
+    }
+  },
+  "savee-marketplace": {
+    "tags": [
+      "graphic-design",
+      "animation",
+      "e-commerce",
+      "typography",
+      "editorial"
+    ],
+    "designGuidance": {
+      "captureMode": "live",
+      "worldSystems": [
+        {
+          "slug": "playable-poster",
+          "name": "Playable Poster",
+          "reason": "Each product tile is already a miniature campaign frame, so the index should preserve that sense of poster worlds colliding on one gallery wall."
+        },
+        {
+          "slug": "luxury-archive",
+          "name": "Luxury Archive",
+          "reason": "The white field, negative space, and restraint give the marketplace the feel of a curated index rather than a noisy template bazaar."
+        }
+      ],
+      "mechanics": {
+        "archetype": {
+          "id": "editorial_archive_index",
+          "name": "Editorial Archive Index",
+          "confidence": 0.9,
+          "reason": "The core surface is a curatorial index: category tabs, a poster wall, and enough negative space that every thumbnail reads like a selected exhibit.",
+          "refs": [
+            "stripe-press",
+            "source-type",
+            "another-kind-image-archive",
+            "ntgent"
+          ]
+        },
+        "interactionModel": "Treat the homepage like a poster archive for motion systems: the bundle band anchors urgency, category tabs behave like curatorial filters, and each product card is a mini campaign artifact rather than a neutral commerce tile.",
+        "navigationModel": "Users browse the wall first, use tabs and promo rails as wayfinding, then enter detail without losing the feeling of being inside one curated poster index.",
+        "stateModel": "Promo band -> hero statement -> archive wall browse -> card emphasis -> detail or purchase -> return to archive.",
+        "inputModes": [
+          "scroll",
+          "hover",
+          "tap"
+        ],
+        "engineHints": [
+          "Preserve the white field and dead space so the thumbnails behave like curated exhibits instead of dense catalog sludge.",
+          "Use category tabs as a control surface with editorial restraint, not product-filter clutter.",
+          "Let the poster cards carry most of the color and energy; surrounding chrome should stay quiet."
+        ],
+        "motionRecipe": [
+          "Use one ceremonial load on the hero statement or bundle band, then keep card motion restrained.",
+          "Lift or sharpen one poster card at a time so the wall still reads as a composed index.",
+          "Maintain mobile momentum through a clean feed rhythm, not through extra micro-animation."
+        ],
+        "mobileFallback": "Collapse to a single-column poster feed with persistent category tabs, the bundle band pinned above the fold, and one emphasized card state at a time.",
+        "implementationNotes": [
+          "The wall of templates should feel curated before it feels transactional.",
+          "Tabs, price states, and poster cards must belong to the same visual grammar.",
+          "Keep enough whitespace that individual thumbnails still feel authored."
+        ],
+        "antiPatterns": [
+          "Do not turn the page into a generic template marketplace with busy filter chrome.",
+          "Do not let the hero statement disappear behind an overly dense first row.",
+          "Do not animate every card at once."
+        ],
+        "validationChecklist": [
+          "The page reads like a curated motion-poster archive in under three seconds.",
+          "Category tabs feel editorial and intentional, not like enterprise filtering.",
+          "Mobile preserves the white-wall gallery feeling with fewer simultaneous cards."
+        ],
+        "validationPriority": "high",
+        "evidence": [
+          "white gallery field",
+          "bundle promo rail",
+          "category tabs",
+          "poster-wall thumbnails"
+        ],
+        "schema": {
+          "interactionModelId": "editorial_archive_index",
+          "coreVerbs": [
+            "browse",
+            "filter",
+            "focus",
+            "collect"
+          ],
+          "inputs": [
+            "scroll",
+            "hover",
+            "tap"
+          ],
+          "navigation": {
+            "structure": "index",
+            "wayfinding": "explicit",
+            "friction": "low"
+          },
+          "motion": {
+            "density": "medium",
+            "cadence": "event-driven",
+            "triggers": [
+              "pointer",
+              "scroll"
+            ],
+            "transitions": [
+              "card-lift",
+              "tab-shift",
+              "hero-fade"
+            ],
+            "physics": "light"
+          },
+          "spatial": {
+            "mode": "layered-2d",
+            "camera": "fixed",
+            "depthCues": [
+              "scale",
+              "occlusion",
+              "whitespace"
+            ],
+            "hud": "overlay"
+          },
+          "participation": {
+            "mode": "browse",
+            "persistence": "ephemeral"
+          },
+          "sound": {
+            "mode": "none",
+            "triggers": [],
+            "controls": [],
+            "sync": "none"
+          },
+          "effects": {
+            "tactile": [],
+            "retro": [],
+            "glitch": []
+          },
+          "implementation": {
+            "renderTier": "dom",
+            "complexity": "medium",
+            "requiredApis": [],
+            "fallbacks": [
+              "single-column-feed",
+              "reduced-motion"
+            ]
+          }
+        }
+      },
+      "implementationPrompt": "Build this as a Playable Poster archive page with a secondary cue from Luxury Archive using an Editorial Archive Index mechanic. Keep the white gallery field, black type, and bundle banner discipline. Let category tabs act like curatorial filters, stage the product cards as miniature poster worlds, keep the chrome quiet, and make mobile feel like a paced poster feed instead of a template-store grid.",
+      "summary": "Playable Poster + Editorial Archive Index. Savee Marketplace is most useful as a white-wall archive of motion poster cards, where curation and pacing matter more than conventional marketplace density.",
+      "agentAngles": [
+        "Pull the bundle banner and category row as the control surface for the whole wall.",
+        "Use the white field as gallery space; let the poster cards supply the color and energy.",
+        "Treat each template tile like a mini campaign world, not a neutral product card."
+      ]
+    }
+  }
+}

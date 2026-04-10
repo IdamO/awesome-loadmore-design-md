@@ -155,6 +155,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Fan Shrine page with a secondary cue from Luxury Archive using the Spatial Exhibition World interaction model. Keep VideoJS as the voice anchor, preserve the palette around #fefefe, #000000, #cfd6e0, drive the page through scroll, drag, tap, hover, and implement the mobile fallback as: Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/cash-by-cash-app)

@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Cozy Desktop page with a secondary cue from Club Instrument using the Retro Tool Emulator interaction model. Keep 5final as the voice anchor, preserve the palette around #e2dcd3, #59585f, #1b1d2a, drive the page through tap, drag, type, and implement the mobile fallback as: Turn dense panels into a one-tool-at-a-time inspector or wizard while preserving the visual chrome.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/yaeji)

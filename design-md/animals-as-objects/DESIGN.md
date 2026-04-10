@@ -154,6 +154,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Collage Core using the Editorial Archive Index interaction model. Keep century as the voice anchor, preserve the palette around #f7f4ef, #090909, #a9a6a2, drive the page through scroll, tap, filter, hover, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/animals-as-objects)

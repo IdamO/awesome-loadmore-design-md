@@ -153,6 +153,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page using the Editorial Archive Index interaction model. Keep Maison Neue as the voice anchor, preserve the palette around #fefefe, #a09b94, #6d6963, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/below-the-surface)

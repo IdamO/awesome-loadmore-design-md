@@ -152,6 +152,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Editorial Archive Index interaction model. Keep Haas Grot Disp 45 as the voice anchor, preserve the palette around #eaece6, #aaedef, #1b1b19, drive the page through scroll, tap, filter, type, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/novembre-global)

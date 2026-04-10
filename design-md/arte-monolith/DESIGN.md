@@ -161,6 +161,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Monolith". Ignore the room mockup and frame; isolate the poster art, keep the palette around #140f0d, #e8e8e6, and #97523c, use Ultra Condensed Grotesk Display (approx) for the hero voice and Bitmap Mono Caption (approx) for metadata, build the page as a Luxury Archive surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster fills the room; title planes become architecture, copy becomes atmosphere, and the object collage separates into floating evidence layers. Mobile fallback: Reduce to one guided poster stage with swipe between viewpoints and a single expandable evidence rail under the hero object.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/aesthetic/products/monolith)

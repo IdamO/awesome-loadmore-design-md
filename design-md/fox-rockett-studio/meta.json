@@ -13,7 +13,8 @@
     "graphic-design",
     "typography",
     "e-commerce",
-    "tactile"
+    "tactile",
+    "animation"
   ],
   "captureChecklist": {
     "loadmoreMetadataParsed": true,
@@ -2850,24 +2851,22 @@
     "captureMode": "live",
     "worldSystems": [
       {
-        "slug": "fan-shrine",
-        "name": "Fan Shrine",
-        "score": 17,
-        "reason": "tags include e-commerce; description mentions product; description mentions store"
-      },
-      {
         "slug": "playable-poster",
         "name": "Playable Poster",
-        "score": 15,
-        "reason": "tags include typography; tags include tactile; tags include graphic-design"
+        "reason": "The category wall already behaves like a poster campaign grid, so the right move is to preserve the shelf of bold assets instead of flattening it into generic storefront chrome."
+      },
+      {
+        "slug": "fan-shrine",
+        "name": "Fan Shrine",
+        "reason": "Bundles and font packs read like collectible drops; the commerce state should feel like access to a specimen wall, not a commodity database."
       }
     ],
     "mechanics": {
       "archetype": {
         "id": "commerce_shrine_stage",
         "name": "Commerce Shrine Stage",
-        "confidence": 0.78,
-        "reason": "tags include e-commerce; description mentions product; description mentions store",
+        "confidence": 0.92,
+        "reason": "The site sells asset packs, but its real strength is a black-stage poster wall with countdown urgency, category specimens, and collectible purchase states.",
         "refs": [
           "online-ceramics",
           "issued-by-bottega",
@@ -2875,58 +2874,59 @@
           "country-music"
         ]
       },
-      "interactionModel": "Objects are treated like collectibles or relics; product rails, badges, and states carry as much narrative weight as the checkout.",
-      "navigationModel": "Browse objects first, then enter detail or purchase state without losing the collection context.",
-      "stateModel": "Collection browse -> featured object focus -> detail/purchase -> return to collection.",
+      "interactionModel": "Treat the homepage like a merch wall for design tools: the orange urgency band is a campaign rail, category cards behave like poster slabs, and bundle states feel like collectible editions rather than spreadsheet inventory.",
+      "navigationModel": "Users scan a single black stage first, then move between category posters, bundles, and purchase states without losing the wall-of-artifacts framing.",
+      "stateModel": "Urgency ticker -> hero statement -> category wall -> bundle focus -> add or choose -> return to the wall.",
       "inputModes": [
         "scroll",
-        "tap",
-        "hover"
+        "hover",
+        "tap"
       ],
       "engineHints": [
-        "Keep commerce primitives underneath and author the browse layer separately from cart and checkout.",
-        "Use server-rendered product data or commerce primitives under heavily authored cards and rails.",
-        "Keep product metadata, release status, and edition cues visible in the browsing view.",
-        "Use hover or selection states to deepen object presence before checkout."
+        "Keep the promo band as a top-level campaign rail instead of burying it inside generic announcement chrome.",
+        "Use oversized poster tiles and hard contrast; do not soften the surface into premium SaaS minimalism.",
+        "Treat add-to-cart and choose states like edition badges on collectibles, not utilitarian buttons first."
       ],
       "motionRecipe": [
-        "Use hover lift, collectible flips, and ambient drift around featured objects.",
-        "Keep cart or checkout transitions legible and calm.",
-        "Treat release counters and stock states like part of the scene."
+        "Let the urgency band tick or drift subtly so the launch rhythm is always alive.",
+        "Lift poster tiles forward on hover with restrained scale and shadow instead of loud carousel tricks.",
+        "Snap bundle focus states into place quickly so the page feels merch-led, not dashboard-led."
       ],
-      "mobileFallback": "Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.",
+      "mobileFallback": "Keep the orange urgency band, one oversized hero statement, and a tight two-column poster shelf with lightweight sticky account/cart controls.",
       "implementationNotes": [
-        "Preserve collection logic in the browse state so the page feels like a shrine, not a commodity grid.",
-        "Use release, edition, or provenance metadata as part of the emotional pitch.",
-        "Make cart and checkout states calmer than the browsing world."
+        "The first screen should read as a black poster wall with a sale band before it reads as a shop.",
+        "Preserve the hard edges, condensed hierarchy, and specimen-like category cards.",
+        "Checkout cues should stay calm and secondary to the wall of artifacts."
       ],
       "antiPatterns": [
-        "Do not flatten the page into a normal storefront once products appear.",
-        "Do not hide pricing or size details until too late.",
-        "Do not let the shrine fiction block purchase clarity."
+        "Do not convert the page into a filter-heavy asset marketplace with sidebar chrome.",
+        "Do not replace the hard black/orange discipline with pastel creator-tool aesthetics.",
+        "Do not let CTA buttons visually overpower the poster specimens."
       ],
       "validationChecklist": [
-        "Product browse feels collectible before it feels transactional.",
-        "Release or edition state is visible in the browse view.",
-        "Mobile keeps the collection context while making checkout simpler."
+        "The homepage reads like a campaign wall for design artifacts in under three seconds.",
+        "The urgency rail and poster shelf feel connected rather than like separate marketing modules.",
+        "Mobile keeps the artifact-wall feeling instead of collapsing into a bland commerce list."
       ],
-      "validationPriority": "medium",
+      "validationPriority": "high",
       "evidence": [
-        "tags include e-commerce",
-        "description mentions product",
-        "description mentions store"
+        "orange urgency band",
+        "black stage",
+        "poster-like category tiles",
+        "bundle drop logic"
       ],
       "schema": {
         "interactionModelId": "commerce_shrine_stage",
         "coreVerbs": [
-          "browse",
+          "scan",
           "collect",
+          "focus",
           "buy"
         ],
         "inputs": [
           "scroll",
-          "tap",
-          "hover"
+          "hover",
+          "tap"
         ],
         "navigation": {
           "structure": "hub",
@@ -2938,12 +2938,13 @@
           "cadence": "event-driven",
           "triggers": [
             "pointer",
-            "scroll"
+            "scroll",
+            "time"
           ],
           "transitions": [
-            "hover-lift",
-            "fade",
-            "flip"
+            "countdown-tick",
+            "poster-lift",
+            "card-focus"
           ],
           "physics": "light"
         },
@@ -2952,7 +2953,8 @@
           "camera": "fixed",
           "depthCues": [
             "scale",
-            "lighting"
+            "lighting",
+            "stacking"
           ],
           "hud": "overlay"
         },
@@ -2968,7 +2970,7 @@
         },
         "effects": {
           "tactile": [
-            "elastic"
+            "magnetic"
           ],
           "retro": [],
           "glitch": []
@@ -2978,13 +2980,18 @@
           "complexity": "medium",
           "requiredApis": [],
           "fallbacks": [
-            "single-column-collection",
+            "two-column-shelf",
             "reduced-motion"
           ]
         }
       }
     },
-    "implementationPrompt": "Build this as a Fan Shrine page with a secondary cue from Playable Poster using the Commerce Shrine Stage interaction model. Keep Inter as the voice anchor, preserve the palette around #060607, #d6d6d9, #8ba3d2, drive the page through scroll, tap, hover, and implement the mobile fallback as: Use a single-column collectible feed with sticky purchase rails and clear release-state chips instead of shrinking desktop grids.",
-    "summary": "Fan Shrine + Commerce Shrine Stage. Objects are treated like collectibles or relics; product rails, badges, and states carry as much narrative weight as the checkout."
+    "implementationPrompt": "Build this as a Playable Poster commerce page with a secondary cue from Fan Shrine. Keep the black field, off-white typography, and orange urgency band as the core atmosphere. Treat category blocks like poster specimens on a merch wall, keep bundle states collectible instead of corporate, drive the page through scroll, hover, and tap, and make mobile feel like a compressed artifact shelf rather than a generic shop list.",
+    "summary": "Playable Poster + Commerce Shrine Stage. Fox Rockett Studio works because it behaves like a black-stage campaign wall for design artifacts, with countdown urgency and poster specimens doing most of the selling.",
+    "agentAngles": [
+      "Pull the orange promo band as a campaign rail, not a throwaway announcement bar.",
+      "Treat category cards as poster specimens arranged on a merch wall.",
+      "Keep purchase states subordinate to the collectible shelf instead of turning the page into commodity commerce."
+    ]
   }
 }

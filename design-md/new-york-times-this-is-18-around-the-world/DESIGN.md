@@ -158,6 +158,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep nyt-stymie as the voice anchor, preserve the palette around #47292a, #5a5761, #221d22, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/new-york-times-this-is-18-around-the-world)

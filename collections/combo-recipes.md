@@ -2,6 +2,14 @@
 
 Use these when you want novelty without randomness. Each recipe combines one base world, one interaction reference, and one typography/editorial voice.
 
+## Poster Commerce For Creators
+
+- Base world: [Fox Rockett Studio](../design-md/fox-rockett-studio/)
+- Interaction spice: [Savee Marketplace](../design-md/savee-marketplace/)
+- Typography/editorial voice: [SMC REAL:TIME](../design-md/smc-real-time/)
+- Use when: You need a creative asset drop, motion template launch, or merch-like commerce page that still feels authored.
+- Prompt seed: Build the page as a poster-commerce system: let the base define the wall of artifacts, borrow the second reference for commerce state behavior, and use the editorial reference to keep information hierarchy sharp.
+
 ## Music Tool, Not Dashboard
 
 - Base world: [Coding brain](../design-md/arte-coding-brain/)

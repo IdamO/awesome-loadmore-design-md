@@ -170,6 +170,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build the Relic poster as a music-tech browser world. Keep the monochrome archive typography, black-metal and amber palette, and shallow 3D poster decomposition, but replace the storage hardware with a reel transport, tape-memory module, cassette window, and cue transducer. The full poster still becomes the room: title as architecture, copy as atmosphere, music relics as the floating evidence stack. Keep the poster title architecture and text atmosphere intact, but swap the hero object stack for top -> assets/generated/music-top.png, bottomLeft -> assets/generated/music-bottom-left.png, bottomRight -> assets/generated/music-bottom-right.png, detail -> assets/generated/music-detail.png. Preserve the original aura, palette, and typography while making the new world legible in both desktop and mobile compositions.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/aesthetic/products/relic)

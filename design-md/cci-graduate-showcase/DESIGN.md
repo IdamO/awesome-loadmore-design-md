@@ -152,6 +152,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #0056fe, #f1f6fc, #1d65f4, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/cci-graduate-showcase)

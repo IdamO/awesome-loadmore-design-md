@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Collage Core page with a secondary cue from Playable Poster using the Collage Field interaction model. Keep ABCROM-Light as the voice anchor, preserve the palette around #798822, #68751f, #73895b, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/centrer-for-planetary-pedagogies)

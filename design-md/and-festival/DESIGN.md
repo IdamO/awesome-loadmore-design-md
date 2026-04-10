@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Playable Poster using the Editorial Archive Index interaction model. Keep Basier Circle Mono as the voice anchor, preserve the palette around #041f92, #021377, #79e3d8, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/and-festival)

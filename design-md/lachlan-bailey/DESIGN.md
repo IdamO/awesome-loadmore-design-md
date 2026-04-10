@@ -151,6 +151,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Fan Shrine using the Portfolio Artifact interaction model. Keep Nimbus Sans D OT as the voice anchor, preserve the palette around #fefefe, #e53104, #fb521f, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/lachlan-bailey)

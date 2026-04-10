@@ -160,6 +160,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Minimal Space - Blue Love". Ignore the room mockup and frame; isolate the poster art, keep the palette around #2a2f43, #e6e6e6, and #5c6eb3, use Wide Grotesk Display (approx) for the hero voice and Light Grotesk Text (approx) for metadata, build the page as a Playable Poster surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster becomes the atmosphere, with title and texture layers drifting at different depths and slim orbital captions around the edges. Mobile fallback: Split the atmosphere into vertical scenes with one parallax hero object and one caption rail per section.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/minimalism/products/minimal-space-blue-love)

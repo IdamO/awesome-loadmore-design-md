@@ -156,6 +156,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Cozy Desktop page with a secondary cue from Club Instrument using the Desktop Shell World interaction model. Keep Icons as the voice anchor, preserve the palette around #345012, #6592f2, #dee3eb, drive the page through drag, tap, click, and implement the mobile fallback as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/hudson-mohawke)

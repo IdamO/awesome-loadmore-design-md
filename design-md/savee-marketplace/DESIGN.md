@@ -16,14 +16,14 @@ Key Characteristics:
 ## 2. World Systems & Archetype
 
 ### World Systems
-- Primary: Playable Poster - tags include typography; tags include graphic-design; tags include animation
-- Secondary: Luxury Archive - tags include typography; tags include e-commerce; description mentions catalog
+- Primary: Playable Poster - Each product tile is already a miniature campaign frame, so the index should preserve that sense of poster worlds colliding on one gallery wall.
+- Secondary: Luxury Archive - The white field, negative space, and restraint give the marketplace the feel of a curated index rather than a noisy template bazaar.
 
 ### Interaction Archetype
-- Archetype: Playable Poster (85% confidence)
-- Why: tags include typography; tags include graphic-design; tags include animation; description mentions launch
-- Core verbs: reveal, distort, stage
-- Inputs: scroll, tap, hover
+- Archetype: Editorial Archive Index (90% confidence)
+- Why: The core surface is a curatorial index: category tabs, a poster wall, and enough negative space that every thumbnail reads like a selected exhibit.
+- Core verbs: browse, filter, focus, collect
+- Inputs: scroll, hover, tap
 
 
 
@@ -55,43 +55,43 @@ Key Characteristics:
 - Use a free-flowing vertical canvas on desktop.
 - Keep mobile single-column and immersive rather than dashboard-like.
 - Let the main background color (#f9f9f8) carry the atmosphere instead of layering multiple competing surfaces.
-- Preserve asymmetry when present - the archive tags (graphic-design, animation, e-commerce, typography) imply the system is intentionally non-generic.
+- Preserve asymmetry when present - the archive tags (graphic-design, animation, e-commerce, typography, editorial) imply the system is intentionally non-generic.
 - Buttons tend toward rgba(0, 0, 0, 0) backgrounds with rgba(56, 56, 56, 0.75) text, and links inherit rgb(255, 255, 255) as the interaction signal.
 
 ## 6. Interaction Mechanics
 
-- Primary model: playable_poster
-- Navigation structure: single-scene / wayfinding explicit / friction low
-- Navigation model: The page behaves like one campaign object or a short sequence of staged frames.
-- State model: Poster at rest -> big reveal -> one interactive transformation -> rest or reset.
-- Must-keep mechanic: One-screen poster composition with one or two high-conviction interactions such as drag, reveal, type morph, or hover distort.
+- Primary model: editorial_archive_index
+- Navigation structure: index / wayfinding explicit / friction low
+- Navigation model: Users browse the wall first, use tabs and promo rails as wayfinding, then enter detail without losing the feeling of being inside one curated poster index.
+- State model: Promo band -> hero statement -> archive wall browse -> card emphasis -> detail or purchase -> return to archive.
+- Must-keep mechanic: Treat the homepage like a poster archive for motion systems: the bundle band anchors urgency, category tabs behave like curatorial filters, and each product card is a mini campaign artifact rather than a neutral commerce tile.
 
 ## 7. Motion System
 
-- Density: high
+- Density: medium
 - Cadence: event-driven
-- Triggers: pointer, time, scroll
-- Transition types: morph, draw-on, shuffle
+- Triggers: pointer, scroll
+- Transition types: card-lift, tab-shift, hero-fade
 - Physics level: light
 - Motion recipe:
-  - Lead with one ceremonial entrance.
-  - Use oversized type or graphic elements as moving actors, not background garnish.
-  - Keep only one hero gesture alive on mobile.
+  - Use one ceremonial load on the hero statement or bundle band, then keep card motion restrained.
+  - Lift or sharpen one poster card at a time so the wall still reads as a composed index.
+  - Maintain mobile momentum through a clean feed rhythm, not through extra micro-animation.
 
 ## 8. Spatial Model
 
 - Space type: layered-2d
 - Camera behavior: fixed
-- Depth cues: scale, occlusion
+- Depth cues: scale, occlusion, whitespace
 - HUD layering: overlay
 - Render tier: dom
 - Primary depth cue in capture: none
 
 ## 9. Participation & State
 
-- Participation mode: none
+- Participation mode: browse
 - Persistence: ephemeral
-- Inputs to preserve: scroll, tap, hover
+- Inputs to preserve: scroll, hover, tap
 - Reset/save posture: Default to resettable, lightweight state changes.
 
 ## 10. Sound & Sensor Behavior
@@ -107,27 +107,27 @@ Key Characteristics:
 - Complexity: medium
 - Required APIs: none
 - Must-have mechanics:
-  - Use scale, typography, and dead space aggressively; do not fill every region with content.
-  - Keep the interaction count low and the conviction high.
-  - If a visual move is the identity, it should land before the user sees the CTA.
+  - The wall of templates should feel curated before it feels transactional.
+  - Tabs, price states, and poster cards must belong to the same visual grammar.
+  - Keep enough whitespace that individual thumbnails still feel authored.
 - Nice-to-have embellishments:
-  - tags include typography
-  - tags include graphic-design
-  - tags include animation
-  - description mentions launch
-- Mobile fallback: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
-- Fallback path: reduced-motion, static-poster
+  - white gallery field
+  - bundle promo rail
+  - category tabs
+  - poster-wall thumbnails
+- Mobile fallback: Collapse to a single-column poster feed with persistent category tabs, the bundle band pinned above the fold, and one emphasized card state at a time.
+- Fallback path: single-column-feed, reduced-motion
 - Manual validation:
-  - The hero gesture is obvious in under three seconds.
-  - Desktop and mobile preserve the same campaign idea with different staging.
-  - Typography remains part of the interaction system.
+  - The page reads like a curated motion-poster archive in under three seconds.
+  - Category tabs feel editorial and intentional, not like enterprise filtering.
+  - Mobile preserves the white-wall gallery feeling with fewer simultaneous cards.
 
 ## 12. Do's and Don'ts
 
 ### Do
 - Use Inter consistently for headlines and interface labels.
 - Keep the palette anchored to #f9f9f8, #0d0e0d, and #616461.
-- Preserve the experimental posture signaled by the archive tags: graphic-design, animation, e-commerce, typography.
+- Preserve the experimental posture signaled by the archive tags: graphic-design, animation, e-commerce, typography, editorial.
 - Build separate desktop and mobile compositions instead of pretending one layout can fake both.
 - Use the inferred mechanics schema as the implementation baseline before adding ornament.
 
@@ -143,14 +143,21 @@ Key Characteristics:
 - Desktop capture uses screenshots/desktop.jpg as the visual baseline.
 - Mobile capture uses screenshots/mobile.jpg as the mobile baseline.
 - Keep touch targets oversized on mobile and allow the background system to dominate the viewport.
-- Implement mobile as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior..
+- Implement mobile as: Collapse to a single-column poster feed with persistent category tabs, the bundle band pinned above the fold, and one emphasized card state at a time..
 - If the live site failed to capture, fall back to the archival poster on the loadmo.re post page before inventing missing behavior.
 
 ## 14. Agent Prompt Guide
 
 Use this when asking an AI coding agent to recreate the feel:
 
-> Build this as a Playable Poster page with a secondary cue from Luxury Archive using the Playable Poster interaction model. Keep Inter as the voice anchor, preserve the palette around #f9f9f8, #0d0e0d, #616461, drive the page through scroll, tap, hover, and implement the mobile fallback as: Split the poster into two to four scenes, preserve one hero interaction, and drop hover-only secondary behavior.
+> Build this as a Playable Poster archive page with a secondary cue from Luxury Archive using an Editorial Archive Index mechanic. Keep the white gallery field, black type, and bundle banner discipline. Let category tabs act like curatorial filters, stage the product cards as miniature poster worlds, keep the chrome quiet, and make mobile feel like a paced poster feed instead of a template-store grid.
+
+
+### What To Pull
+
+- Pull the bundle banner and category row as the control surface for the whole wall.
+- Use the white field as gallery space; let the poster cards supply the color and energy.
+- Treat each template tile like a mini campaign world, not a neutral product card.
 
 
 ## 15. Source Capture & Validation

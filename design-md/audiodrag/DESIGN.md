@@ -152,6 +152,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Club Instrument page with a secondary cue from Fan Shrine using the Portfolio Artifact interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #e9eae9, #a2a1a2, #d4b2cc, drive the page through scroll, tap, drag, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/audiodrag)

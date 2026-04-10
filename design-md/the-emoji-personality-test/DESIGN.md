@@ -149,6 +149,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Cozy Desktop using the Portfolio Artifact interaction model. Keep GT-Haptik as the voice anchor, preserve the palette around #fefefe, #a3a4a3, #e3d8a7, drive the page through scroll, tap, and implement the mobile fallback as: Keep the asymmetry in rhythm and type, but simplify the layout into a single authored column with strong anchors.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/the-emoji-personality-test)

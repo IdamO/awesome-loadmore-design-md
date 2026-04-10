@@ -64,6 +64,7 @@ export function buildDesignMarkdown(meta) {
   const artePoster = isArtePoster(source);
   const translationBlock = isArtePoster(source) ? buildArteTranslationBlock(source) : '';
   const agentPrompts = buildAgentPrompts(source, title, lead, second, accent, fonts);
+  const agentAngles = source.designGuidance?.agentAngles || [];
   const captureMode = source.designGuidance?.captureMode || classifyCaptureMode(source);
   const colorLines = colors.length
     ? colors.map((item, index) => `- Color ${index + 1}: ${item.hex} - ${index === 0 ? 'canvas / dominant background' : index === 1 ? 'primary text or opposing surface' : index === 2 ? 'accent / interactive signal' : 'supporting surface or hover state'}`).join('\n')
@@ -210,6 +211,11 @@ Use this when asking an AI coding agent to recreate the feel:
 ${agentPrompts.variant ? `### Variant Prompt
 
 > ${agentPrompts.variant}
+
+` : ''}
+${agentAngles.length ? `### What To Pull
+
+${agentAngles.map((item) => `- ${item}`).join('\n')}
 
 ` : ''}
 ## 15. Source Capture & Validation

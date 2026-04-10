@@ -153,6 +153,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Collage Core using the Spatial Exhibition World interaction model. Keep the extracted primary font as the voice anchor, preserve the palette around #020003, #956963, #d7aa98, drive the page through scroll, drag, tap, hover, and implement the mobile fallback as: Switch to a guided tour with swipeable viewpoints and one-tap hotspot cycling instead of free camera control.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/take-a-selfie)

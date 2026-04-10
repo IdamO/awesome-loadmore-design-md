@@ -162,6 +162,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Thermal Signatures". Ignore the room mockup and frame; isolate the poster art, keep the palette around #11110f, #e9e8e8, and #581f1f, use Wide Grotesk Display (approx) for the hero voice and Light Grotesk Text (approx) for metadata, build the page as a Playable Poster surface with Spatial Exhibition World mechanics, and stage the desktop hero as the full poster becomes the atmosphere, with title and texture layers drifting at different depths and slim orbital captions around the edges. Mobile fallback: Split the atmosphere into vertical scenes with one parallax hero object and one caption rail per section.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/aesthetic/products/thermal-signatures)

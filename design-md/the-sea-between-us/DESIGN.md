@@ -154,6 +154,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Cozy Desktop page with a secondary cue from Collage Core using the Desktop Shell World interaction model. Keep Grape Nuts as the voice anchor, preserve the palette around #e9ca95, #675362, #8d6d61, drive the page through drag, tap, click, and implement the mobile fallback as: Translate the window system into a card stack, bottom drawer, or tabbed shell while preserving the desktop fiction in the chrome.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/the-sea-between-us)

@@ -154,6 +154,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Luxury Archive page with a secondary cue from Playable Poster using the Editorial Archive Index interaction model. Keep slick as the voice anchor, preserve the palette around #e7f84b, #121210, #dddddd, drive the page through scroll, tap, filter, and implement the mobile fallback as: Keep a single-column feed, bottom-sheet filters, a persistent current-section pill, and inline detail expansion.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/holen-und-bringen)

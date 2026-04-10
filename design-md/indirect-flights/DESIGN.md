@@ -150,6 +150,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build this as a Collage Core page with a secondary cue from Luxury Archive using the Collage Field interaction model. Keep Fjalla One as the voice anchor, preserve the palette around #5f5f59, #dfdcd3, #a5a097, drive the page through scroll, hover, tap, and implement the mobile fallback as: Flatten the field into a guided scavenger feed or chapter stack while preserving overlap, stickers, and hyperlink energy.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: loadmo.re (https://loadmo.re/posts/indirect-flights)

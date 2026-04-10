@@ -163,6 +163,7 @@ Use this when asking an AI coding agent to recreate the feel:
 > Build a responsive website inspired by the Arte Collective poster "Language". Ignore the room mockup and frame; isolate the poster art, keep the palette around #e8e8e8, #363636, and #c5c4c4, use Editorial Grotesk Display (approx) for the hero voice and Quiet Sans Text (approx) for metadata, build the page as a Luxury Archive surface with Playable Poster mechanics, and stage the desktop hero as the full poster becomes a phrase stack and bar field, with subtle lift, shadow, and spatial drift instead of a framed room. Mobile fallback: Keep a single phrase stack, reveal one note at a time, and use swipe or tap to move between manifesto beats.
 
 
+
 ## 15. Source Capture & Validation
 
 - Source: Arte Collective (https://arte-collective.com/collections/minimalism/products/language)
