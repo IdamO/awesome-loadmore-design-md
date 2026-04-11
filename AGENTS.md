@@ -10,10 +10,11 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 4. Open `data/design-os.json` for machine-readable world, motion, type, and archetype guidance.
 5. Open `data/agent-index.json` for machine-readable filtering and ranking of source references.
 6. Open `playbooks/poster-to-website.md` when the source is static art and the job is to synthesize a browser-native interaction model.
-7. Filter for `captureMode: "live"` when you need interaction truth. Use `archival-fallback` when you need visual attitude more than verified UX. Use `concept-derived` when you need static-art-to-website translation patterns.
-8. Filter by `mechanics.archetype.id`, `mechanics.schema.spatial.mode`, `mechanics.schema.sound.mode`, and `mechanics.validationPriority` before picking references.
-9. If an entry exposes `musicTransposition` or another variant block, treat that generated object kit and prompt as canonical for that domain-specific remix.
-10. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
+7. If the source is Arte Collective or another static poster corpus, start at `collections/arte-overview.md` before drilling into the family packs.
+8. Filter for `captureMode: "live"` when you need interaction truth. Use `archival-fallback` when you need visual attitude more than verified UX. Use `concept-derived` when you need static-art-to-website translation patterns.
+9. Filter by `mechanics.archetype.id`, `mechanics.schema.spatial.mode`, `mechanics.schema.sound.mode`, and `mechanics.validationPriority` before picking references.
+10. If an entry exposes `musicTransposition` or another variant block, treat that generated object kit and prompt as canonical for that domain-specific remix.
+11. Pick 1 dominant world system, 1 dominant interaction archetype, and 1 typography/material reference. Do not copy a single site verbatim. Recombine.
 
 ## Recommended selection logic
 

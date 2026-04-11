@@ -48,6 +48,7 @@ If you are an AI coding agent, do not browse this repo manually folder by folder
 - `playbooks/type-systems.md` for type-role decisions and foundry direction
 - `playbooks/asset-forge.md` to turn generated material into designed surfaces
 - `playbooks/poster-to-website.md` when the source is static art that needs a browser-native interaction model
+- `collections/arte-overview.md` first when the source is Arte Collective or another static poster corpus
 - `playbooks/component-philosophy.md` to separate behavior primitives from visual authorship
 - `data/design-os.json` for machine-readable world, motion, type, and asset guidance
 - `data/agent-index.json` for machine-readable filtering and ranking of source references
