@@ -55,8 +55,36 @@ If you are an AI coding agent, do not browse this repo manually folder by folder
 - `collections/music-tech.md` for rhythm, tools, and artist-facing surfaces
 - `collections/fashion-culture.md` for editorial and taste-led worlds
 - `collections/culture-tech.md` for publishing, archives, and curatorial products
+- `collections/arte-overview.md` for the Arte Collective poster corpus and the Relic music-transposition path
 - `collections/anti-b2b.md` when enterprise defaults would flatten the idea
 - `collections/combo-recipes.md` for pre-mixed reference stacks that agents can recombine
+
+## Arte Collective Poster Corpus
+
+The repo includes a dedicated static-art-to-website corpus derived from Arte Collective posters:
+
+- `76` unique poster-derived website concepts
+- split across:
+  - `collections/arte-aesthetic.md`
+  - `collections/arte-technology.md`
+  - `collections/arte-minimalism.md`
+- summarized in:
+  - `collections/arte-overview.md`
+
+Every Arte entry ships as a full design reference, not a note or placeholder:
+
+- `DESIGN.md`
+- `README.md`
+- `meta.json`
+- `preview.html`
+- `preview-dark.html`
+- desktop and mobile screenshots
+
+The music-based Relic test is already encoded and validated:
+
+- source entry: `design-md/arte-relic/`
+- generated music assets: `design-md/arte-relic/assets/generated/`
+- blind eval: `evals/blind-build-relic-music-03/`
 
 ## Design OS
 

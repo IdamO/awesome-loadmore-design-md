@@ -39,6 +39,7 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 
 ## Domain starter packs
 
+- `collections/arte-overview.md`
 - `collections/gen-z-pop.md`
 - `collections/music-tech.md`
 - `collections/fashion-culture.md`
@@ -56,4 +57,5 @@ This repo is not a flat moodboard. It is an agent-usable design retrieval system
 - Live captures: 336
 - Archival fallbacks: 55
 - Poster concepts: 76
+- Arte Collective poster concepts: 76
 - Minimum usable target met: yes
